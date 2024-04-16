@@ -1,0 +1,995 @@
+SCCS/1368/10 
+Revision of 22 March 2011 
+
+ 
+ 
+ 
+ 
+ 
+Scientific Committee on Consumer Safety 
+ 
+SCCS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPINION ON 
+HC Red n° 13 
+ 
+COLIPA n° B31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The SCCS adopted this opinion by written procedure on 6 December 2010 
+ 
+ 
+About the Scientific Committees 
+Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat.  
+They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts.   
+In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA).  
+SCCS 
+The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.). 
+ 
+ 
+Scientific Committee members 
+Jürgen Angerer, Ulrike Bernauer, Claire Chambers, Qasim Chaudhry, Gisela Degen, Thomas Platzek, Suresh Chandra Rastogi, Vera Rogiers, Christophe Rousselle, Tore Sanner, Kai Savolainen, Jacqueline Van Engelen, Maria Pilar Vinardell, Rosemary Waring, Ian R. White 
+ 
+ 
+Contact 
+European Commission 
+Health & Consumers 
+Directorate C: Public Health and Risk Assessment 
+Unit C7 - Risk Assessment 
+Office: B232     B-1049 Brussels 
+Sanco-Sc6-Secretariat@ec.europa.eu 
+ 
+ 
+(c) European Union, 2010 
+ISSN 1831-4767    ISBN 978-92-79-12761-8 doi:10.2772/29024    ND-AQ-09-029-EN-N  
+The opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The opinions are published by the European Commission in their original language only. 
+ 
+http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm 
+ACKNOWLEDGMENTS 
+ 
+ 
+Prof. J. Angerer 
+Dr. C. Chambers 
+Prof. T. Platzek 	(chairman) 
+Dr. S.C. Rastogi 	(rapporteur) 
+Dr. C. Rousselle 
+Prof. T. Sanner 
+Dr. J. van Benthem 	(associate scientific advisor) 
+Prof. M.P. Vinardell 
+Dr. I.R. White 
+ 
+ 
+External experts 
+ 
+Dr. Mona-Lise Binderup 	National Food Institute, Denmark 
+ 
+ 
+ 
+ 
+Keywords: SCCS, scientific opinion, hair dye, B31, HC Red n° 13, directive 76/768/ECC, CAS 29705-39-3, 94158-13-1(HCl), EC 303-083-4 (HCl) 
+ 
+ 
+ 
+Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on HC Red n° 13, 6 December 2010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This opinion has been subject to a commenting period of four weeks after its initial publication. Comments received during this time have been considered by the SCCS and discussed in the subsequent plenary meeting. Where appropriate, the text of the relevant sections of the opinion has been modified or explanations have been added. In the cases where the SCCS after consideration and discussion of the comments, has decided to maintain its initial views, the opinion (or the section concerned) has remained unchanged. Revised opinions carry the date of revision. 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ACKNOWLEDGMENTS	3 
+1. BACKGROUND	5 
+2.  TERMS OF REFERENCE	5 
+3.  OPINION	6 
+4.  CONCLUSION	34 
+5.  MINORITY OPINION	34 
+6.  REFERENCES	35 
+
+ 
+
+1. BACKGROUND 
+Submission I for HC Red n° 13 with the chemical name 2,2'-[(4-Amino-3nitrophenyl)imino]bisethanol hydrochloride was submitted in July 1992 by COLIPA1 according to COLIPA. 
+Submission II for HC Red n° 13 was submitted in April 1995 by COLIPA according to COLIPA. 
+The Scientific Committee on Cosmetology (SCC) adopted at its 62nd plenary meeting the 18 January 1996 an opinion with the final conclusion that: "The irritation tests showed no harmful effects. The substance (C.P.2) can be classified as non sensitizer. In the 90-day studies with rats, 5 mg/kg bw. C.P. is considered to be the NOAEL. In the teratogenicity study, no signs of maternal or foetal toxicity were observed in the rat after administration of 30 mg/kg bw (NOAEL). It should be noted that the NOAEL stems from a daily exposure for 90 days, whereas human exposure to permanent hair dye is unlikely to be more frequent than once a month. Percutaneous absorption of a formulation was about 0.05." Submission II for HC Red n° 13 was submitted by COLIPA in July 2005. 
+The second opinion (SCCP/1075/07) was adopted on 17 June 2007 with the conclusion "that the information submitted is insufficient to allow a final risk assessment to be carried out. 
+Before any further consideration, an in vitro percutaneous absorption study should be performed following the relevant SCCNFP/SCCP opinions and in accordance with its Notes of Guidance.  
+HC Red n° 13 is a tertiary amine. It should not be used in combination with nitrosating substances. The nitrosamine content should be < 50 ppb. 
+Studies on genotoxicity/mutagenicity in finished hair dye formulations should be undertaken following the relevant SCCNFP/SCCP opinions and in accordance with its Notes of Guidance." According to this submission the substance is used as: 
+a) a non-reactive hair colouring agent ("direct dye") in semi-permanent hair dye formulations at a maximum on-head concentration of 2.5%. 
+b) a non-reactive hair colouring agent ("direct dye") in oxidative hair dye formulations at a maximum on-head concentration of 1.25%. 
+The substance is currently regulated in annex III part 2, entry 31 on the list of substances, provisionally allowed, which cosmetic products must not contain except subject to restrictions and conditions laid down until 31.12.2010. 
+The current submission III is a response to the opinion SCCP/1075/07 and contains a new dermal absorption study. 
+ 
+ 
+2. TERMS OF REFERENCE 
+ 
+1. Does SCCS consider HC Red n° 13 safe for use as non-oxidative hair dye with an onhead concentration of maximum 2.5% taken into account the scientific data provided? 
+ 
+2. Does SCCS consider HC Red n° 13 safe for use in oxidative hair dye with an on-head concentration of maximum 1.25% taken into account the scientific data provided? 
+ 
+3. And/or does the SCCS have any further concerns with regard to the use of HC Red n° 13 in any hair dye formulations? 
+ 
+                                          
+1 COLIPA - The European Cosmetics Association 2 C.P. commercial product 
+3. OPINION 
+ 
+3.1. Chemical and Physical Specifications 
+ 
+HC Red n° 13 is used in hair dyes as hydrochloride salt. In the past the free base of HC Red n° 13 was also used in market formulations as well as in some of the toxicological investigations presented in this opinion. Therefore, this opinion describes the available information for both the free base and the hydrochloride salt. 
+ 
+3.1.1. Chemical identity  
+3.1.1.1. Primary name and/or INCI name  
+HC Red n° 13 (INCI name) 
+ 
+Free base 
+2,2'-((4-Amino-3-nitrophenyl)imino)bisethanol 
+ 
+3.1.1.2. Chemical names  
+Free base 
+2,2'-((4-Amino-3-nitrophenyl)imino)bisethanol 
+Ethanol, 2,2'-[(4-amino-3-nitrophenyl)imino]bis- (CA index name, 9CI) 
+2-[(4-Amino-3-nitrophenyl)(2-hydroxyethyl)amino]ethanol 
+4-(Di(2-hydroxyethyl)amino)-2-nitroaniline 
+2-nitro-4-bis(ß-hydroxyethyl)-p-phenylenediamine 
+1-amino-4-bis(ß-hydroxyethyl)amino-2-nitrobenzene 
+1-amino-2-nitro-4-bis(ß-hydroxyethyl)-aminobenzene 
+2-nitro-4-bis(ß-hydroxyethyl)aminoaniline 4-bis(ß-hydroxyethyl)amino-2-nitroaniline 
+4-amino-N,N-bis(ß-hydroxyethyl)-3-nitroaniline 
+4-N,N-bis(2-hydroxyethyl)-2-nitro-p-phenylenediamine 
+ 
+ 
+Hydrochloride 
+2,2'-[(4-amino-3-nitrophenyl)imino]bisethanol monohydrochloride 
+Ethanol, 2,2'-[(4-amino-3-nitrophenyl)imino]bis-, monohydrochloride (CA index name, 9CI) 
+2-[(4-Amino-3-nitrophenyl)(2-hydroxyethyl)amino]ethanol monohydrochloride 
+4-(Di(2-hydroxyethyl)amino)-2-nitroaniline monohydrochloride 
+2-nitro-4-bis(ß-hydroxyethyl)-p-phenylenediamine monohydrochloride 
+1-amino-4-bis(ß-hydroxyethyl)amino-2-nitrobenzene monohydrochloride 
+1-amino-2-nitro-4-bis(ß-hydroxyethyl)-aminobenzene monohydrochloride 
+2-nitro-4-bis(ß-hydroxyethyl)aminoaniline monohydrochloride 4-bis(ß-hydroxyethyl)amino-2-nitroaniline monohydrochloride 
+4-amino-N,N-bis(ß-hydroxyethyl)-3-nitroaniline monohydrochloride 
+4-N,N-bis(2-hydroxyethyl)-2-nitro-p-phenylenediamine monohydrochloride 
+ 
+3.1.1.3. Trade names and abbreviations  
+COLIPA n° B31 
+Jarocol Red 13 (Robinson) 
+ 
+From previous submissions: 
+Kardinalrot  
+Kardinalrot (commercial Product), mixture of: 
+ 	84% 1-amino-2-nitro-4-bis-(ß-hydroxyethyl)-amino-benzene (B31) 
+      13% 1-(ß-hydroxyethyl)-amino-2-nitro-4-bis-(ß-hydroxyethyl)-amino-benzene (B37)  	3% 1-amino-2-nitro-4-(ß-hydroxyethyl)-amino-benzene hydrochloride 
+ 
+Substance code: 	A000774 (free base) 
+Substance code: 	A004820 (hydrochloride) 
+ 
+3.1.1.4. 	CAS / EC number  
+Free base: CAS: 29705-39-3  
+ EC: / Hydrochloride: CAS:  94158-13-1  
+ EC: 303-083-4 3.1.1.5. 	Structural formula  
+ 	 
+ 
+ 	Free base 
+  
+Hydrochloride 3.1.1.6. 	Empirical formula  
+Free base: 	Formula: C10H15N3O4 Hydrochloride: 	Formula:  
+ C10H15N3O4.HCl 3.1.2. 	Physical form  
+Yellow powder 
+ 
+3.1.3. Molecular weight  
+Molecular weight (free base): 241.3 g/mol Molecular weight (HCl): 	277.7 g/mol 
+ 
+3.1.4. Purity, composition and substance codes  
+Chemical characterisation of HC Red n° 13 was performed by NMR and HPLC 
+ 
+ 
+Material used in the market (deduced specifications) 
+ 
+Free base 
+ 
+HPLC qualitative (254 nm): > 99% 
+NMR quantitative: > 99% w/w Solvent content: < 0.4% w/w Ash: < 0.2% w/w  
+Solvent residues 
+Solvents (such as methanol, ethanol, isopropanol, n-propanol, acetone, ethyl acetate, cyclohexane, methyl ethyl ketone and monochlorobenzene) < 100 ppm (not detected). 
+ 
+ 
+Hydrochloride 
+ 
+HPLC qualitative: 	> 98% 
+NMR quantitative: 	> 91.5% w/w 
+Solvent content (water): 	4-8% w/w (< 7% w/w) 
+Ash: 	< 0.1% w/w 
+ 
+N-Nitrosodiethanolamine (NDELA) (EU CMR carcinogen category 2): 	< 20 ppb 
+4-(Di(2-hydroxyethyl)amino)-N-(2-hydroxyethyl)-2-nitro-aniline ( HC Blue n° 2): < 1% w/w 
+4-((2-Hydroxyethyl)amino)-2-nitro-aniline (HC Red n° 7): < 1% w/w 1,4-Diamino-2-nitrobenzene (MAK carcinogen category 3b): < 1000 ppm 4-(Di(2-hydroxyethyl)amino)-2-nitro-phenol: < 300 ppm  
+ 
+Batch comparison 
+ 
+Description of sample 4/5/6-1 Fass 3 
+(corresponds to 4/5/6/1 and 
+R97006481) R0011021 199/027  Hydrochloride Hydrochloride Free base NMR content  ( %, w/w) 91.6# 91.8# 99.8## HPLC purity  ( area %**)    UV assay 210 nm - 99.4 99.6 UV assay 254 nm 98.4 99.4 99.7 UV assay 520 nm 98.6 99.4 99.7 Potential Impurities    N-Nitrosodiethanolamine (NDELA) ( ppb) < 5  < 4 4-(Di(2-hydroxyethyl)-amino)-N-(2-hydroxyethyl)-2-nitro-aniline ( HC Blue n° 2) ( ppm) 300 100 < 150° 4-((2-Hydroxyethyl)-amino)-2-nitro-aniline  
+(Red HF) (%, w/w) 0.23 0.2 0.16 1,4-Diamino-2-nitrobenzene (ppm) °° 1000 20 40 4-(Di(2-hydroxyethyl)-amino)-2-nitrophenol (ppm): 100 30 ca. 70 4-((2-Hydroxyethyl)-amino)-5-methyl-2nitroaniline (HC Violet No. 1) (ppm) < 10° < 1° < 100° Chloride (%, w/w) 11.7 12.6 - Water  ( %, w/w) 6.4 6.2 0.31 Loss on drying (%, w/w) 7.7 5.5 0.04 Ash ( %, w/w) < 0.1 0.02 0.14 Element screening -  Na 709 ppm  
+# The NMR content is based on the molecular formula of HC Red n° 13 with a molecular weight of 277.71 g/mol. 
+## 	The NMR content is based on the free base of HC Red n° 13 with a molecular weight of 241.25 g/mol. 
+** 	HPLC conditions: Purosphere RP-C18 250*4 mm, 5µm; eluent: 15% acetonitrile/85% 0.02 mM KH2PO4 pH 
+ 5.1 
+° 	Not detected, shown value indicates limit of detection 
+°° 	MAK classification carcinogenic category 3  
+Comment 
+Batch 4/5/6-1 Fass 3 is reported to contain approx. 1% ethanol, which is in contrast to a solvent content <100 ppm, stated in the deduced specifications 
+ 
+3.1.5. Impurities / accompanying contaminants  
+See above (point 3.1.4.) 
+ 
+3.1.6. Solubility Water solubility: 	Using the official EC method (EU - A6) the solubility of HC Red n° 13 (hydrochloride, batch R97006481) was determined to be 197 mg/l at pH 1.70 at 20 °C. Soluble in: 
+acetone / water 1:1 > 100 g/l (pH 1.4) 
+DMSO 	> 100 g/l 
+ 
+3.1.7. Partition coefficient (Log Pow)  
+Pow   4.17 log Pow 
+ 0.62 (at pH 7.22, room temp.) 	(method EU - A.8) Ref. 1 3.1.8. Additional physical and chemical specifications  
+Melting point: 	95.2 - 97.2°C (decomposition) (method EU - A.1) Ref. 5 Boiling point: 	decomposition at 93°C  	(method EU - A.2) Ref. 6 Flash point: 	> 400 °C 	(method EU - A.16) Ref. 12    (rel. self-ignition temp.) 
+Vapour pressure: 	/ 
+Density: 	1.457 g/ml (20°C) 	(method EU - A.3) Ref. 7 Vapour pressure: 	< 10-7 hPa (20°C, extrapolated) (method EU - A.4) Ref. 8 Surface tension (in water): 71.01 mN/m (20°C) 	(method EU - A.5) Ref. 9 Viscosity: / Flammability (solids): not highly flammable 	(method EU - A.10) Ref. 10 Explosive properties: 
+ not explosive 	(method EU - A.14) 
+> 400 °C(method EU - A.16) 	Ref. 12 Ref. 11 Oxidising properties: not oxidising 	(method EU - A.17) Ref.13 pH-value: 1.70 (saturated aqueous solution, 20°C) Ref. 3 pKa-values: 15.09 for R-CH2OH (acidic) 	 Ref. 4 (calc. Pallas Software) 
+ 
+ 
+ 
+ 15.69 for R-CH2OH (acidic) 
+3.24 for R-(Ar)-N-(R1R2) (basic) 
+-0.38 for R-C6H4-NH3+ (basic) -2.59 for R-CH2OH (basic) 
+-3.20 for R-CH2OH (basic) UV_Vis spectrum: 
+ ?max = 210, 254, 520 nm 3.1.9. 	Homogeneity and Stability  
+Homogeneity and stability was verified in several (not all) the toxicological studies, with the following indicative results: 
+ 
+Comet Assay in vivo: The stability of the applied formulations of the test substance in water was demonstrated by analysis. The homogeneity and correctness of the dosing solutions were also analytically verified. The mean concentrations of the test samples were 93.4% and 93.2% of the nominal values of the two dose groups, confirming the proper dosing. 
+ 
+One-Generation reproduction toxicity: Stability, homogeneity and content of the solutions of HC Red n° 13 in the vehicle were analytically confirmed. Dosing solutions were prepared once per week as stability in the vehicle for up to 7 days could be demonstrated. The mean concentrations of the test samples were 98 and 103%, 99.9 and 101.6% as well as 100.4 and 99.2% of the nominal values for the three dose groups analysed twice at the beginning and at the end of the administration period. These values confirmed proper dosing for the entire study period. The slight variation (-2 to 1%) noted for the three samples taken from each dosing solution demonstrates the homogeneity of the test solutions used. 
+ 
+Teratogenicity study: Stability, homogeneity and content of the solutions of HC Red n° 13 were analytically confirmed. Dosing solutions were prepared once per week as stability in the vehicle for up to 7 days could be demonstrated. The mean recovery rates of the test samples were 95.4 and 98.4%, 98.6 and 97.6% as well as 98.7 and 96.7% of the nominal values for the low, mid and high dose groups, respectively, analysed twice at the beginning and at the end of the administration period. These values confirmed proper dosing for the entire study period. 
+ 
+Stability under oxidative conditions: The stability of the dyestuff Kardinalrot in a 1:1 mixture of a crème formulation (Formula no. 81207116) and hydrogen peroxide 6% (Welloxon 6%) was examined by means of HPLC. The recoveries of the dyestuff determined after 15 min, 30 min and 45 min were 93.8%, 93.3% and 90.8% respectively. The SCCS considers a decrease below 10% as not significant due to uncertainties connected with the analytical measurements. 
+ 
+ 
+General comment to physico-chemical characterisation 
+ 
+- Batch 4/5/6-1 Fass 3 is reported to contain approx. 1% ethanol, which is in contrast to a solvent content <100 ppm, stated in the deduced specifications 
+- The stability of the test substance in typical hair dye formulations was not reported. 
+ 
+ 
+3.2. Function and uses 
+ 
+HC Red n° 13 is used as a non-reactive hair colouring agent ("Direct Dye") in semipermanent hair dye formulations at a maximum on-head concentration of 2.5 %. 
+HC Red n° 13 is used in oxidation hair dye formulations at a maximum concentration of 2.5%, which after mixing typically in 1:1 ratio with hydrogen peroxide prior to use, corresponds to a final on head concentration of 1.25% upon application. 
+ 
+ 
+ 
+3.3. Toxicological Evaluation 
+ 
+3.3.1. Acute toxicity  3.3.1.1. Acute oral toxicity  
+Taken from opinion n° XXIV/1287/97 of 20 May 1998 
+ 
+Guideline: / Species/strain: rat, CFY Group size: 5 per sex and dose Test substance: HC Red n° 13 Batch: not specified Purity: not specified Route: oral, gavage Vehicle: 10% suspension in aqueous gum tragacanth (0.5%) containing sodium sulphite (0.05%), pH 7.0 
+Observation period: 14 days 
+GLP: 	/ 
+ 
+The test substance was administered once as a 10% suspension in aqueous gum tragacanth (0.5%) by gavage at doses 0 (control), 1000, 1600, 2500 and 4000 mg/kg bw to groups of 10 (5/sex) CFY rats (weight range was 100-120 g). During the following observation period of 14 days a record was kept of all mortalities and signs of toxicity. Autopsy of death was carried out for all rats that died. At the end of the observation period all surviving animals were sacrificed and gross necropsies performed. 
+ 
+Results 
+As substance-related effects lethargy, piloerection, diuresis and purple staining of the urine in all exposed groups were observed shortly after dosing, accompanied by ataxia in rats treated with 1000, 2500, or 4000 mg/kg bw and by increased lacrimation, decreased respiratory rate and purple staining of external extremities in rats treated with 2500 and 4000 mg/kg bw. Fine body tremors were observed within two hours of treatment in male rats at 2500 mg/kg bw. During the first week of observation depressed body weight gains were noted in the surviving rats at 2500 mg/kg bw. 
+ 
+Necropsy of mortalities revealed slight haemorrhage of the lungs and purple staining of all internal organs except the lungs. Terminal autopsy findings of survivors showed no extraordinary results. LD50 was calculated to be 2120 (1810 - 2480) mg/kg bw. 
+Ref.: 15 
+ 
+Comment 
+Despite the deficiencies of this study (purity and batch number unknown, not according to a guideline), it is useful for evaluation. 
+ 
+3.3.1.2. Acute dermal toxicity  
+No data submitted 
+ 
+3.3.1.3. Acute inhalation toxicity  
+No data submitted 
+ 
+3.3.2 Irritation and corrosivity  
+3.3.2.1. Skin irritation  
+Rabbits 
+ 
+Guideline: / Species/strain: albino rabbit Group size: 3, sex not indicated Test substance: HC Red n° 13 Batch: / Purity: / Dermal: Dermal Dose: 0.5 ml, 2.5% aqueous solution applied to abraded and intact skin, 24 h, occlusive GLP: /  
+0.5 ml of a 2.5% aqueous solution of HC Red n° 13 in distilled water containing 0.05% sodium sulphite at pH 7.0 was applied to intact and abraded dorsum skin (6.5 cm2) clipped free of hair of 3 rabbits and kept in contact for 24 hours under occlusive conditions. Reactions were scored after patch removal as well as 24 and 48 hours later. 
+ 
+Results 
+Under the conditions of the experiment, whereby only a 2.5% aqueous solution was applied, there was no irritant effect throughout the 72 hours observation period. 
+Ref.: 16 
+ 
+Comment 
+For hazard identification, the test concentration used was too low. 
+ 
+3.3.2.2. Mucous membrane irritation  
+Rabbits 
+ 
+Guideline: / Species/strain: albino rabbits Group size: 3, sex not indicated Test substance: HC Red n° 13 Batch: / Purity: / Route: Ocular Dose: 0.1 ml 2.5% solution of HC Red n° 13 in aqueous solution containing 
+0.05 % sodium sulphite (pH: 7.0) GLP: /  
+0.1 ml of a 2.5% aqueous solution of HC Red n° 13 in distilled water containing 0.05% sodium sulphite at pH 7.0 was instilled into one eye of each of three albino rabbits, the other eye served as control. The treated eye was irrigated with 20 ml distilled water 10 seconds after instillation to remove the test item. The grade of ocular reaction was recorded at a 7-day observation period. 
+ 
+Results 
+Under the conditions of the experiment, whereby only a 2.5% aqueous solution was applied, there was no irritant effect throughout the 7 days observation. 
+Ref.: 17 
+ 
+Comment 
+For hazard identification, the test concentration used was too low. The diluted preparation was washed out 10 seconds after instillation. 
+ 
+3.3.3. Skin sensitisation  
+Guinea pig 
+ 
+Taken from opinion n° XXIV/1287/97 of 20 May 1998 
+ 
+Landsteiner and Draize protocol 
+ 
+Guideline: / Species/strain: Guinea pig, Pirbright Group size: 15 females, control group 10 females Test substance: C.P. Kardinalrot  Batch: / Purity: / Concentrations:  1% induction, 1% challenge, in Ringer solution GLP: /  
+Inducing procedure was performed by intracutaneous application of 0.1 ml of a 1% test substance dilution (in Ringer solution) into the shaven shoulder areas of 15 female Pirbright guinea pigs, 3 times daily on 5 consecutive days (10 animals served as control). Four weeks later test and control animals were challenged by an intracutaneous injection of 0.1 ml of the test solution (1%) into the untreated flanks. 
+ 
+Results  
+No allergic reaction was observed. 
+Ref.: 4 (XXIV/1287/97) 
+ 
+Comment 
+The concentrations used were far too low. The study can not be used in the evaluation. 
+ 
+ 
+Taken from opinion n° XXIV/1287/97 of 20 May 1998 
+ 
+Magnusson/Kligman protocol 
+ 
+Guideline: / Species/strain: Guinea pig, Pirbright, Hoe:DHPK (SPF-LAC)/Boe Group size: 20 females Test substance: HC Red n° 13 Batch: / Purity: 99% Concentrations: 3% induction; 1, 2 and 3% challenge GLP: /  
+Induction was performed by pair wise intra-cutaneous injections on the clipped shoulder region of 20 female Pirbright guinea pigs in the following sequence: 
+- 2 x 0.05 ml of Freund's Complete Adjuvant (FCA) (1:1 in aqua deion.) - 2 x 0.05 ml of the test substance at 3% in aqua deion. 
+ 
+10 animals treated with 1-Chlor-2,4-dinitrobenzene (DNCB) served as positive control. They received 4 pair wise intra-cutaneous injections in the following order: 
+- 2 x 0.05 ml FCA (1:1 in aqua deion.) 
+- 2 x 0.05 ml 0.005% DNCB diluted in aqua deion. 
+ 
+Negative control consisted of a group of 10 animals: - 2 x 0.05 ml FCA (1:1 in aqua deion) - 2 x 0.05 ml aqua deion. 
+ 
+On the next day and 6-8 hours before the first dermal treatment all animals were pretreated with sodium lauryl sulfate (10% in white Vaseline). Induction by percutaneous route was carried out by application of 0.5 ml of the test substance at a concentration of 3% in white Vaseline (24 h closed patch). Positive controls were treated with 0.025% DNCB (in white Vaseline) (0.5 ml), negative controls with 0.5 ml 3% aqua deion. (in white vaseline). 
+ 
+The second intradermal treatment was carried out 48 hours after the first one: Test group: - 2 x 0.05 ml test substance 3% in FCA (diluted in arachidis oil 1:1) 
+ 	Positive control: - 2 x 0.05 ml DNCB 0.005% Negative control: - 2 x 0.05 ml aqua deionised 
+ 
+14 days after the last exposure test and control animals were challenged by a cutaneous application of (24 h closed patch): 
+Test group: - 0.5 ml each of 3, 2 and 1% test substance in FCA (diluted in arachidis oil 1:1) 
+Positive control: - 0.5 ml each of 1, 0.5 and 0.01% DNCB in FCA (diluted in oil arachidis 1:1) 
+Negative control: - 0.5 ml aqua deion. 
+ 
+Challenge sites were evaluated for cutaneous reactions 24 and 48 hours p.a. 
+ 
+Results 
+No primary skin irritations and no allergic reactions were observed, thus the substance was classified as non sensitizer, in spite the used challenge concentrations were relatively low (3%). 
+Ref.: 5 (XXIV/1287/97) 
+ 
+Comment 
+Both the induction and challenge concentration were too low. The study is considered inadequate. 
+ 
+ 
+Mice 
+ 
+Local Lymph Node Assay (LLNA) 
+ 
+Guideline: OECD 429 (2002) Species/strain: Mouse, strain CBA/J Group size: 5 females Test substance: HC Red n° 13 Batch: 4/55/6-1 Fass 3 Purity: 98.4% (HPLC at 254 nm) Concentrations:  0.5, 1.5, 5.0, and 10.0% (w/v) in DMSO and in aqua/acetone (1:1) mixed with olive oil (3:1) GLP: In compliance  
+25 µl of 0 (vehicles only), 0.5, 1.5, 5 and 10 % HC Red n° 13 in DMSO or in a mixture of aqua/acetone (1:1) with olive oil (3:1) (equal to the maximum solubility) were applied to the surface of the ear of five female mice per group for three consecutive days. As a positive control, p-phenylenediamine (PPD) at 1% in DMSO was investigated in parallel under identical test conditions. 
+ 
+Observation for clinical signs was done daily before and at least once after dosing and once daily thereafter. Body weigh was determined on day -1 and on day 5.  
+ 
+At day 5, the mice received an intravenous injection of 250 µl phosphate buffered saline containing 23.7 µCi of [H3] methyl thymidine. Approximately five hours later, the mice were killed, and the draining auricular lymph nodes were removed and collected in PBS. After preparing a single cell suspension for each mouse, cells were precipitated by TCA, and the radioactivity was determined (incorporation of [H3] methyl thymidine in the pellets) by means of liquid scintillation counting as disintegration per minute (dpm). 
+ 
+Results 
+The stimulation indices in the groups with DMSO used as vehicle were: 
+ 
+1.5 (0.5% test group) 1.8 (1.5% test group) 
+2.1 (5.0% test group) 
+3.5 (10.0% test group) 
+ 
+From treatment with HC Red n° 13 in DMSO an EC3 was estimated by extrapolation to be 8.2%. 
+ 
+The stimulation indices in the groups with aqua/acetone/olive oil used as vehicle were: 
+ 
+1.3 (0.5% test group) 2.2 (1.5% test group) 
+1.2 (5.0% test group) 
+1.4 (10.0% test group) 
+ 
+From treatment with HC Red n° 13 in aqua/acetone/olive oil an EC3 could not be calculated as all values were below 3. 
+ 
+The sensitivity of the test system was demonstrated by the reaction of the positive control p-phenylenediamine (1%) in DMSO which exhibited a stimulation index of 12.5. 
+Ref.: 19 
+ 
+Comment 
+The substance is considered to be a moderate skin sensitiser. 
+ 
+3.3.4. Dermal / percutaneous absorption  
+Non-oxidative hair dye formulation 
+ 
+Guideline: OECD 428 Species: pig (female) Tissue: Pig back or flank skin; Dermatomed = 1000 µm Group: 3 donors (2 independent experiments), 10 cells (8 used for analysis) Method: Diffusion Teflon-chambers Integrity tritiated water (=2%) Substance: HC Red n° 13 Batch: 7 Purity: 99.4 area % (HPLC, 254 nm) Dose: 2.5% HC Red n° 13 in hair dye formulation; 100mg cm2 Receptor fluid: 'physiological receptor fluid' Solubility in receptor: 0.248 mg/ml at pH 6.8 Stability in receptor: 98% after 3 days Detection HPLC GLP: in compliance Date December 2008  
+The cutaneous absorption of 2.5% HC Red n° 13 in a typical hair dye formulation was investigated in vitro, using pig skin preparations. Two independent experiments were performed and 8 diffusion cells in total were available for analysis after checking skin integrity with tritiated water. 
+ 
+400 mg of the formulation (= 100 mg/cm2), containing 2.5 % HC Red n° 13 was applied to the skin samples (= 2.5 mg of test item/cm2) for 30 minutes and subsequently washed off with water and shampoo. 
+ 
+The determination of the amount of HC Red n° 13 in the washings (= amount dislodgeable from the skin surface) was performed by HPLC. At 16, 24, 40, 48, 64 and 72 hours, the content of HC Red n° 13 was determined in the receptor fluid by the same method. At termination of the experiment, the skin was heat-treated and the upper skin (stratum corneum and upper stratum germinativum) was mechanically separated from the lower skin (lower stratum germinativum and upper dermis). Both skin compartments were extracted separately and the amount of HC Red n° 13 determined by HPLC. 
+ 
+Results 
+The majority of the test substance could be found in the rinsing solutions (2402 ± 68 µg/cm2). Small amounts of HC Red n° 13 could be found in the upper skin (2.80 ± 1.53 µg/cm2), in the lower skin (0.414 ± 0.340 µg/cm2) and in the fractions of the receptor fluid collected within 72 hours (0.070 ± 0.051 µg/cm2). 
+ 
+Only small amounts of HC Red n° 13 were detectable in a few receptor fluid samples collected up to 64 hours and in none of the receptor fluid fractions collected after 64 hours, thus indicating that the amount of HC Red n° 13 found in skin compartments does not represent a skin reservoir for continued percutaneous penetration. 
+ 
+The mass balance of the test substance resulted in values of 93.46 to 101.48% recovery for all (8) skin samples with acceptable integrity as measured by the penetration characteristics of tritiated water. 
+ 
+Amount of HC Red n° 13 
+ µg/cm2 
+(mean ± S.D, n=8) % 
+(mean ± S.D, n=8) Receptor fluid (72 hours) 0.070 ± 0.051 0.001% ± 0.002% Lower skin (after 72 hours) 0.414 ± 0.340 0.017% ± 0.014% Upper skin (after 72 hours) 2.800 ± 1.527 0.112% ± 0.061% Rinsing solution (after 60 min.) 2402.32 ± 67.90 96.09% ± 2.72% Total balance (recovery) 2405.60 ± 66.98 96.22% ± 2.68%  
+Conclusion 
+Under the conditions of this experiment where 100mg cm² of a non-oxidative hair dye formulation containing 2.5% HC Red n° 13 were applied to dermatomed pig skin, the amount considered absorbed was 0.484 ± 0.344 µg/cm2.  
+Ref.: 11 
+ 
+Comment 
+In this experiment, 8 chambers were available for analysis. However, the dose of the application (100 mg/cm²) was too high. Therefore, the amount of HC Red n° 13 from a nonoxidative formulation containing it at 2.5% should be considered as the mean + 2SD, which is 1.172 µg/cm². 
+ 
+ 
+Oxidative hair dye formulation 
+ 
+Guideline: OECD 428 Species: pig (female) Tissue: Pig back or flank skin; Dermatomed = 1000 µm Group: 3 donors (2 independent experiments), 10 cells used for analysis Method: Diffusion Teflon-chambers; area 9.1cm2 Integrity tritiated water (=2%) Substance: HC Red n° 13 Batch: 7 Purity: 99.4 area % (HPLC, 254 nm) Dose: 1.25% HC Red n° 13 in an oxidative hair dye formulation; 100mg cm2 Receptor fluid: 'physiological receptor fluid' Solubility in receptor: 0.248 mg/ml at pH 6.8 Stability in receptor: 98% after 3 days Detection HPLC GLP: in compliance Date November-December 2008  
+The cutaneous absorption of 1.25% HC Red n° 13 in a typical hair dye formulation under oxidative conditions was investigated in vitro, using pig skin preparations. Two independent experiments were performed and 10 diffusion cells in total were available for analysis after checking skin integrity with tritiated water.   
+ 
+400 mg of the formulation (= 100 mg/cm2), containing 1.25% HC Red n° 13 was applied to the skin samples (= 1.25 mg of test item/cm2) for 30 minutes and subsequently washed off with water and shampoo.  
+ 
+The determination of the amount of HC Red n° 13 in the washings (= amount dislodgeable from the skin surface) was performed by HPLC. At 16, 24, 40, 48, 64 and 72 hours, the content of HC Red n° 13 was determined in the receptor fluid by the same method. At termination of the experiment, the skin was heat-treated and the upper skin (stratum corneum and upper stratum germinativum) was mechanically separated from the lower skin (lower stratum germinativum and upper dermis). Both skin compartments were extracted separately and the amount of HC Red n° 13 determined by HPLC. 
+ 
+Results 
+The majority of the test substance could be found in the rinsing solutions (1218 ± 30 µg/cm²). Small amounts of HC Red n° 13 could be found in the upper skin (2.26 ± 1.15 µg/cm²), in the lower skin (0.300 ± 0.348 µg/cm²) after 72 hours. The amounts in the receptor fluid fractions collected within 72 hours were all below the limit of detection (6 ng/cm²). 
+ 
+For the calculation of the bioavailability, the limit of detection was used for each receptor fluid fraction with amounts below the detection limit (6 ng/cm²). 
+ 
+The mass balance of the test substance resulted in values of 94.29 to 99.66% recovery for all (8) skin samples with acceptable integrity. 
+ 
+Amount of HC Red n° 13 
+ µg/cm2  
+(mean ± S.D, n=10) %  
+(mean ± S.D, n=10) Receptor fluid (72 hours)   BLD (0.036) ± n/a 0.012 ± n/a Lower skin (after 72 hours) 0.300 ± 0.348 0.024 ± 0.028 Upper skin (after 72 hours) 2.257 ± 1.147 0.181 ± 0.092 Rinsing solution (after 60 min.) 1218.13 ± 30.04 97.45 ± 2.40 Total balance (recovery) 1220.73 ± 29.54 97.67 ± 2.36  
+Conclusion 
+Under the conditions of this experiment where 100mg cm2 of an oxidative hair dye formulation containing 1.25% HC Red n° 13 were applied to dermatomed pig skin, the amount considered absorbed was 0.336±0.348 µg/cm2.  
+Ref.: 10 
+ 
+Comment 
+In this experiment, 10 chambers were available for analysis. However, the dose of the application (100 mg/cm2) was too high. Therefore, the amount of HC Red n° 13 from an oxidative formulation containing it at 1.25% should be considered as the mean+2SD, which is 1.032 µg/cm². 
+ 
+Two in vitro dermal absorption studies using pig skin under oxidative and non-oxidative conditions have been described in opinion SCCP/1075/07 (Ref. 20, 21). These were considered not acceptable due to methodological shortcoming, namely the use of only five skin samples and excessive dose and thus are not included here.  
+ 
+ 
+Percutaneous absorption in vivo 
+ 
+Taken from opinion n° XXIV/1287/97 of 20 May 1998 
+ 
+Humans 
+ 
+A hair dye formulation at an average amount of 43.16 g containing 2.3% of the test substance (= dose of 15.13 mg/kg bw) was applied to 5 healthy female volunteer's washed hair for 15 minutes. Blood samples were taken 0, 10, 20, 30, 45 minutes and 1, 2, 3 and 24 hours after the application. Blood and urine samples were examined via HPLC (Detection limit 20 ng/ml in serum, 6 ng/ml in urine). 
+ 
+Results 
+The test substance could not be detected either in the serum or in the urine of the test persons. Therefore it was concluded that the amount of test substance absorbed was nil or, at any rate, less than 0.13% of the amount applied (less than 0.0195 mg/kg bw). 
+Ref.: 6 (XXIV/1287/97) 
+ 
+ 
+Study in rats 
+ 
+Guideline: 	/ 
+Species/strain: 	Rat, Sprague Dawley Him:OFA (SPF) 
+Group size: 	3 per sex and dose 
+Test substance: 	14C-HC Red n° 13 (ring-labelled) 
+Batch: 	/ 
+Purity: 	> 97% (Radiochemical) 
+Dose levels: 	A Formulation without H2O2: 2%; 2.03 mg/cm2 
+B Formulation with H2O2: 2%; 2.21 mg/cm2 
+C Solution in water/DMSO (1:2); 6.66%; 2.27 mg/cm2 
+D Solution in water/DMSO (1:2); 2%; 21 mg/kg bw 
+E Solution in water/DMSO (1:2); 2%; 20.4 mg/kg bw 
+Route: 	A, B, C; dermal 
+ 	D, E; oral 
+Treatment conditions: 	A, B, C; Single dermal application for 30 min 
+ 	D, E; Single oral administration (gavage) 
+GLP: 	In compliance 
+ 
+Dermal application (experiment A, B, and C) 14
+  C-HC Red n° 13 was applied dermally to groups of 3 male and 3 female Sprague Dawley rats (body weight about 200 g). The application area was 9 cm2 and the test substance was applied at concentrations of 6.66% in solution (water/DMSO 1:2, C) and of 2% in the formulation without (experiment A) and with hydrogen peroxide (B) for 30 min each. The mean amount of dye applied was 2.03, 2.21 and 2.27 mg/cm2, respectively. 
+After treatment, the remaining test substance was scraped off and the skin rinsed with a shampoo formulation followed by water until the rinsing water was free of colour. After rinsing, the area was covered with gauze during the 72 h in metabolism cages. 
+ 
+Oral administration (experiment D and E) 
+Doses of 21 mg/kg bw (D) and 20.4 mg/kg bw (E) 14C-HC Red n° 13 were administered as a 2% solution in water/DMSO by gavage to two groups of 3 male and 3 female rats which were fasted for 16 hours before treatment. In one group (D), animals were placed in metabolism cages for 72 h. In the other group (E), blood was taken at several time points after administration until the animals were killed after 24 h. 
+ 
+Results 
+Total recovery of the applied radioactivity for the individual animals ranged from 96.9 to 99.0% of the applied doses. 
+ 
+Dermal application 
+Seventy two hours after application, the amount of radioactivity remaining at the application site (skin) was less than 1.2%. The majority of the dye (96.3 to 98.0%) was removed by the rinsing 30 min after application. 0.042, 0.047 and 0.049 % of the applied doses were eliminated via urine and faeces within 72 h in experiment A, B, and C, respectively. Elimination was fast: 78 - 90% was excreted within the first 24 h. 57 - 62% was excreted via urine. 0.2 to 2.1% of the absorbed dose remained in the carcass after 72h. 
+Based on the results, a cutaneous absorption of 0.86 µg/cm2 was calculated for the formulation without hydrogen peroxide and 1.05 µg/cm2 for the formulation with hydrogen peroxide and 1.13 µg/cm2 for the pure dye in water/DMSO. 
+ 
+Oral administration 
+HC Red No. 13 was eliminated to an almost equal extent via urine (46%) and faces (54%). Elimination was fast as 92% was excreted within the first 24 h. The radioactivity found in tissues 72 h after administration was less than 0.015% of the applied dose per g organ. The blood level (E) reached a peak at 35 min after application and declined with an initial halflife of 2.3 h. 
+ 
+Conclusion 
+After dermal application, only minor amounts of HC Red No. 13 are absorbed through the skin and become systemically available. If applied in a hair dye formulation less than 1.1 µg/cm2 of the dye formulation penetrated the skin. The majority of the penetrated dye is excreted within 24 h after administration.  
+HC Red No. 13 given orally is quickly absorbed and nearly completely excreted within 72 h, with the majority eliminated within 24 h after application. Excretion takes place via urine and faces to almost equal amounts. 
+Low tissue residue levels were noted for both routes of exposure indicating that bioaccumulation is not expected. There were no significant sex differences in absorption, tissue distribution and excretion pattern. 
+Ref.: 35 
+ 
+3.3.5. Repeated dose toxicity  
+3.3.5.1. Repeated Dose (28 days) oral / dermal / inhalation toxicity  
+No data submitted 
+ 
+3.3.5.2. Sub-chronic (90 days) oral / dermal / inhalation toxicity  
+Taken from opinion n° XXIV/1287/97 of 20 May 1998 
+ 
+Study 1 
+ 
+Guideline: 	OECD 408 (1981) 
+Species/strain: 	Wistar rats, strain Bor.Wis.W. (SPF) 
+Group size: 	15 animals per sex and group 
+Test substance: 	Kardinalrot 
+Batch number: / Purity: 82 %, 17 % water Dose levels: 0, 75, 150 and 300 mg/kg bw/day in de-ionised water by gavage Exposure period: 13 weeks, 4 weeks recovery for satellite groups (control and high dose) 
+GLP: 	in compliance 
+ 
+The test substance (dissolved in water) was administered by oral gavage once daily to groups of 30 Wistar rats (15/sex) (Bor: (Wi)W, SPF) at doses 0 (group I), 75 (group II), 150 (group III) and 300 (group IV) mg/kg bw/day for 90 days. 19 rats (10 f, 9 m) of the control group and additional 30 rats (15 f, 15 m), which were treated at the highest dose for the same period were examined for signs of reversibility after 4 weeks without treatment. The age at the start of the study was approximately 7-8 weeks and the average body weight was 134.4 g for females and 154.8 g for males. Food and water was provided ad libitum. After 13 weeks (group V: 16 weeks) the animals were sacrificed. 
+ 
+Examinations: 
+ 
+- Clinical signs and mortality daily. 
+- Ophthalmoscopic examination of groups I, IV and V at the start and at the end of the study. 
+- Body weights, food and water consumption weekly. 
+- Haematology (RBC, WBC, Diff., Hb, Hct, MCV, MCH, MCHC) 
+- Clinical Chemistry: (bil, glu, total protein, SGOT, SGPT, LDH, AP, Fe, Ca, urea, uric acid, creat, chol, triglyceride) at the start of the study and after 6 and 12 weeks (group I-V) and after 16 weeks (group I and V). 
+- Urinalysis (nitrite, leuco, pH, prot, gluc, ketones, urobil, bil, blood, sed) at the start of the study and after 5 and 11 weeks (group I-IV) or after 6 and 12 weeks (group V) and after 15 weeks (group I and V). 
+- Relative and absolute organ weights, gross pathology and histopathology of 10 animals/group (5/sex). 
+ 
+Results 
+- Two animals dosed at 300 mg/kg bw/day died. 
+- Haematology: Hb-values were significantly reduced in the females of groups II, IV and V after 12 weeks of treatment. After 6 weeks, eosinoph. granulocytes were reduced in the females in groups II-V, and after 12 weeks leukocytes were reduced significantly in the same groups. In males lymphocytes were significantly reduced in groups II, IV and V after 6 weeks of treatment and also in group V after 4 weeks of recovery. 
+- Clinical Chemistry: Alkaline Phosphatase was significantly reduced in the females after 6 weeks (group II, IV, V) and after 12 weeks of treatment (groups II and III). Ca-values were reduced in the males and in the females of groups III-V after 6 and after 12 weeks of treatment, as well as in the females of group V (after 4 weeks of recovery). After 12 weeks of treatment Fe was reduced significantly in groups IV and V in males as well as in females. After 4 weeks of recovery in the high dose females (Group V) significantly increased GOT-values were observed. 
+- Urinalysis: The urines of the groups treated at 150 and 300 mg/kg bw/day and some animals of group II were discoloured since the 3rd or 4th week of treatment. The discolouration disappeared after the reversibility period. 
+- Organ weights: Increased organ weights were noted for spleen (Group III, females (abs.) and II, III, IV, females (rel.)) and kidneys (Group IV, males, (rel.) and IV, females (rel.)). Brain weights were reduced significantly in the females of groups II-IV (V?). [Statistical comparison of relative and absolute organ weights after 4 weeks of recovery (group I and V) was not performed.] 
+- Gross pathology: Gross pathology revealed a dark discoloration of the thyroids in all groups except the control group. The number of affected animals increased with the dose level (1 in group II, 7 in group III, 16 in group IV; 9 in group V after recovery period.). 
+- Histopathology: The histopathological examination showed an activation of thyroid epithelium at doses of 150 and 300 mg/kg bw/day with increased intensity, accompanied by an enlargement of epithelium cell nuclei at the higher dose. This substance-related effect was restricted to males (4 in group III, 5 in group IV and 4 in group V). Furthermore a liver cell hypertrophy was observed in animals treated with 300 mg/kg bw/day (8 in group IV and 5 in group V after recovery period). In group V an increase of lipocytes in bone marrows was noted in 5/10 animals. 
+ 
+Conclusion 
+No NOAEL could be established. 
+Ref.: 22 
+ 
+ 
+Study 2 
+ Guideline: OECD 408 (1981) Species/strain: Wistar rats, strain Bor.Wis.W. (SPF)  Group size: 12 animals per sex and group Test substance: Kardinalrot Batch number: / Purity: 82%, 17% water Dose levels: 0, 10 mg/kg bw/day in de-ionised water by gavage Exposure period: 13 weeks 
+GLP: 	in compliance 
+ 
+The test substance (dissolved in water) was administered by oral gavage once daily to a group of 24 Wistar rats (Bor (Wi)W, SPF) (12/sex) at 10 mg/kg bw/day (group II) for 90 days, 24 animals served as control (treated with the vehicle alone) (group I). The age at the start of the study was approximately 6-7 weeks and the average body weight was 113 ± 6 g for females and 115 ± 5 g for males. Food and water was provided ad libitum. After 14 weeks the animals were sacrificed. 
+ 
+Examinations 
+Clinical signs and mortality daily. Ophthalmoscopic examination at the start and at the end of the study. Body weights weekly. 
+Haematology and clinical chemistry at the start of the study and after 8 and 14 weeks. Urinalysis  at start of the study and after 6 and 12 weeks. Relative and absolute organ weights, gross pathology and histopathology. 
+ 
+Results 
+- Haematology: After 7 weeks of treatment erythrocytes, haematocrit and MCV, MCH and MCHC were significantly reduced in the females of the test group. At the same time the haematocrit and the MCV were significantly reduced in the male rats of the test group as well. After 13 weeks leukocyte values in the test group females were significantly increased. 
+- Clinical chemistry: Fe-values were reduced significantly in the males of the test group after 7 weeks of treatment. 
+- Urinalysis: The urine of the test group animals was discoloured. 
+- Organ weights: Absolute and relative organ weight of the spleen was reduced in the females of the test group, whereas the relative spleen weight and the relative weight of the kidney were increased significantly in the corresponding males. 
+- Histopathology: The histomorphological examination revealed a slight activation of the thyroids in 10 male and 1 female rat of the test group. As another substance-related effect lymphatic enteritis was observed in 10 animals of group II 
+ 
+Conclusion 
+No NOAEL could be established. 
+Ref.: 23 
+Study 3 
+ Guideline: OECD 408 (1981) Species/strain: Sprague-Dawley CFY rats Group size: 10 animals per sex and group Test substance: Kardinalrot Batch number: / Purity: 84% (13% 1-ß-hydroxyethylamino-2-nitro-4-bis-(ßhydroxyethyl)amino- benzene and 3% 1-amino-2-nitro-4-(ßhydroxyethyl)aminobenzene Dose levels: 0, 5 mg/kg bw/day in de-ionised water by gavage Exposure period: 13 weeks 
+GLP: 	in compliance 
+ 
+The test substance (dissolved in water) was administered by gavage once daily to a group of 20 Sprague-Dawley (CFY) rats (10/sex) at dose 5 mg/kg bw/day (group II) on 90 consecutive days, 20 animals served as control (Aqua dest.) (group I). The age at the start of the study was approximately 8 weeks and the body weight was 138-185 g for females and 144-190 g for males. Food and water was provided ad libitum. After 14 weeks the animals were sacrificed. 
+ 
+Examinations 
+Clinical signs and mortality daily. Ophthalmoscopic examination at the start and at the end of the study. Body weights and food weekly. Water consumption by visual inspection daily. Haematology (RBC, WBC, Diff., Hb, Hct, MCV, MCH, MCHC) and clinical chemistry (bil, gluc, total protein, albumin, ?-GT, AP, Na+, K+, Cl-, Ca2+, inorganic phosphorus, urea, creat, ALAT, ASAT, albumin/globulin ratio) during the last week of the study. Relative and absolute organ weights, gross pathology and histopathology. 
+ 
+Results 
+- Haematology: The MCV was decreased in both males and females of the test group, whereas the MCH was decreased only in males. Furthermore prothrombin time was increased in the treated males. 
+- Clinical chemistry: In the females of group II decreased glucose values, decreased albumin/globulin ratios and increased creatinine values were observed. Examination of the males of the test group revealed decreased Na+- and serum alanine aminotransferase values. All the values of these parameters were considered to fall into the normal range. 
+- Organ weight: No statistically significant absolute weight changes. Mean relative kidney weight (% of body weight) was elevated in treated males (p < 0.05), but none of the individual values was considered abnormal. 
+- Other signs: Purple-coloured urine was noted in approx. 60% of the females during the fist week and on isolated occasions up to 34 days after the start of the study. 
+Ref.: 24 
+ 
+ 
+Conclusion of the SCCS on sub-chronic toxicity 
+At 10 mg/kg bw/day significant haematological, histopathological and spleen weight changes were observed.  
+The effects seen at 5 mg/kg bw/day (changes in haematological parameters and clinical chemistry, relative kidney weight), are not considered to be adverse (not consistent, not deviating from the normal range, only relative kidney weight changes). The no observed adverse effect level was therefore considered to be 5 mg/kg bw/day of Kardinalrot, corresponding to 4.2 mg/kg bw/day of HC Red n° 13. 
+ 
+ 
+3.3.5.3. Chronic (> 12 months) toxicity  
+No data submitted 
+ 
+3.3.6. Mutagenicity / Genotoxicity  
+3.3.6.1. Mutagenicity / Genotoxicity in vitro  
+Bacterial gene mutation assay 
+ 
+Guideline: OECD 471 (1983) Species/strain: Salmonella typhimurium TA98, TA100, TA1535, TA1537, and TA1538. Replicates: triplicates in 2 individual experiments both in the presence and absence of S9-mix. Test substance: DA 261093 (1-amino-2-nitro-4-bis-(2-hydroxyethyl)-amino-benzene; HC Red n° 13) Solvent: DMSO Batch: 199/027 Purity: > 99% Concentrations: Experiment 1: 1 - 5000 µg/plate without and with S9-mix Experiment 2: 30 - 5000 µg/plate without and with S9-mix Treatment: Direct plate incorporation method in both experiments GLP: In compliance  
+HC Red n° 13 was investigated for the induction of gene mutations in Salmonella typhimurium (Ames test). Liver S9-fraction from Aroclor 1254-induced rats was used as exogenous metabolic activation system. Toxicity was evaluated on the basis of a reduction in the number of revertant colonies and/or thinning of the bacterial background lawn. HC Red n° 13 was tested up to the prescribed maximum concentration of 5000 µg/plate. The experiments were performed with the direct plate incorporation method. Negative and positive controls were in accordance with the OECD guideline. 
+ 
+Results 
+Precipitation and toxicity of HC Red n° 13 were not reported. In experiment 1 without S9mix a slight increase in the number of revertants was seen in TA1535 and TA 1538. This increase seems to be due to the low negative control value and was considered not biologically relevant because of the lack of a concentration-response relationship and the lack of confirmation in the second experiment. In experiment 2 an increase in the number of revertants was not observed. 
+ 
+Conclusion 
+Under the experimental conditions used HC Red n° 13 was not mutagenic in the gene mutation tests in bacteria. 
+Ref.: 25 
+ 
+Comment 
+Historical control data were not reported.  
+ 
+ 
+In Vitro Mammalian Cell Gene Mutation Test 
+ 
+Guideline: 	OECD 476 (1997) 
+Cells: 	L5178Y Mouse lymphoma cells 
+Replicates: 	duplicate cultures in 2 independent experiments 
+Test substance: 	HC Red No 13 WR 23020 
+Solvent: 	Deionised water 
+Batch: 4/5/6-1 Fass 3 Purity: 95.3 weight % and approximately 1 weight % ethanol Treatment Experiment I: 200 - 3200 µg/ml (without S9-mix)   	200 - 3200 µg/ml (with S9-mix)  Experiment II: 200 - 800 µg/ml (without S9-mix) Concentrations: Experiment I1: 4 h both without and with S9-mix; expression period 72 h, selection growth 10-15 days.  Experiment II: 24 h both without S9-mix; expression period 48 h, selection growth 10-15 days. GLP: In compliance  
+HC Red n° 13 was assayed for mutations at the tk locus of mouse lymphoma cells both in the absence and presence of S9-mix metabolic activation. Test concentrations were based on the results of a cytotoxicity range-finding experiment measuring relative suspension growth. In the main test, cells were treated for 4 h (experiment I) or 24 h (experiment II) followed by an expression period of 72 h to fix the DNA damage into a stable tk mutation. Liver S9-mix fraction from phenobarbital/ß-naphthoflavone-induced rats was used as exogenous metabolic activation system. Toxicity was measured as percentage relative suspension growth of the treated cultures relative to the suspension growth of the solvent control cultures. Osmolarity and the pH value were determined in the solvent control and the maximum concentration in the pre-experiment with S9-mix. Negative and positive controls were in accordance with the OECD guideline. 
+ 
+Results 
+There was no relevant shift in osmolarity but a small shift of the pH value of the medium at the maximal concentration of the test item in the pre-experiment. Precipitation was not observed in both experiments. Except for culture II of experiment I without S9-mix, in both experiments in the absence and presence of S9-mix the appropriate level of toxicity was reached pointing to sufficient exposure of the cells.  
+In the first experiment both without and with S9-mix a substantial and reproducible biological relevant increase was not found. An isolated increase in mutant frequency above the threshold of twice the solvent control was reached at the highest dose in culture II. Since this effect was not reproducible and within the historical control value, it was considered not biologically relevant. Without S9-mix a more or less dose dependent increase in mutant frequency was found both in culture I and II. As it was clearly within the historical control values the increase was considered not biologically relevant. 
+In the second experiment a reproducible and dose dependent increase in the number of mutant colonies was found. This increase was caused by an increase in the number of small colonies indicating to a primarily clastogenic effect of HC Red n° 13. 
+ 
+Conclusion 
+Under the experimental conditions used, HC Red n° 13 was considered mutagenic in the mouse lymphoma assay at the tk locus. Since the effect was due to an increase in the number of small colonies, HC Red n° 13 is considered clastogenic. 
+Ref.: 26 
+ 
+Comments 
+Historical control data were only reported for the total number of mutant colonies; historical data for "small" and "large" colonies were not available.  
+ 
+ 
+In vitro micronucleus test 
+ 
+Guideline: 	OECD draft 487 (2004) 
+Cells: 	human lymphocytes from 2 healthy, non-smoking, female volunteers 
+Replicates: 	duplicates in 2 independent experiments 
+Test substance: 	HC Red No 13 (WR 23020) 
+Solvent: purified water Batch: 4/5/6-1 Fass 3 Purity: 89.5% Concentrations: Experiment 1: 0, 400, 700 and 1000 µg/ml (without S9-mix)   	0, 1700, 2100, 2413 µg/ml (with S9-mix)  Experiment 2: 0, 1089, 1322, 1556 µg/ml (without S9-mix)   	0, 2000, 2200, 2413 µg/ml (with S9-mix) Treatment Experiment 1: 24 h PHA followed by 20 treatment and 28 h recovery 
+(without S9-mix) 
+24 h PHA followed by 3 treatment and 45 h recovery (with S9-mix)  Experiment 2: 48 h PHA followed by 20 treatment and 28 h recovery 
+(without S9-mix) 
+48 h PHA followed by 3 treatment and 45 h recovery (with S9-mix) GLP: In compliance  
+HC Red n° 13 has been investigated in the absence and presence of metabolic activation for the induction of micronuclei in cultured human lymphocytes. The suitable top concentrations for experiments 1 and 2 were based on the results of a cytotoxicity range-finding experiment measuring replication index (RI). To determine the test concentrations for micronucleus analysis in each separate experiment the RI is measured in cultures treated with increasing concentrations of HC Red n° 13. The top dose for micronucleus analysis was to be the one at which at least approximately 60% reduction in RI occurred or the highest dose tested. Two lower doses were selected so that a range of cytotoxicity from maximum (60%) to little or none is covered. Treatment periods were 20 h without S9-mix and 3 h with S9-mix. Harvest times were 72 hours (experiment 1) or 96 hours (experiments 2) after the beginning of culture. The final 27-28 h of incubation was in the presence of cytochalasin B (at a final concentration of 6 µg/ml). Liver S9-mix fraction from Aroclor 1254-induced rats was used as exogenous metabolic activation system.  
+Toxicity was determined by measuring the reduction in replication index (RI). Micronucleus preparations were stained and examined microscopically for RI and micronuclei. Negative and positive controls were in accordance with the OECD draft guideline. 
+ 
+Results 
+Measurements on post-treatment media in the absence or presence of S9-mix indicated that HC Red n° 13 had no effect on osmolarity or pH as compared to concurrent vehicle controls. Cytotoxicity levels, measured as RI, reached the (in the draft guideline) suggested reduction of 60% after treatment with the highest dose in the experiments with S9-mix but not in those without S9-mix. However, the highest dose tested is identical to the prescribed maximum concentration of 10 mM (equivalent to 2413 µg/ml) from the draft and related OECD guidelines. 
+In experiment 1 without S9 metabolic stimulation HC Red n° 13 did not induce an increase in the number of cells with micronuclei compared to concurrent vehicle controls. A statistically significant and more or less dose dependent increase in the number of cells with micronuclei was found in the presence of S9-mix. These results may be of questionable biological significance since they were just above the historical controls and not observed in both duplicate cultures. 
+In experiment 2 both in the absence and presence of S9-mix biologically relevant, dose dependent, and statistically significant increases in the numbers of cells with micronuclei were found compared to concurrent control values. 
+ 
+Conclusion 
+Under the experimental conditions used HC Red n° 13 induced an increase in the number of cells with micronuclei and, consequently, is genotoxic (clastogenic and/or aneugenic) in human lymphocytes in vitro. 
+Ref.: 27 
+3.3.6.2 Mutagenicity/Genotoxicity in vivo  
+Mouse bone marrow micronucleus test 
+ 
+Guideline: / Species/strain: NMRI mice Group size: 5 mice/sex/group Test substance: DA 261093 (1-amino-2-nitro-4-bis-(2-hydroxyethyl)-amino-benzene; HC Red n° 13) Purity: > 99% Batch: Ref 199/027 Dose level: 0, 375, 750 and 1500 mg/kg bw/day Route: gavage, once Vehicle: arachidis oil Sacrifice times: 24 h for all dose levels, vehicle control and positive control, 48 h for the highest dose. GLP: In compliance  
+HC Red n° 13 has been investigated for the induction of micronuclei in bone marrow cells of mice. Mice were exposed by gavage. Test concentrations were based on an initial toxicity test. Bone marrow cells were collected 24 and 48 h (highest dose only) after dosing. Toxicity and thus exposure of the target cells was determined by measuring the ratio between polychromatic to normochromatic erythrocytes (PCE/NCE ratio). Bone marrow preparations were stained and examined microscopically for the PCE/NCE ratio and micronuclei. Negative and positive controls were included. 
+ 
+Results 
+After dosing, the animals of all groups showed reduced motility and lethargy, which was most pronounced in the animals treated with the highest dose. The ratio PCE/NCE decreased dose dependently at 24 h and at 48 h as compared to the untreated controls, indicating that HC Red n° 13 did have cytotoxic properties in the bone marrow and consequently must have been biologically available.  
+Biological relevant increases in the number of micronucleated PCEs compared to the concurrent vehicle controls were not found following treatment with HC Red n° 13 at any time point. 
+ 
+Conclusion 
+Under the experimental conditions used HC Red n° 13 did not induce an increase in the number of bone marrow cells with micronuclei in treated mice and, consequently, HC Red n° 13 was not genotoxic (clastogenic and/or aneugenic) in bone marrow cells of mice. 
+Ref.: 28 
+ 
+Comment 
+It was not reported whether the micronucleus assay was performed according OECD guideline 474. The initial cytotoxicity test to determine the concentrations of HC Red n° 13 in the main tests, was not reported 
+ 
+ 
+In vivo alkaline single cell gel electrophoresis (comet) assay in mice 
+ 
+Guideline: / Species/strain: B6C3F1 mice Group size: 5 male mice/group Test substance: HC Red n° 13 [4-(Di(2-hydroxyethyl)amino)-2-nitro-anilinemonohydrochloride Batch no: 4/5/6-1 Fass 3 Purity: 98% Dose level: 0, 1000 and 2000 mg/kg bw/day Route: oral gavage, twice 20 ± 0.5 h apart. Vehicle: deionized water Sacrifice times: 24 h after the first treatment (i. e. 4 h after the second treatment) Organs studied: blood, liver, duodenum and urinary bladder GLP: in compliance  
+HC Red n° 13 has been investigated for the induction of DNA damage in the alkaline single cell gel electrophoresis (comet) assay in various tissues of mice. Test concentrations were based on the results of an acute toxicity test to identify the maximum tolerated dose (MTD). As a result the mice were exposed by oral gavage to 1000 and 2000 mg/kg bw/day  HC Red n° 13. Mice were treated twice, 20 h apart, and sacrificed 4 h after the last treatment. Cytotoxicity was studied by low molecular weight (LMW) DNA diffusion analysis; cells with extensive DNA degradation associated with cell death exhibit a highly diffuse pattern of DNA compared to the condensed pattern associated with the high molecular weight DNA. Per organ 100 nuclei were examined for Olive tail moment (the distance between the centre of gravity of the DNA distribution in the tail and the centre of gravity of the DNA distribution in the head magnified with the fraction of DNA in the tail). Ethyl methane sulphate (300 mg/kg bw) was used as positive control. 
+ 
+Results 
+Consistent with the toxicity test, in the main test mice showed clinical signs of toxicity such as squinting and decreased movement, at the dose levels used. In addition stained bedding and purple urine were observed indicating that HC Red n° 13 has affected the biological system and was available to all tissues tested. 
+The percentage of cells with LMW DNA was increased by HC Red n° 13 treatment at dose levels up to 2000 mg/kg bw/day in the urinary bladder, but not in the liver, duodenum and blood. The increase in LMW DNA in the urinary bladder indicates the presence of HC Red n° 13 at sufficient levels in vivo to induce a cytotoxic effect in this tissue. 
+The response induced by the positive control after 20 minutes of electrophoresis was not sufficiently robust for this positive control administered ip at 300 mg/kg bw/day. To increase the sensitivity of the assay all tissues evaluated for DNA damage were electrophoresed for 40 minutes. The Olive tail moment was not significantly increased in cells of the liver, duodenum, blood and urinary bladder indicating that HC Red n° 13 did not induce DNA damage in these tissues of the mice. 
+ 
+Conclusion 
+Under the experimental conditions used HC Red n° 13 induced significant increases in cell death in urinary bladder but did not induce DNA damage in urinary bladder, liver, duodenum and blood of mice and, consequently, HC Red n° 13 is not genotoxic in the comet assay with mice. 
+Ref.: 29 
+ 
+3.3.7. Carcinogenicity  
+Guideline: / Species/strain: Mice, Han: NMRI Group size: 75 per sex and dose group Test substance: HC Red n° 13  Code: / Purity: / Dose levels: 0, 0.13, 1.0 and 2.0% in 0.05 ml/animal Route: Dermal Vehicle: Water and vehicle (water-based cosmetic formulation) Dosing schedule: 18-months, three times per week 
+GLP: 	In compliance 
+The test material was applied dermally to groups of 75 male and 75 female NMRI mice (about 6 week old, body weight: males 16 - 33 g, females 15 - 30 g) for 18 months, three times per week, at dose levels of 0.013, 1.0, and 2.0% in a volume of 0.05 ml/animal dissolved in the vehicle (cosmetic formulation) The two control groups, 75 animals per sex, were dosed with the vehicle or water alone. The vehicle contained: 0.5% 1-amino-2-nitro4-ß-hydroxyethyl-amino-5-chlorobenzene (1.0% in the high dose, 0% in the vehicle control), 1.05% sodium laureth sulphate, 0.625% stearic acid diethanolamide, 0.312% copolymer of alkyl methaacrylate with methacrylic acid, 15% isopropanol and water (80 - 83%). 
+ 
+Mortality and clinical signs were noted twice daily during the entire study. Body weight was determined once weekly for the first 13 weeks and every two weeks thereafter until termination of the study. Food consumption was recorded at weekly intervals during the study. Drinking water intake was observed daily. In addition, a detailed clinical and skin analysis was performed once a week. 
+ 
+Clinical laboratory investigations (haematology and blood/clinical biochemistry) were performed after 12 and 18 months in 10 animals per sex and dose group. 
+ 
+All animals were subjected to detailed gross necropsy and a comprehensive histopathological evaluation of several tissues from all animals was carried out. 
+ 
+Results 
+The treatment caused no signs of toxicity and the survival rate was not affected by the treatment. A dose dependent reduced body weight gain in males for the first 3 months in all groups and over the entire study period for the high dose group was noted. Food consumption was not affected by the treatment. The clinical laboratory investigations revealed no treatment related effects. Lymphatic leucosis was observed in both control groups as well as in the test animals. It was pointed out that the frequency observed in the present study (10 - 19%) lies in the centre of the incidence given in the literature and is not considered to be related to the treatment. The histopathological evaluation showed no differences between treated and control groups with regard to the occurrence or frequency of tumours.  
+Ref.: 30 
+ 
+Comment 
+The concentrations used are considered to be too low to detect any carcinogenic effect. No toxic effects were detected.  
+ 
+3.3.8. Reproductive toxicity  3.3.8.1. One generation reproduction toxicity  
+Guideline: 	OECD 415 (1983) 
+Species/strain: 	Rat, strain HanBrI: WIST (SPF Quality) 
+Group size: 	24 per sex and dose group 
+Test substance: 	HC Red n° 13 in bi-distilled water 
+Code: 	4/5/6-1 Fass 3 
+Purity: 	98.4% (HPLC at 254 nm) 
+Dose levels: 	30, 100 and 300 mg/kg bw/day 
+Route: 	Oral, gavage 
+Dosing schedule: Males: Once daily during the 70 days pre-mating period, during mating and until day 7 post partum of last litter (total: = 100 days) 
+ 	Females: Once daily during the 14 day pre-mating period, during 
+mating, gestation and lactation periods (total: = 64 days) 
+ 	Offspring: Once daily for up to 21 days 
+GLP: 	In compliance 
+ 
+The test substance was administered in a constant volume of 10 ml/kg bw/day once daily by oral gavage to groups of 24 male and 24 female HanBrI: WIST (SPF Quality) rats during the pre- mating (70 days for males, 14 days for females), mating, gestation and lactation (females only) period at doses of 10, 100 and 300 mg/kg bw/day. A concurrent control group received the vehicle (bi-distilled water) alone. Animals were paired one/one for a period of maximum of 21 days. Litters were raised until day 21 post partum. Animals were observed twice daily for clinical signs or mortality during the entire treatment period. Body weights were recorded daily until necropsy. Food consumption was measured on weekly intervals until delivery (except during mating). During lactation the food consumption was recorded on days 1, 7, and 14 post partum. 
+Successful mating was verified by vaginal smear analysis or when a copulation plug was observed during the 21 day mating period. A second mating period of 21 days with a different male was allowed in case mating was not successful. Females without litter or which lost their litters were killed and necropsied. After delivery, litters were examined for litter size, live birth, stillbirth and any gross anomalies. The sex ratio was noted at day 0, 4, and day 21 of lactation. Pup weights were noted on day 1, 4, 7, 14, and 21 of lactation. Pups were also observed daily for survival and behavioural abnormalities. Pup number was reduced to 4 males and 4 females per litter at post partum day 4. The remaining pups were macroscopically examined for all litters with more than 4 pups per sex. On day 21 post partum, all pups were examined internally and externally for abnormalities and, if indicated, skeletal development was examined after staining. 
+At necropsy of the parent animals, a macroscopical examination with special focus on the organs of the reproductive system was performed. Implantation sites were counted and the uterus was analysed for haemorrhagic alterations of implantation sites. Histopathology covered all gross lesions, ovaries, pituitary gland, prostate, seminal vesicles, testes with epididymides, thyroid gland, uterus and cervix, vagina and target organs. 
+ 
+Results 
+No treatment related mortality was noted. In the high dose groups (males and females) a sign of discomfort was noted right after the daily dosing. The discolouration of the bedding material noted in all dose groups was considered to be due to discolouration of urine. Food consumption and body weight in the parental generation were not affected at any time period by the treatment. Reproduction parameters including fertility and mating performance, duration of gestation, pre-coital times, implantation rate and postimplantation loss, litter size, postnatal loss and breeding loss were similar in all groups and not affected by the treatment. Litter data like sex ratio, pup weight or pup weight gain during lactation revealed no test-item related effects and no abnormalities were noted for the treated pups. At necropsy, a dose-related increase in red discolouration of the thyroid was noted for both male and female parental animals. Histopathology revealed no adverse findings in either parental animals or pups. However, an increase in follicular cell hypertrophy in the thyroid was noted in parental animals of either sex (predominantly in males) in all dose groups. These effects in the parental animals were related to the treatment with the test substance. 
+ 
+Conclusion 
+At the highest test dose, clinical signs in terms of discomfort were noted in both males and females. Similar to the findings in the 90-day study an increase in follicular cell hypertrophy in the thyroid was noted (see Ref.: 22). HC Red n° 13 did not reveal any effect on any reproduction parameter. From this study, a NOAEL of 300 mg/kg bw/day for reproductive effects was deduced. 
+Ref.: 32 
+ 
+3.3.8.2. Teratogenicity  
+Old study, taken from opinion n° XXIV/1287/97 of 20 May 1998 
+The test substance (dissolved in water) was given daily from day 5-15 of gestation to groups of 24 pregnant Wistar rats, respectively, (Bor:Wisw-SPF TNO strain) by oral gavage of doses of 5 (group I), 15 (group II) and 30 (group III) mg/kg bw/day. 24 pregnant females treated with aqua deionised served as controls. Prior to treatment females were 14 weeks old and had a body weight range from 160-220 g. Food and drinking water ad libitum. According to sperm found in vaginal smear (day 0 of gestation), the females were sacrificed after 20 days post conceptionem. 
+ 
+Examinations 
+- Clinical observations daily. Bodyweights were taken at the beginning of the study and at day 5, 10, 15 and 20. Food consumption was measured for days 0-5, 5-15, 15-20 as well as for 0-20. 
+- Complete autopsy of the dams and a macroscopic evaluation of the organs were carried out on day 20. 
+- Determination of the number of dead and alive foetuses, distribution and site in the uterus, early and late resorptions, placentas, implantations, sex determination, corpora lutea. 
+- Determination of the weight of foetuses, placentas, graved uteri, uteri without foetuses. 
+- Externally visible deviations in foetuses, organic imperfections (in 1/3 of all foetuses) and skeletal defects (in 2/3 of all foetuses) were evaluated. 
+ 
+Results 
+No maternal abnormalities and no signs of maternal toxicity were observed. No abnormalities were found in the foetuses. Thus the NOAEL is 30 mg/kg bw/day. 
+ 
+ 
+New study 
+ 
+Guideline: OECD 414 (1984) Species/strain: HanBri: WIST (SPF quality) rats Group size: 22 mated females per dose group Test substance: HC Red n° 13 (WR 23020) in bi-distilled water Batch number: 4/5/6-1 Fass 3 (Fa. Robinson) Purity: 98.4 % (HPLC at 254 nm) Dose levels: 0, 30, 100 and 300 mg /kg bw/day (oral, gavage) Treatment period: once daily, day 6 - 20 of gestation  GLP: In compliance  
+The test substance was administered in a constant volume of 10 ml/kg bw once daily by oral gavage to groups of 22 pregnant HanBrI: WIST (SPF Quality) rats at doses of 10, 100 and 300 mg/kg bw/day from day 6 to day 20 of gestation. A concurrent control group received the vehicle (bi-distilled water) alone. Successful mating was verified by vaginal smear analysis or by the occurrence of a copulation plug. Animals were observed twice daily for clinical signs during the entire treatment period. Body weights were recorded daily. Food consumption was measured on 3-day intervals. At day 21 post coitum, all mated females were killed under CO2-asphyxiation and a complete necropsy and a macroscopic examination of the organs was carried out. The uterus (prepared by caesarean section) was removed and the location of the foetuses in the uterus was examined. The number of implantation sites and of corpora lutea was also determined. Each live foetus was weighed, sexed and examined for gross external malformations. After appropriate processing, a skeletal and a visceral examination was performed for about 50 % of the foetuses each. In addition, placenta and uterus weights were recorded. 
+ 
+Results 
+No treatment-related effects in dams were noted with regard to clinical observations and post-mortem findings. Violet discolouration of fur and tail in the animals of the high dose group was linked to discolouration of urine and bedding material. Body weight and food consumption were not affected by the treatment. Reproduction parameters revealed no differences between treated and control groups. At gross necropsy no treatment related effects were observed. The uterus and placenta weights, the number of corpora lutea and implantations were similar to control values in all treated groups. 
+There were no treatment related effects with regard to litter size, foetal mortality, foetal body weight and sex ratio. The skeletal and visceral examination of the foetuses revealed no treatment related findings. Compared to the concurrent control, neither a statistically significant difference nor a dose-dependent increase in any type of malformation was noted. Further, there were no changes in variations which were regarded to be related to the treatment with HC Red n° 13. All observed variations represented common findings for the used rat strain and were within the spontaneous range for variations and/or revealed no dose-response relationship. 
+ 
+Conclusion 
+No treatment-related effects were noted in dams and foetuses in a rat teratogenicity study up to the highest test dose of 300 mg/kg bw/day. A NOAEL of 300 mg/kg bw/d for both maternal toxicity and for embryo-foetal effects was deduced. 
+Ref.: 33 
+ 
+3.3.9. Toxicokinetics  3.3.9.1. Toxicokinetics in vitro  
+Biovailability study with human intestinal epithelial cells  
+ 
+Guideline: 	/ 
+Cells: 	Human intestinal epithelial cell line TC-7 
+Test substance: 	HC Red n° 13 
+Batch: 	4/5/6-1 Fass 3 
+Purity: 	98.4 % (HPLC at 254 nm) 
+Concentration: 	= 50 µM in HBSS buffer containing 1 % DMSO 
+Incubation time: 	60 min 
+Number of experiments: 	Two independent experiments  
+GLP: 	/ 
+ 
+The bioavailability of HC Red n° 13 across the intestinal barrier was investigated in human intestinal epithelial (TC-7) cells in vitro. The permeability from the apical (A, pH 6.5) to the basolateral (B, pH 7.4) side was investigated at 37 °C in 96-well transwell plates with shaking for a 60 min contact time. Analysis of the donor (apical) and receiver (basolateral) samples was done by means of HLPC-MS/MS and the apparent permeability coefficient (Papp) was calculated for two independent experiments. 14C-mannitol (about 4 µM) was used to demonstrate the integrity of the cell monolayer. Only monolayer revealing a permeability of < 2.5 x 10-6 cm/sec were used. Propranolol, vinblastine and ranitidine were analysed concurrently to demonstrate the validity of the test system. According to the laboratory's classification system, a low permeability was considered for test items revealing a Papp < 2 x 10-6 cm/sec. A Papp of 2 - 20 x 10-6 cm/sec and a Papp = 20 x 10-6 cm/sec classify a substance to have a moderate and a high permeability, respectively. As recommended by FDA, ranitidine (50 % absorption in humans) was used as the low permeability reference compound and propanolol (90% absorption in humans) was used as the high permeability reference compound. 
+ 
+Results 
+The total recovery for the reference substances and HC Red n° 13 ranged from 59 to 97 %. The figures for the reference substances propranolol (Papp = 25.9 x 10-6 cm/sec) and ranitidine (Papp = 0.2 x 10 -6 sec) were well within the acceptable range for these compounds of 20 - 45 x 10-6 cm/sec and 0.2 - 2 x 10-6 cm/sec, respectively, and demonstrated the validity of the assay. 
+HC Red n° 13 revealed a Papp of 37.1 x 10-6 cm/sec and thus was classified to be of high permeability. The observed value indicates a good absorption from the gastro-intestinal tract. 
+Ref.: 34 
+ 
+3.3.9.2 Toxicokinetics in vivo  
+See point 3.3.4 Dermal / percutaneous absorption, reference 35 
+ 
+3.3.10. Photo-induced toxicity  
+3.3.10.1. Phototoxicity / photoirritation and photosensitisation 
+ 
+No data submitted 
+ 
+3.3.10.2. Phototoxicity / photomutagenicity / photoclastogenicity 
+ 
+No data submitted 
+ 
+3.3.11. Human data  
+No data submitted 
+ 
+3.3.12. Special investigations  
+No data submitted 
+ 
+3.3.13. Safety evaluation (including calculation of the MoS)  
+CALCULATION OF THE MARGIN OF SAFETY 
+ 
+HC Red n° 13 
+ 
+(non-oxidative conditions) 
+ 
+ 
+Absorption through the skin 	A (mean +2 SD) = 1.17 µg/cm² Skin Area surface 	SAS  = 580 cm2 Dermal absorption per treatment SAS x A x 0.001 = 0.68 mg Typical body weight of human  = 60 kg Systemic exposure dose (SED)  SAS x A x 0.001/60 = 0.011 mg/kg bw/d No observed adverse effect level 
+(90 day, oral, rat) 
+ NOAEL = 4.2 mg/kg bw/d Margin of Safety NOAEL / SED = 382  
+ 
+(oxidative conditions) 
+ 
+ 
+Absorption through the skin 	A (mean +2 SD) = 1.03 µg/cm² Skin Area surface 	SAS  = 580 cm2 Dermal absorption per treatment SAS x A x 0.001 = 0.60 mg Typical body weight of human  = 60 kg Systemic exposure dose (SED)  SAS x A x 0.001/60 = 0.01 mg/kg bw/d No observed adverse effect level 
+(90 day, oral, rat) 
+ NOAEL = 4.2 mg/kg bw/d Margin of Safety NOAEL / SED = 420  
+ 
+3.3.14. Discussion  
+Physico-chemical specifications 
+HC Red n° 13 is used as a hair colouring agent in semi-permanent hair dye formulations at a maximum on-head concentration of 2.5%. It is also used in oxidative hair dye formulations at a maximum concentration of 2.5%, which after mixing typically in 1:1 ratio with hydrogen peroxide prior to use, corresponds to a final on-head concentration of 1.25% upon application.  
+Batch 4/5/6-1 Fass 3 is reported to contain approx. 1% ethanol, which is in contrast to a solvent content <100 ppm, stated in the deduced specifications. The stability of the test substance in typical hair dye formulations was not reported. The test substance was sufficiently stable in the presence of hydrogen peroxide. 
+ 
+ 
+General toxicity 
+LD50 was calculated to be 2120 (1810 - 2480) mg/kg bw. 
+At 10 mg/kg bw/day significant haematological, histopathological and spleen weight changes were observed.  
+The effects seen at 5 mg/kg bw/day (changes in haematological parameters and clinical chemistry, relative kidney weight), are not considered to be adverse (not consistent, not deviating from the normal range, only relative kidney weight changes). The no observed adverse effect level was therefore considered to be 5 mg/kg bw/day of Kardinalrot, corresponding to 4.2 mg/kg bw/day of HC Red n° 13. 
+The NOAEL for reproductive effects was set at 300 mg/kg bw/day. A NOAEL of 300 mg/kg bw/day for both materno-toxic and for embryo-foetal effects was deduced. 
+ 
+ 
+Toxicokinetics 
+In vitro, HC Red n° 13 revealed a Papp of 37.1 x 10-6 cm/sec and thus was classified to be of high permeability. The observed value indicates a good absorption from the gastrointestinal tract.  
+After dermal application in rats, only minor amounts of HC Red n° 13 are absorbed through the skin and become systemically available. If applied in a hair dye formulation less than 1.1 µg/cm2 of the dye formulation penetrated the skin. The majority of the penetrated dye is excreted within 24 h after administration.  
+After oral application, it is quickly absorbed and nearly completely excreted within 72 h, with the majority eliminated within 24 h after application. Excretion takes place via urine and faces to almost equal amounts. 
+Low tissue residue levels were noted for both routes of exposure indicating that bioaccumulation is not expected. There were no significant sex differences in absorption, tissue distribution and excretion pattern. 
+ 
+ 
+Irritation / sensitisation 
+Under the conditions of the experiment, there was no irritant effect to the rabbit skin. However, the test concentration used (2.5% aqueous solution) was too low for hazard identification. 
+There was no irritant effect to the rabbit eye throughout the 7 days observation. The test concentration used (2.5% aqueous solution) was too low for hazard identification. The diluted preparation was washed out 10 seconds after instillation. 
+The substance is considered to be a moderate skin sensitiser in a LLNA study. 
+ 
+ 
+Dermal absorption 
+In an in vitro experiment using pig skin, the percutaneous absorption of HC Red No 13 was 1.032 µg/cm2 (mean+2SD) from oxidative formulation containing it at 1.25% and 1.172 µg/cm2 (mean+2SD) from non-oxidative formulation containing it at 2.5%.  
+ 
+ 
+Mutagenicity 
+Overall, the genotoxicity program on HC Red n° 13 investigated three endpoints of genotoxicity: gene mutations, structural chromosome aberrations and aneuploidy. HC Red No. 13 did not induce gene mutations in bacteria nor on the tk locus of mouse lymphoma cells. However, in the mutation assay with mouse lymphoma cells indications for a clastogenic effect of HC Red n° 13 were found. The latter effect was confirmed by the positive results found in an in vitro micronucleus test with human lymphocytes. In an in vivo bone marrow micronucleus tests in mice, HC Red n° 13 did not produce an increase in bone marrow cells with micronuclei. Finally, the genotoxic effect was also not found in a Comet assay.  
+As the genotoxic effects found in vitro were not confirmed in vivo, HC Red n° 13 itself can be considered to have no in vivo genotoxic potential and additional tests are unnecessary.  To reach a definitive conclusion, appropriate tests with HC Red n° 13 in combination with hydrogen peroxide have to be provided. 
+ 
+ 
+Carcinogenicity 
+The concentrations used in a mouse dermal carcinogenicity study were considered to be too low to detect any carcinogenic effect. 
+ 
+ 
+4. CONCLUSION 
+ 
+HC Red n° 13 is a moderate skin sensitiser. 
+ 
+Based on the data provided, the SCCS is of the opinion that the use of HC Red n° 13 with a maximum on-head concentration of 1.25% in oxidative and 2.5% in non-oxidative hair dye formulations does not pose a risk to the health of the consumer, apart from its sensitising potential. 
+ 
+5. MINORITY OPINION 
+ 
+Not applicable 
+ 
+6. REFERENCES 
+ 
+Submission II, 2005 
+ 
+1. Lange, J.; Partition coefficient (n-octanol / water) using High Performance Liquid Chromatography (HPLC); NOACK; 2004  
+2. Lange, J.; Sieve analysis; NOACK; 2004 
+3. Lange, J.; Water solubility (flask method); NOACK; 2004  
+4. Lange, J.; Prediction of the pKa-value; NOACK; 2004  
+5. Lange, J.; Melting point / melting range; NOACK; 2004  
+6. Lange, J.; Boiling point; NOACK; 2004  
+7. Lange, J.; Determination of the density; NOACK; 2004  
+8. Franke, J.; Vapour pressure; SIEMENS AXIVA GMBH & CO. KG; 2004  
+9. Lange, J.; Surface tension; NOACK; 2004  
+10. Lange, J.; Flammability of solids; NOACK; 2004  
+11. Smeykal, H.; Explosive properties; SIEMENS AXIVA GMBH & CO. KG; 2004  
+12. Smeykal, H.; Auto-flammability (solids - determination of relative self-ignition temperature); SIEMENS AXIVA GMBH & CO. KG; 2004 
+13. Smeykal, H.; Oxidizing properties; SIEMENS AXIVA GMBH & CO. KG; 2004 
+14. Opinion of the Scientific Committee on Cosmetic Products and Non-Food Products intended for consumers concerning Kardinalrot; SCCNFP; 1998 
+15. Kynoch, S. R.; Acute oral toxicity to rats of 1-Amino-2-nitro-4dihydroxyethylaminobenzene; HUNTINGDON; 1976  
+16. Kynoch, S. R.; Irritant effects of 1-Amino-2-nitro-4-dihydroxyethylamino-benzene on rabbit skin; HUNTINGDON; 1976 
+17. Kynoch, S. R.; Irritant effects of 1,Amino-2-nitro-4-dihydroxyethylamino-benzene on rabbit eye mucosa; HUNTINGDON; 1976  
+18. Contact sensitisation: classification according to potency; ECETOC; 2003 
+19. Christ, M.; HC Red No. 13 WR 23020 - Local lymph node assay; MDS PHARMA SERVICES; 2004  
+20. Beck, H.; Cutaneous absorption of 2.5% HC RED NO. 13 (=WR23020) in a typical hair dye formulation through pig skin in vitro; COSMITAL SA; 2005  
+21. Beck, H.; Cutaneous absorption of 1.25% HC RED NO. 13 (=WR23020) in a typical formulation for oxidative hair dyes through pig skin in vitro; COSMITAL SA; 2005  
+22. Weide, J.; Three-month toxicity test in rats with the test substance Kardinalrot (Part 1); WELLA AG; 1985 
+23. Weide, J.; Three-month toxicity test in rats with the test substance Kardinalrot Colipa No. B 31 (Part 2); WELLA AG; 1985  
+24. Jones, J. R.; Kardinalrot: Ninety-day oral (gavage) toxicity study in the rat; SAFEPHARM; 1987  
+25. Faller, C.; Assessment of the potential mutagenicity of 1-Amino-2-nitro-4-bis-(2hydroxyethyl)-amino-benzene in the Ames reversion assay with Salmonella Typhimurium; COSMITAL SA;1993  
+26. Wollny, H.-E.; Cell mutation assay at the Thymidine Kinase locus (TK+/-) in mouse lymphoma L5178Y cells with HC Red 13 WR 23020; RCC-CCR; 2002  
+27. Whitwell, J.; HC-Red 13 (WR 23020): Induction of micronuclei in cultured human peripheral blood lymphocytes; COVANCE; 2005  
+28. King, M. T.; Mutagenicity study of DA 261093 with the micronucleus test in bone marrow cells of mice (NMRI); KING & HARNASCH; 1994  
+29. Recio, L.; Analysis of DNA damage induced by in vivo exposure of mice to HC Red 13 (WR 23020) using the Comet assay; ILS; 2005  
+30. Sterner, W; Carcinogenicity study for 18 months after dermal application to mice (skin painting test) - Original report see Reference 31- Attachment: Expert evaluation on the occurrence of lymphatic leukosis (1-2); IBR; 1983  
+31. Sterner, W.;Kanzerogenitätsuntersuchung über 18 Monate nach dermaler Applikation an Mäusen (skin painting test) - Translation see Reference 30) - Anlage: Stellungnahme zum Vorkommen der lymphatischen Leukose (1-2); IBR; 1983  
+32. Gerspach, R.; Flade, D.; Schaetti, P.; HC Red No. 13 (WR 23020): One-generation reproduction study in the rat; RCC; 2005 
+33. Gerspach, R; HC Red No. 13 (WR 23020): Prenatal developmental toxicity study in the Han Wistar rat; RCC; 2005 
+34. McVean, M.; ADME: A-B permeability study of HC-Red No. 13; CEREP; 2004  
+35. Reindl, E.; Toxicokinetics of Kardinalrot; SEIBERSDORF; 1988  
+36. Simon, G. A.; Maibach, H. I.; The pig as an experimental animal model of percutaneous permeation in man: Qualitative and quantitative observations - An overview; SKIN PHARMACOL. PHYSIOL.; 13, 229-234; 2000  
+37. König, P.; Data base search for references for B031 - HC RED NO. 13: 94158-13-1; WELLA AG; 2005 
+ 
+ 
+Submission III, 2010 
+ 
+1. Summary submission III, 2010 
+2. Hottes, R. A 2002/347-001 (Ext. 785) - Identität, Gehalt. Spectral Service. Laboratorium für Auftragsanalytik GmbH. D-50825 Köln-Ehrenfeld. Analysenbericht WLD10825. 15.10.2002 
+3. Klang T. Certiofication of the reference substa,nce HC Red n° 13. Solvias AG. CH-4002 Basel. Order n° L04-004006. 19.07.2004 
+4. Schmidt K. Identitäts- und Reinheitsprüfung von HC Red 13. Research & Development, Analytics Chemistry (RD-ANC), D-64274 Darmstadt. Study report n° G 2005/006. 
+22.6.2005 
+5. Umbricht G., Weber I. Comparison of different batches of HC Red n° 13 
+6. COLIPA. Technical Guidance Document on Minimising and Determining Nitrosamines in Cosmetics. December 2008 
+7. Challis B.C. et al. A screening procedure for total N-nitroso contaminants in personal care products: results of collaborative studies undertaken by a CTPA Working Group. Interntional Journal of Cosmetic Science 17, 219-231 (1995) 
+8. March J. Electrophilic substitution at nitrogen. Advanced Organic Chemistry: reactions, mechanism and structure.. 4th Edition. p. 365-637. 
+9. Barbero A.M., Frasch H.F. Pig and guinea pig skin as surrogates for human in vitro penetration studies: A quantitative review. Toxicology in Vitro 23 (2009) 1-13 
+10. Kunze, G. (2009). Cutaneous absorption of 2.5 % HC Red No. 13 (B031; WR23020) in a typical Hair Dye formulation through pig skin in vitro. Cosmital SA Study number KP 228, 8 April 2009 
+11. Kunze, G. (2009). Cutaneous absorption of 2.5 % HC Red No. 13 (B031; WR23020) in a typical Hair Dye formulation in the presence of hydrogen peroxide through pig skin in vitro. Cosmital SA Study number KP 227, 8 April 2009 
+ 
+ 
+Additional references, submission I 
+ 
+Opinion XXIV/1287/97 
+ 
+4. Büsching, J. "Sensibilisierungstest am Albinomeerschweinchen nach K. Landsteiner und I.H. Draize, Testsubstanz: 1-amino-2-nitro-4-bis-(ß-hydroxyethyl)-amino-benzol, Hydrochlorid" Report of the Biological Laboratory of Wella AG, Darmstadt, 07.10.1978 
+5. Sterner, W. "Kardinalrot- Delayed contact hypersensitivity in guinea pigs, modified method of B. Magnusson and A.M. Kligman" IBR Forschungs GmbH, Walsrode, 18.10.1985 
+6. Lücker, P.W. et al. "Zur Frage der perkutanen Penetrationskinetik eines direkt einwirkenden Haarfarbstoffs" Private Institute for Clinical Pharmacology. Bobenheim am Berg, 30.08.1979 
+ 
+SCCS/1368/10 
+ 
+Opinion on HC Red n° 13 
+___________________________________________________________________________________________ 
+ 
+
+SCCS/1368/10 
+ 
+Opinion on HC Red n° 13 
+___________________________________________________________________________________________ 
+ 
+
+ 	2
+
+ 	2
+
+
+
+
+
