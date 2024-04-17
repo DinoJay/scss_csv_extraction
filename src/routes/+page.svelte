@@ -87,33 +87,35 @@
 					>
 				{/each}
 			</div>
-			{#if scraped}
-				<div class="flex-1 overflow-auto">
-					<h1 class="text-xl mb-3">Repeated Dose Toxicity</h1>
-					{#each scrapedTxtsMap?.get(selectedTextId).matchesRepeatedDoseToxicity as p, i}
-						<Paragraph
-							selected={paragraph === i}
-							title={`Study ${i + 1}`}
-							text={p}
-							onClick={() => (paragraph = i)}
-						></Paragraph>
-					{/each}
-					<h1 class="text-xl mb-3">Acute Dose Toxicity</h1>
-					{#each scrapedTxtsMap?.get(selectedTextId).matchesAcuteToxicity as p, i}
-						<Paragraph
-							selected={paragraph === i}
-							title={`Study ${i + 1}`}
-							text={p}
-							onClick={() => (paragraph = i)}
-						></Paragraph>
-					{/each}
-				</div>
-			{/if}
-			{#if !scraped}
-				<div class="whitespace-pre-wrap flex-1 overflow-auto">
-					{originalTxtsMap?.get(selectedTextId)}
-				</div>
-			{/if}
+			<div class="flex-1 flex overflow-auto bg-gray-50 p-2">
+				{#if scraped}
+					<div class="flex-1 overflow-auto">
+						<h1 class="text-xl mb-3">Repeated Dose Toxicity</h1>
+						{#each scrapedTxtsMap?.get(selectedTextId).matchesRepeatedDoseToxicity as p, i}
+							<Paragraph
+								selected={paragraph === i}
+								title={`Study ${i + 1}`}
+								text={p}
+								onClick={() => (paragraph = i)}
+							></Paragraph>
+						{/each}
+						<h1 class="text-xl mb-3">Acute Dose Toxicity</h1>
+						{#each scrapedTxtsMap?.get(selectedTextId).matchesAcuteToxicity as p, i}
+							<Paragraph
+								selected={paragraph === i}
+								title={`Study ${i + 1}`}
+								text={p}
+								onClick={() => (paragraph = i)}
+							></Paragraph>
+						{/each}
+					</div>
+				{/if}
+				{#if !scraped}
+					<div class="whitespace-pre-wrap flex-1 overflow-auto">
+						{originalTxtsMap?.get(selectedTextId)}
+					</div>
+				{/if}
+			</div>
 			<button
 				class="p-2 border-2 0 mt-3"
 				on:click={() => (scraped = !scraped)}

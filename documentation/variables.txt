@@ -1,0 +1,38 @@
+For Group variables 1, 2, 3, 4 and 5 the answer is usually found in the summary + first paragraph after the summary
+1) Test method: Test substance:
+homogeneity and stability
+treatment prior to application
+pH
+physical form (solid, liquid)
+achieved concentration (%)
+composition
+purity (%)
+chemical batch nr
+additional info
+ 
+2) Test method: Test substance: Vehicle:
+name
+concentration (%)
+3) Test method: Test condition:
+nominal dose levels
+actual dose levels
+dose level unit
+dose volume ml/kg bw
+repeated administration scheme
+recovery period
+4) Test method: Test condition: Oral administration:
+gavage
+diet
+drinking water
+5) Test method: Test condition: Test animal:
+rodent species/strain
+source
+age at start of experiment
+age unit
+sex
+housing and feeding
+weight
+weight unit
+n animals / group
+number of satellite group
+ 
