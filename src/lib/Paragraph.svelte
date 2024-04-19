@@ -123,7 +123,7 @@
 			<div class="w-full flex min-h-44 overflow-auto">
 				<div class="w-full flex min-h-44">
 					{#if chatGPTerror !== null}
-						{chatGPTerror}
+						<p class="text-red-500">{chatGPTerror}</p>
 					{/if}
 					{#if loadingResponse}
 						<div class="m-auto">Loading...</div>
