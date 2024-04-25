@@ -12,29 +12,38 @@
 	let allpromiseTxt: Promise<string[]> | null = null;
 	let paragraph: number | null = null;
 
-	const scrapeTxt = (txt) => {
+	const scrapeRDT = (txt) => {
 		const regexRepeatedDoseToxicity =
 			/3\.3\.5\.\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6\.\s+Mutagenicity \/ Genotoxicity)/;
+
 		const repeatedDoseToxicityTxt = txt.match(regexRepeatedDoseToxicity)?.[0];
 
-		const regexAcuteToxicity =
-			/3\.3\.1\.\s+Acute toxicity[\s\S]*?(?=3\.3\.3\.\s+Skin sensitisation)/;
-		const acuteToxicityTxt = txt.match(regexAcuteToxicity)?.[0];
+		let pattern = /^Guideline:[\s\S]*?Ref\.: \d+\s/gm;
 
-		console.log('acuteToxicityTxt\n', acuteToxicityTxt);
-		// console.log('repeatedDose\n', repeatedDoseToxicityTxt);
-
-		let pattern = /^Results\s[\s\S]*?Ref\.: \d+\s/gm;
-
-		let matchesRepeatedDoseToxicity = repeatedDoseToxicityTxt
-			?.match(pattern)
-			?.map((d) => d.substring(10));
-
-		let matchesAcuteToxicity = acuteToxicityTxt?.match(pattern)?.map((d) => d.substring(10));
-		console.log('matchesRepeatedDoseToxicity', matchesRepeatedDoseToxicity);
+		let matchesRepeatedDoseToxicity = repeatedDoseToxicityTxt?.match(pattern);
+		// ?.map((d) => d.substring(10));
 
 		// console.log('matches', matches);
-		return { matchesRepeatedDoseToxicity, matchesAcuteToxicity };
+		return matchesRepeatedDoseToxicity;
+	};
+
+	const scrapeAcuteTox = (txt) => {
+		const regexAcuteToxicity =
+			/3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[\.]*\s*Irritation and corrosivity)/;
+
+		// const regex = /3\.3\.1\s+Acute\s+toxicity\s*([\s\S]*?)3\.3\.2\s+Irritation\s+and\s+corrosivity/;
+
+		const acuteToxicityTxt = txt.match(regexAcuteToxicity)?.[0];
+		console.log('acuteToxicityTxt\n', acuteToxicityTxt);
+
+		// console.log('acuteToxicityTxt\n', acuteToxicityTxt);
+		let pattern = /^Guideline:[\s\S]*?Ref\.: \d+\s/gm;
+		// let pattern = /Guideline:[\s\S]*?Ref\.:.*?(?=\n|$)/g;
+		// console.log('repeatedDose\n', repeatedDoseToxicityTxt);
+
+		let matchesAcuteToxicity = acuteToxicityTxt?.match(pattern);
+		console.log('matchesAcuteToxicity\n', matchesAcuteToxicity);
+		return matchesAcuteToxicity;
 	};
 
 	const textIds = ['scss_o_044', 'scss_o_040', 'scss_o_059', 'scss_o_230'];
@@ -50,8 +59,9 @@
 		const promise040 = fetch('/sccs_o_040.txt').then((response) => response.text());
 		const promise059 = fetch('/sccs_o_059.txt').then((response) => response.text());
 		const promise230 = fetch('/sccs_o_230.txt').then((response) => response.text());
+		const prs = [promise044, promise040, promise059, promise230];
 
-		allpromiseTxt = Promise.all([promise044, promise040, promise059, promise230]).then((values) => {
+		allpromiseTxt = Promise.all([...prs]).then((values) => {
 			const tmpMap0 = new Map();
 			values.forEach((v, i) => {
 				tmpMap0.set(textIds[i], v);
@@ -60,7 +70,7 @@
 
 			const tmpMap1 = new Map();
 			values.forEach((v, i) => {
-				tmpMap1.set(textIds[i], scrapeTxt(v));
+				tmpMap1.set(textIds[i], { rdt: scrapeRDT(v), acuteTox: scrapeAcuteTox(v) });
 			});
 			scrapedTxtsMap = tmpMap1;
 		});
@@ -91,7 +101,7 @@
 				{#if scraped}
 					<div class="flex-1 overflow-auto">
 						<h1 class="text-xl mb-3">Repeated Dose Toxicity</h1>
-						{#each scrapedTxtsMap?.get(selectedTextId).matchesRepeatedDoseToxicity as p, i}
+						{#each scrapedTxtsMap?.get(selectedTextId).rdt as p, i}
 							<Paragraph
 								selected={paragraph === i}
 								title={`Study ${i + 1}`}
@@ -100,7 +110,7 @@
 							></Paragraph>
 						{/each}
 						<h1 class="text-xl mb-3">Acute Dose Toxicity</h1>
-						{#each scrapedTxtsMap?.get(selectedTextId).matchesAcuteToxicity as p, i}
+						{#each scrapedTxtsMap?.get(selectedTextId).acuteTox as p, i}
 							<Paragraph
 								selected={paragraph === i}
 								title={`Study ${i + 1}`}

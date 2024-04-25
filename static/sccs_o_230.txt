@@ -1,11 +1,3 @@
- 
- 
-
- 
- 
- 
- 
- 
 Scientific Committee on Consumer Safety 
  
 SCCS 
@@ -29,14 +21,41 @@ SCCS members listed below are acknowledged for their valuable contribution to th
  
 For the preliminary and the final versions 
  
-SCCS Members  Dr U. Bernauer 	 
-Dr L. Bodin   	 	 Prof. Q. Chaudhry   (SCCS Chair) Prof. P.J. Coenraads  (SCCS Vice-Chair and Chairperson of the WG) Prof. M. Dusinska  Dr J. Ezendam 	 
+SCCS Members  
+
+
+Dr U. Bernauer 	 
+Dr L. Bodin 
+ 
+ 	 	 
+Prof. Q. Chaudhry  
+ 
+(SCCS Chair) 
+Prof. P.J. Coenraads 
+ 
+(SCCS Vice-Chair and Chairperson of the WG) 
+Prof. M. Dusinska 
+
+ 
+Dr J. Ezendam 	 
 Dr E. Gaffet  
-Prof. C. L. Galli  (Rapporteur) Dr B. Granum 	 
-Prof. E. Panteri   Prof. V. Rogiers 	  (SCCS Vice-Chair) Dr Ch. Rousselle  
+Prof. C. L. Galli 
+ 
+(Rapporteur) 
+Dr B. Granum 	 
+Prof. E. Panteri 
+ 
+ 
+Prof. V. Rogiers 	 
+ 
+(SCCS Vice-Chair) 
+Dr Ch. Rousselle  
 Dr M. Stepnik  
 Prof. T. Vanhaecke  
-Dr S. Wijnhoven    
+Dr S. Wijnhoven  
+ 
+
+ 
  
 SCCS external experts: 
 Dr A. Simonnard 
@@ -245,27 +264,39 @@ CAS:  	73793-79-0  	1928659-47-5
 EC: 	  	/ 	 	 	 	/ 
  
  	 
-3.1.1.5 Structural Formula          	 
+3.1.1.5 Structural Formula 
+
+         	 
 	Base  	 	 	 	 	 
  	
  	 
- 	                  Dihydrochloride salt 
- 3.1.1.6 Purity, composition and batch codes  
+ 	                  
+Dihydrochloride salt 
+ 
+3.1.1.6 Purity, composition and batch codes 
+
+ 
 	Base   	 	Dihydrochloride salt 
-Formula 	C9H14N2O 	 	C9H14N2O • 2HCl 
+Formula 	C9H14N2O 	 	C9H14N2O ï¿½ 2HCl 
  
  
-3.1.2  Physical form  
+3.1.2 
+ Physical form 
+ 
 	Base   	 	 	 	 	 	Dihydrochloride salt 
 Physical form:  	Light pink to light purple powder  	 	Pink beige powder  
  
  
-3.1.3 Molecular weight  
+3.1.3 
+Molecular weight 
+ 
 	Base   	 	Dihydrochloride salt 
 Molecular weight: 166.22 g/mol 	239.14 g/mol 	 
  
  
-3.1.4 Purity, composition, and substance codes  
+3.1.4 
+Purity, composition, and substance codes 
+ 
 Base:  	 	 	 
 The analytical study of R0025521A was performed on two batches: 
 Batch 005 D 001  
@@ -277,7 +308,7 @@ Batch 004 P 001
 Batch 006 L 002  
 Batch 006 L 003  
  
-The separation was achieved by reversed phase LC equipped with a photodiode array detector 2998. All samples and eluents were filtered through a 0.2µm membrane filter (GHP) prior to use. In the used HPLC chromatographic conditions, the expected compound is mainly detected in all tested batches: 
+The separation was achieved by reversed phase LC equipped with a photodiode array detector 2998. All samples and eluents were filtered through a 0.2ï¿½m membrane filter (GHP) prior to use. In the used HPLC chromatographic conditions, the expected compound is mainly detected in all tested batches: 
  
 HPLC relative purity*: >95 % (Area % without response factor, UV detection), process: wavelength ? = 210nm 
 * Irrespective of residual solvents, salts and other non-detectable products 
@@ -291,15 +322,19 @@ The titre of all other batches was determined against R0025521B 004 P 001 consid
  
 Table 1: Comparative table of the analytical profiles of the different batches 
  
-(1) Titre determined against 3-(2,5-diaminophenyl)propan-1-ol dihydrochloride (R0025521B) batch 004 P 001 reference standard considered as pure (97% w/w). 
+
+(1) Titre determined against 3-(2,5-diaminophenyl)propan-1-ol dihydrochloride (R0025521B) batch 004 P 001 reference standard considered as pure (97% w/w). 
 (2) UV detection : UV purity - Area %, without response factor. 
- Irrespective of residual solvents, salts and other non-detectable products   
+ Irrespective of residual solvents, salts and other non-detectable products  
  
-3.1.5 Impurities / accompanying contaminants  
+ 
+3.1.5 
+Impurities / accompanying contaminants 
+ 
 Potential impurities for R0025521 A/B can be starting material, synthesis intermediaries, by products or residual solvents. 
  
 Structural identification of unknown impurities:  
-Four impurities were detected in the various batches at a level greater than 0.1% (except impurity N°1). These impurities have been analysed by HPLC/DAD/ESI-MS and their structures are presented in Table 2.  
+Four impurities were detected in the various batches at a level greater than 0.1% (except impurity Nï¿½1). These impurities have been analysed by HPLC/DAD/ESI-MS and their structures are presented in Table 2.  
  
  
  
@@ -315,30 +350,108 @@ Four impurities were detected in the various batches at a level greater than 0.1
  
 Table 2: Structural formulas of the four impurities detected 
  
-Impurity number and description Structural formula   
+Impurity number and description 
+Structural formula  
+ 
 Impurity No1: detected at m/z 161.1 in ESI(+); corresponds to a compound having a C9H8N2O empirical formula and a molecular weight of 160.1 g/mole. 
  
-6-Aminoquinolin-2-ol  Impurity N°2: detected at m/z 165.2 in ESI(+);corresponds to a compound having a C9H12N2O empirical formula and the molecular weight of 164.1 g/mole.  
-Structural hypothesis: Quinone di-imine of R0025521  Impurity N°3: detected at m/z 147.1 in ESI(+);corresponds to a compound having a C9H10N2 empirical formula and a molecular weight of 146.1 g/mole.  
-Structural hypothesis: de-hydro form of R0024700A.  Impurity N°4: detected at m/z 145.1 in ESI(+);corresponds to a compound having a C9H8N2 empirical formula and a molecular mass of 144.1 g/mole. 
-Structural hypothesis: Quinolin-6-amine   
+6-Aminoquinolin-2-ol 
+ 
+Impurity Nï¿½2: detected at m/z 165.2 in ESI(+);corresponds to a compound having a C9H12N2O empirical formula and the molecular weight of 164.1 g/mole.  
+Structural hypothesis: Quinone di-imine of R0025521 
+ 
+Impurity Nï¿½3: detected at m/z 147.1 in ESI(+);corresponds to a compound having a C9H10N2 empirical formula and a molecular weight of 146.1 g/mole.  
+Structural hypothesis: de-hydro form of R0024700A. 
+ 
+Impurity Nï¿½4: detected at m/z 145.1 in ESI(+);corresponds to a compound having a C9H8N2 empirical formula and a molecular mass of 144.1 g/mole. 
+Structural hypothesis: Quinolin-6-amine 
+ 
+ 
 Some other impurities were detected in small quantities in all other tested batches and are presented in Table 3. The chemical structures of all the impurities are presented in Table 4. 
  
  
  	 
 Table 3: Other impurities 
  
-Impurities R0025521B (dihydrochloride) R0025521A (base) 004 
-P001 006 
-L002 006 
-L003 005 D001 001 L002 % area ( ?= 230 -700nm) 9.3min (Imp.1) ND ND ND 0.05 ND 11min (Imp.5 R0080941A) ND ND 0.01 0.02 ND 12.8min (Imp.2) 0.08 0.11 0.11 0.05 0.08 18min (Imp. 3) 0.19 0.06 0.07 0.04 0.06 Imp 6 R0024700C Specific method was developed 19.1min (Imp. 4 R0066611A) ND 0.05 0.06 0.24  0.01 19.8min (Imp. 7 R0025495A) 0.59 ND ND Not generated in this process 22.2min (Imp. 8 R0078355A) ND ND ND ND ND 22.5min (Imp. 9 R0078106A) ND ND ND ND ND 23.0min (Imp. 10 R0078356A) ND ND ND ND ND In green: the impurities to be quantified with a level greater than 0.1% (%area)  
+Impurities 
+R0025521B (dihydrochloride) 
+R0025521A (base) 
+
+004 
+P001 
+006 
+L002 
+006 
+L003 
+005 D001 
+001 L002 
+
+% area ( ?= 230 -700nm) 
+9.3min (Imp.1) 
+ND 
+ND 
+ND 
+0.05 
+ND 
+11min (Imp.5 R0080941A) 
+ND 
+ND 
+0.01 
+0.02 
+ND 
+12.8min (Imp.2) 
+0.08 
+0.11 
+0.11 
+0.05 
+0.08 
+18min (Imp. 3) 
+0.19 
+0.06 
+0.07 
+0.04 
+0.06 
+Imp 6 R0024700C 
+Specific method was developed 
+19.1min (Imp. 4 R0066611A) 
+ND 
+0.05 
+0.06 
+0.24  
+0.01 
+19.8min (Imp. 7 R0025495A) 
+0.59 
+ND 
+ND 
+Not generated in this process 
+22.2min (Imp. 8 R0078355A) 
+ND 
+ND 
+ND 
+ND 
+ND 
+22.5min (Imp. 9 R0078106A) 
+ND 
+ND 
+ND 
+ND 
+ND 
+23.0min (Imp. 10 R0078356A) 
+ND 
+ND 
+ND 
+ND 
+ND 
+In green: the impurities to be quantified with a level greater than 0.1% (%area)  
 In red: specific method was developed for R0024700C  
 An analytical approach for the elucidation of the impurities with a level greater than 0.1% (%area) was performed.  
  
  	 
 Table 4: Impurities for R002551B 
  
-  
+
+ 
+ 
 According to the analytical data obtained from the analysis of three batches for R0025521B (dihydrochloride) and two batches for R0025521A (base), both compounds seem to contain similar impurities. 2-propylbenzene-1,4-diamine dihydrochloride (R0025495A), was detected only in R0025521B Batch 004 P 001: 0.8% (w/w).  
  
 R0024700C content in:  
@@ -369,12 +482,14 @@ Other impurities are detected. The relative % areas are given in Table 5.
  
 Table 5: Impurities of the test substances in different batches 
  
-(2) UV detection: UV purity - Area %, without response factor. Irrespective of residual solvents, salts and other non-detectable products ? = 230-700 nm 
+
+(2) UV detection: UV purity - Area %, without response factor. Irrespective of residual solvents, salts and other non-detectable products ? = 230-700 nm 
 (3) 2-propylbenzene-1,4-diamine dihydrochloride against batch R0025495A 001 L 001 reference standard considered as pure (99.9% w/w) 
 (4) 1,2,3,4-tetrahydroquinolin-6-amine hydrochloride against batch R0024700C 001 L 001 reference standard considered as pure (69% w/w) 
 (5) 4-aminophenylamine dihydrochloride against batch R0011102A 000 L 139 reference standard considered as pure (99.8% w/w) 
 (6) 2-methylbenzene-1,4-diamine dihydrochloride against batch R0011103A 001 L 001 reference standard considered as pure (99.3% w/w) 
-(7) Quinoline -6 amine  
+(7) Quinoline -6 amine 
+ 
 Ref: Analytical file Annex 11, 2014 
  
 During the public consultation period the Applicant clarified that impurities R0025495A, R0011102A and R0011103A are present as dihydrochloride or as base forms according to the main compound studied (A165 salt form or base form, respectively). Regarding impurity R0024700A, it is under base form as it is present in the base form of A165. However, R0024700C which is present in the salt form of A165, is a hydrochloride and not a dihydrochloride. 
@@ -394,15 +509,41 @@ During the public consultation period, the Applicant has calculated in accordanc
  	 
 Table 6: Residual solvents  
  
-Lots Ethanol (µg/g) Ethyl (µg/g) Ether Chloroethane (µg/g) Methylethylether (µg/g) 006 L 002 <1000 <100 20  006 L 003 <1000 <100 30  004 P 001 2600 500 500 50  
+Lots 
+Ethanol (ï¿½g/g) 
+Ethyl (ï¿½g/g) 
+Ether 
+Chloroethane (ï¿½g/g) 
+Methylethylether (ï¿½g/g) 
+006 L 002 
+<1000 
+<100 
+
+20 
+ 
+006 L 003 
+<1000 
+<100 
+
+30 
+ 
+004 P 001 
+2600 
+500 
+
+500 
+50 
+ 
 SCCS comment 
-• Impurities at content above 0.1% have been quantified using either external reference standards of the corresponding impurities or area normalization. In case of the known impurities where an external reference standard is used, the SCCS is of the opinion that a response factor should be applied for the quantitation.  
-• Justification should be provided for the filtration of the samples using 0.2µm syringe filters prior to the HPLC analysis, as this would have removed any insoluble impurities. It should be demonstrated that the main compound and all the impurities are fully dissolved in the dilution solvent prior to the HPLC analysis. The percentage recovery of the filtration procedure should be calculated by analysing samples without filtration and comparing the corresponding peak areas (of the test substance and the impurities) with those obtained after filtration. HPLC-PDA chromatograms and % content of all impurities of these samples analysed with and without filtration should be comparable in terms of % area and retention times. 
-• Table 3 contains an error. Impurity 4 is not R0066611A, but R0066511A.  
-• All impurities above 0.1% should be accurately quantified in every batch and kept at trace levels. 
+ï¿½ Impurities at content above 0.1% have been quantified using either external reference standards of the corresponding impurities or area normalization. In case of the known impurities where an external reference standard is used, the SCCS is of the opinion that a response factor should be applied for the quantitation.  
+ï¿½ Justification should be provided for the filtration of the samples using 0.2ï¿½m syringe filters prior to the HPLC analysis, as this would have removed any insoluble impurities. It should be demonstrated that the main compound and all the impurities are fully dissolved in the dilution solvent prior to the HPLC analysis. The percentage recovery of the filtration procedure should be calculated by analysing samples without filtration and comparing the corresponding peak areas (of the test substance and the impurities) with those obtained after filtration. HPLC-PDA chromatograms and % content of all impurities of these samples analysed with and without filtration should be comparable in terms of % area and retention times. 
+ï¿½ Table 3 contains an error. Impurity 4 is not R0066611A, but R0066511A.  
+ï¿½ All impurities above 0.1% should be accurately quantified in every batch and kept at trace levels. 
  
  
-3.1.6 Solubility  
+3.1.6 
+Solubility 
+ 
 Base: 
 R0025521A batch 005 D 001:  
 Water Milli Q: 	 	0.5 to 1 g/mL (pH about 7.6) 
@@ -424,7 +565,9 @@ Solubility data of both the base and dihydrochloride salt (test substances) in t
  
  
  
-3.1.7 Partition coefficient (Log Pow)  
+3.1.7 
+Partition coefficient (Log Pow) 
+ 
 Base:  
 No data provided  
  
@@ -433,13 +576,15 @@ R0025521B batch 004 P 001
 Log Pow Calculated: 	 	-0.70 code error 0 (ClogP, v5.2) 
 Log Pow Experimental: -0.60 code error 0.012 (determination by potentiometry) 
  
-3.1.8 Additional physicochemical specifications  
+3.1.8 
+Additional physicochemical specifications 
+ 
 Ionization constant  Base:  
 No data provided  
  
 Dihydrochloride salt: 
 R0025521B batch 004 P 001 
-Experimental pKa are 2.92 and 6.11 (25°C, ionic strength 0.15M) for a basic equilibria NH+/NH 
+Experimental pKa are 2.92 and 6.11 (25ï¿½C, ionic strength 0.15M) for a basic equilibria NH+/NH 
 (GLpKa Sirius) 
 pH=2.0 (2% w/w in distilled water)  
  
@@ -460,7 +605,9 @@ Ref: Analytical file, 2014
  
  
  
-3.1.9 Homogeneity and Stability  
+3.1.9 
+Homogeneity and Stability 
+ 
 Active Ingredient concentration and homogeneity in dose formulations 
 The analysis was performed to determine the active ingredient concentration and homogeneity of R0025521B in dose formulation using HPLC for JRF Study Number: 443-03-5651.  
  
@@ -489,7 +636,7 @@ The raw material ( batch: R0025521B 004 P 001) was stored away from light and hu
 Ref: Amsellem, 2014 
  
 During the public consultation period the Applicant provided clarification on the storage conditions. 
-The salt form of A165 (R0025521B batch 004 P 001) has been initially stored at room temperature (20-25°C) according to the certificate of analysis version 2 (edited in 2013) and version 3 (edited in 2015). Giving that this batch remained stable between 2013 and 2015, this confirms the stability of A165 when stored at room temperature. A stability study conducted in 2016 showed that A165 is stable at 4°C for more than two months Furthermore, the Applicant explored the stability of A165 under more stringent conditions like high temperature reaching 45°C., however degradation was observed at 45°C after a period of one month. Thus, as a precautionary measure, the Applicant recommends to store A165 at 4°C, and this was reported in the version 4 of the certificates of analysis in 2016.  
+The salt form of A165 (R0025521B batch 004 P 001) has been initially stored at room temperature (20-25ï¿½C) according to the certificate of analysis version 2 (edited in 2013) and version 3 (edited in 2015). Giving that this batch remained stable between 2013 and 2015, this confirms the stability of A165 when stored at room temperature. A stability study conducted in 2016 showed that A165 is stable at 4ï¿½C for more than two months Furthermore, the Applicant explored the stability of A165 under more stringent conditions like high temperature reaching 45ï¿½C., however degradation was observed at 45ï¿½C after a period of one month. Thus, as a precautionary measure, the Applicant recommends to store A165 at 4ï¿½C, and this was reported in the version 4 of the certificates of analysis in 2016.  
  
 SCCS comment 
 Detailed data on the stability of test substance in formulations should be provided by HPLC-PDA analysis over the wavelength range (200-400 nm).  
@@ -500,13 +647,35 @@ The ingredients hydroxypropyl p-phenylenediamine and its dihydrochloride salt (A
 According to the Applicant, hydroxypropyl p-phenylenediamine is a weak base, and as such may be formulated in the chemical form of a pure base, or as the salt of a simple inorganic counter-anion such as dihydrochloride. The salt form may be used in order to improve stability, solubility or to facilitate the formulation of the respective base. Choosing for a hair dye ingredient either the salt or free base form is linked to the ease and stability under storage conditions of these raw materials.  When formulated in finished oxidative hair coloring products, these two chemical forms of the hair dye ingredient A165 (free base and dihydrochloride salt) are quantitatively present as or converted to the free base. This is a consequence of the high pH value of oxidative hair coloring products (typically of about 9-10), which is significantly higher than the pKa values of hydroxypropyl pphenylenediamine (2.9 and 6.1 for each of the two amine functions of A165). Accordingly, only hydroxypropyl p-phenylenediamine (free base) is present in oxidative hair coloring products containing the hair dye ingredient A165, whatever the initial form (salt or free base) of the ingredient used to formulate the product. 
 	3.3 	Toxicological evaluation 
   
-3.3.1 Acute toxicity 3.3.1.1 Acute oral toxicity  
+3.3.1 Acute toxicity 
+
+3.3.1.1 
+Acute oral toxicity 
+ 
 No acute oral toxicity studies were performed with the hydroxypropyl p-phenylenediamine dihydrochloride salt. Nevertheless, in the 14-day repeated oral toxicity study performed by oral gavage in rats with hydroxypropyl p-phenylenediamine 2HCl at dose levels of 100, 300 and 1000 mg/kg, mortality was observed in all rats (10/10) treated at 1000 mg/kg/day at day 1, 2 or 3 post dosing. One death (1/10) was noted at the mid dose level of 300 mg/kg/day at day 14 after dosing. Lung and liver congestion were noted at necropsy. The clinical signs observed included lethargy, tremor, salivation, lacrimation, chromodacryorrhea and prostration in the high dose group. Only mild salivation and lethargy were observed in the mid dose group. Accordingly, the median lethal dose (LD50) was considered to be between 300 and 1000 mg/kg, and hydroxypropyl p-phenylenediamine and its dihydrochloride salt were considered to be of moderate toxicity following single oral administration. 
 Ref.: Mehta, 2013 
 SCCS comment 
 The 14-day oral repeated dose toxicity study provides evidence that hydroxypropyl pphenylenediamine 2HCl caused mortality at dose levels of 300 and 1000 mg/kg. This study indicates that the LD50 is above 300 mg/kg. 
  	 
-3.3.1.2 Acute dermal toxicity / 3.3.1.3 Acute inhalation toxicity / 3.3.1.4 Acute intraperitoneal toxicity / 3.3.2 Irritation and corrosivity 3.3.2.1 Skin irritation In vitro EpiskinSM Skin Irritation Test 
+3.3.1.2 
+Acute dermal toxicity 
+/ 
+
+3.3.1.3 
+Acute inhalation toxicity 
+/ 
+
+3.3.1.4 
+Acute intraperitoneal toxicity 
+/ 
+
+3.3.2 
+Irritation and corrosivity 
+
+
+3.3.2.1 
+Skin irritation 
+In vitro EpiskinSM Skin Irritation Test 
 Guideline: 	Based on OECD 439, Test method validated by EU Reference 
 Laboratory for alternatives to animal testing (EURL-ECVAM) 
 (ESAC statement, 2007)  
@@ -519,20 +688,20 @@ Purity: 	 	 	 	98%
 Test item: 	 	 	 	raw material diluted at 2.0% RM in water  
 Dose level: 	 	 	 	2.0%  
 Treatment period: 	 	 	 	15 minutes 
-Post-treatment incubation time:  	42 ± 1 hour  
-Positive control: 	10 µL of 50 mg/mL aqueous solution of Sodium Dodecyl 
+Post-treatment incubation time:  	42 ï¿½ 1 hour  
+Positive control: 	10 ï¿½L of 50 mg/mL aqueous solution of Sodium Dodecyl 
 Sulfate 
-Negative control: 	 	 	 	10 µL of PBS+;  
-Solvent control:  	 	 	 	10 µL of the water  
-Dead dermis negative control: 10 µL of PBS+ tested in triplicate on dead epidermis 
+Negative control: 	 	 	 	10 ï¿½L of PBS+;  
+Solvent control:  	 	 	 	10 ï¿½L of the water  
+Dead dermis negative control: 10 ï¿½L of PBS+ tested in triplicate on dead epidermis 
 Interaction with MTT:   	 	Positive 
 Colouring of tissue:  	 	 	Positive  
 GLP: 	 	 	 	In compliance 
 Study period: 	 	 	 	September 2013 - April 2014 
  
 The test item hydroxypropyl p-phenylenediamine HCl tested at the concentration of 2% in water was evaluated on 3 different batches of reconstructed human epidermis model. After preliminary tests (dilution and staining tests), the coloured test item was tested according to the specific colouring protocol.  
-Hydroxypropyl p-phenylenediamine HCl, negative control (PBS+), positive control (5% aqueous solution of Sodium Dodecyl Sulfate), solvent control (water), a dead epidermis negative control (PBS+) were tested in triplicate. Two additional negative controls (one dead and one alive tissue) which followed the same treatment as the negative control except the MTT incubation period were added. Six additional tissues (three alive and three dead tissues) were used and followed the same treatment with the test item as the other tissues (except for the MTT incubation period). These tissues as well as the additional negative control were used as additional specific controls in order to quantify the Non Specific Colour due to the colouring chemical interactions with the tissue. 10 µL of hydroxypropyl p-phenylenediamine HCl tested at the concentration of 2% and of different controls were applied onto the epidermis using a positive displacement pipette. After 15 minutes treatment period at room temperature tissues were rinsed with PBS+, and then epidermis were transferred in 2 ml/well of fresh maintenance medium and incubated for 42 hours ± 1 hour at 37°C. 
-At the end of the 42 hours ± 1 hour treatment period, each epidermis unit was transferred to 12well plate containing a dye solution (MTT) except for the negative control and the test item-treated epidermis without MTT which were transferred into a 12-well plate containing fresh medium. Plates were incubated for 3 hours approximately at 37°C. At the end of the incubation period, a biopsy of the entire epidermis was taken. For all tissues with the test item, the superficial epidermis layer (containing most of the remaining colour) was removed and discarded. The epidermis was separated from the collagen matrix and both were transferred into a tube containing 500 µL of acidified isopropanol. Formazan crystals were extracted and stirred to homogenise the solution. 2 x 200 µL of each extract were transferred onto a 96-well plate and the optical density (OD) was measured at 570 nm versus acidified isopropanol. 
+Hydroxypropyl p-phenylenediamine HCl, negative control (PBS+), positive control (5% aqueous solution of Sodium Dodecyl Sulfate), solvent control (water), a dead epidermis negative control (PBS+) were tested in triplicate. Two additional negative controls (one dead and one alive tissue) which followed the same treatment as the negative control except the MTT incubation period were added. Six additional tissues (three alive and three dead tissues) were used and followed the same treatment with the test item as the other tissues (except for the MTT incubation period). These tissues as well as the additional negative control were used as additional specific controls in order to quantify the Non Specific Colour due to the colouring chemical interactions with the tissue. 10 ï¿½L of hydroxypropyl p-phenylenediamine HCl tested at the concentration of 2% and of different controls were applied onto the epidermis using a positive displacement pipette. After 15 minutes treatment period at room temperature tissues were rinsed with PBS+, and then epidermis were transferred in 2 ml/well of fresh maintenance medium and incubated for 42 hours ï¿½ 1 hour at 37ï¿½C. 
+At the end of the 42 hours ï¿½ 1 hour treatment period, each epidermis unit was transferred to 12well plate containing a dye solution (MTT) except for the negative control and the test item-treated epidermis without MTT which were transferred into a 12-well plate containing fresh medium. Plates were incubated for 3 hours approximately at 37ï¿½C. At the end of the incubation period, a biopsy of the entire epidermis was taken. For all tissues with the test item, the superficial epidermis layer (containing most of the remaining colour) was removed and discarded. The epidermis was separated from the collagen matrix and both were transferred into a tube containing 500 ï¿½L of acidified isopropanol. Formazan crystals were extracted and stirred to homogenise the solution. 2 x 200 ï¿½L of each extract were transferred onto a 96-well plate and the optical density (OD) was measured at 570 nm versus acidified isopropanol. 
 IL-1a released in the culture medium was determined by a classic quantitative sandwich enzyme immunoassay technique. The optical density (OD values related to the IL-1 a amount) was measured at 450 nm. The test item is predicted to be non-irritant when mean viability value is above 50% and final IL-1a release is below 50 pg/mL. The test item is predicted to be irritant when mean viability value is lower than (=) 50% or final IL-1a release is above (=) 50 pg/mL. 
  
 Results  
@@ -546,7 +715,9 @@ SCCS comment
 Even though hydroxypropyl p-phenylenediamine 2HCl diluted to 2% w/w in water has a very low pH of 2, which may lead to corrosive effects, skin irritation was not detected in the in vitro Episkin study. 
  
  
-3.3.2.2 Mucous membrane irritation / Eye irritation  
+3.3.2.2 
+Mucous membrane irritation / Eye irritation 
+ 
 Bovine corneal opacity and permeability method (BCOP) 
 Guideline:   	 	 	 	Modified version of OECD 437 (September 2009) 
 Test material: 	 	 	 	Bovine cornea 
@@ -555,18 +726,18 @@ Test substance: 	 	 	 	Hydroxypropyl p-phenylenediamine HCl
 Batch: 	 	 	 	 	R0025521B 004 P 001 
 Purity: 	 	 	 	 	97.2% 
 Test item:  	 	 	 	2% (w/w) in distilled water 
-Dose applied: 	 	 	 	750µl 
-Treatment period:  	 	 	30 minutes ± 5 minutes or 4 hours ± 10 minutes 
+Dose applied: 	 	 	 	750ï¿½l 
+Treatment period:  	 	 	30 minutes ï¿½ 5 minutes or 4 hours ï¿½ 10 minutes 
 Post-treatment incubation time  	2 hours for 30 minutes incubation time, none for 4 hours incubation time 
 Positive control: 	Cetyl Trimethylammonium Bromide (CTAB) in distilled water 
 Negative control:  	 	 	Nutritive medium  
 GLP:  	 	 	 	 	In compliance 
 Study period:  	 	 	 	April - June 2012 
  	 
-Bovine eyes (from cattle aged at least 9 months) were collected from the slaughterhouse and prepared within 4 hours after collection. Eyes that were too big or cornea showing defects were discarded. After a 1 hour±10 minutes pre-incubation period at 32±1°C, a first basal opacity measurement of the fresh corneas was performed. Subsequently, 750 µl of the test item was applied onto the cornea for 30 minutes or 4 hours. After the 30 minutes treatment period, the cornea were rinsed and incubated for further 2 hours at 32±1 °C, after which opacity was measured again. In case of the 4 hour contact period, measurement of opacity was performed immediately after rinsing.  Following the opacity readings, the permeability endpoint was measured. Hereto, the cornea were brought into contact via the anterior chamber of the corneal holder with 1ml of a 0.5% (w/v) sodium fluorescein solution in PBS+ and incubated for 90±10 minutes at 32±1 °C. Medium from the posterior compartment of the corneal holder was sampled to measure the optical density at 490nm. The corneal score which is the combination of opacity and permeability was then calculated. Negative and positive control substances were tested according to the same experimental conditions.  
+Bovine eyes (from cattle aged at least 9 months) were collected from the slaughterhouse and prepared within 4 hours after collection. Eyes that were too big or cornea showing defects were discarded. After a 1 hourï¿½10 minutes pre-incubation period at 32ï¿½1ï¿½C, a first basal opacity measurement of the fresh corneas was performed. Subsequently, 750 ï¿½l of the test item was applied onto the cornea for 30 minutes or 4 hours. After the 30 minutes treatment period, the cornea were rinsed and incubated for further 2 hours at 32ï¿½1 ï¿½C, after which opacity was measured again. In case of the 4 hour contact period, measurement of opacity was performed immediately after rinsing.  Following the opacity readings, the permeability endpoint was measured. Hereto, the cornea were brought into contact via the anterior chamber of the corneal holder with 1ml of a 0.5% (w/v) sodium fluorescein solution in PBS+ and incubated for 90ï¿½10 minutes at 32ï¿½1 ï¿½C. Medium from the posterior compartment of the corneal holder was sampled to measure the optical density at 490nm. The corneal score which is the combination of opacity and permeability was then calculated. Negative and positive control substances were tested according to the same experimental conditions.  
  
 Results  
-The score obtained for hydroxypropyl p-phenylenediamine HCl at the concentration of 2% (w/w) in water after 30-minutes and 4-hour contact was 2.3±1.9 and 3.5±6.3, respectively.  
+The score obtained for hydroxypropyl p-phenylenediamine HCl at the concentration of 2% (w/w) in water after 30-minutes and 4-hour contact was 2.3ï¿½1.9 and 3.5ï¿½6.3, respectively.  
  
 Conclusion  
 Under the conditions of this study, the in vitro evaluation of the acute ocular irritation potential of hydroxypropyl p-phenylenediamine HCl at a concentration of 2% in the Bovine Corneal Opacity and Permeability test, suggested that this ingredient is slightly irritant for the isolated bovine cornea after 30 minutes and 4 hours of contact. 
@@ -575,10 +746,34 @@ Ref: Maillet, 2012
 SCCS comment 
 The BCOP assay is an in vitro method that can be used to identify ocular corrosive and severe irritants, but not mild irritants. Even though hydroxypropyl p-phenylenediamine 2HCl diluted to 2% w/w in water has a very low pH of 2, which may lead to corrosive effects, the BCOP assay did not indicate severe eye irritation. This, however, does not exclude mild or moderate eye irritancy potential. Under the conditions of this study, a mild to moderate eye irritation potential of the test item cannot be excluded. 
  
-3.3.3 Skin sensitisation  
+3.3.3 
+Skin sensitisation 
+ 
 Local Lymph Node Assay (LLNA) 
  
-Guideline: OECD 429, EC B.42 Species/strain: Female CBA/J mice Group size: 4 mice per group (main study), 2 mice per group (preliminary assay) Test substance: Hydroxypropyl p-phenylenediamine HCl Batch: R0025521B 004 P 001 Purity: 97.2% pure (relative purity was 98.6%) Vehicle: Propylene glycol Concentration: 1, 2.5, 5, 10 or 25% (w/v) Positive control: alpha-hexylcinnamaldehyde (HCA) at 25% (v/v) in Propylene glycol.  GLP: In compliance Study period: May - August, 2012   
+Guideline: 
+OECD 429, EC B.42 
+Species/strain: 
+Female CBA/J mice 
+Group size: 
+4 mice per group (main study), 2 mice per group (preliminary assay) 
+Test substance: 
+Hydroxypropyl p-phenylenediamine HCl 
+Batch: 
+R0025521B 004 P 001 
+Purity: 
+97.2% pure (relative purity was 98.6%) 
+Vehicle: 
+Propylene glycol 
+Concentration: 
+1, 2.5, 5, 10 or 25% (w/v) 
+Positive control: 
+alpha-hexylcinnamaldehyde (HCA) at 25% (v/v) in Propylene glycol.  
+GLP: 
+In compliance 
+Study period: 
+May - August, 2012  
+ 
 Animals were separated in groups (4 mice/group) consisting of five treated groups receiving hydroxypropyl p-phenylenediamine HCl at 1, 2.5, 5, 10 or 25% (w/v) in propylene glycol. Due to unsatisfactory solubility tests of hydroxypropyl p-phenylenediamine HCl in the first recommended vehicles, this vehicle was selected after a solubility study showing that 25% (w/v) hydroxypropyl pphenylenediamine HCl was the maximal practicable concentration.  
 The test substance hydroxypropyl p-phenylenediamine 2HCl, propylene glycol or HCA were applied over the ears for three consecutive days. After 2 days of resting, mice received a single intravenous injection of tritiated methyl thymidine (3H-TdR). Lymph nodes draining the application sites (auricular nodes) were sampled, pooled per group, and the proliferation of lymphocytes was evaluated by measuring the incorporation of 3H-TdR. The values obtained were used to calculate stimulation indices (SI). The irritant potential of the test item was assessed by measuring ear thickness on days 0, 2 and 5.  
  
@@ -593,21 +788,51 @@ SCCS comment
 The SCCS agrees with the Applicant that hydroxypropyl p-phenylenediamine 2HCl is a moderate skin sensitiser. 
 The Applicant stated that there was no noteworthy increase in ear thickness, but this is not supported by the provided data that show an increase in ear thickness in all exposed mice. In the high-dose group an increase of 20% in ear thickness was reported. In view of this, the SCCS considers hydroxypropyl p-phenylenediamine 2HCl as slightly irritant under the conditions of this study.  
  
-3.3.4 Dermal / percutaneous absorption  
+3.3.4 
+Dermal / percutaneous absorption 
+ 
 Guideline: 	 	 	OECD 428  
-Species/strain: 	 	 	Frozen human dermatomed skin (400 µm) 
+Species/strain: 	 	 	Frozen human dermatomed skin (400 ï¿½m) 
 Membrane integrity:  	 	Checked by electrical resistance, at least 10 k? 
 Replicates: 	 	 	12 intact skin samples (4 donors) 
 Test substance: 	 	 	Hydroxypropyl p-phenylenediamine HCl 
-Batch: 	 	 R0025521B 004 P 001 and R0025521B CFQ41882 of [14C]  Purity: 	 	 99.3% (004 P 001); 97% (CFQ41882) Test item: Hair dye formulation containing a final on-head concentration of 2% hydroxypropyl p-phenylenediamine HCl  Dose applied: 20 mg/cm2 of the test formulation (400 µg/cm2 of hydroxypropyl pphenylenediamine HCl)  	 Exposure area: 	 	 2.54 cm2 Exposure period: 	 	 30 minutes Sampling period: 	 	 24 hours Receptor fluid: 	 	 degassed phosphate buffered saline (PBS) Solubility in receptor fluid:  100 g/L in water Mass balance analysis:  100.20% ± 0.83% of the applied dose Tape stripping: 	 	 Yes (20) Method of Analysis:  	 Liquid scintillation counting (LSC) GLP: 	 	 In compliance Study period: 	 	 March - October, 2014  
-Skin samples were dermatomed (~400 µm in thickness) and mounted in diffusion cells, using PBS as the receptor fluid. Membrane integrity was determined by measurement of the penetration of tritiated water across the skin membrane. Membranes exhibiting absorption greater than 0.6% of the applied dose were regarded as having a lower integrity than normal and not used for exposure to the test materials. Twelve intact skin membranes (from four human donors) were used and skin was maintained at approximately 32°C.  
-A typical oxidative hair dye formulation containing a nominal 4% hydroxypropyl p-phenylenediamine HCl was mixed with peroxide developer (1:1, w/w) resulting in a concentration of 2% hydroxypropyl p-phenylenediamine HCl. About 20 mg/cm² of hydroxypropyl p-phenylenediamine HCl (corresponding to a nominal 400 µg/cm² of hydroxypropyl p-phenylenediamine HCl) were applied to the skin surface for 30 minutes to mimic in-use conditions. After this time period, the remaining formulation on the skin surface was removed using a standardized washing procedure, simulating use conditions. Twenty-four (24) hours after application, the percutaneous absorption of hydroxypropyl p-phenylenediamine HCl was estimated by measuring its concentration by liquid scintillation counting in the following compartments: skin washes, stratum corneum (isolated by tape strippings), living epidermis/dermis, unexposed skin and receptor fluid.  
+Batch: 	 	 
+R0025521B 004 P 001 and R0025521B CFQ41882 of [14C]  
+Purity: 	 	 
+99.3% (004 P 001); 97% (CFQ41882) 
+Test item: 
+Hair dye formulation containing a final on-head concentration of 2% hydroxypropyl p-phenylenediamine HCl  
+Dose applied: 
+20 mg/cm2 of the test formulation (400 ï¿½g/cm2 of hydroxypropyl pphenylenediamine HCl)  	 
+Exposure area: 	 	 
+2.54 cm2 
+Exposure period: 	 	 
+30 minutes 
+Sampling period: 	 	 
+24 hours 
+Receptor fluid: 	 	 
+degassed phosphate buffered saline (PBS) 
+Solubility in receptor fluid:  
+100 g/L in water 
+Mass balance analysis:  
+100.20% ï¿½ 0.83% of the applied dose 
+Tape stripping: 	 	 
+Yes (20) 
+Method of Analysis:  	 
+Liquid scintillation counting (LSC) 
+GLP: 	 	 
+In compliance 
+Study period: 	 	 
+March - October, 2014 
+ 
+Skin samples were dermatomed (~400 ï¿½m in thickness) and mounted in diffusion cells, using PBS as the receptor fluid. Membrane integrity was determined by measurement of the penetration of tritiated water across the skin membrane. Membranes exhibiting absorption greater than 0.6% of the applied dose were regarded as having a lower integrity than normal and not used for exposure to the test materials. Twelve intact skin membranes (from four human donors) were used and skin was maintained at approximately 32ï¿½C.  
+A typical oxidative hair dye formulation containing a nominal 4% hydroxypropyl p-phenylenediamine HCl was mixed with peroxide developer (1:1, w/w) resulting in a concentration of 2% hydroxypropyl p-phenylenediamine HCl. About 20 mg/cmï¿½ of hydroxypropyl p-phenylenediamine HCl (corresponding to a nominal 400 ï¿½g/cmï¿½ of hydroxypropyl p-phenylenediamine HCl) were applied to the skin surface for 30 minutes to mimic in-use conditions. After this time period, the remaining formulation on the skin surface was removed using a standardized washing procedure, simulating use conditions. Twenty-four (24) hours after application, the percutaneous absorption of hydroxypropyl p-phenylenediamine HCl was estimated by measuring its concentration by liquid scintillation counting in the following compartments: skin washes, stratum corneum (isolated by tape strippings), living epidermis/dermis, unexposed skin and receptor fluid.  
  
 Results  
-All diffusion cells yielded data that could be analysed and the mean recovery rate was good at 100.2%. The HPLC analysis of the hair dye formulation performed following the dosing procedure and 24 hours post application was 102% and 97.8%, respectively, confirming that the formulation was stable for a 24-hour period. Most of the hydroxypropyl p-phenylenediamine HCl applied on the skin surface was removed with the skin wash at 30 minutes (95.98%). The mean amount of hydroxypropyl p-phenylenediamine HCl considered as systemically available was estimated as follows (sum of amounts measured in living epidermis/dermis and receptor fluid): 2.09 ± 1.61 µg-eq/cm2 (0.54 ± 0.41% of the applied dose).  
+All diffusion cells yielded data that could be analysed and the mean recovery rate was good at 100.2%. The HPLC analysis of the hair dye formulation performed following the dosing procedure and 24 hours post application was 102% and 97.8%, respectively, confirming that the formulation was stable for a 24-hour period. Most of the hydroxypropyl p-phenylenediamine HCl applied on the skin surface was removed with the skin wash at 30 minutes (95.98%). The mean amount of hydroxypropyl p-phenylenediamine HCl considered as systemically available was estimated as follows (sum of amounts measured in living epidermis/dermis and receptor fluid): 2.09 ï¿½ 1.61 ï¿½g-eq/cm2 (0.54 ï¿½ 0.41% of the applied dose).  
  
 Conclusion  
-The results obtained in this study indicate that hydroxypropyl p-phenylenediamine HCl present at a maximum final on-head concentration of 2% in a typical oxidative hair dye formulation penetrated through human dermatomed skin at a very slow rate. The amount of hydroxypropyl pphenylenediamine HCl considered as absorbed was estimated to be at most 2.09 ± 1.61 µg-eq/cm2 corresponding to 0.54 ± 0.41% of the applied dose. 
+The results obtained in this study indicate that hydroxypropyl p-phenylenediamine HCl present at a maximum final on-head concentration of 2% in a typical oxidative hair dye formulation penetrated through human dermatomed skin at a very slow rate. The amount of hydroxypropyl pphenylenediamine HCl considered as absorbed was estimated to be at most 2.09 ï¿½ 1.61 ï¿½g-eq/cm2 corresponding to 0.54 ï¿½ 0.41% of the applied dose. 
  
  
  
@@ -621,19 +846,53 @@ The results obtained in this study indicate that hydroxypropyl p-phenylenediamin
  
 Table 10: Summary of Hydroxypropyl p-phenylenediamine HCl distribution in the test system 
  
- µg-eq/cm2 Hydroxypropyl  p-phenylenediamine HCl   
-Mean                       SD % of applied dose 
  
-Mean               SD Total Dislodgeable dose 376.56 23.49 96.75 1.94 Unabsorbed dose 387.78 21.6 99.66 1.15 Absorbed dose 0.26 0.16 0.07 0.04 Dermal delivey 2.09 1.61 0.54 0.41 Mass balance 389.87 21.36 100.2 0.83 Unabsorbed dose = total dislodgeable dose + stratum corneum + unexposed skin.  
+ï¿½g-eq/cm2 Hydroxypropyl  p-phenylenediamine HCl   
+Mean                       SD 
+% of applied dose 
+ 
+Mean               SD 
+Total Dislodgeable dose 
+376.56 
+23.49 
+96.75 
+1.94 
+Unabsorbed dose 
+387.78 
+21.6 
+99.66 
+1.15 
+Absorbed dose 
+0.26 
+0.16 
+0.07 
+0.04 
+Dermal delivey 
+2.09 
+1.61 
+0.54 
+0.41 
+Mass balance 
+389.87 
+21.36 
+100.2 
+0.83 
+Unabsorbed dose = total dislodgeable dose + stratum corneum + unexposed skin.  
 Absorbed dose = receptor fluid + receptor rinse + receptor wash 
 Dermal delivery = epidermis + dermis = absorbed dose  
 Ref.: Toner, 2014 
  
 SCCS comment 
-Following the SCCS Notes of Guidance, the dermal absorption of hydroxypropyl p-phenylenediamine 2HCl was estimated to be 3.7 µg/cm2 (mean + 1SD). 
+Following the SCCS Notes of Guidance, the dermal absorption of hydroxypropyl p-phenylenediamine 2HCl was estimated to be 3.7 ï¿½g/cm2 (mean + 1SD). 
  
  
-3.3.5 Repeated dose toxicity 3.3.5.1 Repeated Dose (14 days) oral toxicity  
+3.3.5 
+Repeated dose toxicity 
+
+
+3.3.5.1 
+Repeated Dose (14 days) oral toxicity 
+ 
 Guideline:  	/ 
 Species/strain: 	Wistar rats 
 Group size: 5/sex/group  
@@ -659,18 +918,46 @@ Thus, the dose level of 300 mg/kg can be considered a maximum tolerated dose.
                                                                                    Ref.: Mehta, 2013 SCCS comment 
 Statistically significant decreases in red blood cell count, hematocrit and prothrombin time were observed in females at 300 mg/kg bw/d. In both sexes, statistically significant increases in platelet counts were observed at the highest dose tested. In addition, a trend increase in absolute and relative liver and kidney organ weights was observed. These changes were significant at 300 mg/kg/day. Therefore, a NOAEL of 100 mg/kg/day Hydroxypropyl p-phenylenediamine 2HCl can be derived from this study. 
  
-3.3.5.2 Sub-chronic (90 days) toxicity (oral)  
-Guideline:  OECD TG 408  Species/strain: Wistar rats Group size:  10 animals/sex/group Test substance: Hydroxypropyl p-phenylenediamine HCl Batch: 	 R0025521B 004 P 001 Purity: 	 97.2% (relative purity 98.6%) Vehicle: 	 RO water Dose levels:  0, 10, 30 or 100 mg/kg/day  Dose volume: 10 mL/kg Route: 	 oral Administration: gavage GLP:  	 in compliance Study period: 14 December 2012 - 24 May, 2014 (the experimental phase of this study was conducted from December 2012 to 22 March 2013. The corresponding study report was completed in 2014).   
+3.3.5.2 
+Sub-chronic (90 days) toxicity (oral) 
+ 
+Guideline:  
+OECD TG 408  
+Species/strain: 
+Wistar rats 
+Group size:  
+10 animals/sex/group 
+Test substance: 
+Hydroxypropyl p-phenylenediamine HCl 
+Batch: 	 
+R0025521B 004 P 001 
+Purity: 	 
+97.2% (relative purity 98.6%) 
+Vehicle: 	 
+RO water 
+Dose levels:  
+0, 10, 30 or 100 mg/kg/day  
+Dose volume: 
+10 mL/kg 
+Route: 	 
+oral 
+Administration: 
+gavage 
+GLP:  	 
+in compliance 
+Study period: 
+14 December 2012 - 24 May, 2014 (the experimental phase of this study was conducted from December 2012 to 22 March 2013. The corresponding study report was completed in 2014). 
+  
 The subchronic toxicity of hydroxypropyl p-phenylenediamine HCl was investigated in Wistar rats (10/sex/group) after daily oral gavage at 0, 10, 30 or 100 mg/kg/day in water (10 mL/kg) for 13 weeks. These dose levels were selected on the basis of the results of a preliminary 14-day study performed at 100, 300 and 1000 mg/kg/day, described in section 3.3.18.1). Evaluations and measurements included mortality checks, daily clinical observations, weekly body weight and food intake, ophthalmoscopy prior to dosing and at the end of the treatment period, neurotoxicological evaluation during week 12, haematology, blood clinical chemistry and urinalysis (week 13). At the end of treatment period, surviving animals were killed and subjected to macroscopic examination; selected organs were weighed, and a wide range of organs/tissues were preserved. Microscopic examination was performed for specified tissues/organs from control and high dose rats killed at the end of the dosing period, as well as for any gross anomaly. 
  
 Results 
 The chemical analysis of the dose formulations administered during the study showed that achieved concentrations were close to the intended values. The test item hydroxypropyl p-phenylenediamine HCl did not induce any relevant treatment-related changes with respect to survival, clinical signs, body weight, body weight gain, food consumption, ophthalmological examinations, neurological observations as well as coagulation and urine parameters evaluated. No toxicologically significant changes in hematology parameters were observed.  
 Statistically higher liver weight was observed in both males (both absolute and relative to terminal bodyweight) belonging to the high dose group when compared to the vehicle control group. In high dose females, the relative liver weights were statistically significantly (p=0.01) increased (3.491 versus 2.972 in controls). In the absence of microscopic lesions of pathological significance, these liver effects are considered as an adaptive response to the test item and of little relevance to man.  Statistically significant higher alanine transaminase (ALT), Aspartate Aminotransferase (AST), total bilirubin, cholesterol and GGT values were observed in females from the high dose group when compared to the vehicle control.  
  
-• ALT (p=0.05): 44.61 IU/L in high dose females compared to 36.67 IU/L in controls 
-• AST (p=0.01): 287.95 IU/L in high dose females compared to 104.3 IU/L in controls 
-• Total Bilirubin (p=0.05): 3.98 µmol/L in high dose females compared to 3.09 µmol/L in controls 
-• Cholesterol (p=0.01): 68.9 mg/dL in high dose females compared to 50.45 µmol/L in controls ? GGT (p=0.05): 0.38 IU/L in high dose females compared to 0.02 IU/L in controls 
+ï¿½ ALT (p=0.05): 44.61 IU/L in high dose females compared to 36.67 IU/L in controls 
+ï¿½ AST (p=0.01): 287.95 IU/L in high dose females compared to 104.3 IU/L in controls 
+ï¿½ Total Bilirubin (p=0.05): 3.98 ï¿½mol/L in high dose females compared to 3.09 ï¿½mol/L in controls 
+ï¿½ Cholesterol (p=0.01): 68.9 mg/dL in high dose females compared to 50.45 ï¿½mol/L in controls ? GGT (p=0.05): 0.38 IU/L in high dose females compared to 0.02 IU/L in controls 
  
 When compared to controls, the statistically significant higher level of AST correlated with a statistically significant higher absolute (in males) and relative (in males and females) liver organ weights were observed at the highest dose level, without any associated microscopic changes. The increased values of AST were considered as test-item related, whereas all other changes (ALT, total bilirubin, cholesterol and GGT) were considered incidental and unrelated to treatment due to their low magnitude. Statistically significant lower absolute heart weight was observed in females from the high dose group, while significant higher kidney weight was observed in the males from the same dose group. These values were within the historical control range values and were considered unrelated to the treatment. No other test item-related changes were detected regarding absolute and relative organ weights, gross and microscopic examination. 
  
@@ -681,24 +968,54 @@ Ref.: Gohel, 2014a, b
 SCCS comment 
 The SCCS agrees with the Applicant that the increase in reticulocyte count and the hematological effects are probably not biologically and toxicologically relevant. The SCCS however does consider the significant effects in some clinical chemistry parameters as well as the statistically significant increase in relative liver weights of females at the high dose as adverse and of toxicological relevance. Hall et al (2012) suggest that in the absence of histological changes a weight-of evidence approach should be used by considering biologically significant and consistent increase in at least two further liver parameters. Since both ALT and AST levels were statistically significantly increased in the high dose females compared to controls, the SCCS considers the liver effects as adverse, resulting in a NOAEL of 30 mg/kg/day.  
  
-3.3.5.3 Chronic (> 12 months) toxicity / 3.3.6 Mutagenicity / Genotoxicity 3.3.6.1 Mutagenicity / Genotoxicity in vitro  
+3.3.5.3 
+Chronic (> 12 months) toxicity 
+/ 
+
+3.3.6 
+Mutagenicity / Genotoxicity 
+
+
+3.3.6.1 
+Mutagenicity / Genotoxicity in vitro 
+ 
 Bacterial Reverse Mutation Test  
  
-Guideline:   	 OECD TG 471 Species/Strain: 	 Salmonella typhimurium (TA1535, TA1537, TA98, TA100 and TA102) Replicates:  	 Triplicates plates in two separate experiments  Test substance: 	 Hydroxypropyl p-phenylenediamine (base)  Batch: 	 	 R0025521A 001 L 002 Purity:                 Relative purity 99.8% Solvent:               Purified water  Positive controls:  Without S9 mix: 2-nitrofluorene (TA98), sodium azide (TA100, TA1535), 
+Guideline:   	 
+OECD TG 471 
+Species/Strain: 	 
+Salmonella typhimurium (TA1535, TA1537, TA98, TA100 and TA102) 
+Replicates:  	 
+Triplicates plates in two separate experiments  
+Test substance: 	 
+Hydroxypropyl p-phenylenediamine (base)  
+Batch: 	 	 
+R0025521A 001 L 002 
+Purity:                 
+Relative purity 99.8% 
+Solvent:               
+Purified water  
+Positive controls:  
+Without S9 mix: 2-nitrofluorene (TA98), sodium azide (TA100, TA1535), 
 9-aminoacrridine (TA1537), mitomycin C (TA102) 
-With S9 mix: benzo[a]pyrene (TA 100), 2-anthramine (TA1535, TA 1537, TA 98) Concentrations:  Experiment 1 and 2: 0, 312.5, 625, 1250, 2500 and 5000 µg/plate without and with S9-mix.  Experiment 3:   0, 468.8, 625, 937.5, 1250, 2500 and 5000 µg/plate without and with S9mix for the TA98 strain in presence of S9 mix Treatment: 	 Direct plate incorporation incubated for 3 days protected from light without and with S9-mix. Experiments 2 and 3 with S9 mix were 
+With S9 mix: benzo[a]pyrene (TA 100), 2-anthramine (TA1535, TA 1537, TA 98) 
+Concentrations: 
+ Experiment 1 and 2: 0, 312.5, 625, 1250, 2500 and 5000 ï¿½g/plate without and with S9-mix.  
+Experiment 3:  
+ 0, 468.8, 625, 937.5, 1250, 2500 and 5000 ï¿½g/plate without and with S9mix for the TA98 strain in presence of S9 mix 
+Treatment: 	 Direct plate incorporation incubated for 3 days protected from light without and with S9-mix. Experiments 2 and 3 with S9 mix were 
 	performed according to the pre-incubation method 	 	  
 GLP:  	 	 	In compliance 
 Study period: 	 	May - August 2015 
  
 The test item hydroxypropyl p-phenylenediamine was evaluated in two and three independent experiments in the absence and presence of metabolic activation, respectively (S9 mix prepared from the livers of rats given Aroclor 1254). The experiments were conducted according to the direct plating incorporation method, apart from the second and third tests with S9 mix which were performed according to the pre-incubation method. Since hydroxypropyl p-phenylenediamine was freely soluble at 50 mg/ml in water, concentrations used were as follows:  
-- 312.5, 625, 1250, 2500 and 5000 µg/plate in experiment 1 and 2, in the absence and presence of S9 mix  
-- 468.8, 625, 937.5, 1250, 2500 and 5000 µg/plate for the TA 98 strain in the third experiment, in the presence of S9 mix.  
+- 312.5, 625, 1250, 2500 and 5000 ï¿½g/plate in experiment 1 and 2, in the absence and presence of S9 mix  
+- 468.8, 625, 937.5, 1250, 2500 and 5000 ï¿½g/plate for the TA 98 strain in the third experiment, in the presence of S9 mix.  
 Known mutagens were used as positive controls, and cultures treated with purified water (solvent) were used as negative controls.  
  
 Results  
 All solvent and positive controls gave counts of revertants within expected ranges, and the experiments were therefore considered to be valid. Slight increases in the number of revertant colonies were observed in the TA 98 strain in the first experiment (up to 1.9-fold the vehicle control value). Since they did not reach the positive threshold of 2-fold the vehicle control value, were not dose-related and were not reproduced in the second experiment performed under the same experimental conditions, these increases were considered not to be biologically relevant.  
-A slight increase in the number of revertant colonies was observed at the dose-level of 625 µg/plate in the TA 98 strain in the second experiment (pre-incubation method). Since it did not reach the positive threshold of 2-fold the vehicle control value (1.9-fold), was not dose-related, was not observed using the direct plate incorporation method (first experiment) and was not reproduced in the third experiment (pre-incubation method) despite using a narrower range of dose-levels, this increase was considered not to be biologically relevant. No significant and reproducible increased number of revertants was observed with any other bacterial strain.  
+A slight increase in the number of revertant colonies was observed at the dose-level of 625 ï¿½g/plate in the TA 98 strain in the second experiment (pre-incubation method). Since it did not reach the positive threshold of 2-fold the vehicle control value (1.9-fold), was not dose-related, was not observed using the direct plate incorporation method (first experiment) and was not reproduced in the third experiment (pre-incubation method) despite using a narrower range of dose-levels, this increase was considered not to be biologically relevant. No significant and reproducible increased number of revertants was observed with any other bacterial strain.  
  
 Conclusion  
 Under the conditions of this study, hydroxypropyl p-phenylenediamine was not mutagenic in Salmonella typhimurium strains TA1535, TA1537, TA98, TA100 and TA102 either in the presence or absence of metabolic activation. 
@@ -709,12 +1026,40 @@ The SCCS notes that in the experiment with hydroxypropyl p-phenylenediamine (bas
  
 Bacterial Reverse Mutation Test  
  
-Guideline:   	 OECD TG 471 Species/Strain: 	 Salmonella typhimurium (TA1535, TA1537, TA98, TA100 and TA102) Replicates:  Triplicates plates in two separate experiments; five plates for negative controls Test substance: 	 Hydroxypropyl p-phenylenediamine HCl (salt) Batch: 	 	 R0025521B 004 P 001  Purity:                 Relative purity 98.6% Solvent:               Purified water  Positive controls:  2-nitrofluorene (TA98), sodium azide (TA100, TA1535), 9-aminoacrridine 
-(TA1537), mitomycin C (TA102), benzo[a]pyrene (TA98), 2aminoanthracene (TA100, TA1535, TA1537, TA102) Concentrations:  Experiment 1: 0, 5, 15.81, 50, 158.1, 500, 1581 and 5000 µg/plate without and with S9-mix.  
-Experiment 2: 0, 20.48, 51.2, 128, 320, 800, 2000 and 5000 µg/plate without and with S9-mix for all strains except TA1537 (8.192, 20.48, 51.2, 128, 320, 800 and 2000 µg/plate) Treatment:  Direct plate incorporation incubated for 3 days protected from light without and with S9-mix  GLP:  	  In compliance Study period:  June 25 - November 13 2012  
+Guideline:   	 
+OECD TG 471 
+Species/Strain: 	 
+Salmonella typhimurium (TA1535, TA1537, TA98, TA100 and TA102) 
+Replicates: 
+ Triplicates plates in two separate experiments; five plates for negative controls 
+Test substance: 	 
+Hydroxypropyl p-phenylenediamine HCl (salt) 
+Batch: 	 	 
+R0025521B 004 P 001  
+Purity:                 
+Relative purity 98.6% 
+Solvent:               
+Purified water  
+Positive controls:  
+2-nitrofluorene (TA98), sodium azide (TA100, TA1535), 9-aminoacrridine 
+(TA1537), mitomycin C (TA102), benzo[a]pyrene (TA98), 2aminoanthracene (TA100, TA1535, TA1537, TA102) 
+Concentrations: 
+
+ Experiment 1: 0, 5, 15.81, 50, 158.1, 500, 1581 and 5000 ï¿½g/plate without and with S9-mix.  
+Experiment 2: 0, 20.48, 51.2, 128, 320, 800, 2000 and 5000 ï¿½g/plate without and with S9-mix for all strains except TA1537 (8.192, 20.48, 51.2, 128, 320, 800 and 2000 ï¿½g/plate) 
+Treatment: 
+
+ Direct plate incorporation incubated for 3 days protected from light without and with S9-mix  
+GLP:  	 
+ 
+In compliance 
+Study period: 
+ 
+June 25 - November 13 2012 
+ 
 The test item hydroxypropyl p-phenylenediamine HCl was evaluated for the induction of gene mutations in Salmonella typhimurium (Ames test) in two independent experiments in the absence and presence of metabolic activation (S9 mix prepared from the livers of rats given Aroclor 1254). The experiments were both conducted according to the direct plating incorporation method. Since hydroxypropyl p-phenylenediamine HCl was freely soluble at 50 mg/mL in water, concentrations used were as follows:  
-- 5, 15.81, 50, 158.1, 500, 1581 and 5000 µg/plate in experiment 1, both in the absence and presence of S9 mix  
-- 20.48, 51.2, 128, 320, 800, 2000 and 5000 µg/plate in experiment 2, both in the absence and presence of S9 mix for all stains except strain TA1537 where cytotoxicity was noted at 5000 µg/plate, and therefore the chosen concentrations for this strain were: 8.192, 20.48, 51.2, 128, 320, 800 and 2000 µg/plate.  
+- 5, 15.81, 50, 158.1, 500, 1581 and 5000 ï¿½g/plate in experiment 1, both in the absence and presence of S9 mix  
+- 20.48, 51.2, 128, 320, 800, 2000 and 5000 ï¿½g/plate in experiment 2, both in the absence and presence of S9 mix for all stains except strain TA1537 where cytotoxicity was noted at 5000 ï¿½g/plate, and therefore the chosen concentrations for this strain were: 8.192, 20.48, 51.2, 128, 320, 800 and 2000 ï¿½g/plate.  
 - Negative and positive controls were in accordance with the OECD guideline. 
  
 Results  
@@ -726,30 +1071,50 @@ Ref.: Hobson, 2012
  
 In vitro micronucleus test in cultured human lymphocytes  
  
-Guideline:   	 OECD TG 487  Cells:  	 	 Human lymphocytes Replicates:   Duplicate cultures from two male volunteers in 2 independent experiments Test substance:   Hydroxypropyl p-phenylenediamine (base) Batch:  	 	 R0025521A 001 L 002 Purity:  	 	 Relative purity >98% Solvent:  	 	 DMSO (experiment) Positive controls:   Cyclophosphamide, Mitomycin C, Noscapine Concentrations:   Experiment I:  
+Guideline:   	 
+OECD TG 487  
+Cells:  	 	 
+Human lymphocytes 
+Replicates:  
+ Duplicate cultures from two male volunteers in 2 independent experiments 
+Test substance:   
+Hydroxypropyl p-phenylenediamine (base) 
+Batch:  	 	 
+R0025521A 001 L 002 
+Purity:  	 	 
+Relative purity >98% 
+Solvent:  	 	 
+DMSO (experiment) 
+Positive controls:   
+Cyclophosphamide, Mitomycin C, Noscapine 
+Concentrations:  
+ Experiment I:  
 3 h treatment + 21 recovery 0, 50, 100, 150, 200, 225, 250, 275, 300, 
-325, 350, 375, 400, 450 and 500 µg/mL without S9-mix  
+325, 350, 375, 400, 450 and 500 ï¿½g/mL without S9-mix  
 3 h treatment + 21 recovery 0, 25, 50, 100, 200, 300, 400, 500, 600, 
 700, 800, 900, 1000, 1250 with S9-mix 
 24 h treatment + 0 recovery 0, 10, 20, 30, 40 50, 55, 60, 65, 70, 75, 80, 90, 100 and 150 without S9-mix Experiment II:  
 3 h treatment + 21 recovery 0, 100, 150, 200, 225, 250, 275, 300, 325, 
-350, 375, 400, 450 and 500 µg/mL without S9-mix  Treatment:   Experiment I: 3 + 21 hour treatment both with and without S9-mix; 
-Experiment II without S9-mix; test article added at 48 h following culture initiation (stimulation by PHA). Cultures were sampled 3 or 24 h after the beginning of the treatment (i.e. 72 h after culture initiation). 
+350, 375, 400, 450 and 500 ï¿½g/mL without S9-mix  
+Treatment:  
+ Experiment I: 3 + 21 hour treatment both with and without S9-mix; 
+Experiment II without S9-mix; test article added at 48 h following culture 
+initiation (stimulation by PHA). Cultures were sampled 3 or 24 h after the beginning of the treatment (i.e. 72 h after culture initiation). 
 GLP:   	 	 	In compliance 
 Study period:  	 	14 October 2015 - April 25 2016 
  
 The test item hydroxypropyl p-phenylenediamine was evaluated in the absence and presence of metabolic activation (S9 mix prepared from the livers of Aroclor 1254-treated rats) in the first experiment. The highest concentration in each test condition was selected on the basis of the cytotoxicity and the following ranges of concentrations were selected for micronucleus analysis:  
-- 200, 275 and 325 µg/mL in 3h-treatment in the absence of S9  
-- 100, 400 and 600 µg/mL in 3h-treatment in the presence of S9  
-- 30, 40 and 55 µg/mL in 24h-treatment in the absence of S9  
-In the second experiment, only the condition 3h-treatment in the absence of S9 was tested to confirm the results obtained in the first experiment. The following concentrations (100 and 150 µg/mL) were selected for micronucleus analysis based on cytotoxicity.  
+- 200, 275 and 325 ï¿½g/mL in 3h-treatment in the absence of S9  
+- 100, 400 and 600 ï¿½g/mL in 3h-treatment in the presence of S9  
+- 30, 40 and 55 ï¿½g/mL in 24h-treatment in the absence of S9  
+In the second experiment, only the condition 3h-treatment in the absence of S9 was tested to confirm the results obtained in the first experiment. The following concentrations (100 and 150 ï¿½g/mL) were selected for micronucleus analysis based on cytotoxicity.  
 Duplicate cultures were treated with each concentration of hydroxypropyl p-phenylenediamine or with known clastogens in the presence (cyclophosphamide, CPA) or absence of S9 (mitomycin C, MMC and Noscapine, NOS). Solvent-treated cultures (DMSO, four replicates) were used as negative controls.  
 Blood cultures were incubated in the presence of the mitogen phytohaemagglutinin (PHA) for 48 hours and then received a 24- or 3-hour treatment in the absence or presence of S9 mix, respectively. Cells were harvested 72 hours after the beginning of incubation. Cytochalasin B was added after the 3-hour treatments or before the 24-hour treatments.  
 Lymphocyte preparations were stained and examined microscopically for determining the replication index (RI) and the proportion of micronucleated binucleated (MNBN) cells when selected. Two thousand binucleate cells per concentration (one thousand from each replicate) were analysed blind.  
  
 Results  
 When compared to concurrent solvent controls, treatment of cultures with positive controls CPA, MMC and NOS resulted in consistent significant increases in MNBN frequencies, thus validating the sensitivity of the test system and procedure used.  
-Treatment of cultures at 3h-treatment in the absence of S9 with hydroxypropyl p-phenylenediamine resulted in frequencies of MNBN cells which were statistically significantly elevated when compared to concurrent solvent control cultures at the three tested concentrations. The MNBN cell frequency of a single treated culture at 275 µg/mL (inducing 23% cytotoxicity) and both treated cultures at 325 µg/mL (inducing 47% cytotoxicity) exceeded the 95th percentile of the normal ranges.  In a second confirmatory experiment, an increase in micronuclei following the 3-hour treatment without S-9 was observed with the two analysed concentrations (100 and 150 µg/mL, inducing 21% and 43% cytotoxicity respectively) where one of the two replicate cultures at each concentration demonstrated a MNBN cell frequency that exceeded the normal range (with the second cultures demonstrating MNBN cell values at the upper limit). Overall these data were considered additional evidence of a test article related effect. No such increases were observed following either the 3-hour treatment in the presence of S-9 or the 24-hour treatment in the absence of S-9 with concentrations analysed up to maximum inducing 53-55% cytotoxicity.  
+Treatment of cultures at 3h-treatment in the absence of S9 with hydroxypropyl p-phenylenediamine resulted in frequencies of MNBN cells which were statistically significantly elevated when compared to concurrent solvent control cultures at the three tested concentrations. The MNBN cell frequency of a single treated culture at 275 ï¿½g/mL (inducing 23% cytotoxicity) and both treated cultures at 325 ï¿½g/mL (inducing 47% cytotoxicity) exceeded the 95th percentile of the normal ranges.  In a second confirmatory experiment, an increase in micronuclei following the 3-hour treatment without S-9 was observed with the two analysed concentrations (100 and 150 ï¿½g/mL, inducing 21% and 43% cytotoxicity respectively) where one of the two replicate cultures at each concentration demonstrated a MNBN cell frequency that exceeded the normal range (with the second cultures demonstrating MNBN cell values at the upper limit). Overall these data were considered additional evidence of a test article related effect. No such increases were observed following either the 3-hour treatment in the presence of S-9 or the 24-hour treatment in the absence of S-9 with concentrations analysed up to maximum inducing 53-55% cytotoxicity.  
  
 Conclusion  
 Under the conditions of the study, hydroxypropyl p-phenylenediamine induced micronuclei in cultured human peripheral blood lymphocytes after the 3-hour treatment in the absence of metabolic activation. 
@@ -764,36 +1129,49 @@ Test substance:   	Hydroxypropyl p-phenylenediamine HCl (salt)
 Batch:  	 	 	R0025521B 004 P 001 
 Purity:  	 	 	Relative purity 98.6% 
 Solvent:  	 	 	Water (experiment I and II) 
-Positive controls:   Mitomycin C, Cyclophospamide, Vinblastine Concentrations:   Experiment I: 3 h treatment + 21 h recovery 0, 10, 25, 50, 100, 150, 
-250, 500, 700, 800, 850, 900, 950, 1000, 1050 and 1100 µg/mL without S9-mix  
+Positive controls:   
+Mitomycin C, Cyclophospamide, Vinblastine 
+Concentrations:  
+ Experiment I: 3 h treatment + 21 h recovery 0, 10, 25, 50, 100, 150, 
+250, 500, 700, 800, 850, 900, 950, 1000, 1050 and 1100 ï¿½g/mL without S9-mix  
 3 h treatment + 21 h recovery 0, 50, 75, 150, 300, 450, 600, 800, 1000, 
-1100, 1200, 1300, 1400, 1500, 1600, 1700 and 1800 µg/mL with S9-mix 
+1100, 1200, 1300, 1400, 1500, 1600, 1700 and 1800 ï¿½g/mL with S9-mix 
 24 h treatment + 0 h recovery 0, 10, 50, 70, 80, 90, 100, 110, 120, 130, 
-150, 175 200, 250, 300, 350 and 400 µg/mL without S9-mix 
-Follow up experiment: 3 h treatment + 21 h recovery 0, 10, 50, 100, 250, 500, 550, 600, 650, without S9-mix 700, 760, 800, 850, 900, 950, 1000, 1050, 1100 and 1200 µg/mL Treatment:   Experiment I: 3 h + 21 h treatment both with and without S9-mix; test article added at 48 h following culture initiation (stimulation by PHA). Cultures were sampled 3 or 24 h after the beginning of the treatment (i.e. 
+150, 175 200, 250, 300, 350 and 400 ï¿½g/mL without S9-mix 
+Follow up experiment: 3 h treatment + 21 h recovery 0, 10, 50, 100, 250, 500, 550, 600, 650, without S9-mix 700, 760, 800, 850, 900, 950, 1000, 1050, 1100 and 1200 ï¿½g/mL 
+Treatment:  
+
+ Experiment I: 3 h + 21 h treatment both with and without S9-mix; test article added at 48 h following culture initiation (stimulation by PHA). Cultures were sampled 3 or 24 h after the beginning of the treatment (i.e. 
 72 h after culture initiation). 
-Follow up experiment: 3 + 21 hour treatment without S9-mix; GLP:   	  in compliance Study period:   6 July - 3 June 2014  
+Follow up experiment: 3 + 21 hour treatment without S9-mix; 
+GLP:   	 
+ 
+in compliance 
+Study period:  
+ 
+6 July - 3 June 2014 
+ 
 Hydroxypropyl p-phenylenediamine HCl has been investigated for the induction of micronuclei in cultured human lymphocytes. The study was conducted on cultured human peripheral blood lymphocytes from two female volunteers. A follow-up study was conducted on cultured human peripheral blood lymphocytes from two male volunteers.  
  
 The test item hydroxypropyl p-phenylenediamine HCl was evaluated in the absence and presence of metabolic activation (S9 mix prepared from the livers of Aroclor 1254-treated rats). The highest concentration in each test condition was selected on the basis of the cytotoxicity and the following ranges of concentrations were selected for micronucleus analysis:  
-- 25, 250, 700, 850 and 1050 µg/mL in 3h-treatment in the absence of S9  
-- 450, 1300 and 1600 µg/mL in 3h-treatment in the presence of S9  - 	10, 80 and 110 µg/mL in 24h-treatment in the absence of S9  
+- 25, 250, 700, 850 and 1050 ï¿½g/mL in 3h-treatment in the absence of S9  
+- 450, 1300 and 1600 ï¿½g/mL in 3h-treatment in the presence of S9  - 	10, 80 and 110 ï¿½g/mL in 24h-treatment in the absence of S9  
  
 In a follow-up study, only the condition 3h-treatment in the absence of S9 was tested due to questionable results in a single experiment. The following ranges of concentrations were selected for micronucleus analysis based on cytotoxicity:  
-- 250, 650, 850 and 900 µg/mL in 3h-treatment in the absence of S9  
+- 250, 650, 850 and 900 ï¿½g/mL in 3h-treatment in the absence of S9  
  
 Duplicate cultures were treated with each concentration of hydroxypropyl p-phenylenediamine HCl or with known clastogens in the presence (cyclophosphamide, CPA) or absence of S9 (mitomycin C, MMC and vinblastine, VIN). Solvent-treated cultures (purified water, four replicates) were used as negative controls.  
 Blood cultures were incubated in the presence of the mitogen phytohaemagglutinin (PHA) for 48 hours and then received a 24- or 3-hour treatment in the absence or presence of S9 mix, respectively. Cells were harvested 72 hours after the beginning of incubation. Cytochalasin B was added after the 3-hour treatments or before the 24-hour treatments.  
 Lymphocyte preparations were stained and examined microscopically for determining the replication index (RI) and the proportion of micronucleated binucleated (MNBN) cells when selected. Two thousand binucleate cells per concentration (one thousand from each replicate) were analysed blind.  
  
 Results  
-The solubility limit in culture medium was considered close to 5094 µg/mL, as indicated by a lack of visible precipitation upon test article addition, but which was observed following a 20 hour incubation period. Measurements on post-treatment media in the absence or presence of S9-mix indicated that test compound had effect on osmolarity or pH in higher concentrations as compared to concurrent vehicle controls. As concentrations analysed for micronuclei from the main experiment did not exceed 1600 µg/mL, these observations were not considered to have had any impact on the interpretation of the results data. 
+The solubility limit in culture medium was considered close to 5094 ï¿½g/mL, as indicated by a lack of visible precipitation upon test article addition, but which was observed following a 20 hour incubation period. Measurements on post-treatment media in the absence or presence of S9-mix indicated that test compound had effect on osmolarity or pH in higher concentrations as compared to concurrent vehicle controls. As concentrations analysed for micronuclei from the main experiment did not exceed 1600 ï¿½g/mL, these observations were not considered to have had any impact on the interpretation of the results data. 
 When compared to concurrent solvent controls, treatment of cultures with positive controls CPA, MMC and VIN resulted in consistent significant increases in MNBN frequencies, thus validating the sensitivity of the test system and procedure used.  
-Treatment of cultures at 3h-treatment in the absence of S9 with hydroxypropyl p-phenylenediamine HCl resulted in frequencies of MNBN cells which were statistically significantly elevated when compared to concurrent solvent control cultures at the highest two concentrations analysed (850 and 1050 µg/mL exhibiting 48% and 60% cytotoxicity, respectively).  
-In a follow-up study, the previous condition was repeated. Treatment of cells with hydroxypropyl pphenylenediamine HCl in the absence of S9 resulted in small but statistically significant increases of MNBN at the two intermediate concentrations (650 and 850 µg/mL inducing 30% and 53% cytotoxicity, respectively). These statistical increases were noted to be set against a low concurrent vehicle control response. Moreover, they were small and fell within normal ranges. As such, these data are considered of questionable biological importance.  
+Treatment of cultures at 3h-treatment in the absence of S9 with hydroxypropyl p-phenylenediamine HCl resulted in frequencies of MNBN cells which were statistically significantly elevated when compared to concurrent solvent control cultures at the highest two concentrations analysed (850 and 1050 ï¿½g/mL exhibiting 48% and 60% cytotoxicity, respectively).  
+In a follow-up study, the previous condition was repeated. Treatment of cells with hydroxypropyl pphenylenediamine HCl in the absence of S9 resulted in small but statistically significant increases of MNBN at the two intermediate concentrations (650 and 850 ï¿½g/mL inducing 30% and 53% cytotoxicity, respectively). These statistical increases were noted to be set against a low concurrent vehicle control response. Moreover, they were small and fell within normal ranges. As such, these data are considered of questionable biological importance.  
 Overall, given the poor reproducibility of response between the experiments, the ability of hydroxypropyl p-phenylenediamine HCl to induce biologically relevant increases in MNBN cells is considered questionable. 
  
-No statistically significant increases were observed following continuous 24-h without S9 treatment with hydroxypropyl p-phenylenediamine HCl. Slight increase in MNBN cell frequency was observed in the presence of S9 at the intermediate concentration (1300 µg/mL) in only one replicate. No increase in MNBN was observed at the lowest and highest concentrations (450 and 1600 µg/mL, respectively). Therefore, given the minimal magnitude, the absence of a dose-response and the isolated increase, the latter was considered to be of no biological significance.  
+No statistically significant increases were observed following continuous 24-h without S9 treatment with hydroxypropyl p-phenylenediamine HCl. Slight increase in MNBN cell frequency was observed in the presence of S9 at the intermediate concentration (1300 ï¿½g/mL) in only one replicate. No increase in MNBN was observed at the lowest and highest concentrations (450 and 1600 ï¿½g/mL, respectively). Therefore, given the minimal magnitude, the absence of a dose-response and the isolated increase, the latter was considered to be of no biological significance.  
 In experiment 2 R0025521B induced, small statistically significant increases in micronuclei at two intermediate concentrations analysed following a 3 hour treatment with 21 hour recovery in the absence of a rat liver metabolic activation system (S-9). 
 As these increases were small and set against a low concurrent vehicle control response with individual micronucleated cell values for all R0025521B treated cultures falling within historical vehicle control ranges, these statistical increases were considered of questionable biological relevance. 
  
@@ -808,18 +1186,52 @@ In the follow up experiment hydroxypropyl p-phenylenediamine 2HCl induced small 
  
 Mammalian cell gene mutation test (Hprt locus) in mouse lymphoma cells  
  
-Guideline:    OECD TG 476 Cells:  Mouse lymphoma cell line L5178Y [Hprt locus for 6-thioguanine (6-TG) resistance] Replicates:    Duplicate cultures in two independent experiments Test substance:   Hydroxypropyl p-phenylenediamine HCl (salt)  Batch:  	  R0025521B 004 P 001 Purity:  	  Relative purity 98.6% Solvent:  	  Purified water diluted 10-fold in treatment medium  Positive controls:   4-nitroquinoline 1-oxide (NQO), benzo[a]pyrene (BP)  Concentrations:   Experiment 1: 0, 25, 50 and 75 µg/mL without S9-mix; 0, 100, 200, 250, 
-300, 350, 400, 425 and 450 µg/mL with S9-mix 
-Experiment 2 0, 30, 40, 50, 60, 70, 80, 90, 100 and 125 µg/mL without S9-mix; 0, 100, 200, 300, 350, 375, 400, 450 and 500 µg/mL with S9mix Treatment:    Experiment 1 and 2: 3 h treatment both without and with S9-mix; expression period 7 days GLP:   	  In compliance Study period:   July 9 2012 - February 8 2013  
+Guideline:   
+ 
+OECD TG 476 
+Cells:  
+
+Mouse lymphoma cell line L5178Y [Hprt locus for 6-thioguanine (6-TG) resistance] 
+Replicates:   
+ 
+Duplicate cultures in two independent experiments 
+Test substance:  
+ 
+Hydroxypropyl p-phenylenediamine HCl (salt)  
+Batch:  	 
+ 
+R0025521B 004 P 001 
+Purity:  	 
+ 
+Relative purity 98.6% 
+Solvent:  	 
+ 
+Purified water diluted 10-fold in treatment medium  
+Positive controls:   
+4-nitroquinoline 1-oxide (NQO), benzo[a]pyrene (BP)  
+Concentrations:  
+ Experiment 1: 0, 25, 50 and 75 ï¿½g/mL without S9-mix; 0, 100, 200, 250, 
+300, 350, 400, 425 and 450 ï¿½g/mL with S9-mix 
+Experiment 2 0, 30, 40, 50, 60, 70, 80, 90, 100 and 125 ï¿½g/mL without S9-mix; 0, 100, 200, 300, 350, 375, 400, 450 and 500 ï¿½g/mL with S9mix 
+Treatment:   
+ 
+Experiment 1 and 2: 3 h treatment both without and with S9-mix; expression period 7 days 
+GLP:   	 
+ 
+In compliance 
+Study period:  
+ 
+July 9 2012 - February 8 2013 
+ 
 The test item hydroxypropyl p-phenylenediamine HCl was evaluated for gene mutations at the Hprt locus of L5178Y cells in two independent experiments using duplicate cultures each (single cultures for positive controls). Cytotoxicity was evaluated by range-finder experiment followed by two independent experiments. Both experiments used a pulse (3-hour) treatment and were conducted in the absence and presence of metabolic activation (S9 mix prepared from the liver of rats given Aroclor 1254). The ingredient hydroxypropyl p-phenylenediamine HCl was tested in both experiments at a broad range of concentrations. The concentrations selected on the basis of cytotoxicity criteria for final test statistics were as follows:  
  
 Experiment 1  
-- In the absence of S9 mix: 25, 50 and 75 µg/mL (13% relative survival at 75 µg/mL)  
-- In the presence of S9 mix: 100, 200, 250, 300, 350, 400, 425 and 450 µg/mL (11% relative survival at 450 µg/mL)  
+- In the absence of S9 mix: 25, 50 and 75 ï¿½g/mL (13% relative survival at 75 ï¿½g/mL)  
+- In the presence of S9 mix: 100, 200, 250, 300, 350, 400, 425 and 450 ï¿½g/mL (11% relative survival at 450 ï¿½g/mL)  
 	- 	 
 Experiment 2  
-- In the absence of S9 mix: 30, 40, 50, 60, 70, 80, 90, 100 and 125 µg/mL (13% relative survival at 125 µg/mL)  
-- In the presence of S9 mix: 100, 200, 300, 350, 375, 400, 450 and 500 µg/mL (13% relative survival at 500 µg/mL)  
+- In the absence of S9 mix: 30, 40, 50, 60, 70, 80, 90, 100 and 125 ï¿½g/mL (13% relative survival at 125 ï¿½g/mL)  
+- In the presence of S9 mix: 100, 200, 300, 350, 375, 400, 450 and 500 ï¿½g/mL (13% relative survival at 500 ï¿½g/mL)  
  
 Known mutagens in the presence (BP) or absence of S9 mix (NQO) were tested at two different concentrations and served as positive controls. Negative controls consisted of cultures treated with the solvent alone (purified water). Cells were suspended in culture medium and exposed to various concentrations of the test item, to solvent or positive controls. After the treatment period (3 hours), the cells were resuspended in culture medium. They were transferred to flasks for growth through the expression period (7 days) or were diluted to be plated for survival (7 to 8 days). At the end of the expression period, acceptable cultures were then plated for viability (2 plates per culture, 7 days) or 6-TG resistance (4 plates per culture, 11 days).  
  
@@ -834,26 +1246,50 @@ Ref.: Lloyd, 2013
 SCCS comment 
 The SCCS does not agree that hydroxypropyl p-phenylenediamine 2HCl is not mutagenic in this assay.  
 In experiment 1, only 3 concentrations were used for mutagenicity assessment in the absence of S9mix. According to the study director, the fourth concentration, which induced higher mutant frequency, was excluded due to high cytotoxicity. However, the cytotoxicity was within the recommended range (survival more than 10% versus 100% of control). These test results should therefore be included in the assessment. In addition, a statistically significant linear trend in mutant frequency was observed in the presence of S9-mix in Experiment 2.  
-The SCCS questions the validity of this assay, due to a high variability between the experiments.  More specifically, SCCS noticed that there was a high variability in the mutant frequency in negative controls between the two experiments. Especially in the presence of S9-mix the difference is almost an order of magnitude, i.e. 8.15 in experiment 1 (only one replicate) vs. 0.87 in Experiment 2. Similarly, the mutant frequency in cells treated with 50 µg/mL hydroxypropyl p-phenylenediamine 2HCl without S9-mix differed considerably between the experiments (9.17 in Exp1 vs. 0.55 in Exp2). Negative controls (both with and without S9-mix) in experiment 1 were higher than the reported historical controls. Additionally, the effect of positive control NQO was highly variable between experiments: with mutant frequency 70 and 221 in Experiment 1 and 7.8 and 12.7 in Experiment 2.  
+The SCCS questions the validity of this assay, due to a high variability between the experiments.  More specifically, SCCS noticed that there was a high variability in the mutant frequency in negative controls between the two experiments. Especially in the presence of S9-mix the difference is almost an order of magnitude, i.e. 8.15 in experiment 1 (only one replicate) vs. 0.87 in Experiment 2. Similarly, the mutant frequency in cells treated with 50 ï¿½g/mL hydroxypropyl p-phenylenediamine 2HCl without S9-mix differed considerably between the experiments (9.17 in Exp1 vs. 0.55 in Exp2). Negative controls (both with and without S9-mix) in experiment 1 were higher than the reported historical controls. Additionally, the effect of positive control NQO was highly variable between experiments: with mutant frequency 70 and 221 in Experiment 1 and 7.8 and 12.7 in Experiment 2.  
  
 Due to the high variability between the experiments, the SCCS concluded that the results of this test have limited value and a genotoxic potential for hydroxypropyl p-phenylenediamine 2HCl cannot be excluded. In May 2018, the SCCS sent a request to the Applicant for an additional mammalian cell gene mutation test that would fulfil the acceptance criteria. Results of this new test were submitted to the SCCS in March 2019 and are described below. The Applicant also provided complementary evidence from in silico models and a read-across approach conducted with structural analogues. This approach is described in this Opinion as well. 
  
 Mammalian cell gene mutation test (Hprt locus) in mouse lymphoma cells  
  
-Guideline:   	 OECD TG 476 Cells:  Mouse lymphoma cell line L5178Y [Hprt locus for 6-thioguanine (6-TG) resistance] Replicates:   	 Duplicate cultures in two independent experiments Test substance:   Hydroxypropyl p-phenylenediamine HCl (salt)  Batch:  	 	 R0025521B 004 P 001 	 Purity:  	 	 Relative purity 98.6% Solvent:  	 	 Purified water diluted 10-fold in treatment medium  Positive controls:   4-nitroquinoline 1-oxide (NQO), benzo[a]pyrene (BP)  Concentrations:   Experiment 1: 0, 20, 40, 80, 100, 120, 150 and 200 µg/mL without S9mix; 0, 100, 200, 250, 300, 350 and 400 µg/mL with S9-mix 
-Experiment 2: 0, 20, 40 and 60 µg/mL without S9-mix (6% RS µg/mL); repeated due to high cytotoxicity: 0, 15, 30, 40, 50, 60, 80, 100, 125 and 150 µg/mL without S9-mix Treatment:   	 Experiment 1: 3 h treatment both without and with S9-mix; 
+Guideline:   	 
+OECD TG 476 
+Cells:  
+Mouse lymphoma cell line L5178Y [Hprt locus for 6-thioguanine (6-TG) resistance] 
+Replicates:   	 
+Duplicate cultures in two independent experiments 
+Test substance:   
+Hydroxypropyl p-phenylenediamine HCl (salt)  
+Batch:  	 	 
+R0025521B 004 P 001 	 
+Purity:  	 	 
+Relative purity 98.6% 
+Solvent:  	 	 
+Purified water diluted 10-fold in treatment medium  
+Positive controls:   
+4-nitroquinoline 1-oxide (NQO), benzo[a]pyrene (BP)  
+Concentrations:  
+ Experiment 1: 0, 20, 40, 80, 100, 120, 150 and 200 ï¿½g/mL without S9mix; 0, 100, 200, 250, 300, 350 and 400 ï¿½g/mL with S9-mix 
+Experiment 2: 0, 20, 40 and 60 ï¿½g/mL without S9-mix (6% RS ï¿½g/mL); repeated due to high cytotoxicity: 0, 15, 30, 40, 50, 60, 80, 100, 125 and 150 ï¿½g/mL without S9-mix 
+Treatment:   	 
+Experiment 1: 3 h treatment both without and with S9-mix; 
 Experiment 2: 3 h treatment without S9-mix; 
-Expression period 7 days GLP:   	 	 In compliance Study period:  	 August 8, 2018 - November 21, 2018  
+Expression period 7 days 
+GLP:   	 	 
+In compliance 
+Study period:  	 
+August 8, 2018 - November 21, 2018 
+ 
 R0025521B was assayed for the ability to induce mutation at the hypoxanthineguanine phosphoribosyl transferase (Hprt) locus (6-thioguanine [6TG] resistance) in mouse lymphoma cells using a fluctuation protocol. The study consisted of a cytotoxicity range-finder experiment followed by two mutation experiments. 
 Experiment 1 was conducted in the absence and presence of metabolic activation by an Aroclor 1254induced rat liver post-mitochondrial fraction (S-9).  
 Experiment 2 was conducted in the absence of S-9, to clarify the results observed under this treatment condition in Experiment 1. The test article was formulated in purified water. A 3 hour treatment incubation period was used for each experiment. 
  
 Results 
-In the cytotoxicity Range-Finder Experiment, six concentrations were tested in the absence and presence of S-9, ranging from 62.5 to 2000 µg/mL. The highest concentrations to give >10% relative survival (RS) were 125 µg/mL in the absence of S9-mix and 250 µg/mL in the presence of S9-mix, which gave 11% and 84% RS, respectively. Mutant frequencies in solvent negative controls fell within normal ranges, and treatment with positive controls NQO and BP yielded distinct increases in mutant frequency. Accordingly, the study was considered to be valid.  
+In the cytotoxicity Range-Finder Experiment, six concentrations were tested in the absence and presence of S-9, ranging from 62.5 to 2000 ï¿½g/mL. The highest concentrations to give >10% relative survival (RS) were 125 ï¿½g/mL in the absence of S9-mix and 250 ï¿½g/mL in the presence of S9-mix, which gave 11% and 84% RS, respectively. Mutant frequencies in solvent negative controls fell within normal ranges, and treatment with positive controls NQO and BP yielded distinct increases in mutant frequency. Accordingly, the study was considered to be valid.  
  
-In Experiment 1 in the presence of S9-mix, no statistically significant increases in MF were observed at any R0025521B concentration analysed. A statistically significant linear trend (p=0.05) was observed but as there were no significant increases in MF at any concentration analysed, the observations were considered not biologically relevant. In Experiment 1 in the absence of S9-mix, a statistically significant increase in MF was observed at the highest R0025521B concentration analysed (200 µg/mL, giving 11% RS) and there was a statistically significant linear trend (p=0.05). The mean MF value at 200 µg/mL was 6.64 mutants per 106 viable cells (individual values were 7.33 and 5.83 mutants per 106 viable cells).  
-The historical vehicle control range (based on the last 20 experiments performed in this laboratory, prior to Experiment 1) is 0.73 to 6.65 mutants per 106 viable cells, therefore the mean MF value at 200 µg/mL was marginally within the historical vehicle control range and only one culture at this concentration marginally exceeded the range. The response did not fulfill all of the evaluation criteria for a positive result, although there was evidence of an increase in MF, albeit at this concentration alone which was close to the upper limit of toxicity (11% RS) for this type of study.  
-In Experiment 2 in the absence of S9-mix, a statistically significant increase in mutant frequency (MF) was observed at one intermediate R0025521B concentration analysed and there was no statistically significant linear trend. The mean MF value at 50 µg/mL was 5.70 mutants per 106 viable cells, which marginally exceeded the historical vehicle control range (based on the last 20 experiments performed in this laboratory, prior to Experiment 2 repeat) of 0.49 to 5.47 mutants per 106 viable cells. However, as in Experiment 1, the response did not fulfill all of the evaluation criteria for a positive result. Based on the data over the two experiments in the absence of S-9-mix, R0025521B showed some evidence of inducing mutations in this test system in both experiments. However, the increases in mutant frequency were small in magnitude and in one experiment the response was not concentration-related (as evidenced by a non-significant linear trend). The responses in both experiments did not fulfill all of the evaluation criteria for a positive result. As the data were poorly reproducible, they may therefore be considered of no toxicological concern. 
+In Experiment 1 in the presence of S9-mix, no statistically significant increases in MF were observed at any R0025521B concentration analysed. A statistically significant linear trend (p=0.05) was observed but as there were no significant increases in MF at any concentration analysed, the observations were considered not biologically relevant. In Experiment 1 in the absence of S9-mix, a statistically significant increase in MF was observed at the highest R0025521B concentration analysed (200 ï¿½g/mL, giving 11% RS) and there was a statistically significant linear trend (p=0.05). The mean MF value at 200 ï¿½g/mL was 6.64 mutants per 106 viable cells (individual values were 7.33 and 5.83 mutants per 106 viable cells).  
+The historical vehicle control range (based on the last 20 experiments performed in this laboratory, prior to Experiment 1) is 0.73 to 6.65 mutants per 106 viable cells, therefore the mean MF value at 200 ï¿½g/mL was marginally within the historical vehicle control range and only one culture at this concentration marginally exceeded the range. The response did not fulfill all of the evaluation criteria for a positive result, although there was evidence of an increase in MF, albeit at this concentration alone which was close to the upper limit of toxicity (11% RS) for this type of study.  
+In Experiment 2 in the absence of S9-mix, a statistically significant increase in mutant frequency (MF) was observed at one intermediate R0025521B concentration analysed and there was no statistically significant linear trend. The mean MF value at 50 ï¿½g/mL was 5.70 mutants per 106 viable cells, which marginally exceeded the historical vehicle control range (based on the last 20 experiments performed in this laboratory, prior to Experiment 2 repeat) of 0.49 to 5.47 mutants per 106 viable cells. However, as in Experiment 1, the response did not fulfill all of the evaluation criteria for a positive result. Based on the data over the two experiments in the absence of S-9-mix, R0025521B showed some evidence of inducing mutations in this test system in both experiments. However, the increases in mutant frequency were small in magnitude and in one experiment the response was not concentration-related (as evidenced by a non-significant linear trend). The responses in both experiments did not fulfill all of the evaluation criteria for a positive result. As the data were poorly reproducible, they may therefore be considered of no toxicological concern. 
  
 Conclusion  
 It is concluded that R0025521B did not induce biologically relevant increases in mutant frequency at the Hprt locus of L5178Y mouse lymphoma cells in two independent experiments when tested up to toxic concentrations in the absence and presence of a rat liver metabolic activation system (S-9) under the experimental conditions described. 
@@ -863,16 +1299,44 @@ SCCS comment
 The SCCS does not agree that hydroxypropyl p-phenylenediamine 2HCl is not mutagenic in this additional mammalian gene mutation assay. In Experiment 1 in the absence of S9-mix, a statistically significant increase in mutant frequency was observed at the highest concentration analysed and there was a statistically significant linear trend. Experiment 2, in the absence of S9-mix, was considered as invalid, because not enough concentrations could be analysed. Therefore, the second experiment was repeated. In Experiment 2 repeat, in the absence of S9-mix, a statistically significant increase in mutant frequency was also observed at one intermediate concentration, but without a positive linear trend. 
 The reliability of this additional mammalian gene mutation test is questionable because variability between the experiments was high. Furthermore, the data on the historical positive control show a high variability. More specifically, the following issues were observed by the SCCS: 
  
-• The different negative historical control ranges reported in this study, based on the mutation frequency observed during the last 20 experiments, were different for Experiment 1 and the repeated Experiment 2. The calculations of the ranges and why these are not the same are not clear and need explanation. 
-• A high variation in mutant frequency of the positive control NQO was noticed between the experiments. NQO induced MF of 65.7-73.8/106 cells in Experiment 1, 5.4-12.14/106 cells in Experiment 2 and of 6-12.72/106 cells in the repeated Experiment 2. Similarly to the previous mammalian gene mutation test (Lloyd 2013), the mutation frequency for the positive control differed an order of magnitude between the two experiments (in the Experiment 2 repeat, it was almost at the vehicle control level).  
-• In line with this, a high variation in MF for NQO historical positive control was observed, ranging from 0.33 to 82.62/106 cells. 
+ï¿½ The different negative historical control ranges reported in this study, based on the mutation frequency observed during the last 20 experiments, were different for Experiment 1 and the repeated Experiment 2. The calculations of the ranges and why these are not the same are not clear and need explanation. 
+ï¿½ A high variation in mutant frequency of the positive control NQO was noticed between the experiments. NQO induced MF of 65.7-73.8/106 cells in Experiment 1, 5.4-12.14/106 cells in Experiment 2 and of 6-12.72/106 cells in the repeated Experiment 2. Similarly to the previous mammalian gene mutation test (Lloyd 2013), the mutation frequency for the positive control differed an order of magnitude between the two experiments (in the Experiment 2 repeat, it was almost at the vehicle control level).  
+ï¿½ In line with this, a high variation in MF for NQO historical positive control was observed, ranging from 0.33 to 82.62/106 cells. 
  
-Taken together, the newly submitted test did not meet the acceptance criteria as described in the study report §4.4.1. p.2 and OECD TG 476. The observed variability in results with the NQO positive control indicates that the cell system generates unreliable responses. Therefore, the SCCS considers this test as not acceptable and the results cannot be used to exclude a mutagenic potential for hydroxypropyl p-phenylenediamine 2HCl. 
+Taken together, the newly submitted test did not meet the acceptance criteria as described in the study report ï¿½4.4.1. p.2 and OECD TG 476. The observed variability in results with the NQO positive control indicates that the cell system generates unreliable responses. Therefore, the SCCS considers this test as not acceptable and the results cannot be used to exclude a mutagenic potential for hydroxypropyl p-phenylenediamine 2HCl. 
  
-3.3.6.2 Mutagenicity / Genotoxicity in vivo  
+3.3.6.2 
+Mutagenicity / Genotoxicity in vivo 
+ 
 Integrated bone marrow micronucleus test in a 14-day oral toxicity study in rats 
  
-Guideline: / Species/strain: Wistar rats Group size: 5/sex/group 	 Test substance: Hydroxypropyl p-phenylenediamine HCl (salt) Batch: R0025521B 004 P 001 Purity: 98.6% Vehicle: Distilled water Dose levels: 0, 100, 300 or 1000 mg/kg Dose volume: 10 mL/kg Route: Oral  Administration: Gavage GLP: In compliance  Study period: May 2012 - June 2012  
+Guideline: 
+/ 
+Species/strain: 
+Wistar rats 
+Group size: 
+5/sex/group 	 
+Test substance: 
+Hydroxypropyl p-phenylenediamine HCl (salt) 
+Batch: 
+R0025521B 004 P 001 
+Purity: 
+98.6% 
+Vehicle: 
+Distilled water 
+Dose levels: 
+0, 100, 300 or 1000 mg/kg 
+Dose volume: 
+10 mL/kg 
+Route: 
+Oral  
+Administration: 
+Gavage 
+GLP: 
+In compliance  
+Study period: 
+May 2012 - June 2012 
+ 
 In the main study, rats (5/sex/group) received a 14-day repeated oral (gavage) dose of hydroxypropyl p-phenylenediamine HCl at 0, 100, 300 or 1000 mg/kg in distilled water at 10 mL/kg. Animals from hydroxypropyl p-phenylenediamine HCl or vehicle control groups were killed 24 hours after the last administration. For each animal, smears were prepared from femur bone marrow and were scored blind for the incidence of micronucleated polychromatic erythrocytes (MN-PCE, 2000 
 PCE counted); the polychromatic/normochromatic erythrocyte ratio (PCE/NCE) was also determined.  
  
@@ -901,7 +1365,7 @@ The databases used were:
 Analogues were searched on the basis of: 
 1- Organic Functional Groups (OFGs), as defined in the 4 grouping methods of OECD QSAR Toolbox v4.2 (OFG, OFG Nested, OFG US EPA, OFG Norbert Haider). In order to avoid retrieval of molecules with functional groups non present in A165, the search was done by selecting the 'strict' criterion, restricting the search to analogues having the relevant functional groups present in the target chemical molecule A165. 
  
-Outcome of the search for analogues: Only one analogue (Cosmetics EU N°A080, CAS RN 93841-259 and 93841-24-8) was found with the selection criteria mentioned above 
+Outcome of the search for analogues: Only one analogue (Cosmetics EU Nï¿½A080, CAS RN 93841-259 and 93841-24-8) was found with the selection criteria mentioned above 
  
 2- Structural similarity: the selection criteria used considered that the analogue had to be more than 70% similar to the parent compound, which is often taken as a cut-off for read-across (Price and Chaudhry, 2014; Hartung, 2016). Structural similarity of analogues was assessed by using the similarity modules in the QSAR Toolbox. The parent compound A165 was submitted to a search for >70% similarity based on the Dice or Tanimoto algorithms, using atom centered as the basis for comparison.  
  
@@ -912,8 +1376,8 @@ b. With the default criteria in the Toolbox (Dice atom centered), 3 analogues: A
  
 Overall, two analogues were identified by following the above selection method: 
 - A080 	(Hydroxyethyl-p-phenylenediamine, 	CAS 	RN 	93841-24-8; 	Hydroxyethyl-p-
-phenylenediamine sulphate CAS RN 93841-25-9) was selected when both criteria of category definition (i.e. OFGs and structural similarity) were used. A080 is a hair dye ingredient authorized in EU (Entry N°206 in Annex III of the EU Cosmetic Products Regulation), which was concluded to be safe by the SCCS (SCCS, 2010a). 
-- A042 (2,4-Diaminophenoxyethanol base, CAS RN 70643-19-5; 2,4-Diaminophenoxyethanol hydrochloride, CAS RN 66422-95-5) was retrieved based on 70-80% structural similarity to A165. A042 is a hair dye ingredient authorized in EU (Entry N°242 in Annex III of the EU Cosmetic Products Regulation), which was concluded to be safe by the SCCS (SCCS, 2010b). 
+phenylenediamine sulphate CAS RN 93841-25-9) was selected when both criteria of category definition (i.e. OFGs and structural similarity) were used. A080 is a hair dye ingredient authorized in EU (Entry Nï¿½206 in Annex III of the EU Cosmetic Products Regulation), which was concluded to be safe by the SCCS (SCCS, 2010a). 
+- A042 (2,4-Diaminophenoxyethanol base, CAS RN 70643-19-5; 2,4-Diaminophenoxyethanol hydrochloride, CAS RN 66422-95-5) was retrieved based on 70-80% structural similarity to A165. A042 is a hair dye ingredient authorized in EU (Entry Nï¿½242 in Annex III of the EU Cosmetic Products Regulation), which was concluded to be safe by the SCCS (SCCS, 2010b). 
  
 It must be noted that the formal search for analogues of A165 reported above retrieved fewer chemicals than the more informal search initially conducted by the Applicant, which retrieved three additional hair dye ingredient molecules (A007, A005, and A160). On the other hand, the present search retrieved one additional analogue (A042) that was not identified through the previous more informal search, which is related to the less obvious chemical analogy between A042 and the target chemical A165. However, given that the three previously identified molecules have an overall genetic toxicity profile similar to A165 and to the two analogues identified here (A042 & A080), this slight discrepancy was considered not to change the overall conclusions of the present read-across approach. 
  
@@ -942,15 +1406,41 @@ The in vitro mammalian gene mutation test was considered to be inconclusive by t
  
 Table 11: Summary of the results of the in vitro and in vivo genotoxicity studies 
  
-Test method Hydroxypropyl pphenylenediamine (base) Hydroxypropyl pphenylenediamine 2HCl In vitro   Gene mutation in bacteria (Ames test) Negative  Positive Mammalian cell gene mutation test Not tested  Inconclusive Mammalian cell gene mutation test (2019) Not tested Inconclusive  Micronucleus test  Positive Positive  In vivo    Mammalian micronucleus 
-test Not tested Negative   
+Test method 
+Hydroxypropyl pphenylenediamine (base) 
+Hydroxypropyl pphenylenediamine 2HCl 
+In vitro 
+ 
+ 
+Gene mutation in bacteria (Ames test) 
+Negative  
+Positive 
+Mammalian cell gene mutation test 
+Not tested  
+Inconclusive 
+Mammalian cell gene mutation test (2019) 
+Not tested 
+Inconclusive  
+Micronucleus test  
+Positive 
+Positive  
+In vivo  
+ 
+ 
+Mammalian micronucleus 
+test 
+Not tested 
+Negative  
  
  
  
  
  
  
-3.3.7 Carcinogenicity  
+ 
+3.3.7 
+Carcinogenicity 
+ 
 Cell Transformation Assay in Syrian Hamster Embryo Cells (SHE Assay)  
  
 Guideline:   	 	/  
@@ -960,15 +1450,15 @@ Batch:  	 	 	R0025521B 004 P 001
 Purity:  	 	 	relative purity 99.3% 
 Solvent:  	 	 	Complete cell culture medium  
 Positive controls:  Benzo[a]pyrene (B[a]P) 
-Concentrations:   	0, 12, 14, 16, 18, 20, 22 and 24 µg/mL  
+Concentrations:   	0, 12, 14, 16, 18, 20, 22 and 24 ï¿½g/mL  
 Study period:  	 	18 September - 25 November 2013 
  
-The ingredient hydroxypropyl p-phenylenediamine HCl was tested in a single experiment at a broad range of concentrations. The concentrations selected on the basis of cytotoxicity criteria were as follows: 12, 14, 16, 18, 20, 22 and 24 µg/mL.  
-Hydroxypropyl p-phenylenediamine HCl and the positive control were subsequently added to complete medium containing the target cells seeded onto feeder cells (x-ray irradiated SHE cells). The cultures were incubated for 7 days ± 2 hours. After the incubation period, the target cells were fixed with methanol and then stained with Giemsa. For the transformation experiment, 40 dishes with an expected colony count of 25-45 colonies were seeded per dose group. For the range finding experiment 10 dishes were seeded per dose group. SHE cells were examined microscopically for determining the plating efficiency (PE) and the morphological transformation (MT). At least one thousand (1000) colonies were evaluated for MT for each concentration.  
+The ingredient hydroxypropyl p-phenylenediamine HCl was tested in a single experiment at a broad range of concentrations. The concentrations selected on the basis of cytotoxicity criteria were as follows: 12, 14, 16, 18, 20, 22 and 24 ï¿½g/mL.  
+Hydroxypropyl p-phenylenediamine HCl and the positive control were subsequently added to complete medium containing the target cells seeded onto feeder cells (x-ray irradiated SHE cells). The cultures were incubated for 7 days ï¿½ 2 hours. After the incubation period, the target cells were fixed with methanol and then stained with Giemsa. For the transformation experiment, 40 dishes with an expected colony count of 25-45 colonies were seeded per dose group. For the range finding experiment 10 dishes were seeded per dose group. SHE cells were examined microscopically for determining the plating efficiency (PE) and the morphological transformation (MT). At least one thousand (1000) colonies were evaluated for MT for each concentration.  
 B[a]P was used as positive control, and cultures with complete medium were used as negative controls.  
  
 Results  
-MT in medium negative control fell within normal ranges, and treatment with positive control B[a]P yielded statistically significant increase in morphologically transformed colonies. Accordingly, the study was considered to be valid. No relevant increase in the osmolarity or pH value (6.7) was observed. Cytotoxicity, defined as reduced relative plating efficiency of = 50% compared to the control, was observed at the three highest evaluated dose groups (i.e. 20, 22 and 24 µg/mL). No statistically significant increases in the frequency of morphologically transformed colonies were observed up to the highest tested concentration.  
+MT in medium negative control fell within normal ranges, and treatment with positive control B[a]P yielded statistically significant increase in morphologically transformed colonies. Accordingly, the study was considered to be valid. No relevant increase in the osmolarity or pH value (6.7) was observed. Cytotoxicity, defined as reduced relative plating efficiency of = 50% compared to the control, was observed at the three highest evaluated dose groups (i.e. 20, 22 and 24 ï¿½g/mL). No statistically significant increases in the frequency of morphologically transformed colonies were observed up to the highest tested concentration.  
  
 Conclusion  
 Under the conditions of this study, hydroxypropyl p-phenylenediamine HCl did not induce morphological transformation of SHE cells colonies after 7 days of exposure.  
@@ -977,11 +1467,47 @@ Ref.: Bohnenberger, 2015
 SCCS comment 
 SCCS has noted the results of the CTA test. According to the SCCS Notes of Guidance, the carcinogenic potential of a substance cannot be derived from a stand-alone CTA test. Therefore, no conclusions can be made on the carcinogenic potential of hydroxypropyl p-phenylenediamine 2HCl. 
  
-3.3.8 Reproductive toxicity 3.3.8.1 Two generation reproduction toxicity /  3.3.8.2 Other data on fertility and reproduction toxicity /  3.3.8.3 Developmental Toxicity  
+3.3.8 
+Reproductive toxicity 
+
+
+3.3.8.1 
+Two generation reproduction toxicity 
+/  
+
+3.3.8.2 
+Other data on fertility and reproduction toxicity 
+/  
+
+3.3.8.3 
+Developmental Toxicity 
+ 
 Oral Embryo-foetal Development Toxicity Study  
  
  
-Guideline:   	 OECD TG 414 GLP:  	 	 In compliance Species/strain:  	 Rat/RccHanTM: WIST; 12 weeks old Group size:   	 25 mated females per dose group  Test substance:   Hydroxypropyl p-phenylenediamine HCl Batch:  	 	 R0025521B 004 P 001 Vehicle:  	 	 Reverse osmosis water Dose level:   	 10, 30, 100 mg/kg bwt Dose volume:  	 10 ml/kg bwt Administration:   gavage Study period:  21 December 2012 - 13 March 2014 (the experimental phase was from December 2012 to January 2013. The corresponding study report was completed in March, 2014)  
+Guideline:   	 
+OECD TG 414 
+GLP:  	 	 
+In compliance 
+Species/strain:  	 
+Rat/RccHanTM: WIST; 12 weeks old 
+Group size:   	 
+25 mated females per dose group  
+Test substance:   
+Hydroxypropyl p-phenylenediamine HCl 
+Batch:  	 	 
+R0025521B 004 P 001 
+Vehicle:  	 	 
+Reverse osmosis water 
+Dose level:   	 
+10, 30, 100 mg/kg bwt 
+Dose volume:  	 
+10 ml/kg bwt 
+Administration:   
+gavage 
+Study period: 
+ 21 December 2012 - 13 March 2014 (the experimental phase was from December 2012 to January 2013. The corresponding study report was completed in March, 2014) 
+ 
 Test Material  
 Hydroxypropyl p-phenylenediamine HCl batch 004 P 001 (relative purity 98.6%) was used in this study.  
  
@@ -1005,16 +1531,26 @@ At 30 mg/kg/day, a trend of decreased maternal body weight gain and a decreased 
 In the light of the further information provided, the SCCS agrees with the Applicant that the NOAEL for maternal and developmental toxicity of hydroxypropyl p-phenylenediamine HCl was 30 mg/kg/day. 
  
  
-3.3.9 Toxicokinetics  
-3.3.9.1 Toxicokinetics in laboratory animals  
+3.3.9 
+Toxicokinetics 
+ 
+3.3.9.1 
+Toxicokinetics in laboratory animals 
+ 
 / 
-3.3.9.2 Toxicokinetics in humans  
+3.3.9.2 
+Toxicokinetics in humans 
+ 
     /  
 3.3.10 Photo-induced toxicity 
  
-3.3.10.1 Phototoxicity / photo-irritation and photosensitisation  
+3.3.10.1 
+Phototoxicity / photo-irritation and photosensitisation 
+ 
 / 
-3.3.10.2 Photomutagenicity / photoclastogenicity  
+3.3.10.2 
+Photomutagenicity / photoclastogenicity 
+ 
     /  
 3.3.11 Human data 
  
@@ -1031,7 +1567,7 @@ Based on an evaluation of the data provided, SCCS is of the opinion that the gen
 Physicochemical properties 
 All impurities have been quantified using either external reference standards of the corresponding impurities or area normalization. In case of the known impurities where an external reference standard is used, the SCCS is of the opinion that a response factor should be applied for the quantitation.   
  
-Justification should be provided for the filtration of the samples using 0.2µm syringe filters prior to the HPLC analysis, as this would have removed any insoluble impurities. It should be demonstrated that the main compound and all the impurities are fully diluted in the dilution solvent prior to the HPLC analysis.  The percentage recovery of the filtration procedure should be calculated by analysing samples without filtration and compare the corresponding peak areas (of the test substance and the impurities) with those obtained after filtration. HPLC-PDA chromatograms and % of all impurities) of these samples analysed with and without filtration should be comparable in terms of %area and retention times. 
+Justification should be provided for the filtration of the samples using 0.2ï¿½m syringe filters prior to the HPLC analysis, as this would have removed any insoluble impurities. It should be demonstrated that the main compound and all the impurities are fully diluted in the dilution solvent prior to the HPLC analysis.  The percentage recovery of the filtration procedure should be calculated by analysing samples without filtration and compare the corresponding peak areas (of the test substance and the impurities) with those obtained after filtration. HPLC-PDA chromatograms and % of all impurities) of these samples analysed with and without filtration should be comparable in terms of %area and retention times. 
  
 All impurities above 0.1% should be accurately quantified in every batch and kept at trace levels. 
  
@@ -1055,7 +1591,7 @@ Hydroxypropyl p-phenylenediamine 2HCl was tested in the BCOP assay, an in vitro 
 The LLNA shows that hydroxypropyl p-phenylenediamine 2HCl is a moderate skin sensitiser. 
  
 Dermal absorption  
-The dermal absorption of hydroxypropyl p-phenylenediamine 2HCl was estimated to be 3.7 µg/cm2 (mean + 1SD). 
+The dermal absorption of hydroxypropyl p-phenylenediamine 2HCl was estimated to be 3.7 ï¿½g/cm2 (mean + 1SD). 
  
 Mutagenicity 
 Mutagenicity of hydroxypropyl p-phenylenediamine (base) and its dihydrochloride salt was investigated in in vitro genotoxicity tests for the 3 endpoints of genotoxicity: gene mutations, chromosome aberrations (clastogenicity) and aneugenicity.  
@@ -1145,61 +1681,113 @@ Appendix 1: Detailed Tables supporting the search for chemical structural analog
 Table 1. Structure, similarity and Organic Functional Groups  
  
 OECD 	A165 	A080 	A042 QSAR TOOLBOX 
-COMMON NAME Hydroxypropyl p-phenylenediamine Hydroxyethyl-p-phenylenediamine 2,4-diaminophenoxy ethanol STRUCTURE    
-SIMILARITY 100% 90-100% 70-80% OFG Alcohol|Amine, primary|Aniline|Aryl|Phenylenediamine, para-|Precursors quinoid compounds Alcohol|Amine, primary|Aniline|Aryl|Phenylenediamine, para-|Precursors quinoid compounds Alcohol|Amine, 
-primary|Aniline|Aryl|Ether|Phenylenediamine, meta- OFG (US EPA) Aliphatic Carbon [CH]|Aliphatic Carbon [-CH2-]|Aliphatic Nitrogen, one aromatic attach [-N]|Aromatic Carbon [C]|Hydroxy, aliphatic attach [-OH] Aliphatic Carbon [CH]|Aliphatic Carbon [-CH2-]|Aliphatic Nitrogen, one aromatic attach [-N]|Aromatic Carbon [C]|Hydroxy, aliphatic attach [-OH] Aliphatic Carbon [CH]|Aliphatic Carbon [CH2-]|Aliphatic Nitrogen, one aromatic attach [-N]|Aromatic Carbon [C]|Hydroxy, aliphatic attach [-OH]|Oxygen, one aromatic attach [O-] OFG 
-(NESTED) Alcohol|Overlapped groups|Phenylenediamine, para|Precursors quinoid compounds Alcohol|Overlapped groups|Phenylenediamine, para|Precursors quinoid compounds Alcohol|Ether|Overlapped groups|Phenylenediamine, meta- OFG 
+COMMON NAME 
+Hydroxypropyl p-phenylenediamine 
+Hydroxyethyl-p-phenylenediamine 
+2,4-diaminophenoxy ethanol 
+STRUCTURE 
+ 
+ 
+ 
+
+SIMILARITY 
+100% 
+90-100% 
+70-80% 
+OFG 
+Alcohol|Amine, primary|Aniline|Aryl|Phenylenediamine, para-|Precursors quinoid compounds 
+Alcohol|Amine, primary|Aniline|Aryl|Phenylenediamine, para-|Precursors quinoid compounds 
+Alcohol|Amine, 
+primary|Aniline|Aryl|Ether|Phenylenediamine, meta- 
+OFG (US EPA) 
+Aliphatic Carbon [CH]|Aliphatic Carbon [-CH2-]|Aliphatic Nitrogen, one aromatic attach [-N]|Aromatic Carbon [C]|Hydroxy, aliphatic attach [-OH] 
+Aliphatic Carbon [CH]|Aliphatic Carbon [-CH2-]|Aliphatic Nitrogen, one aromatic attach [-N]|Aromatic Carbon [C]|Hydroxy, aliphatic attach [-OH] 
+Aliphatic Carbon [CH]|Aliphatic Carbon [CH2-]|Aliphatic Nitrogen, one aromatic attach [-N]|Aromatic Carbon [C]|Hydroxy, aliphatic attach [-OH]|Oxygen, one aromatic attach [O-] 
+OFG 
+(NESTED) 
+Alcohol|Overlapped groups|Phenylenediamine, para|Precursors quinoid compounds 
+Alcohol|Overlapped groups|Phenylenediamine, para|Precursors quinoid compounds 
+Alcohol|Ether|Overlapped groups|Phenylenediamine, meta- 
+OFG 
 (NORBERT 
-HAIDER)  Alcohol|Amine|Aromatic 
+HAIDER)  
+Alcohol|Amine|Aromatic 
 compound|Hydroxy compound|Primary 
-alcohol|Primary amine|Primary aromatic amine Alcohol|Amine|Aromatic 
+alcohol|Primary amine|Primary aromatic amine 
+Alcohol|Amine|Aromatic 
 compound|Hydroxy compound|Primary 
-alcohol|Primary amine|Primary aromatic amine Alcohol|Alkylarylether|Amine|Aromatic compound|Ether|Hydroxy compound|Primary alcohol|Primary amine|Primary aromatic amine  
+alcohol|Primary amine|Primary aromatic amine 
+Alcohol|Alkylarylether|Amine|Aromatic compound|Ether|Hydroxy compound|Primary alcohol|Primary amine|Primary aromatic amine 
+ 
  	 
 Table 2. Physico-chemical properties 
  
 PHYSICO-CHEMICAL 	A165 	A080 	A042 PROPERTIES MODELS 
-MOLECULAR WEIGHT (G/MOL) 166.2 152.2 168.2 CLOG P 
+MOLECULAR WEIGHT (G/MOL) 
+166.2 
+152.2 
+168.2 
+CLOG P 
 (MODEL CLOGP 
-VERSION V5.2) -0.74 -1.12 -0.87 PKA (BASE/BASE) 
-(MODEL ACD 12.02) 5.868 
+VERSION V5.2) 
+-0.74 
+-1.12 
+-0.87 
+PKA (BASE/BASE) 
+(MODEL ACD 12.02) 
+5.868 
 2.912 
- 5.933 
+ 
+5.933 
 2.977 
- 5.014 
+ 
+5.014 
 2.857 
- INTRINSIC SOLUBILITY 
+ 
+INTRINSIC SOLUBILITY 
 (MG/L) 
-(MODEL ACD 12.02) 31272.9 (sparingly 
+(MODEL ACD 12.02) 
+31272.9 (sparingly 
 soluble) 
- 70101.2 (soluble) 
- 58642.3 (soluble) 
- SOLUBILITY (MG/L) AT  
+ 
+70101.2 (soluble) 
+ 
+58642.3 (soluble) 
+ 
+SOLUBILITY (MG/L) AT  
 PH 3 
 PH 7.4 
 PH 8 
 PH 9 
-(MODEL ACD 12.02)  
+(MODEL ACD 12.02) 
+ 
 1000000 (freely soluble) 
 33030.7 (soluble) 31714.5 (sparingly soluble) 
-31317.1 (sparingly soluble)  
+31317.1 (sparingly soluble) 
+ 
 1000000 (freely soluble) 
 74496.6 (soluble) 
 71205.5 (soluble) 
-70211.8 (soluble)  
+70211.8 (soluble) 
+ 
 1000000 (freely soluble) 
 59003.1 (soluble) 
 58733 (soluble) 
-58651.7 (soluble) VOLATILITY 
+58651.7 (soluble) 
+VOLATILITY 
 CLASS SPICER 
 CLASS PGG 
-(MODEL EPISUITE V4.1)  
+(MODEL EPISUITE V4.1) 
+ 
 Semi volatile 
-Non volatile  
+Non volatile 
+ 
 Semi volatile 
-Non volatile  
+Non volatile 
+ 
 Semi volatile  
-Non volatile  
+Non volatile 
+ 
  
  
  	 
@@ -1209,102 +1797,142 @@ PARENT/METABOLITE PREDICTED
 AMES MUTAGENICITY 
 ALERT INFO 
  
- Positive 
+ 
+Positive 
  
 Single-ring Substituted 
 Primary Aromatic 
-Amines Positive 
+Amines 
+Positive 
  
 Single-ring Substituted 
 Primary Aromatic 
-Amines Positive 
+Amines 
+Positive 
  
 Single-ring Substituted 
 Primary Aromatic 
-Amines IN VITRO PREDICTED 
+Amines 
+IN VITRO PREDICTED 
 CHROMOSOMAL ABERRATION 
 WITH S9 
  
 SUMMARY MECHANISM 
  
-  
+ 
+ 
 Positive  
  
-Interaction with DNA  &Interactions with topoisomerases / proteins  
+Interaction with DNA  &Interactions with topoisomerases / proteins 
+ 
 Positive 
  
-Interaction with DNA  &Interactions with topoisomerases / proteins  
+Interaction with DNA  &Interactions with topoisomerases / proteins 
+ 
 Positive 
  
-Interaction with DNA  &Interactions with topoisomerases / proteins IN VIVO PREDICTED 
+Interaction with DNA  &Interactions with topoisomerases / proteins 
+IN VIVO PREDICTED 
 MICRONUCLEUS 
  
 SUMMARY MECHANISM 
  
  
  
- Positive 
+ 
+Positive 
  
 Interaction with DNA  & with 
-topoisomerases/proteins Positive 
+topoisomerases/proteins 
+Positive 
  
 Interaction with DNA & with 
-topoisomerases/proteins Negative 
+topoisomerases/proteins 
+Negative 
  
 Interaction with DNA & with topoisomerases/proteins (Detoxification path: 
 Single-Ring 
 Aminophenol and 
 Alkoxyaniline 
-Derivatives)  
+Derivatives) 
+ 
  
  	 
 Table 4. Mutagenicity and Genotoxicity alerts according to OECD Toolbox Model 
  
 
 OECD TOOLBOX ALERT 	A165 	A080 	A042 
-Carcinogenicity (genotox and nongenotox) alerts by ISS Primary aromatic amine, hydroxyl amine and its derived esters 
+Carcinogenicity (genotox and nongenotox) alerts by ISS 
+Primary aromatic amine, hydroxyl amine and its derived esters 
 (Genotox) 
-Structural alert for genotoxic carcinogenicity Primary aromatic amine, hydroxyl amine and its derived esters (Genotox) 
-Structural alert for genotoxic carcinogenicity Primary aromatic amine, hydroxyl amine and its derived esters 
+Structural alert for genotoxic carcinogenicity 
+Primary aromatic amine, hydroxyl amine and its derived esters (Genotox) 
+Structural alert for genotoxic carcinogenicity 
+Primary aromatic amine, hydroxyl amine and its derived esters 
 (Genotox) 
-Structural alert for genotoxic carcinogenicity DNA alerts for AMES by OASIS Radical mechanism via ROS formation (indirect) >> SingleRing Substituted Primary Aromatic 
+Structural alert for genotoxic carcinogenicity 
+DNA alerts for AMES by OASIS 
+Radical mechanism via ROS formation (indirect) >> SingleRing Substituted Primary Aromatic 
 Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> SingleRing Substituted Primary Aromatic 
-Amines Radical mechanism via ROS formation (indirect) >> Single-
+Amines 
+Radical mechanism via ROS formation (indirect) >> Single-
 Ring Substituted Primary 
 Aromatic Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> 
 Single-Ring Substituted Primary 
-Aromatic Amines Radical mechanism via ROS formation 
+Aromatic Amines 
+Radical mechanism via ROS formation 
 (indirect) >> Single-Ring Substituted 
 Primary Aromatic Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> SingleRing Substituted Primary Aromatic 
-Amines DNA alerts for CA and MNT by OASIS Radical mechanism via ROS formation (indirect) >> SingleRing Substituted Primary Aromatic 
+Amines 
+DNA alerts for CA and MNT by OASIS 
+Radical mechanism via ROS formation (indirect) >> SingleRing Substituted Primary Aromatic 
 Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> SingleRing Substituted Primary Aromatic 
-Amines Radical mechanism via ROS formation (indirect) >> Single-
+Amines 
+Radical mechanism via ROS formation (indirect) >> Single-
 Ring Substituted Primary 
 Aromatic Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> 
 Single-Ring Substituted Primary 
-Aromatic Amines Radical mechanism via ROS formation 
+Aromatic Amines 
+Radical mechanism via ROS formation 
 (indirect) >> Single-Ring Substituted 
 Primary Aromatic Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> SingleRing Substituted Primary Aromatic 
-Amines DNA binding by OASIS Radical mechanism via ROS formation (indirect) >> SingleRing Substituted Primary Aromatic 
+Amines 
+DNA binding by OASIS 
+Radical mechanism via ROS formation (indirect) >> SingleRing Substituted Primary Aromatic 
 Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> SingleRing Substituted Primary Aromatic 
-Amines Radical mechanism via ROS formation (indirect) >> Single-
+Amines 
+Radical mechanism via ROS formation (indirect) >> Single-
 Ring Substituted Primary 
 Aromatic Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> 
 Single-Ring Substituted Primary 
-Aromatic Amines Radical mechanism via ROS formation 
+Aromatic Amines 
+Radical mechanism via ROS formation 
 (indirect) >> Single-Ring Substituted 
 Primary Aromatic Amines 
 SN1 >> Nucleophilic attack after nitrenium ion formation >> SingleRing Substituted Primary Aromatic 
-Amines DNA binding by OECD SN1 >> Nitrenium Ion formation >> Primary aromatic amine SN1 >> Nitrenium Ion formation >> Primary aromatic amine SN1 >> Nitrenium Ion formation >> Primary aromatic amine Oncologic Primary Classification Aromatic Amine Type Compounds Aromatic Amine Type Compounds Aromatic Amine Type Compounds Protein binding alerts for 
-Chromosomal aberration by OASIS AN2 >> Michael addition to the quinoid type structures >> Substituted Anilines AN2 >> Michael addition to the quinoid type structures >> Substituted Anilines AN2 >> Michael addition to the quinoid type structures >> Substituted Anilines in vitro mutagenicity (Ames test) 	Primary aromatic amine, hydroxyl 	Primary aromatic amine, 	Primary aromatic amine, hydroxyl alerts by ISS 	amine and its derived esters 	hydroxyl amine and its derived 	amine and its derived esters 
+Amines 
+DNA binding by OECD 
+SN1 >> Nitrenium Ion formation >> Primary aromatic amine 
+SN1 >> Nitrenium Ion formation >> Primary aromatic amine 
+SN1 >> Nitrenium Ion formation >> Primary aromatic amine 
+Oncologic Primary Classification 
+Aromatic Amine Type Compounds 
+Aromatic Amine Type Compounds 
+Aromatic Amine Type Compounds 
+Protein binding alerts for 
+Chromosomal aberration by OASIS 
+AN2 >> Michael addition to the quinoid type structures >> Substituted Anilines 
+AN2 >> Michael addition to the quinoid type structures >> Substituted Anilines 
+AN2 >> Michael addition to the quinoid type structures >> Substituted Anilines 
+in vitro mutagenicity (Ames test) 	Primary aromatic amine, hydroxyl 	Primary aromatic amine, 	Primary aromatic amine, hydroxyl alerts by ISS 	amine and its derived esters 	hydroxyl amine and its derived 	amine and its derived esters 
 esters 
 in vivo mutagenicity (Micronucleus) 	Primary aromatic amine, hydroxyl 	Primary aromatic amine, 	H-acceptor-path3-H-acceptor alerts by ISS 	amine and its derived esters 	hydroxyl amine and its derived 	Primary aromatic amine, hydroxyl esters 	amine and its derived esters 
    
