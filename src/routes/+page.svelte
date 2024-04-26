@@ -18,7 +18,7 @@
 
 		const repeatedDoseToxicityTxt = txt.match(regexRepeatedDoseToxicity)?.[0];
 
-		let pattern = /^Guideline:[\s\S]*?Ref\.: \d+\s/gm;
+		let pattern = /^Guideline:[\s\S]*?Ref\.*: \d+\s/gm;
 
 		let matchesRepeatedDoseToxicity = repeatedDoseToxicityTxt?.match(pattern);
 		// ?.map((d) => d.substring(10));
@@ -37,7 +37,7 @@
 		console.log('acuteToxicityTxt\n', acuteToxicityTxt);
 
 		// console.log('acuteToxicityTxt\n', acuteToxicityTxt);
-		let pattern = /^Guideline:[\s\S]*?Ref\.: \d+\s/gm;
+		let pattern = /^Guideline:[\s\S]*?Ref\.*: \d+\s/gm;
 		// let pattern = /Guideline:[\s\S]*?Ref\.:.*?(?=\n|$)/g;
 		// console.log('repeatedDose\n', repeatedDoseToxicityTxt);
 
