@@ -1,0 +1,720 @@
+Revision of 26-27 June 2012
+
+
+
+
+
+
+Scientific Committee on Consumer Safety SCCS
+
+
+OPINION ON
+
+Acid Red 92
+
+COLIPA n° C53
+
+
+
+
+
+
+
+
+
+The SCCS adopted this opinion at its 14th plenary meeting of 27 March 2012
+
+
+
+
+About the Scientific Committees
+Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat.
+They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts.
+In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA).
+
+SCCS
+The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.).
+
+
+Scientific Committee members
+Jürgen Angerer, Ulrike Bernauer, Claire Chambers, Qasim Chaudhry, Gisela Degen, Elsa Nielsen, Thomas Platzek, Suresh Chandra Rastogi, Vera Rogiers, Christophe Rousselle, Tore Sanner, Jan van Benthem, Jacqueline van Engelen, Maria Pilar Vinardell, Rosemary Waring, Ian R. White
+
+
+Contact
+European Commission Health & Consumers
+Directorate D: Health Systems and Products Unit D3 - Risk Assessment
+Office: B232	B-1049 Brussels
+Sanco-SCCS-Secretariat@ec.europa.eu
+
+
+(c) European Union, 2012
+ISSN 1831-4767	ISBN 978-92-79-30757-7
+Doi:10.2772/78999	ND-AQ-12-007-EN-N
+
+The opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The opinions are published by the European Commission in their original language only.
+
+http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm
+
+
+
+
+ACKNOWLEDGMENTS
+
+Prof. J. Angerer Dr. C. Chambers
+Dr. W. Lilienblum	(associated scientific advisor) Dr. E. Nielsen
+Prof. T. Platzek	(chairman) Dr. S.C. Rastogi
+Dr. C. Rousselle Prof. T. Sanner
+Dr. J. van Benthem	(rapporteur) Prof. M.P. Vinardell
+Dr. I.R. White
+
+
+External experts
+
+Dr. Mona-Lise Binderup	National Food Institute, Denmark
+
+
+
+Keywords: SCCS, scientific opinion, hair dye, Acid Red 92, C53, directive 76/768/ECC, CAS 18472-87-2, EC 242-355-6
+
+
+Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on Acid Red 92, 27 March 2012
+
+This opinion has been subject to a commenting period of four weeks after its initial publication. Comments received during this time have been considered by the SCCS and discussed in the subsequent plenary meeting. Where appropriate, the text of the relevant sections of the opinion has been modified or explanations have been added. In the cases where the SCCS after consideration and discussion of the comments, has decided to maintain its initial views, the opinion (or the section concerned) has remained unchanged. Revised opinions carry the date of revision.
+
+
+
+
+TABLE OF CONTENTS
+ACKNOWLEDGMENTS	3
+1. BACKGROUND	5
+2. TERMS OF REFERENCE	5
+3. OPINION	6
+4. CONCLUSION	22
+5. MINORITY OPINION	22
+6. REFERENCES	23
+
+
+
+
+1. BACKGROUND
+
+Submission I for Acid Red 92 with the chemical name Fluorescein, 2',4',5',7'-tetrabromo- 4,5,6,7-tetrachloro disodium salt was submitted in September 2003 by COLIPA1.
+
+The Scientific Committee on Consumer Products and Non Food Products intended for Consumers (SCCNFP) adopted on 23rd April 2004 the opinion (SCCNFP/0788/04) with the conclusion, that "the information submitted is inadequate to assess the safe use of the substance as a hair dye ingredient, either as an oxidative or semi-permanent. Before any further consideration, the following information is required:
+
+* complete physico-chemical characterisation of the test substances used;
+* percutaneous absorption study in accordance with the SCCNFP Notes of Guidance;
+* data on the genotoxicity/mutagenicity following the relevant SCCNFP-opinions and in accordance with the Notes of Guidance".
+
+Acid Red 92 is currently regulated as colorant CI 45410 allowed in all cosmetic products. Permitted is also the insoluble barium, strontium and zirconium lakes, salts and pigments of this colorant. There is a limitation of 1% on the content of 2-(6-hydroxy-3-oxo- (3H)xanthen-9-yl)benzoic acid and of 2% on the content of 2-(bromo-6-hydroxy-3-oxo- (3H)xanthen-9-yl)benzoic acid).
+
+According to the current submission II, the Acid Red 92 is used as a direct dye in oxidative hair dye formulations at a maximum concentration of 2%. Acid Red 92 is also proposed to be used in semi-permanent hair dye formulations at a maximum concentration of 0.4% in the finished cosmetic product.
+
+
+
+
+
+2. TERMS OF REFERENCE
+
+1. Does the Scientific Committee on Consumer Safety (SCCS) consider Acid Red 92 safe for use in oxidative hair dye formulations with a maximum concentration in the formulation of 2% taken into account the scientific data provided?
+
+2. Does the SCCS consider Acid Red 92 safe for use in non-oxidative hair dye formulations with a maximum concentration in the formulation of 0.4% taken into account the scientific data provided?
+
+3. Does the SCCS consider the mentioned purity criteria for Acid red 92 as colorant CI 45410 relevant or, if not, in which direction should they be modified?
+
+
+
+
+
+
+
+
+
+1 COLIPA - European Cosmetics Toiletry and Perfumery Association
+
+
+
+
+3. OPINION
+
+3.1. Chemical and Physical Specifications
+
+
+
+Acid Red 92 (INCI name)
+
+
+Spiro[isobenzofuran-1(3H),	9'-[9H]xanthen-3-one,	2',4',5',7'-tetrabromo-4,5,6,7- tetrachloro-3',6'-dihydroxy, disodium salt (CA index name, 9CI)
+Fluorescein, 2',4',5',7'-tetrabromo-4,5,6,7-tetrachloro-, disodium salt (CA index name, 8CI) 2,4,5,7-tetrabromo-12,13,14,15-tetrachlorofluorescein
+
+
+Cyanosine Phloxine B Japan Red 104 Eosine Blue
+Bromo De Phloxine 27 (LCW) Food Red 104, phloxine
+CI 45410 COLIPA C053
+
+
+CAS:	18472-87-2
+EC:	242-355-6
+
+
+
+
+Formula:	C20H4Br4Cl4O5 x 2 Na
+
+
+Red powder
+
+
+
+Molecular weight:	829.66 g/mol
+
+
+Batch AR 92-020470NMR, quantitative84.8%HPLC area% at 254 nm95.2%Loss on drying6.1% (0.1%)Water content9.5% (0.7%)Ash content16.9% (0.3%)ImpuritiesSodium (ICP-MS)5.4%Bromide< 1%Iodide< 150 ppmLead< 20 ppmMercury< 1 ppmArsenic< 3 ppmIron< 100 ppm
+Solvent residues
+Solvents (i.e. solvents such as methanol, ethanol, isopropanol, n-propanol, acetone, ethyl acetate, cyclohexane, methyl ethyl ketone and monochlorobenzene < 100 ppm) were not detected.
+
+Tribromo homologues of Acid Red 92 have been detected as other impurities, but have not been quantified.
+
+The identity of the substance had been tested with NMR, LC-MS, IR and UV/VIS. A reference substance had been used (R 0071).
+Ref.:10
+
+
+See above
+
+
+(According to submission II and original papers)
+
+in water	>10 weight % (pH 8.5) in acetone / water 1:1	 9.9 weight % (pH 8.9) in DMSO	10 weight % (pH 8.5)
+
+
+Log Pow:	0.165 (pH 7.22 at 25 °C) (EU-A.8) (batch R 98006106)
+Ref.:9
+
+
+(According to submission II and original papers)
+
+
+
+Particle size distribution:
+mean particle diameter:	48 µm (CIPAC MT59)	(ref. 1) pH-value:	7.64 (saturated aqueous solution, 2O °C)	 (ref. 2)
+pKa-values	5.22 for phenol (acidic)	(ref. 3)
+(calc. Pallas Software)	6.28 for phenol (acidic)
+7.69 for C6H5-0-R (basic)
+Melting point:	not detectable (decomposition starting at 260 °C) (EU-A1)	(ref. 4)
+Boiling point:	not detectable (decomposition starting at 260 °C) (EU-A2)	(ref. 4)
+Density:	2.158 g/ml (20 °C) (EU-A3)	(ref.5)
+Vapour pressure:	< 1.0 x 10-7 hPa (20, 25, 50 °C) (EU-A4)	(ref. 6)
+Explosive properties:	not expected to be explosive based on chemical
+structure
+Relative self-ignition temp:	260 °C (EU-A.16)	(ref. 8) Viscosity:	 /
+Refractive index:	/
+UV_Vis spectrum (200-800 nm):	is available
+Flammability (batch R0016678):	"not easy flammable" according to 92/69/EC (ref.:7)
+
+
+The stability of C53 (batch AR 92-020420) had been tested for 7 days in the absence of light at ambient temperature using HPLC at a wavelength 548 nm.
+
+In water (5% w/v; pH 7.3)recovery:92.6-102.6%In water/acetone (1:1; 5% w/v)recovery:99.6-101.4%In DMSO (7% w/v)recovery:106-108%Ref.: 10
+
+The stability of the test substance (batch AR 92-020420) has also been studied in the receptor fluid.
+In Hanks Balanced Salt Solution, which has been used in the percutaneous absorption study (ref.:20), the recovery after 72 h was 87% using HPLC.
+In phosphate buffered saline the recovery after 72h was 89% (HPLC).
+Ref.:19
+
+General Comments to physico-chemical characterisation
+
+- With one exception (ref 13; carcinogenicity test on mice), batch AR 92-020420 had been used for the tests of C 53. This batch has been investigated according to identity, purity and stability using state of the art methods.
+- Stability had not been tested in typical hair dye formulations.
+- The purity testing with HPLC has been performed using peak area%, which means that these data are semi-quantitative and that NMR data are the more accurate ones.
+- All studies concerning physico-chemical properties were in compliance with GLP.
+
+3.2. Function and uses
+
+Acid Red 92 is used as a direct dye in oxidative hair dye formulations at a maximum concentration of 2%. Acid Red 92 is also proposed to be used in semi-permanent hair dye formulations at a maximum concentration of 0.4% in the finished cosmetic product.
+
+
+Acid Red 92 is currently regulated as colorant CI 45410 allowed in all cosmetic products. The insoluble barium, strontium and zirconium lakes, salts and pigments of this colorant are also permitted.
+
+3.3. Toxicological Evaluation
+
+
+
+No data submitted
+
+
+No data submitted
+
+
+No data submitted
+
+
+
+Guideline:	OECD 404 (1992) Species/strain:	 New Zealand albino white rabbit Group size:	 3 animals (1 male, 2 females) Observ. Period:	 14 days
+Test substance:	Acid Red 92, moistened with 0.1ml of water Purity:	99.5% HPLC at 548nm
+Batch:	AR92-020420
+Dose level:	 0.5 g (4h contact under semi-occlusion) GLP:	in compliance
+Study period:	July-August 2002
+
+The primary skin irritation potential of Acid Red 92 was investigated by topical semi- occlusive application of 0.5 g to the intact left flank of each of three young adult New Zealand White rabbits. The duration of the treatment was four hours. The scoring of skin reactions was performed 1, 24, 48 and 72 hours, as well as 7, 10 and 14 days after removal of the dressing.
+
+Results
+The test item did not elicit any observable skin reaction at the application site of any animal.
+A light to marked red staining was apparent in all animals from 1 hour to day 7 of the observation period and was still present in one animal 14 days after removal of the dressing, the end of the observation period for all animals. No corrosive effects were noted on the treated skin of any animal at any of the measuring intervals.
+
+Conclusion
+Acid Red 92 is considered to be not irritating to skin.
+Ref.: 14
+
+
+Comment
+Skin staining caused by Acid Red 92 would have masked any irritant erythema. Therefore, some irritant potential of Acid Red 92 applied to rabbit skin has not been excluded.
+
+
+Guideline:	OECD 405 (1987) Species/strain:	 New Zealand albino white rabbit Group size:	 3 animals (1 male, 2 females) Observ. Period:	 17 days
+Test substance:	Acid Red 92, moistened with 0.1ml of water Purity:	99.5% HPLC at 548nm
+Batch:	AR92-020420
+Dose level:	100 mg
+GLP:	in compliance
+Study period:	August-September 2002
+
+The primary eye irritation potential of Acid Red 92 was investigated by instillation of 0.1 g into one eye of three young adult New Zealand White rabbits. Scoring of irritation effects was performed approximately 1, 24, 48 and 72 hours, as well as 7 and 10, 14 and 17 days after test item application.
+
+Results
+The instillation of the test item into the eye resulted in mild to moderate, early-onset and transient ocular changes, such as reddening of the conjunctivae and sclerae, discharge and chemosis. A slight corneal opacity, affecting up to the whole area of the cornea, was also apparent in one animal from 24 hours to 10 days after treatment. A light to marked red staining was also observed in the treated eye of all animals during the first 7 days after treatment. All ocular effects were reversible and were no longer evident 17 days after treatment. No abnormal findings were observed in the iris of any animal at any reading. No corrosion was observed at any of the measuring intervals.
+
+
+Conclusion
+The test item did not induce significant or irreversible damage to the rabbit eye.
+
+Comment of the SCCS
+
+
+
+Ref.: 15
+
+Under the conditions of this experiment, Acid Red 92 was irritating to the rabbit eye.
+
+
+Local Lymph Node Assay (LLNA)
+
+Guideline:	OECD 429 (2000) Species/strain:	 CBA/J mouse
+Group size:	5 females per dose group Observ. Period:	6 days
+Test substance:	802177 (Fuchsia Red) Purity:	99.5% HPLC at 548nm
+Batch:	AR92-020420
+Dose levels:		vehicle control, 0.5%, 1.5%, 3.0% and 7.0% (w/v) in DMSO; 7% reaching the solubility limit in the vehicle.
+Peri-contemporaneous positive control p-phenylenediamine (in study 762/018)
+GLP:	in compliance
+Study period:	July 2002
+
+
+802177 (Fuchsia Red) was tested in four concentrations (0.5, 1.5, 3.0, 7.0 % (w/v)) in DMSO (vehicle). On days 0, 1 and 2 the animals received 25 µl of the test item formulation, positive control or vehicle on the dorsal surface of each ear. Each dose was tested on one animal group, which consisted of 5 animals.
+Clinical examinations were performed daily. Individual body weights were recorded on days
+- 1 and 5. All animals were killed on day 5 for assessment of cell proliferation.
+
+Results
+The peri-contemporaneous positive control (p-phenylenediamine) induced a positive response, as it elicited at least a 3-fold increase in isotope incorporation relative to the vehicle. The mean stimulation index was 3.9 at the concentration of 1%.
+
+The test substance induced a negative response, as it did not elicit at least a 3-fold increase in isotope incorporation relative to the vehicle. The mean stimulation indices were 0.9, 1.3,
+1.5 and 1.9 at the concentrations of 0.5 %, 1.5%, 3.0% and 7.0%, respectively.
+
+Conclusion
+Based on these results, the test substance is not a skin sensitizer under the defined experimental conditions.
+Ref.: 16
+
+Comment
+The choice of vehicle was not explained.
+
+
+Guideline:	OECD 428
+Species/strain:	Human skin; 3 donors, females
+Group size:	4 replicates per donor
+Membrane:	 200-400?m. 9mm diameter (63.6mm2) Membrane integrity	tritiated water
+Test substance:	Acid Red 92
+Batch:	AR92-020420
+Purity:	99.5% HPLC at 548nm
+Test item:	Oxidative formulation
+Formulation with 2% Acid Red 92 (w/w)
+Batch	VDE-00281
+Test item:	Non-oxidative formulation
+Formulation with 0.4% Acid Red 92 (w/w)
+Batch	VDE-0030/1
+Dose volume:	63.6 mg of formulation (100 mg/cm2)
+Receptor fluid	Salt solution (prepared by diluting 10X Hanks' Balanced Salt
+Solution with deionised water and mixing with Torpedo(tm) antibiotic mix)
+Solubility in receptor	 275 mg/ml Stability in receptor	94% after 24 hours Method of Analysis:	 HPLC-UV
+GLP:	in compliance
+Study period:	October-November 2005
+
+Experimental groups dosed with Acid Red 92 were evaluated as n = 4 replicate samples.
+
+Skin disks with acceptable barrier function were dosed with approximately 63.6 mg of each formulation containing Acid Red 92. Each formulation was applied to the epidermal surface of each of four skin disks of each of three donors for 1 hour. After 1 hour, the skin was washed twice with 200 µl aliquots of water, twice with aliquots of shampoo, and twice with
+200 µl aliquots of water. The receptor fluid pumped through the lower chamber was
+
+
+collected into scintillation vials at 2, 4, 8, 12, 18, and 24 hours. All of the receptor fluid collections were stored at -20 ± 4°C until analysis.
+
+At the end of the 24-hour incubation period, the sides of each diffusion chamber were wiped with cotton swabs to obtain any formulation remaining in the diffusion chamber after each skin disk was removed. The skin disks were then separated into component layers (stratum corneum, epidermis, and dermis). The stratum corneum was separated by tape stripping each skin disk ten times. The skin disk was then immersed in a 60-70°C water bath for 1-2 minutes to separate the epidermis from the dermis. The receptor fluid samples, skin layers, water bath samples, and the cotton swab samples were processed and analyzed.
+
+Amount of Acid Red 92 measured in skin layers, swabs, water bath water and receptor fluid (µg/cm²): non-oxidative formulation with 0.4% Acid Red 92
+
+
+
+
+Amount of Acid Red 92 measured in skin layers, swabs, water bath water and receptor fluid (µg/cm²): oxidative formulation with 2% Acid Red 92
+
+
+Under the present experimental conditions, the mean recovery of Acid Red 92 was 102% (non-oxidative formulation) and 96.6% (oxidative formulation). Most of the Acid Red 92 was recovered from the skin washes after 60 minutes of exposure.
+The average amount of Acid Red 92 present in the stratum corneum of the skin samples was 3.19 ± 1.66 µg/cm² (corresponding to 0.820 ± 0.425% of the applied dose; non- oxidative formulation) and 8.64 ± 3.03 µg/cm2 (corresponding to 0.430 ± 0.153% of the applied dose; oxidative formulation).
+
+Small amounts of Acid Red 92 could be found in the epidermis under non-oxidative and oxidative conditions (1.23 ± 0.34 µg/cm2 and 3.51 ± 1.97 µg/cm2, respectively) after 24 hours. Small amounts of Acid Red 92 could also be recovered from the dermis under non- oxidative and oxidative conditions (0.186 ± 0.192 µg/cm2 and 0.364 ± 0.222 µg/cm2, respectively) after 24 hours. Some of the dermis samples had amounts of Acid Red 92 that were below the lower limit of quantification (LLOQ). Thus, taking the LLOQ for dermis samples into account, conservative estimates for recovery from the dermis under non- oxidative and oxidative conditions were 0.243 ± 0.131 µg/cm2 and 0.380 ± 0.195 µg/cm2, respectively.
+
+In addition, small amounts of Acid Red 92 were recovered from the water used in the heat separation of epidermis and dermis under non-oxidative and oxidative conditions (0.70 ± 0.36 µg/cm2 and 1.47 ± 1.33 µg/cm2 respectively). Virtually no penetration of Acid Red 92 into the receptor fluid after 24 hours was observed.
+
+
+Based on the lower limit of quantisation (LLOQ) for receptor fluid samples (0.0415 µg/mL), and a nominal flow rate of 1.8 mL/hour, the penetration of Acid Red 92 into the receptor fluid after 24 hours was estimated to be at most 2.82 µg/cm2 (for both test groups), representing 0.705% (non-oxidative) and 0.141% (oxidative) of the dose applied.
+
+Taking into account the kinetics (no depot effect) and the LLOQ of the receptor fluid fractions and of the dermis, a maximal amount of 4.99 ± 0.779 µg/cm2 (n = 7, two donors; receptor fluid + epidermis + dermis + heat separation water) of Acid Red 92 was considered as biologically available under non-oxidative conditions.
+
+Under oxidative conditions, taking into account the LLOQ of the receptor fluid fractions and of the dermis, a maximal amount of 8.18 ± 3.20 µg/cm2 (n = 8, two donors; receptor fluid
++ epidermis + dermis + heat separation water) of Acid Red 92 was considered as biologically available.
+Ref.: 20
+
+Comment
+The dose applied (100 mg/cm2) was too high. The mean + 2SD should be used in calculating the MOS. Under non-oxidative conditions, this is 4.99 + 2 x 0.779 = 6.548 µg/cm2; under oxidative conditions, it is 8.18 + 2 x 3.20 = 14.58 µg/cm2.
+
+
+
+Taken from SCCNFP/0788/04
+
+Guideline:	/
+Purpose:	to select dose levels for a subsequent 13-wk study Species/strain:	 Rat, HanBrl: WIST(SPF)
+Group size:	5 males + 5 females
+Batch:	AR92-020420
+Purity:	94-99.5 area% (HPLC)
+Dose:	0, 10, 50 and 250 mg/kg bw/day
+Vehicle:	 Water (10 ml/kg bw/day) Exposure period:	4 weeks (7 days per week) GLP:	/
+
+Results
+Mortalities:	none
+Clin. signs:	reddish faeces in all test groups (dose related severity) Body weight:	 no treatment-related changes
+Food intake:	no treatment-related changes
+Haematology:	percentage of basophils decreased in high-dose females platelet count increased in high-dose females
+Organ weights:	no treatment-related changes
+Pathology:  stomach irritation in both sexes at 50 and 250 mg/kg bw/day (focal spongiosis of the limiting ridge in high-dose group both sexes and dyskeratosis in mid- and high dose females).
+
+Conclusion
+10, 50 and 250 mg/kg bw/day were selected as dose levels for a subsequent 13-wk study.
+Ref.: 11
+
+
+
+
+
+Taken from SCCNFP/0788/04
+
+Guideline:	OECD 408 (1998) Species/strain:	 Rat, HanBrl: WIST(SPF) Group size:	10 males + 10 females Batch:	 AR92-020420
+Purity:	94.6 -99.4 area% (HPLC)
+Dose:	0, 10, 50 and 250 mg/kg bw/day
+Vehicle:	 Water (10 ml/kg bw/day) Exposure period:	 13 weeks (7 days per week) GLP:	In compliance
+
+Results
+Mortalities:		one male and one female of the mid-dose group died, probably as a result of dosing errors.
+Clin. signs:	reddish faeces in all test groups
+Detail. obs/FOB:	myosis in high-dose males and females
+                    decreased locomotor activity in high-dose males Ophthalmoscopy:	no treatment-related changes
+Body weight:	 no treatment-related changes Food intake:	no treatment-related changes
+Haematology:	increased absolute eosinophils count in high-dose females
+Clin. chemistry:  decreased triglycerides, protein levels and ALAT activity in high-dose males
+Urinalysis:	impaired concentrating ability (increased volume and decreased density) in high-dose males and females. Increased urinary pH in high-dose males. Reddish urine in mid- and high-dose groups.
+Organ weights:   no treatment-related changes
+Macroscopy:   passive discolouration of various segments of the digestive tract in all groups
+Pathology:	stomach irritation in both sexes at 250 mg/kg bw/day (vacuolation limiting ridge epithelium, hyaline inclusions in glandular mucosa and squamous hyperplasia in most males and females, and submucosal cell infiltrate in all females). In males of the 50 mg/kg bw/day group slight stomach irritation was observed (squamous hyperplasia) in a number of males.
+
+
+Conclusion
+10 mg/kg bw/day was established by the authors as the NOAEL.
+
+Comment of the SCCS
+
+
+
+Ref.: 12
+
+At 50 mg/kg bw/d, only stomach irritation was observed but the SCCS considers this effect as not relevant for skin exposure. The SCCS considers 50 mg/kg bw/d as the NOAEL.
+
+
+No data submitted
+
+
+
+
+Bacterial Reverse Mutation Test
+
+Guideline:	OECD 471 (1997)
+Species/strain:	 Salmonella typhimurium (TA1535; TA1537; TA98; TA100; TA102) Replicate:	triplicates in 2 independent experiments
+Test substance:	WR802177 Solvent:	 water
+Batch:	AR92-020420
+Purity:	84.8% (w/w) by NMR
+Concentrations:	experiment 1: 1, 10, 100, 1000 and 5000 µg/plate without and with
+S9-mix
+experiment 2: 30, 100, 300, 1000 and 3000 µg/plate without and with S9-mix
+experiment 2a:3, 10, 30, 100, 300 and 1000 µg/plate with S9-mix for TA102 only
+Treatment:	 direct plate incorporation with 48 h incubation without and with S9-mix GLP:	in compliance
+Date:	9 July 2002 - 17 September 2002
+
+WR802177 was tested in bacterial tester strains of Salmonella typhimurium TA98, TA100, TA102, TA1535 and TA1537, in two independent experiments both in the presence and in the absence of a metabolic activation system. Liver S9 fraction from Aroclor 1254-induced rats was used as exogenous metabolic activation system. Both experiments were performed as a plate incorporation assay.
+Toxicity was evaluated on the basis of a thinning of the bacterial background lawn and a reduction in the number of spontaneous or induced revertant colonies. Positive controls were according to the OECD guideline.
+
+Results
+In the presence of S9-mix toxic effects were observed for TA102 at concentrations = 1000 µg/plate, for TA100 at concentrations = 3000 µg/plate and for TA98 and TA1535 at 5000 µg/plate. In the absence of S9-mix toxic effects were observed for TA102 and TA100 at concentrations = 1000 µg/plate.
+In TA102 occasionally increases in the number of revertants were observed. However, these increases never exceeded 1.5 times the background revertants counts. A weak mutagenic effect was also observed for TA100 at 30 µg/plate. Increases in the number of revertants were not observed in the other strains.
+
+Conclusion
+Under the experimental conditions used WR802177 was considered genotoxic (mutagenic) in this gene mutation tests in bacteria.
+Ref.: 21
+
+Comment
+The SCCS considers the weak increases in the number of revertants as not biologically relevant.
+
+In vitro Mammalian Cell Gene Mutation Test
+
+Guideline:	OECD 476 (1997)
+Cells:	 mouse lymphoma L5178 cells (tk locus); Replicate:	duplicate cultures in 2 independent experiments Test substance:	 Fuchsia Red WR 802177.
+Solvent:	deionised water
+Batch:	AR92-020420.
+Purity:	99.5 area % (HPLC); 85 % (w/w) (NMR, calculated as sodium salt)
+
+
+Concentrations:	experiment I:	5, 10, 20, 30 and 40 µg/ml without S9-mix
+5, 10, 20, 40 and 60 µg/ml with S9-mix
+                      experiment II:	 19.5, 39, 78 and 156 µg/ml without S9-mix Treatment	experiment I:	4 h treatment without and with S9-mix; expression
+                  period 72 h and selection period of 10-15 days experiment II:	24 h treatment without and with S9-mix; expression
+period 48 h and selection period of 10-15 days
+GLP:	in compliance.
+Date:	8 October 2002 - 19 December 2002
+
+Fuchsia Red WR 802177 was assayed for gene mutations at the tk locus of mouse lymphoma cells both in the absence and presence of S9 metabolic activation. Liver S9 fraction from phenobarbital/ß-naphthoflavone-induced rats was used as exogenous metabolic activation system. Test concentrations were based on the results of a pre-test on toxicity measuring relative suspension growth. In the main tests, cells were treated for 4 h (experiment I) or 24 h (experiment II) followed by an expression period of 72 h or 48 h, respectively, to fix the DNA damage into a stable tk mutation. Toxicity was measured in the main experiments as percentage relative total growth of the treated cultures relative to the total growth of the solvent control cultures. To discriminate between large (indicative for mutagenic effects) and small colonies (indicative for a clastogenic effect) colony seizing was performed. Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+Precipitation of Fuchsia Red WR 802177 was not observed in both experiments up to the highest concentration tested. A concentration with the recommended toxic range of approximately 10-20% survival compared to the concurrent negative controls was not covered in the experiments.
+A biologically relevant and reproducible increase in the mutant frequency was not observed in both main experiments. In the absence of metabolic activation, the threshold of twice the frequency of mutant colonies of the corresponding solvent control was exceeded at 30 µg/ml in the first culture of the first experiment and at 156 µg/ml in the first culture of the second experiment. As no increase was observed in the parallel cultures, both effects were judged as non-reproducible and consequently as isolated effects without biological relevance.
+
+Conclusion
+Under the experimental conditions used, Fuchsia Red WR 802177 was considered not mutagenic in this tk gene mutation assay in mouse lymphoma cells.
+Ref.: 22
+
+Comment
+In the main experiments, the appropriate level of toxicity (about 10-20% survival after the highest dose) was never reached making the negative result less reliable.
+
+
+In vivo Mammalian Erythrocytes Micronucleus Test
+
+Guideline:	OECD 474 (1997) Species/strain:	 NMRI mice
+Group sizes:	5 mice/sex/group
+Test substance:	Fuchsia Red WR 802177 Batch:	 AR92-020420
+Purity:	99.5 area% (HPLC); 88.5% (w/w) (NMR, calculated as a sodium salt) Vehicle:	 deionised water
+Dose level:	25, 50, 100 mg/kg bw
+Treatment:	intraperitoneal injection
+
+
+Sacrifice times:	 24 h or 48 h (high dose group only) after treatment. GLP:	in compliance
+Study period:	26 August 2002 - 27 November 2002
+
+Fuchsia Red WR 802177 was investigated for induction of micronuclei in the bone marrow cells of NMRI mice. Dose selection was based on the result of a pre-experiment for toxicity in which 2 mice/sex were treated orally with 100, 150 and 200 mg/kg bw Fuchsia Red WR 802177. The animals were examined for acute toxic symptoms at intervals of around 1, 2-4, 6, 24, 30 and 48 h after administration.
+In the main experiment mice were exposed orally to 0, 25, 50 and 100 mg/kg bw. The animals of the highest dose group were examined for acute toxic symptoms at intervals around 1, 2-4, 6 and 24 h after treatment. Bone marrow cells were collected 24 h or 48 h (high dose only) after dosing. Toxicity and thus exposure of the target cells was determined by measuring the ratio between polychromatic and total erythrocytes (PCE/TE ratio). Bone marrow preparations were stained and examined microscopically for the NCE/TE ratio and micronuclei. Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+In the pre-experiment for toxicity, i.p. exposure to either 200 mg/kg bw and 150 mg/kg bw Fuchsia Red WR 802177 resulted in the death of 1 male and 2 female mice. At 100 mg/kg bw all mice kept alive. In the pre-experiment most treated animals expressed toxic effects like reduction of spontaneous activity, abdominal position, eyelid closure, ruffled fur and apathy. Additionally, red or orange coloured urine was reported in treated animals. On the basis of these results 100 mg/kg bw was chosen as the highest dose. In the main experiment similar toxic effects were observed. These signs of toxicity and particularly the discoloured urine indicated systemic bioavailability of Fuchsia Red WR 802177. The decrease in the PCE/TE ratio, indicating to toxic effects of Fuchsia Red WR 802177 to bone marrow cells, confirmed bone marrow cell exposure.
+In comparison to the corresponding vehicle controls, a biologically relevant increase in the number of erythrocytes with micronuclei was not observed at any preparation interval and dose level after administration of Fuchsia Red WR 802177.
+
+Conclusion
+Under the experimental conditions used, Fuchsia Red WR 802177 did not induce micronuclei in erythrocytes of treated mice and, consequently, Fuchsia Red WR 802177 was not genotoxic (clastogenic and/or aneugenic) in erythrocytes of mice.
+Ref.: 23
+
+
+Mice
+
+Guideline:	/
+Species/strain:	B6C3F1mice
+Group size:	46 - 64 animals per sex and dose Test substance:	 Phloxine
+Batch:	/
+Purity:	/
+Dose level:	 diet containing 0, 0.1, or 0.4% Phloxine Route:	oral.
+Exposure period:	90 weeks GLP:	/
+Study period:	before 1994
+
+In a preliminary study, solutions of 0.1, 0.4 and 1.6% Phloxine [it is not stated if Phloxine was added to the diet or drinking water] were given to both sexes of the mice for 10 weeks.
+
+
+The authors concluded that the concentrations used did not affect either body weight gain or overall health of the mice.
+
+B6C3F1 mice, groups of about 50 males and 50 females (6 weeks old), were exposed to 0,
+0.1 or 0.4% Phloxine in the diet for up to 90 weeks. Food consumption was measured 12 weeks after start of the study. All mice were observed every day and weighted once a month. At 80 weeks about 50% of the surviving mice of all groups were killed in order to ascertain the possible presence of any tumours. All the remaining mice were subjected to autopsy at week 90. Body weights and individual organ weights were noted and most were routinely processed for histological study.
+
+Survival at week 80 varied between 85% and 98%. Food consumption per day per mice at 12 weeks after start of the experiment was, males: control 3.22 g, low dose 4.20 g, high dose 4.32 g, females: control 3.35 g, low dose 3.66 g, high dose 4.02 g. Average body weights were almost always higher in treated groups of both sexes, compared to those of the controls. Liver weights of the dosed males were significantly increased compared to control male mice.
+
+At the end of the study (90 weeks) tumours were observed in all groups of mice. The frequencies of hepatic haemangioma in male mice was less in the high dose (1/49; 2%) and low dose (3/52; 6%) groups than in the control group (9/64; 14%). In females the incidence of pituitary tumours was significantly increased both in the high dose group (3/46; 6%) and low dose group (10/49; 20%) compared to the control group (1/62; 2%). Although the number of liver adenomas was not increased in the exposed males, the size of the adenomas among the exposed males was increased compared with the controls.
+
+The authors concluded that, except for a significant increase in pituitary tumour incidence in the test groups compared with the control groups, the study indicated that Phloxine did not have any tumorigenic effect in mice of either sex.
+Ref.: 13
+
+Comment
+It is noted that the frequency of pituitary tumours was significantly higher in the low dose group (20%) than in the high dose group (6%) and in the control group (2%). Ito et al. published in 1988 a study of spontaneous tumours in B6C3F1 mice and reported a frequency of pituitary tumours of 6.9% (13a). Later, in 1998 it was reported from the NTP studies that the frequency of pituitary adenomas in female B6C3F1 in feeding studies were in the range 0 - 36% with an average of 14.3% (13b). On these bases SCCS consider that that the finding of the increased frequency of pituitary tumours is of little concern.
+
+
+
+No data submitted
+
+
+In a teratogenicity study in mice, phloxine B, given in the diet at concentrations of 1, 3 and 5% from day 6 to day 16 of gestation was found teratogenic at 3 and 5% levels. These concentrations also resulted in maternal toxicity.
+In addition, teratogenic effects were also noted at the 1% level. The study was not performed according to the OECD guideline.
+Ref.: 25
+
+
+Taken from SCCNFP/0788/04
+
+Prenatal developmental toxicity study, range-finding study
+
+Purpose:	to select dose levels for a subsequent prenatal developmental toxicity study
+Species/strain:	 Rat, HanBrl: WIST(SPF) Group size:	5 females (mated)
+Batch:	AR92-020420
+Purity:	94.6-99.4 area% (HPLC)
+Dose levels:	 0, 10, 50 and 250 mg/kg bw/day Vehicle:	water (10 ml/kg bw/day) Treatment period: days 6-20 of gestation
+
+Results
+Clinical signs:	reddish faeces in all test groups
+Body weight gain:	slightly reduced at 250 mg/kg bw/day
+Food intake:	 slightly reduced at 250 mg/kg bw/day from days 6-15 p.c. Reproductive data:	no treatment related effects
+General foetal data:	no treatment related effects
+
+Conclusion
+10, 50 and 250 mg/kg bw/day were selected as dose levels for a subsequent prenatal developmental toxicity study.
+Ref.: 17
+
+
+Prenatal developmental toxicity study, main study
+
+Guideline:	OECD 414 Species/strain:	 rat, HanBrl: WIST(SPF) Group size:	 24 females (mated)
+Batch:	AR92-020420
+Purity:	94.6-99.4 area% (HPLC)
+Dose levels:	 0, 10, 50 and 250 mg/kg bw/day Vehicle:	water (10 ml/kg bw/day) Treatment period: days 6-20 of gestation
+GLP:	in compliance
+
+Results
+Mortality:		no test-substance related effects. 1 low- and 1 mid-dose female died due to dosing error
+Clinical signs:	reddish faeces in all test groups
+Body weight gain:   transient slight reductions at 250 mg/kg bw/day Food intake:	transient slight reductions at 250 mg/kg bw/day Reproductive data:   no treatment related effects
+Necropsy F0:	reddish stomach/ intestinal content in mid- and high-dose group General foetal data:	 no treatment related effects
+Foetal visceral exam.:	no treatment related effects Foetal skeletal exam.:	 no treatment related effects
+
+Conclusion
+The test substance elicited slight maternal toxicity at 250 mg/kg bw/day but was not embryotoxic or teratogenic at the doses tested. The NOAEL for maternal toxicity was considered to be 50 mg/kg bw/day.
+Ref.: 18
+
+
+
+
+
+No data submitted
+
+
+
+No data submitted
+
+
+No data submitted
+
+
+No data submitted
+
+
+No data submitted
+
+
+CALCULATION OF THE MARGIN OF SAFETY
+
+Acid Red 92
+
+Oxidative conditions (Worst case)
+
+
+Absorption through the skinA=14.58 µg/cm²Skin Area surfaceSAS=580 cm2Dermal absorption per treatmentSAS x A x 0.001=8.46 mgTypical body weight of human=60 kgSystemic exposure doseSAS x A x 0.001/60=0.14 mg/kg bw/dayNo Observed Adverse Effect LevelNOAEL=50 mg/kg bw/day(sub-chronic, maternal and developmental toxicity, oral, rat)
+Adjusted for oral bioavailability	50% bioavailability* =	25 mg/kg bw/day
+
+
+* standard procedure according to the SCCS's Notes of Guidance for the testing of cosmetic ingredients and their safety evaluation
+
+
+
+Physico-chemical properties
+Identity, purity and stability of the test substance used for toxicity testing have been investigated according to the state of the art. Stability has not been tested in typical hair dye formulations.
+
+
+Irritation, sensitisation
+Skin staining caused by Acid Red 92 would have masked any irritant erythema. Therefore, some irritant potential of Acid Red 92 applied to rabbit skin has not been excluded.
+Under the conditions of this experiment, Acid Red 92 was irritating to the rabbit eye. Acid Red 92 is not a skin sensitizer under the defined experimental conditions.
+
+Dermal absorption
+The dose applied (100 mg/cm2) was too high. The mean + 2SD should be used in calculating the MOS. Under non-oxidative conditions, this is 4.99 + 2 x 0.779 = 6.548 µg/cm2; under oxidative conditions, it is 8.18 + 2 x 3.20 = 14.58 µg/cm2.
+
+General toxicity
+No data on acute toxicity were provided.
+The SCCS considers 50 mg/kg bw/day as the NOAEL for sub-chronic toxicity. In the developmental toxicity study, the NOAEL for maternal toxicity was 50 mg/kg bw/day. There was no embryotoxicity or teratogenicity at the highest dose tested (150 mg/kg bw/day).
+No further data on reproductive toxicity were provided.
+
+Mutagenicity
+Overall, the genotoxicity of Acid Red 92 is investigated in valid genotoxicity tests for the 3 endpoints of genotoxicity: gene mutations, chromosome aberrations and aneuploidy. The induction of gene mutations was studied in in vitro tests. Acid Red 92 did not induce gene mutations in bacteria nor in cultured mammalian cells. Chromosomal aberrations and aneuploidy were not investigated with (an) in vitro test(s). However, in mice exposure to Acid Red 92 did not result in an increase in erythrocytes with micronuclei. Consequently, Acid Red 92 can be considered to have no genotoxic potential and additional tests are unnecessary.
+
+Carcinogenicity
+The frequency of pituitary tumours was significantly higher in the low dose group (20%) than in the high dose group (6%) and in the control (2%) female mice. However, based on historical control studies SCCS consider that that the finding of the increased frequency of pituitary tumours is of little concern. The study indicated that Acid Red 92 did not have any tumorigenic effects in mice at other sites.
+
+
+
+4. CONCLUSION
+
+Based on the data provided, the SCCS is of the opinion that the use of Acid Red 92 with a maximum on-head concentration of 2.0% in oxidative and of 0.4% in non-oxidative hair dye formulations does not pose a risk to the health of the consumer.
+
+Since the restricted impurities for CI 45410 were not reported in the batches of this opinion, the term of reference n° 3 cannot be answered.
+
+The SSCS recommends that the use of Acid Red 92 as a colorant should also be assessed.
+
+
+5. MINORITY OPINION
+
+Not applicable
+
+6. REFERENCES
+1. Lange, J.; Sieve analysis; NOACK; 2004
+2. Lange, J; Water solubility (Flask Method); NOA CK; 2004
+3. Lange, J; Prediction of the pKa-value; NOACK; 2004
+4. Smeykal, H.; Melting point /boiling point; SIEMENS AXIVA GMBH & CO. KG; 2004
+5. Lange, J.; Determination of the density; NOACK; 2004
+6. Franke, J.; Vapour pressure; SIEMENS AXIVA GMBH & CO. KG; 2004
+7. Lange, J.; Flammability of solids; NOACK; 2004
+8. Smeykal, H.; Auto-flammability (Solids - determination of relative self-ignition temperature); SIEMENS AXIVA GMBH & CO. KG; 2004
+9. Lange, J.; Partition coefficient (n-octanol / water) using High Performance Liquid Chromatography (HPLC); NOACK; 2003
+10. Damkrôger, G.; Identity, purity and stability test of Gardex Fuchsia Red (Acid Red 92); WELLA AG; 2002
+11. Braun, W. H.; Knuppe, C; Millar, P.; Acid Red 92: 28-day oral toxicity (gavage) study in the Wistar Rat; R??/ 2003
+12. Braun, W. H.; Knuppe, C; Aluma J.; Acid Red 92: 13-week oral toxicity (gavage) study in Wistar Rats; RCC; 2003
+13. Ito, ?.; Fujimoto, N; Okamoto, T.; Ando Y.; Watanabe, H.; Tumorgenicity study of phloxine (FR 104) in B6C3F1 mice; FD. CHEM, TOXICOL; 32, SI7-S20; 1994
+13a. Tamano S, Hagiwara A, Shibata MA, Kurata Y, Fukushima S Ito N. Spontaneous Tumors in Aging (C57BL/6N X C3H/HeN)F1 (B6C3F1) Mice. Toxicol Pathol 1988 16: 321-326, 1988.
+13b. Haseman JK, Hailey JR,Morris RW. Studies: A National Toxicology Program Update Toxicol Pathol 1998 26: 428-441, 1998
+14. Arcelin G.; Primary skin irritation study in rabbits (4-hour semi-occlusive application); RCC; 2002
+15. Arcelin G.; Acid Red 92, 802177: Primary eye irritation study in rabbits; RCC; 2003
+16. Christ, M; 802177 (Fuchsia Red) - Local lymph node assay; MDS PHARMA SER VICES; 2003
+17. Becker, H.; ?nu???, C; Dose range-finding prenatal developmental toxicity study in the Han Wistar Rat; RCC; 2003
+18. Khalil, S.; Knuppe, C; Prenatal developmental toxicity study in the rat; RCC; 2003
+19. Sieber, T.; Determination of stability and solubility of Acid Red 92 in receptor fluid; COSMITAL; 2005
+20. Koganti, ?.; Draft Human Percutaneous Absorption and Cutaneous Disposition of Acid Red 92 (WR 20161) in vitro; IN VITRO TECHNOLOGIES;
+21. Aeby, P.; Assessment of the potential mutagenicity of WR802177 in the Ames reversion assay with Salmonella Typhimurium; COSMITAL SA; 2002
+22. Wollny, ?.-E.; Cell mutation assay at the Thymidine Kinase Locus (TK+A) in mouse lymphoma L5178Y cells with Fuchsia Red WR 802177; RCC-CCR; 2002
+23. Honarvar, N.; Micronucleus assay in bone marrow cells of the mouse with Fuchsia Red WR 802177; RCC-CCR; 2002
+24. König, P.; Data base search for references for C053 - Acid Red 92 = CI 45410: 18472- 87-2 and D & C Red n° 27 - CI 45410:1: 13473-26-2 and D & C Red n° 27 Aluminium lake = CI 45410:2: 2134-15-8, 84473-86-9, 15876-58-1 ; WELLA Service GMBH; 1-
+37; 25.11.2005
+25. Seno M., Fukuda S, Umisa H. (1984) A teratogenicity study of phloxine B in ICR mice. Food and Chemical Toxicology 22, 55-60
+
+
+
+
+
+

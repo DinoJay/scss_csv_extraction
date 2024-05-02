@@ -2,6 +2,7 @@
 	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
+	import LightBox from './LightBox.svelte';
 
 	export let selected;
 	export let onClick;
@@ -60,91 +61,69 @@
 				// console.log(error);
 			});
 	};
+
+	console.log('text', text, question);
 </script>
 
-<div
-	on:keydown={(e) => {
-		if (e.key === 'Enter') {
-			// onClick();
-		}
-		// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
-	}}
-	on:click={(e) => {
-		// onClick();
-		// response = null;
-		// console.log('check');
-	}}
-	tabindex="0"
-	role="button"
-	class=" mb-3"
->
-	<div
-		role="button"
-		tabindex="0"
-		on:keydown={(e) => {
-			if (e.key === 'Enter') {
-				e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
-			}
-		}}
-		on:click={(e) => {
-			e.stopPropagation();
-
-			e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
-		}}
-	>
-		<div class="flex">
+<div class="flex-1 overflow-auto">
+	<div>
+		<!-- <div class="flex">
 			<h2 class="text-lg mb-2 flex-1 items-center">{title}</h2>
 			<button on:click={onClick}>@</button>
-		</div>
+		</div> -->
 		<p
-			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-hidden"
+			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-auto"
 			class:border-fuchsia-200={selected}
 			class:border-fuchsia-100={!selected}
 		>
 			{text}
 		</p>
 	</div>
-	{#if selected}
-		<div class="flex flex-col">
-			<div class="mt-3">
-				<div class="flex gap-2 overflow-auto">
-					<EndpointNav
-						endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
-						{selEndpoint}
-						onClick={(e) => {
-							selEndpoint = e.name;
-							question = genQuery(e.cols.join(';'));
-						}}
-					></EndpointNav>
-				</div>
-
-				<div class=" flex my-2">
-					<textarea
-						on:change={(e) => {
-							question = e.target.value;
-						}}
-						value={question}
-						placeholder="ChatGPT question"
-						class="h-32 border-2 border-gray p-2 flex-grow"
-					/>
-				</div>
-				<button
-					class="w-full p-2 border-2"
-					on:click={() => setChatGPTContext([text, question])}
-					type="button"
-				>
-					Submit
-				</button>
+	<div class="flex flex-col">
+		<div class="mt-3">
+			<div class="flex gap-2 overflow-auto">
+				<EndpointNav
+					endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
+					{selEndpoint}
+					onClick={(e) => {
+						selEndpoint = e.name;
+						question = genQuery(e.cols.join(';'));
+					}}
+				></EndpointNav>
 			</div>
-			<div class="w-full flex">
-				{#if chatGPTerror !== null}
-					<div class="w-full flex h-44 overflow-auto">
-						<p class="text-red-500">{chatGPTerror}</p>
-					</div>
-				{/if}
+
+			<div class=" flex my-2">
+				<textarea
+					on:change={(e) => {
+						question = e.target.value;
+					}}
+					value={question}
+					placeholder="ChatGPT question"
+					class="h-32 border-2 border-gray p-2 flex-grow"
+				/>
+			</div>
+			<button
+				class="w-full p-2 border-2"
+				on:click={() => setChatGPTContext([text, question])}
+				type="button"
+			>
+				Submit
+			</button>
+		</div>
+		<div class="w-full flex">
+			{#if chatGPTerror !== null}
+				<div class="w-full flex h-44 overflow-auto">
+					<p class="text-red-500">{chatGPTerror}</p>
+				</div>
+			{/if}
+			<LightBox
+				title="ChatGPT Result"
+				isOpen={loadingResponse || response}
+				close={() => (response = null)}
+			>
 				<div class="w-full flex">
 					{#if loadingResponse}
-						<div class="h-44 flex w-full">
+						<div class="h-44 flex flex-1">
 							<div class="m-auto">Loading...</div>
 						</div>
 					{:else if response}
@@ -153,7 +132,7 @@
 						</p>
 					{/if}
 				</div>
-			</div>
+			</LightBox>
 		</div>
-	{/if}
+	</div>
 </div>

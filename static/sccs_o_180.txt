@@ -1,0 +1,1085 @@
+Revision of 15 December 2015
+
+
+
+
+
+Scientific Committee on Consumer Safety SCCS
+
+
+
+
+
+
+OPINION ON
+HC Blue 18 (Colipa No. B122)
+
+Submission I
+
+
+
+
+
+The SCCS adopted this opinion at its 10th plenary meeting on 25 June 2015
+Revision of 15 December 2015
+
+
+About the Scientific Committees
+Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat.
+They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts.
+In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA).
+
+SCCS
+The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.).
+
+
+Scientific Committee members
+Ulrike Bernauer, Qasim Chaudhry, Pieter Coenraads, Gisela Degen, Maria Dusinska, Werner Lilienblum, Elsa Nielsen, Thomas Platzek, Christophe Rousselle, Jan van Benthem
+
+
+Contact
+European Commission Health and Food Safety Directorate C: Public Health
+Unit C2 - Health Information and Scientific Committees Office: HTC 03/073
+L-2920 Luxembourg
+SANTE-C2-SCCS@ec.europa.eu
+
+
+(c) European Union, 2015
+
+ISSN 1831-4767	ISBN 978-92-79-56137-5
+
+Doi:10.2875/565545	EW-AQ-16-014-EN-N
+
+
+
+The Opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The Opinions are published by the European Commission in their original language only.
+
+http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm
+
+
+ACKNOWLEDGMENTS
+
+SCCS Members
+
+Dr. Qasim Chaudhry
+Prof. P.J. Coenraads	(chairman) Prof. M. Dusinska
+Dr. W. Lilienblum Dr. E. Nielsen Prof. T. Platzek
+Dr. S.C. Rastogi	(until 25 June 2015)
+Dr. C. Rousselle	(rapporteur) Dr. J. van Benthem
+
+External experts
+
+Prof. A. Bernard Dr. L. Bodin
+Dr. J. Duus-Johansen Dr. J. Ezendam
+Prof. A.M. Giménez-Arnau Dr. E. Mirkova
+Dr. E. Panteri
+Prof. T. Vanhaecke Dr. A. Varvaresou
+
+
+
+This opinion has been subject to a commenting period of eight weeks after its initial publication. Comments received during this time have been considered by the SCCS and discussed in the subsequent plenary meeting. Where appropriate, the text of the relevant sections of the opinion has been modified or explanations have been added. In the cases where the SCCS after consideration and discussion of the comments, has decided to maintain its initial views, the opinion (or the section concerned) has remained unchanged.
+Revised opinions carry the date of revision.
+
+
+Keywords: SCCS, scientific opinion, hair dye, HC Blue 18, Colipa B122, Regulation 1223/2009, CAS 1166834-57-6
+
+
+Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on HC Blue 18, Colipa no. B122, 25 June 2015, SCCS/1560/15, revision of 15 December 2015
+
+
+
+
+TABLE OF CONTENTS
+1. BACKGROUND	5
+2. TERMS OF REFERENCE	5
+3. OPINION	6
+3.1 Chemical and Physical Specifications	6
+3.1.1 Chemical identity	6
+3.1.2 Physical form	6
+3.1.3 Molecular weight	6
+3.1.4 Purity, composition and substance codes	6
+3.1.5 Impurities / accompanying contaminants	8
+3.1.6 Solubility	10
+3.1.7 Partition coefficient (Log Pow)	10
+3.1.8 Additional physical and chemical specifications	10
+3.1.9 Homogeneity and Stability	10
+3.2 Function and uses	11
+3.3 Toxicological Evaluation	11
+3.3.1 Acute toxicity	11
+3.3.2 Irritation and corrosivity	12
+3.3.3 Skin sensitisation	13
+3.3.4 Dermal / percutaneous absorption.	15
+3.3.5 Repeated dose toxicity	20
+3.3.6 Mutagenicity / Genotoxicity	22
+3.3.7 Carcinogenicity	28
+3.3.8 Reproductive toxicity	28
+3.3.9 Toxicokinetics	30
+3.3.10 Photo-induced toxicity	37
+3.3.11 Human data	37
+3.3.12 Special investigations	38
+3.3.13 Safety evaluation (including calculation of the MoS)	38
+3.3.14 Discussion	39
+4. CONCLUSION	40
+5. MINORITY OPINION	41
+6. REFERENCES	41
+
+
+
+1. BACKGROUND
+
+Submission I on hair dye HC Blue 18 (Colipa No B122) CAS No. 1166834-57-6 with the chemical name 3-[(E)-(3-chloro-4-hydroxyphenyl)diazenyl]-2,l-benzisothiazole-5- sulphonamide was transmitted by Cosmetics Europe in June 2014.
+
+The new ingredient HC Blue 18 (B122) is a non-reactive dye used as a direct hair colouring agent at on-head concentration up to 0.35% in non-oxidative as well as in oxidative hair dye formulations.
+
+
+2. TERMS OF REFERENCE
+
+(1) In light of the data provided, does the SCCS consider HC Blue 18 (B122) safe when used as a direct hair colouring agent at on-head concentration up to 0.35% in non-oxidative as well as in oxidative hair dye formulations?
+
+(2) Does the SCCS have any further scientific concerns with regard to the use of HC Blue 18 (B122) in cosmetic products?
+
+
+
+
+3. OPINION
+
+3.1 Chemical and Physical Specifications
+
+
+
+HC Blue 18
+
+
+3-[(E)-(3-chloro-4-hydroxyphenyl)diazenyl]-2,l-benzisothiazole-5- sulfonamide
+
+
+FPK-145
+
+
+CAS:	1166834-57-6
+EC: /
+
+
+
+
+
+
+C13H9ClN4O3S2
+
+
+Red powder
+
+
+Molecular weight: 368.82 g/mol
+
+
+
+Chemical characterisation of HC Blue 18 was performed by NMR, IR and UV Spectroscopy. Purity and impurities:
+Batch Y6-9Batch 04040601No.PeaknameRet. timeAreaRel. areaAreaRel. areaminmAU*min%mAU*min%1imp a10.5920.08930.072imp b10.9830.02070.023imp c11.1170.01050.014imp d11.2670.02780.020.0240...025FPK-14511.8127.268399.26123.033399.926imp e13.1830.62880.497imp f15.450.19590.150.04880.04Total:128.2206100123.1267100Peak table at 254 nm
+
+
+
+
+
+
+
+
+
+
+
+
+SCCS comments on purity and impurity
+
+HPLC data on purity and impurities of HC Blue 18 was not submitted for the batches 04040601 and 11-001
+The measurement of HPLC purity and impurities present in the batches Y-6 and T9611-9612 is not acceptable for the following reasons:
+
+- The HPLC purity was based on the detection at 254 nm, but the ?max of HC Blue 18 are at ca. 460nm and 625 nm.
+- Detection at 460nm and 625 nm will give both a realistic purity of HC Blue 18 as well as the impurities related with the of HC Blue 18 synthesis.
+- Recovery and peak purity for HPLC determination of HC Blue 18 was not provided.
+- None of the impurities were chemically characterised. As the SCCS has no information about starting materials and the synthetic route of HC Blue No. 18, it is not possible to predict impurities of raw materials and intermediates. An overview of impurities should be provided by both HPLC-PDA chromatogram and GC chromatogram of HC Blue No. 18. In addition, the impurities should be characterised by LC/MS and GC/MS. Any impurity belonging to CMR (carcinogenic, mutagenic and reproduction toxic) classes, such as aniline derivative (4-amino-2-chlorophenol), benzene, tetrahydrofuran, dichloromethane, etc. must be quantified.
+
+Methodology used for the determination of water content, ash content and metal content was not described and the study reports were not submitted.
+
+The SCCS has been informed by the applicant that details on impurities will be submitted at a later date as the work is still on-going.
+
+
+
+
+
+
+UV-Vis spectrum of HC Blue 18 solution in 0.5% in monoethanol amine buffer pH 10 containing 4.5% isopropanol, and mixed 1:1 with aqueous peroxide 6%
+
+
+
+
+
+
+
+
+
+Water: 1% (pH9)
+DMSO: > 10%
+Ethanol < 1%
+
+SCCS comment
+The study report of water solubility determination was not submitted. It is not known whether the water solubility was determined by the EU Method A.6.
+
+
+
+Log Pow:	2.33 +/- 1.30 (neutral): - 0.82 +/- 1.0 (mono-anionic form)
+
+
+SCCS comment
+It is not clear whether Log Pow was calculated or whether it was experimentally determined by EU Method A.8.
+
+
+
+Melting point:	/
+Boiling point:	/
+Flash point:	/
+Vapour pressure:	/
+Density:	/
+Viscosity:	/
+pKa:	/
+Refractive index:	/
+pH:	/
+UV_Vis spectrum (ca.300nm-800 nm): ?max ca. 410 nm and 625 nm
+
+
+
+0.5% FPK-145 (dissolved in monoethanolamine buffer containing isopropanol) was shown to be stable when mixed with 6% hydrogen peroxide (1:1).
+
+
+The applicant explained that the peroxide stability data was carried out in alkaline water/iso-propanol and therefore only showed the absorption peak at 575 nm relating to the deprotonated form.
+
+SCCS comment
+FPK-145 is stable in alkaline peroxide for 45 min. Stability of HC Blue 18 in alkaline peroxide was evaluated by means of HPLC-PDA methodology (chromatograms were extracted at 254 nm and 576 nm) over 45 min.
+Although stability was not evaluated using this HPLC method for the batches used in this dossier, the SCCS considers that the test compound is stable in alkaline peroxide for 45 min.
+
+Comments to physico-chemical characterisation
+
+- HPLC data on purity and impurities of HC Blue 18 was not submitted for batches 04040601 and 11-001.
+- The measurement of HPLC purity of the HC Blue 18 batches Y-6 and T9611-9612 is not acceptable (See SCCS comments to purity and impurities 3.1.4 and 3.1.5).
+- None of the impurities were chemically characterised. Details on impurities will be submitted at a later date. An overview of impurities should be provided by both HPLC-PDA chromatogram and GC chromatogram of HC Blue No. 18. In addition, the impurities should be characterised by LC/MS and GC/MS. Any impurity belonging to CMR (carcinogenic, mutagenic and reproduction toxic) classes, such as aniline derivative, benzene, tetrahydrofuran, dichloromethane, etc. must be quantified.
+- Methodology used for the determination of water content, ash content and metal content was not described and the study reports were not submitted.
+- The study reports on water solubility and Log Pow determination of HC Blue 18 were not submitted. It is not known whether water solubility and Log Pow were determined by respective EU methods.
+- Physicochemical properties such as melting point and density of HC Blue 18 are not reported.
+- Stability of HC Blue 18 in typical hair dye formulations is not shown.
+
+
+3.2 Function and uses
+
+HC Blue 18 is intended to be used as a direct hair colouring agent up to on-head concentration of 0.35% in non-oxidative as well as oxidative hair dye formulations.
+
+
+3.3 Toxicological Evaluation
+
+
+No acute oral toxicity studies were performed with HC Blue No 18. However, as no deaths were observed in the oral rat subchronic toxicity study performed at dose levels of up to the limit dose level of 1000 mg/kg/day, it can be inferred that HC Blue No 18 is of low acute toxicity following a single administration by the oral route.
+
+
+
+
+
+
+Guideline:	OECD TG 404 Species/strain:	 New Zealand White rabbits Group size:	 3 (1 male - 2 females) Test substance:	 FPK145
+Batch:	04040601
+Purity:	99.7% (HPLC)
+Dose:	0.5 g
+GLP:	Yes
+Study period:	26 January to 10 February 2009
+
+The test substance was applied by topical semi-occlusive application of 0.5 g (moistened with approximately 0.5 ml of purified water) to the intact left flank of each of three young adult New Zealand White rabbits. The duration of treatment was four hours. The scoring of skin reactions was performed 1, 24, 48 and 72 hours, as well as 7, 10 and 14 days after removal of the dressing.
+
+Results
+At the 1-hour observation, all three animals were observed with a slight red staining on the treated skin caused by the test item. The staining persisted as slight up to 14 days after treatment, the end of the observation period for all animals.
+The test substance did not elicit any skin reactions at the application site of any animal at any of the observation times (all scores for erythema/eschar and oedema were 0).
+
+Conclusion
+The test substance is considered to be "not irritating" to rabbit skin but it cannot be excluded that the colour of the substance might have masked some minor effects on the skin.
+Ref. 2
+
+
+
+Guideline:	OECD TG 405 Species/strain:	 New Zealand White rabbits Group size:	 3 (1 male - 2 females) Test substance:	 FPK145
+Batch:	04040601
+Purity:	99.7% (HPLC)
+Dose:	0.1 g
+GLP:	Yes
+Study period:	16 to 19 February 2009
+
+The test substance was applied by instillation of 0.1 g (undiluted) into the left eye of each of three young adult New Zealand White rabbits (one male and two females). The right eye remained untreated and served as the reference control. The ocular reactions were assessed approximately 1, 24, 48 and 72 hours after instillation of the test substance.
+
+Results
+The male animal was observed with slight swelling of the conjunctivae (score 1) at the 1- hour reading. Redness of the conjunctivae and sclera was not assessable in the male due to moderate blue/red staining of the treated eye which persisted as slight staining up to 24 hours. Slight reddening (score 1) of the conjunctivae and sclera was observed in the male
+
+
+at the 24-hour reading and persisted for up to 48 hours. Slight reddening (score 1) of the conjunctivae and sclera was observed in the two females only at the 1-hour reading. Slight ocular discharge was observed in all animals at the 1-hour reading. No irritation reactions of cornea and iris were observed.
+
+Conclusion:
+Based upon the classification criteria, the test substance is considered to be "not irritating" to the rabbit eye.
+Ref. 1
+
+SCCS comment
+Under the conditions of this study, the test substance is slightly irritating to the rabbit eye; classification according to the CLP criteria is not warranted.
+
+
+
+Local Lymph Node Assay (LLNA)
+
+Guideline:	OECD 429 Species/strain:	 mice
+Group size:	4 mice (females) per group Test substance:	FPK-145
+Batch:	Y6-9
+Purity:	99%
+Vehicle:	DMSO Concentration:	5%, 10%, 15%
+Positive control:	alpha-hexylcinnamaldehyde GLP:	Yes
+Study period:	Sept 2003
+
+A pre-experiment was performed to determine the highest tolerable concentration for the LLNA. Based on this experiment, the concentrations in the main study were 5, 10 and 15% in DMSO. 15% was the highest technically achievable concentration. On three consecutive days, 25 µl of the test item and vehicle control were applied to the dorsal surface of each ear. Five days after the first application, [3H]-methyl thymidine (3HTdR) was intravenously injected into a tail vein. The proliferative capacity of lymph nodes was determined by incorporation of 3HTdR. A test item is regarded as a sensitiser in the LLNA if the exposure to at least one concentration resulted in an incorporation of 3HTdR at least 3-fold greater than that recorded in control mice, as indicated by the Stimulation Index (SI).
+
+Results:
+
+
+No test item-related clinical signs were observed in any animals of the control group or in groups treated at 5% or 10%. Approximately one hour after the topical treatment, a slight ear swelling was observed at both dosing sites in all mice treated with 10% FPK-145, persisting for the reminder of the in-life phase of the study.
+
+
+The lymphoproliferative response evidenced by stimulation indices above the threshold value of 3 was already achieved at the lowest test concentration. Therefore, the EC3 could not be calculated.
+Ref. 3a note
+
+To further clarify the potency of FPK-145, a new LLNA study in mice was performed not only with different concentrations of FPK-145, but also with a different batch.
+
+
+Guideline:	OECD 429 Species/strain:	 mice
+Group size:	20 females (4 per group) Test substance:	 FPK-145
+Batch:	04040601
+Purity:	99.7% (HPLC, 254 nm)
+Vehicle:	DMSO
+Concentration:	 1%, 2.5%, 5% and 10% Positive control:	alpha-hexylcinnamaldehyde GLP:	Yes
+Study period:    June 2009
+
+The concentrations in this study were chosen as follows (based on RCC study 7850799): 1, 2.5, 5 and 10% in DMSO. On three consecutive days, 25 µl of the test item and vehicle control were applied to the dorsal surface of each ear. Five days after the first application, [3H]-methyl thymidine (3HTdR) was intravenously injected into a tail vein. The proliferative capacity of lymph nodes was determined by incorporation of 3HTdR. A test item is regarded as a sensitiser in the LLNA if the exposure to at least one concentration resulted in an incorporation of 3HTdR at least 3-fold greater than that recorded in control mice, as indicated by the Stimulation Index (SI).
+
+
+Results:
+All treated animals survived the scheduled study period. Neither clinical signs on the ears of the animals nor systemic findings were observed during the study period.
+The lymphoproliferative response evidenced by stimulation indices above the threshold value of 3 was not achieved. The calculated EC3 was 10.5%.
+
+
+Conclusion:
+FPK-145 was not a skin sensitiser in this assay.
+Ref. 3b
+
+In conclusion, two murine Local Lymph Node Assays (LLNA) were conducted in order to evaluate the skin sensitisation potential of FPK-145. In the first study with Batch no. Y6-9 (5-15%), no EC3 could be established as the SI value was already above 3 at the lowest dose. As potency clarification is very important for using a colorant as hair dye, a second study with slightly different specification (Batch no. 04040601) was performed with different concentrations. In this second study, the test material did not induce biologically relevant immune response up to the highest concentration tested (10%). On the basis of these results, HC Blue 18 was considered to have moderate skin sensitisation potential and the EC3 was calculated to be 10.5. Therefore, based on ECETOC technical report 87 potency classifications HC Blue 18 is classified as a moderate sensitiser.
+
+
+
+Overall conclusion on sensitisation from the applicant:
+A detailed chemical analysis of the test chemical clearly shows that the two test batches vary in purity. Batch number Y6-9, the one with EC3<5%, has three additional impurities, one at a level of 0.5%.
+(Taken from summary dossier - Submission I, Comparison of Impurities):
+Based on the outcome of the two tests, the purity seems to have a relevant influence on the EC3 value, respectively safe use level. Therefore, the market specification was adapted appropriately and the absence of impurity a, c, e is part of the standard specification.
+
+QRA
+(taken from summary dossier - Submission I)
+The Quantitative Risk Assessment was used by the applicant as a scientific tool that allows quantification of the risk of induction of contact dermatitis with skin allergens. The Acceptable Exposure Level (AEL) is determined by dividing the WoE No Effect Sensitisation Induction Level (NESIL) by the SAF of 30 (Göbel et al., 2012). The skin penetration studies that are available provided a figure of the CEL (Stratum Corneum + dermal delivery + SD) under realistic hair-dyeing conditions.
+
+
+As the AEL/CEL ration is significantly higher than 1 (i.e. 122), the risk for consumers of developing a skin allergy while using FPK-145 is considered to be very low.
+
+SCCS overall conclusion on skin sensitisation:
+The LLNA results were highly dependent on the batch of HC Blue 18 used. Test batch Y6-9, which contained several impurities (a, c, e - see table in 3.1.4), induced SI values above 3 at all concentrations tested. This batch containing several impurities did not induce a clear dose response in the LLNA. Therefore SCCS has doubts on the relevance of this study.
+Batch 0404061, where these impurities are absent (see 3.1.4 and 3.1.5), did not induce SI values equal to or higher than 3 in the LLNA. Since this test item was borderline positive at the highest concentration tested (10%) and induced a dose-dependent response, SCCS considers HC Blue 18 as a moderate sensitiser.
+The QRA used a novel simplified approach, specifically for hair dyes, based on a direct comparison of skin penetration data with the EC3 derived NESIL. Only a summary of the calculations was provided. Although interesting, this approach has not been fully evaluated yet by SCCS for hair dye ingredients.
+
+
+
+Experiment 1: oxidative conditions
+
+Guideline:	OECD 428 (2004)
+Species/strain:	 Frozen dermatomed porcine ear skin (440-450 µm) Membrane integrity:	Electrical resistance barrier integrity
+Group size:	6 donors, 2 replicates per donor
+
+
+Test substance:	FPK-145
+Batch:	30, 03.11
+Purity:	99.34%
+Test formulation:		0.35% HC Blue 18 on head in oxidative formulation (0.7% HC Blue 18 in cream formulation FPK-145 mixed with peroxide 6%- Lotion 1/1) 80.15% water 0.7%HC Blue 18, 10% Lanette 0, 2.9%
+Oleylalkohol, 1.45% Eutanol G,  0.4%  Xantham  Gum,  0.9%
+Texapon K12, 1.0% Monoethanolamine, 2.5% HCl 32% (pH adjustment).
+Exposed skin area:		1cm2 Exposure time:	30 minutes
+Dose volume/amount:	20 µL/cm², (corresponding to about 70 µg/cm² FPK-145) Sampling period:		24 hours
+Receptor fluid:	Phosphate buffered saline Solubility of test item in receptor fluid: 56 µg/ml Mass balance analysis:		Provided
+Tape stripping:		Yes (20) Method of Analysis:	 LC-MS/MS Positive control:	Benzoic acid
+Negative control:	2-Ethylhexyl trans-4-methoxycinnamate GLP:	Yes
+Study period:	May-June 2011
+
+
+Methods
+Two independent experiments were performed with dermatomed pig skin samples which were stored frozen at -80°C until use and under dynamic non-occluded conditions. The thickness of the skin used was 440-450 µm. The blank samples (at 0 hours) were collected immediately after filling the donor chambers at the maximal flow rate of the pump prior to application of the test item. The conductivity across the skin samples of each chamber was determined before treatment and after the last sampling as a measure of skin integrity. The integrity of the skin was demonstrated prior to application and only skin samples within the acceptable range of =900 µS/cm were used. In addition, no major impairment on the skin layer was detectable after incubation with the test item.
+
+In each experiment 6 chambers of the test item were analysed. Before application, Cream 0.7% FPK-145 was mixed 1:1 (w/w) with Hydrogen peroxide lotion 6% to give the test preparation. The test preparation was applied on each skin sample at an amount of 20 µL/cm², (corresponding to about 70 µg/cm² FPK-145), left on the skin for 0.5 hours and then washed off using deionised water and 10% shampoo solution. The sufficient solubility of FPK-145 in the receptor solution (PBS) and in the extraction solution (MeOH:H2O (50:50 v/v)) was analytically demonstrated within the analytical validation part under the study number 1407601 (non-GLP study) and is given over the whole calibration range up to at least 56 µg/mL.
+
+The receptor solution was slowly pumped through the receptor chambers with a flow rate of
+0.8 to 1.1 mL per hour and fractionated 0.5, 2.0, 4.0, 8.0, 12, 16, 20, 23, and 24 hours following the application of the test preparation. The stratum corneum was separated by tape stripping (4 times 5 strips) from the remaining skin (stratum germinativum, epidermis and dermis). Both skin compartments were extracted with extraction solution. Analysis for the presence of FPK-145 was carried out by means of LC-MS/MS. The LOD was defined as 0.0625 ng/mL and the LLOQ was 0.125 ng/mL in receptor solution and in extraction solution (see validation study 1407601).
+
+
+Results
+The majority of the chambers met the acceptance criteria (> 85 % recovery) and were used for the assessment of the absorption and penetration properties. However, two chambers which did not reach the required recovery were excluded from the calculations (chamber 6 of experiment 1, and chamber 2 of experiment 2, respectively).
+
+The total recovery was 94.9% + 4.72% of the applied dose and confirmed the validity of the oxidative test.
+
+FPK-145 was detected in some compartments relevant to assess dermal delivery, e.g. in all skin extracts and in few of the receptor solution samples.
+
+The details are provided in the following summary table:
+
+
+Conclusion
+Under the oxidative conditions of this study, it can be stated that the dermal delivery of FPK-145 was 85.8 ng/cm2 + 49.8 ng/cm² (0.14% + 0.085% of the applied total dose).
+
+Ref. 4
+
+
+SCCS comment
+In accordance with the SCCS Notes of Guidance, the mean + 1 SD i.e. 135.6 ng/cm2 (0.225% of applied dose) will be considered for the calculation of the systemic exposure dosage under oxidative conditions.
+
+Experiment 2: non-oxidative conditions
+
+Guideline:	OECD 428 (2004)
+Species/strain:	 Frozen dermatomed porcine ear skin (430-440 µm) Membrane integrity:	Electrical resistance barrier integrity
+Group size:	6 donors, 2 replicates per donor
+Test substance:	FPK-145
+Batch:	C1R2011003.10
+Purity:	99.82%
+Test formulation:		0.35% HC Blue 18 on head in non-oxidative formulation (0.35% HC Blue 18 with 75-100% water, 10-24.99% cetearyl alcohol, 1-
+4.99%	oleyl	alcohol,	1-4.99%	octyldodecanol,	1-4.99%
+ethanolamine, 0.1-0.99% sodium lauryl sulphate, 0.1-0.99% xanthan gum, 0.1-0.99% HCl 32% (pH adjustment).
+Exposed skin area:	1cm2 Exposure time:		30 minutes
+Dose volume/amount:	20 µL/cm², (corresponding to about 52 µg/cm² FPK-145), Sampling period:	 24 hours
+Receptor fluid:	20% EtOH/Phosphate buffered saline Solubility of test item in receptor fluid: 18.2 µg/ml
+Mass balance analysis: Provided Tape stripping:	Yes (20) Method of Analysis:		 LC-MS/MS Positive control:		Benzoic acid
+Negative control:	2-Ethylhexyl trans-4-methoxycinnamate GLP:	Yes
+Study period:	May-June 2013
+
+Methods
+
+Two independent experiments were performed with dermatomed pig skin samples which were stored frozen at -80°C until use and under dynamic non-occluded conditions. The thickness of the skin used was 430-440 µm. The blank samples (at 0 hours) were collected immediately after filling the donor chambers at the maximal flow rate of the pump prior to application of the test item. The conductivity across the skin samples of each chamber was determined before treatment and after the last sampling as a measure of skin integrity. The integrity of the skin was demonstrated prior to application and only skin samples within the acceptable range of =900 µS/cm were used. In addition, no major impairment on the skin layer was detectable after incubation with the test item.
+
+In each experiment 6 chambers of the test item were analysed. The test preparation was applied on each skin sample at an amount of 20 µL/cm², (corresponding to about 52 µg/cm² FPK-145), left on the skin for 0.5 hours and then washed off using deionised water and 10% shampoo solution. The sufficient solubility of FPK-145 in the receptor solution (PBS) and in the extraction solution (MeOH:H2O (50:50 v/v)) was analytically demonstrated within the analytical validation part under the study number 1407601 (non-GLP study) and is given over the whole calibration range up to at least 56 µg/mL.
+
+
+The receptor solution was slowly pumped through the receptor chambers with a flow rate of
+0.8 to 1.1 mL per hour and fractionated 0.5, 2.0, 4.0, 8.0, 12, 16, 20, 23, and 24 hours following the application of the test preparation. The stratum corneum was separated by tape stripping (4 times 5 strips) from the remaining skin (stratum germinativum, epidermis and dermis). Both skin compartments were extracted with extraction solution. Analysis for the presence of FPK-145 was carried out by means of LC-MS/MS. The LOD was defined as 0.0625 ng/mL and the LLOQ was 0.125 ng/mL in receptor solution and in extraction solution (see validation study 1407601).
+
+Results
+All chambers met the acceptance criteria (> 85% recovery) and could be used to calculate the dermal delivery of FPK-145.
+The total recovery of FPK-145 was 105% ± 4.53% of the applied dose and confirmed the validity of the oxidative test.
+
+FPK-145 was detected in some compartments relevant to assess dermal delivery, e.g. in all skin extracts and in a few of the receptor solution samples.
+
+The details are provided in the following summary table:
+
+
+
+Conclusion
+It can be stated that under the present non-oxidative conditions of this study, the dermal delivery of FPK-145 was 0.386 µg/cm2 ± 0.405 µg/cm² (0.756% ± 0.814% of the applied total dose).
+Ref. 17
+
+SCCS comment
+In accordance with the SCCS Notes of Guidance, the mean + 1 SD i.e. 0.791 µg/cm2 (1.57% of applied dose) will be considered for the calculation of the systemic exposure dosage under non-oxidative conditions.
+
+
+
+
+
+
+Guideline:	OECD 407 Species/strain:	 rats/CrL:CrL SD Wistar
+Group size:	10 (5 males and 5 females)
+
+Test substance:	FPK-145 Batch:	 T-9611-9612
+Purity:	99.34%
+Vehicle:	0.5% methylcellulose solution
+Dose levels:	 0, 250, 500 and 1000 mg/kg bw/day Dose volume:	10 mL/ kg/day
+Route:	oral
+Administration:	 gavage once daily for 14 days GLP:	yes
+Study period:    2010
+
+The purpose of this study was to obtain information on the possible health hazards likely to arise from repeated exposure and on the selection of concentrations for a 90-day repeated dose study. FPK-145 was administered orally to male and female Crl:C (SD) rats for 14 days by gavage at dose levels of 250, 500 and 1000 mg/kg/day. The stability of the substance at room temperature was confirmed for at least 2 years.
+
+Clinical signs, food consumption and bodyweights, ophthalmology, urinalysis, hematology, and histopathology were recovered periodically during pre-test, and treatment period. At the end of the treatment period all animals were killed, necropsied and examined post mortem. Detailed clinical observations and function tests (sensory reactivity to stimuli, grip strength, and motor activity) required in the applied guideline were not examined in this study because this study was conducted as a preliminary study of a 90-day repeated dose study. All animals were euthanised after blood sampling for the haematology and blood chemistry tests and then were subjected to necropsy. Organs were weighed and pathological examination was performed.
+
+Moreover, to investigate whether FPK-145 has potential to induce micronuclei in rat bone marrow cells in vivo, the micronucleus test was carried out using a portion of left femur obtained at scheduled necropsy.
+
+Results
+The following test substance-related changes were noted in animals:
+- At 1000 mg/kg bw/day: decrease in food consumption in males and females on day 3, statistically significant increases in relative seminal vesicles weight in males and
+
+
+relative adrenals weight in females; however they were not considered by the study director to be treatment-related because there were no changes in their absolute organ weights and no changes in these organs in histopathological examination.
+
+- At 500 mg/kg bw/day or more: inflammatory cell infiltration in the lamina propria in the caecum in males and females
+
+- At 250 mg/kg bw/ day and more: chromaturia (orange urine) in males and females, minimal hyperplasia of the mucosal epithelium in the urinary bladder in males and females (in 1 male and 2 females at 250 mg/kg bw/d, in 2 males and 2 females at 500 mg/kg bw/day and in 4 males and 3 females in 1000 mg/kg bw/day), statistically significant increase in haemoglobin concentration in males at 250 and 1000 mg/kg bw/day.
+
+No treatment-related abnormalities were noted in the bodyweights, ophthalmological examination, urinalysis, haematology test, blood chemistry test, organ weights, or necropsy.
+
+Conclusion
+The NOAEL of FPK-145 was judged to be lower than 250 mg/kg bw/day in males and females under the conditions of this study. In addition, there was no evidence that FPK-145 induced chromosomal aberration in the rat bone marrow cells.
+Ref. 9
+
+SCCS comment
+The protocol of this 14-day study has been adapted from the OECD guideline 407, which is designed for a 28-day study.
+
+
+
+Guideline:	OECD 408 Species/strain:	 rats/CrL:CrL SD Wistar Group size:	 10 males and 10 females
+Test substance:	FPK-145 Batch:		11-001
+Purity:	99.5%
+Vehicle:	0.5% methylcellulose solution Dose levels:	 0, 2.5, 25, and 250 mg/kg bw/day Dose volume:	10 mL/ kg/day
+Route:	oral
+Administration:	 gavage once daily for 91 days GLP:	yes
+Study period:	2011-2012
+The stability of the substance at room temperature was confirmed for at least 2 years.
+FPK-145 was repeatedly administered by oral gavage at dose levels of 0 (control), 2.5, 25 and 250 mg/kg bw/day to male and female Crl:CD(SD) rats (10 males and 10 females per group). Further 5 males and 5 females were assigned to the control and 250 mg/kg bw/day groups to assess the reversibility after a 4-week recovery period. Clinical signs, outside cage observation, food consumption and bodyweights were recorded periodically during pre- test, the treatment and recovery periods. Functional observation battery was performed during week 12 of treatment. All animals were killed, necropsied and examined post mortem. The clinical laboratory investigation, including haematology, clinical biochemistry
+
+
+and urinalysis and histological examinations on organs and tissues from all animals, was performed.
+
+Results
+No treatment-related abnormalities were noted in the detailed clinical observation (except chromaturia that was observed in males and females at 25 mg/kg bw /day or more and considered to be due to the coloration of the test substance) which comprised function tests, motor activity, bodyweight, food consumption, ophthalmological examination, urinalysis, haematology test, blood chemistry test, or organ weight.
+The histopathological examination showed a minimal simple hyperplasia of the mucosal epithelium in the urinary bladder in males and females at 250 mg/kg bw/day.
+
+After a 4-week withdrawal of the test substance, no-treatment-related abnormalities were observed in any animals. Therefore, the effect of the test substance was considered to be reversible.
+
+Conclusion
+The NOAEL of FPK-145 was judged to be 25 mg/kg bw/day in males and females based on the simple hyperplasia of the mucosal epithelium in the urinary bladder observed at 250 mg/kg bw/day under the condition of this study. The change due to the test substance treatment was considered to be reversible from the results of the 4-week recovery study.
+
+Ref. 10
+
+
+No data
+
+
+
+
+Bacterial Reverse Mutation Test
+
+Guideline:	OECD 471 (1997)
+Species/strain:	Salmonella typhimurium TA98, TA100, TA1535, TA1537 and Escherichia coli WP2 uvrA
+Replicates:	Triplicate plates, 2 independent tests Test substance:	 FPK-145
+Batch:	T-9611-9612
+Purity:	99.34%
+Solvent	DMSO
+Concentrations:	Experiment I: 3; 10; 33; 100; 333, 1000; 2500 and 5000 µg/plate
+with and without S9-mix
+Experiment II: 7.8, 15.6, 31.25, 312.5; 625, 1250, 2500 and 5000
+µg/plate with and without S9-mix
+Treatment:	Pre-incubation method with 30 minutes pre incubation and 48 h incubation with and without S9-mix
+GLP:	In compliance
+Study period:	9 June 2010 - 28 June 2010
+
+This study was performed to investigate the potential of FPK-145 to induce gene mutations according to the pre-incubation assay with non-induced hamster liver S9 using the
+
+
+Salmonella typhimurium strains TA 1535, TA 1537, TA 98, TA 100 and the Escherichia coli strain WP2 uvrA. Test concentrations were based on the results of a pre-experiment for toxicity and mutation induction with all strains both with and without S9-mix. Toxicity was evaluated for 8 concentrations up to the prescribed maximum concentration of 5000 µg/plate on the basis of a reduction in the number of revertant colonies and/or clearing of the bacterial background lawn. Since in this pre-experiment evaluable plates were obtained for five concentrations or more in all strains used, the pre-experiment is reported as the main experiment. Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+The plates incubated with the test item showed normal background growth up to 5000 µg/plate with and without metabolic activation in both independent experiments. In TA 100, no toxic effects, evident as a reduction in the number of revertants (below the induction factor of 0.5), occurred in the test groups with and without metabolic activation.
+Without S9-mix, toxic effects in experiment I were observed in TA1535, TA1537, TA98 and in E. coli at 5000 µg/plate and in TA1537 at 2500 µg/plate. In experiment II only TA1537 and TA98 showed toxicity at 1250 µg/plate and above or 5000 µg/plate, respectively. With S9 experiment, no toxicity was reached in experiment I and in experiment II in TA 1535 and TA98 at 5000 µg/plate. Precipitation was observed in all strains in both experiments without metabolic activation in concentrations at 100 µg/ml and above.
+A biologically relevant increase in revertant colony numbers of any of the five tester strains was not observed following treatment with FPK-145 at any dose level, either in the presence or in the absence of metabolic activation (S9-mix). A slight increase in revertant colony numbers was observed in strain WP2 uvrA in the presence of metabolic activation in both experiments. However, the absolute numbers of colonies did not reach the threshold of 2. In addition, the colony numbers remained within the range of the laboratory's historical control range in experiment I whereas it exceeded the range in experiment II only at 2500 µg/plate. Therefore, the effect observed was judged as biologically irrelevant reflecting fluctuations rather than indicating a possible mutagenic potential of the test item.
+
+Conclusion
+Under the experimental conditions used, FPK-145 was not genotoxic (mutagenic) in this gene mutation tests in bacteria.
+Ref. 5
+
+SCCS comment
+Metabolic activation S9 was isolated from non-induced hamster liver.
+
+
+In vitro Mammalian Cell Gene Mutation Test (hprt-locus)
+
+Guideline:	OECD 476 (1997)
+Cells:	 Chinese Hamster V-79 cell line Replicates:	Duplicate cultures in 2 independent tests Test substance:	 FPK145
+Batch:	T-9611-9612
+Purity:	99.34%
+Solvent:	DMSO
+Concentrations:	Experiment I:	2.0, 4.0, 6.0, 8.0 and 10.0 µg/ml without S9-mix
+8.5, 17.0, 34.0, 68.0 and 102.0 µg/ml with S9-mix
+Experiment II:	2.5, 5.0, 10.0, 20.0 and 30.0 µg/ml without S9-mix
+                                     20.0, 40.0, 60.0, 80.0 and 100.0 µg/ml with S9-mix Treatment:	Experiment I:	4 h treatment both with and without S9-mix;
+expression period of 7 days and a selection period of 8 days.
+Experiment II:	4 h treatment both with S9-mix; expression period of 7
+
+
+
+
+
+
+GLP:	In compliance
+
+days and a selection period of 8 days.
+24 h treatment without S9-mix; expression period of 7 days and a selection period of 8 days.
+
+Study period:    15 April 2009- 22 July 2009
+
+The study was performed to investigate the potential of the test material to induce gene mutations at the hprt locus in the Chinese hamster cell line V79. The assay was performed in two independent experiments using duplicate cultures each. The first experiment used an exposure time of 4 h in the absence and presence of metabolic activation (S9) prepared from rat liver induced with Phenobarbital/ß-Naphthoflavone. In experiment II cells were treated for 4 h with and for 24 h without metabolic activation.
+Test concentrations were based on the results of a pre-test on toxicity measuring colony forming ability with concentrations up to the prescribed maximum concentration of 1100 µg/ml (˜ 10 mM). Toxicity of FPK145 was indicated by a reduction of the cloning efficiency. In the main tests, cells were treated for 4 h or 24 h (experiment II, without S9-mix only) followed by an expression period of 7 days to fix the DNA damage into a stable hprt mutation. Toxicity was measured in the main experiments as percentage cloning efficiency of the treated cultures relative to the cloning efficiency of the solvent control cultures. Negative and positive controls were in accordance with the OECD guideline.
+
+FPK-145
+
+Results
+No precipitation of the test item was observed up to the maximum concentration with and without metabolic activation.
+Relevant cytotoxic effects indicated by a relative cloning efficiency below 50% in both parallel cultures occurred in the first experiment without metabolic activation at 68.0 µg/ml and above. In the absence of metabolic activation, toxic effects were observed at 4 mg/ml and above. In the second experiment, cytotoxic effects as described above were noted at 20 µg/ml and above exclusively with metabolic activation.
+In general, the recommended cytotoxicity range of approximately 10-20% was covered with and without metabolic activation. The data generated at relative cloning efficiency values below 10% were judged as valid as long as the cell density of the cultures at the first subcultivation following treatment remained above 10%.
+No biologically relevant or reproducible increase in mutant frequency was observed in the main experiments up to the maximum concentration. The mutant frequency generally remained within the range of negative and solvent controls. The historical control range was exceeded in the second culture of the second experiment with metabolic activation at
+40 µg/ml. This positive result was not reproduced in the parallel culture under identical conditions and the increase was not dose dependent as indicated by the lacking statistical significance. Consequently, this effect was judged as biologically irrelevant. A large increase observed in one of the cultures of experiment II treated with 100 µg/ml with metabolic activation was also considered not biologically relevant since both the relative cloning efficiency and the cell density after subcultivation fell short of the 10% limit.
+
+A linear regression analysis (least squares) did not indicate that a biologically relevant concentration, dependent trend of the mutant frequency indicated by a probability value of
+< 0.05, had been determined in any of the experimental groups.
+
+Conclusion
+Under the experimental conditions used, FPK145 did not induce gene mutations in this gene mutation test in mammalian cells and, consequently, FPK145 is not mutagenic in V79 cells.
+
+Ref. 6
+
+
+
+SCCS comment
+Results with metabolic activation show increase in mutant frequency in three concentrations in both cultures in experiment I and in one culture in experiment II. In the second culture of experiment II there was significant, 12 times higher mutant frequency compared to control, detected in one concentration. Applicant is right that the increase of mutant frequency, except in one culture, did not exceed the absolute values of the mutant frequency of the historical range of solvent control.
+
+
+Micronucleus Test in Human Lymphocytes
+
+Guideline:	OECD 487 (draft of 2009)
+Cells:	Human Lymphocytes from healthy donors Replicates:	parallel cultures in 2 independent experiments Test substance:	 FPK-145
+Batch:	T-9611-9612
+Purity:	99.34%
+Solvent:	deionised water
+Dose levels:		Experiment I:	 24.0, 41.9 and 73.4 µg/ml with and without S9-mix Experiment II:	28.0, 49.0 and 85,7 µg/ml without S9-mix
+                                     40.0, 60.0, 90 and 150 µg/ml with S9-mix Treatment:	Experiment I:	4 h treatment both with and without S9-mix; harvest
+                 time 40 h after the beginning of treatment Experiment II:	20 h treatment without S9-mix; harvest time 40 h
+after the beginning of treatment
+4 h treatment both with S9-mix; harvest time 40 h after the beginning of treatment
+GLP:	In compliance
+Study period:	28 April 2009- 6 October 2010
+
+The test item FPK-145, suspended in deionised water, was assessed for its potential to induce micronuclei in human lymphocytes. Blood samples were obtained from a healthy female (experiment I) and a healthy male (experiment II) donor not receiving medication. After collection and before use in the various experiments, the human lymphocytes were subcultured in the presence of phytohemagglutinin for 48 h. Concentrations were based on the results of a preliminary cytotoxicity test with 10 concentrations up to the prescribed maximum concentration of 3690.0 µg/mL (˜ 10 mM) and an exposure time of 4 h, measuring the percentage of reduction in the "cytokinesis block proliferation index" (CBPI) in comparison with the controls (% cytotoxicity). Since the cultures in this preliminary cytotoxicity test fulfilled the requirements for cytotoxic evaluation and the experimental conditions were identical to those required in the main test, this preliminary test was designed as experiment I. The treatment period in the main test was either 4 h with and without S9-mix or 20 h without S9-mix (experiment II). The harvest time was 40 h after the beginning of culture. The final 20 h before harvest was in the presence of cytochalasin B (at a final concentration of 4-6 µg/ml).
+For assessment of cytotoxicity, the relative CBPI was estimated as compared to the respective solvent control. Liver S9 fraction from phenobarbital/ß-naphthoflavone-induced rats was used as exogenous metabolic activation system. Negative and positive controls were in accordance with the draft guideline.
+
+Results
+In the preliminary cytotoxicity test, precipitation was observed at the end of treatment at
+393.4 µg/ml and above without S9-mix and at 73.4 µg/ml and above with S9-mix. In experiment II, precipitation was observed at 60.0 µg/ml and above with S9-mix. On the basis of strong cytotoxicity, 73.4 µg/ml was chosen as top concentration in experiment I.
+
+
+Since the cultures in this preliminary cytotoxicity test fulfilled the requirements for cytotoxic evaluation and the experimental conditions were identical to those required in the main test, this preliminary test was designed as experiment I. Considering the toxicity data with S9-mix of experiment I, 150 µg/ml was chosen as top concentrations in experiment II.
+In both independent experiments, neither a statistically significant nor a biologically relevant increase in the number of micronucleated cells was observed after treatment with the test item. Micronucleus inductions were close to the range of the solvent control and within the range of historical control data.
+
+Conclusion
+Under the experimental conditions reported, FPK-145 did not induce an increase in cells with micronuclei and, therefore, is considered to be non-mutagenic (non-clastogenic or non- aneugenic) in human lymphocytes.
+Ref. 7
+
+
+Mammalian Erythrocyte Micronucleus Test
+
+Guideline:	OECD 474 (1997)
+Species:	NMRI mice
+Group sizes:	6 male and 6 female
+Test substance:	FPK-145
+Batch:	04040601
+Purity:	99.77 % (HPLC)
+Vehicle:	PEG-400
+Dose levels:	 0, 500, 1000 and 2000 mg/kg bw/day Route:	Oral, single dose
+Sacrifice times:	 24 h and 48 h (highest dose only) GLP:	In compliance
+Study period:	16 January 2009- 20 February 2009
+
+FPK-145 has been investigated for induction of micronuclei in the bone marrow cells of male or female mice. Test concentrations were based on a pre-experiment on acute toxicity with
+2 mice per sex. The mice were treated orally and examined for acute toxic symptoms at various intervals of 1, 2-4, 6, 24, 30 and 48 h after start of treatment. In the main experiment mice were exposed orally to 0, 500, 1000 and 2000 mg/kg bw. The mice of the highest dose group were examined for acute toxic symptoms at intervals of around 1, 2-4, 6, 24 and 48 h after treatment.
+The substance was administered by a single intragastric gavage and the groups of animals sacrificed 24 and 48 hours after administration. Toxicity and thus exposure of the target cells was determined by measuring the ratio between polychromatic and normochromatic erythrocytes (PCE/NCE). Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+In the pre-test at 2000 mg/kg bw, exclusively toxic reactions such as reduction of spontaneous activity and ruffled fur were observed. Based on these findings, 2000 mg/kg bw was chosen as the maximum dose. In the main experiment almost all mice treated with 2000 mg/kg bw showed identical clinical signs.
+After treatment with the test item, the number of PCEs was not substantially decreased as compared to the mean value of PCEs of the vehicle control, thus indicating that FPK-145 did not exert any cytotoxic effects in the bone marrow. However, the urine of the treated animals had taken the test item colour (red) indicating its systemic distribution and thus confirming its bioavailability. Clear signs of systemic toxicity like reduction of spontaneous activity and ruffled fur at the highest doses corroborate this indication.
+
+
+In comparison to the corresponding vehicle controls, there was no biologically relevant or statistically significant increase in the number of cells with micronuclei at any preparation interval after administration of the test item or with any dose level used.
+
+Conclusion
+Under the experimental conditions reported, the test item did not induce micronuclei as shown by the micronucleus test with bone marrow cells of mice. Therefore, FPK-145 is considered to be non-mutagenic in this assay.
+Ref. 8
+
+SCCS comment
+There was a statistically significant increase in micronucleus frequency in the highest concentration (P=0.0107).
+
+Mammalian Erythrocyte Micronucleus Test integrated in a 14-day Toxicity Study
+
+Guideline:	OECD 407 Species/strain:	 rats/CrL:CrL SD Wistar
+Group size:	10 (5 males and 5 females) Test substance:	 FPK-145
+Batch:	T-9611-9612
+Purity:	99.34%
+Vehicle:	0.5% methylcellulose solution
+Dose levels:	 0, 250, 500 and 1000 mg/kg bw/day Dose volume:	10 mL/ kg/day
+Route:	 oral by gavage Administration:	 gavage once daily for 14 days Sacrifice times:	/
+GLP:	in compliance
+Study period:	6 October 2010 - 1 December 2010
+
+FPK-145 was investigated for the induction of micronuclei in bone marrow cells of rats. The micronucleus study was integrated in a 14-day oral repeated dose toxicity study in rats. Test doses were based on the results of a 14-day dose selection experiment in rats with doses of 0, 600 and 1000 mg/kg bw /day.
+In the main test, the rats were treated by oral gavage once daily for 14 days with 0, 250, 500 and 1000 mg/kg bw/day. During the dosing period, the rats were observed 3 times per day for clinical signs, before dosing, just after dosing and 3-4 h after dosing. Outside the dosing period, the animals were observed once a day in the morning. All common parameters from a repeated dose toxicity study were measured, e.g. body and organ weights, food consumption, hematology, blood chemistry etc. The time point of collecting bone marrow cell after the last dosing was not reported. Toxicity and thus exposure of the target cells was determined by estimating the ratio between immature and total erythrocytes (IE/TE). Bone marrow preparations were stained with acridine orange and examined microscopically for the IE/TE ratio and micronuclei.
+
+Results
+No rats died in the range-finding study or the main experiment.. Coloured urine was noted in all animals at 250 mg/kg bw/day or more. It was observed 3-4 h after dosing from day 1 and thereafter. Important clinical signs were not reported.
+In the present test the analysis of the IE/TE ratio did not give any indications of an induced bone marrow cytotoxicity. However, the coloured urine observed in the present experiment indicates bioavailability of FPK-145.
+Compared to the concurrent vehicle controls, a biologically relevant increase in the number of bone marrow cells with micronuclei was not observed for any dose tested.
+
+
+Conclusion
+Under the experimental conditions used FPK-145 is not genotoxic (clastogenic and/or aneugenic) in this micronucleus test in bone marrow cells of rats.
+Ref. 9
+
+
+
+No data
+
+
+
+No data
+
+
+No data
+
+
+Preliminary prenatal developmental toxicity study
+
+Guideline:	OECD 414
+Species/strain:	 Sprague Dawley female rat (Crl:CD (SD)) Group size:	6 animals/sex/dose level
+Test substance:	FPK-145 Batch:	 T-9611-9612
+Purity:	99.34 %
+Vehicle:	0.5% w/v methylcellulose solution
+Dose levels:	0 (vehicle control), 125, 250, 500 and 1000 mg/kg bw/day Dose volume:	10 mL/kg bw
+Route:	Oral (gavage)
+Administration:	 once daily from day 6 to day 19 post coitum. GLP:	No
+Study period:    Sep 2010- Feb 2011
+
+The objective of this prenatal developmental toxicity study was to investigate the toxicity of the test item HC Blue 18 on pregnant female Sprague Dawley rats and development of the embryo and foetus consequent to exposure of the female from implantation to the day before Caesarean-sectioning (days 6-19 of presumed gestation, DGs 6-19) and to obtain information to determine the doses for the Prenatal developmental Toxicity Study.
+
+FPK-145 at doses of 125, 250, 500 and 1000 mg/kg bw/day was administered orally once a day to 5 or 6 pregnant rats/group on GD 6-19 to evaluate the potential toxicological effects on dams and on embryo-foetal development. Control animals received 0.5 w/v% methylcellulose solution.
+
+Results:
+Chromaturia that was considered attributable to test substance colour was observed in FPK- 145-treated groups throughout the administration period.
+Decreased bodyweight and food consumption were observed in the 1000 mg/kg/day group. No effects of FPK-145 on gravid uterus weights or necropsy findings for dams were observed in any group. No effects of FPK-145 on embryo-foetal development (post- implantation loss index, number of live foetuses, sex ratio or bodyweights of the live
+
+
+foetuses) were observed in any group. No placental anomalies were observed in any group. No test substance-related foetal anomalies were observed in external, visceral or skeletal examination in any live foetus in any group. In the examination of the progress of ossification using the sternebrae and sacrocaudal vertebrae, no effects of FPK-145 were observed in any group.
+
+Conclusion
+Based on that experiment, dose levels of 100, 300 and 1000 mg/kg bw/day were proposed for the main study on embryo-foetal development.
+Ref. 11
+Main prenatal developmental toxicity study Guideline:	OECD 414
+Species/strain:	 Sprague Dawley rat (Crl:CD (SD)) Group size:	20 females/dose level
+Test substance:	FPK-145 Batch:		11-001
+Purity:	99.82 %
+Vehicle:	0.5% w/v methylcellulose solution
+Dose levels:	0 (vehicle control), 100, 300 and 1000 mg/kg bw/day Dose volume:	 10 mL/kg bw
+Route:	Oral (gavage)
+Administration:	 once daily from day 6 to day 19 post coitum GLP:	yes
+Study period:    Nov 2011- Apr 2012
+
+The objective of this prenatal developmental toxicity study was to investigate the toxicity of the test item HC Blue 18 on pregnant female Sprague Dawley rats and the development of the embryo and foetus consequent to exposure of the female from implantation to the day before Caesarean-sectioning (days 6-19 of presumed gestation, GDs 6-19).
+
+FPK-145 at doses of 100, 300 and 1000 mg/kg bw/day was administered orally once a day from day 6 to day 19 to 20 pregnant rats/group to evaluate the potential toxicological effects on dams and on embryo-foetal development. Control animals received 0.5 w/v% methylcellulose solution.
+
+Results:
+No death occurred in any dam. Chromaturia that was considered to be attributable to test substance colour was observed in FPK-145-treated groups throughout the administration period.
+Decreased body weight and food consumption were observed in the 1000 mg/kg bw/day group. No adverse effects of FPK-145 on gravid uterus weights or necropsy findings for dams were observed in any group. No effects of FPK-145 on embryo-foetal development (post-implantation loss index, number of live foetuses, sex ratio or bodyweights of the live foetuses) were observed in any group. Decreased bodyweight of live foetuses was observed in the 1000 mg/kg bw/day groups. No placental anomalies were observed in any group. No test substances-related foetal anomalies were observed in external, visceral or skeletal examination in any live foetus in any group. In the examination of the progress of ossification using the sternebrae and sacrocaudal vertebrae, no effects of FPK-145 were observed in any group.
+
+Conclusion
+Based on the result described above, the maternal NOAEL of HC Blue 18 was considered to be 300 mg/kg bw/day for general toxicity of the dams and the embryo-foetal development.
+
+
+HC Blue 18 did not reveal any teratogenic potential up to 1000 mg/kg bw/day.
+Ref. 12
+
+
+
+
+
+
+Toxicokinetics Study of FPK-145 in rats-Absorption, Distribution, Metabolism and Excretion Following Single Percutaneous and Oral Administration
+
+14C-FPK-145 was administered to male rats at a single percutaneous and oral dose to examine the radioactivity concentrations in plasma, radioactivity distribution in tissues, and radioactivity excretion in urine, faeces, and bile, as well as the metabolite profiles in plasma, urine, faeces, and bile.
+
+Oral
+
+Guideline:	OECD 417
+Species/strain:	 Sprague Dawley rat (Crl:CD (SD)) Group size:	see table below
+Test substance:	FPK-145 Batch:	 CFQ41226
+Purity:	99.6 %
+Vehicle:	0.5% w/v methylcellulose solution Dose levels:	0, 2.5, 25, 250 mg/kg
+Dose volume:	 10 mL/kg Route:	Oral
+Administration:	 single administration GLP:	yes
+Study period:    Jul 2012 - Nov 2012
+
+The experimental group design is shown below:
+
+
+
+Dermal
+
+Guideline:	OECD 417 and OECD 427 Species/strain:	 Sprague Dawley rat (Crl:CD (SD)) Group size:	see table below
+Test substance:	FPK-145 Batch:	 CFQ41226
+Purity:	99.6 %
+Vehicle:	4% w/v Monoethanolamine/Ethanol (50/50) solution Dose levels:	25 mg/kg
+Dose volume:	10 mL/kg bw
+Route:	 Oral or percutaneous Administration: single administration GLP:	yes
+Study period:	Jul 2012- Nov 2012
+
+The test material was applied once with a micropipette to 10 cm2. The dosing formulation was uniformly applied with a spatula on the dorsal region of rats fitted with an animal jacket. Application to the damaged skin was performed within 15 minutes after stripping. 24 hours post dose, the test substance was wiped 8 times repeatedly either with wet cotton soaked in warm water or for the last two washes with dry cotton.
+
+The experimental group design is shown below:
+
+*shaved hairless skin areas
+**shaved hairless skin areas were tape-stripped alternately 10 times from the left or right.
+
+This study was conducted to examine the radioactivity concentrations in plasma, radioactivity distribution in tissues, and radioactivity excretions in urine, faeces, and bile, as well as the metabolite profiles in plasma, urine, faeces, and bile after a single percutaneous and oral administration of 14C-FPK-145 to male rats.
+
+Radioactivity concentration in plasma:
+
+After percutaneous and oral administration, animals were accommodated in polycarbonate cages equipped with bedding and mesh flooring. The animals from the dermal application were accommodated separately: the 4 animals of the same dose after oral administration were accommodated in one cage.
+
+
+Blood was collected from the tail vein at the following time points and collected in test tube containing heparin sodium: 0.5, 1, 2, 4, 6, 8, 12, 48, 72 and 169 hours postdose. Plasma was collected by the appropriate centrifugation (12,000 rpm for 5 minutes at 4° C). A 100 µl portion (by 12 hours after administration) or 150 µL (on and after 24 hours administration) was collected. Radioactivity was detected by LSC method with the transformed Spectral Index of External standard. Each sample was measured once for 5 minutes and net counts were determined by subtracting the background data from the original count.
+
+Radioactivity excretions in urine and faeces:
+
+After oral and dermal application, the animals were individually accommodated in glass metabolic cages. Urine and faeces from each animal were collected separately in ice cold bottles at the following time points: Urine/Faeces: 0-24, 24-48, 48-72, 72-96, 96-120, 120-
+144, and 144-168 hours post dose.
+Cage washing: 24, 48, 72, 96, 120, 144 and 168 hours post dose
+Carcass: 168 hours
+Jacket, stainless mesh, applied skin: 268 hours post dose * Spatula used for application *
+Cotton used for wiping of the applied sites: 24 hours post dose*
+*: only measured for dermal administration.
+
+As a control, the urine and faeces of one animal not administered with the test substance was collected following same procedure.
+
+Radioactivity extraction in bile, urine and faeces:
+
+After administration of the test material to seven (3 extra animals) animals, they were accommodated separately in glass metabolic cages. Bile, urine and faeces from each animal were collected separately in ice cold bottles at the following time points:
+
+Bile: 0-2, 2-4, 4-8, 8-24, and 24-48 hours post dose Urine: 0-24 and 24-49 hours post dose
+Faeces: 0-24 and 24-48 hours post dose Cage washing: 24 and 48 hours post dose Carcass: 48 hours post dose
+
+As a control, bile of one animal not administered with the test substance was collected following same procedure.
+
+Radioactivity concentration in tissues:
+
+After percutaneous (normal skin) and oral administration, animals were accommodated in polycarbonate cages equipped with bedding and mesh flooring. The animals from the dermal application were accommodated separately, the 4 animals of the same dose after oral administration were accommodated in one cage. 1 control animal was handled in the same way.
+
+All animals were killed and the radioactivity measured in blood, organs and tissues: plasma, cerebrum, cerebellum, pituitary, eyeball, harderian gland, submaxillary gland, prostate, testis, skin, applied skin, skeletal muscle, bone, white adipose tissue, brown adipose tissue, stomach, small and large intestine, stomach contents, small and large intestine contents.
+
+
+Results:
+
+Absorption
+
+
+In non-fasting rats receiving a single oral dose of 2.5, 25 and 250 mg/kg bw/day 14C- FPK-145 showed a dose dependency between Cmax and dose (R2=0.9947) and AUC0-t and dose (R2=0.9997). This shows that absorption did not saturate with the dose in the oral administration.
+
+The radioactive concentration in plasma after oral administration showed clear tendency to re-ascension on after 72 hours postdose. Radioactive plasma concentration at 168 hours accounted to 0.002% to 0.004% of dose in each dose group (0.7% to 1.5% of Cmax). This shows that FPK-145 did not accumulate in the body.
+
+In normal skin male rats receiving 14C-FPK-145 at a single percutaneous dose of 25 mg/kg, the radioactivity concentration in plasma excluding those of 2 and 6 hours postdose was not detected. The radioactivity concentrations at 2 and 6 hours postdose were 3.059
++/- 3.537 ng eq. of FPK-145/mL and 2.549 +/- 2.945 ng eq. of FPK-145/mL respectively.
+
+In damaged-skin male rats receiving 14C-FPK-145 at a single percutaneous dose of 25 mg/kg, the radioactivity concentration in plasma reached the Cmax of 204.8 +/- 169.1 ng eq. of FPK-145/mL at 3.0 +/- 1.2 hours postdose (tmax) and then decreased gradually, and at
+72 hours postdose corresponded to about 3.9% of the Cmax. Thereafter, the radioactivity concentration in plasma increased to about 4.2% of the Cmax at 120 hours postdose. At 168 hours postdose, the radioactivity concentration in plasma decreased to about 2.4% of the Cmax. The T1/2 calculated with the concentration measured between 4 and 12 hours post dose was 6.6 +/- 1.8 hours. The AUC0-t was 3892 +/- 3027 ng eq. h/mL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distribution in tissue:
+
+In normal skin male rats receiving 14C-FPK-145 at a single percutaneous dose of 25 mg/kg, the radioactivity concentration reached the Cmax at 0.5 or 4 hours post dose in most tissues. As for the cerebrum, cerebellum, pituitary, eyeball, thyroid, heart, lung,
+
+
+adrenal, spleen, pancreas, testis, skeletal muscle, and white adipose tissue, the radioactivity concentrations were not detected. The tissues showing concentrations higher than that in the plasma (except for the applied skin) were the kidney (at 0.5 hours postdose), bone (at 24 hours postdose), small intestine (at 4 hours postdose), and large intestine (at 4 and 24 hours postdose), and the Cmax of these tissues were 10.78 +/- 9.26,
+6.67 +/- 4.98, 19.52 +/-25.06 and 33.31 +/- 64.28 ng eq. of FPK-145/g respectively. The radioactivity concentrations in other tissues were lower than that in the plasma.
+
+In male rats receiving 14C-FPK-145 at a single oral dose of 2.5 mg/kg, the radioactivity concentration in tissues except the large intestine reached the Cmax at 0.5 hours postdose. The tissues showing the concentration higher than that in the plasma were the blood (at 24 hours post dose), the kidney (at 0.5, 4 and 24 hours postdose), prostate (at 24 hours postdose), and large intestine (at 4 and 24 hours postdose), and the Cmax of these tissues were 303.1 +/- 56, 1054 +/- 525, 147.8 +/-134.1, 3899 +/- 679, 2574 +/- 1214 and
+641.4 +/- 335.6 ng eq. of FPK-145/mL or g respectively. The radioactivity concentrations in other tissues were lower than that in the plasma.
+
+Excretion in urine and faeces:
+
+These results expressed in percentages of dose indicated that the dose was always completely excreted by 168 hours postdose, regardless of the dosing route.
+
+
+Excretion in bile, urine and faeces:
+
+In bile-duct cannulated rats 14C-FPK-145 at a single oral dose of 2.5 mg/kg bw/day, the excretion of radioactivity (% of the dose) was as follows after 48 hours:
+
+
+
+Since animals with bile cannulation showed faecal excretion of radioactivity of 29.63 ± 6.38% of dose equivalent to those without cannulation 31.24 ± 3.58% of dose, the amount excreted into faeces after oral administration in animals without cannulation was considered to be excreted directly into the faeces and therefore, not being absorbed by the digestive tract.
+
+
+
+Metabolic Profile:
+
+Plasma:
+
+After oral application of 25 mg/kg bw/day, five radioactive peaks were detected 0.5 hours and 4 hours post dose. The peak corresponding to unchanged form was not detected. Since the radioactivity concentration in the plasma at a single dermal dose of 25 mg/kg bw/day was extremely low, the structure of radioactive peaks was not elucidated.
+
+Urine:
+
+After oral application of 2.5 mg/kg bw/day twelve radioactive peaks were detected postdose. The major metabolites rUM6 and rUM-2 represent 28.5% and 10.2% of the dose respectively. RUM8 is the characteristic metabolite found in the urine after percutaneous administration, only. However, the amount rUM-8 detected was extremely low (0.02% of dose). All other metabolites are same and therefore, no significant difference in the metabolism of the test substance in the urine was observed, regardless of the dosing route.
+
+Faeces:
+
+Based on the result of the bilary excretion study, most of the radioactivity excreted into faeces after oral administration was considered to have been excreted directly into faeces via the digestive tract without being absorbed. Therefore, excreted radioactive substances are considered not to be metabolites, but decomposition products of unchanged FPK- 145 generated while passing the digestive tract. They represent around 27% of the dose after oral exposure and less than 0.2% after dermal exposure.
+
+Conclusion
+
+The TK study showed that the oral bioavailability of HC Blue 18 after oral gavage is expected to be 65%.
+Ref. 13
+
+SCCS comment
+For orally exposed groups, radioactivity concentrations in plasma were measured for all dose groups but in urine, tissues and faeces, only for the 2.5 mg/kg bw dose group, at 0- 24h and 24-48h after administration.
+Based on the results of this study, the no-observed-adverse-effect level (NOAEL) of HC Blue 18 of 25 mg/kg bw/day was corrected and set at 16 mg/kg bw/day.
+
+
+
+
+No data
+
+
+No data
+
+
+No data
+
+
+
+
+
+
+No data
+
+
+
+CALCULATION OF THE MARGIN OF SAFETY
+
+(Oxidative conditions)
+(0.7% formulation, on head concentration 0.35%)
+
+Absorption through the skinA=0.136 µg/cm²Skin Area surfaceSAS=580 cm2Dermal absorption per treatmentSAS x A x 0.001=0.079 mgTypical body weight of human=60 kgSystemic exposure dose (SED)SAS x A x 0.001/...=0.0013 mg/kg bwNo observed adverse effect levelNOAEL=25 mg/kg bw/d(90-day, oral, rat)Bioavailability 65%*=16 mg/kg bw/dMargin of Safetyadjusted NOAEL/SED=12300
+* based on the toxicokinetic study (ref. 13)
+CALCULATION OF THE MARGIN OF SAFETY
+
+(Non-oxidative conditions)
+(0.35% formulation, on head concentration 0.35%)
+
+Absorption through the skinA=0.791 µg/cm²Skin Area surfaceSAS=580 cm2Dermal absorption per treatmentSAS x A x 0.001=0.459 mgTypical body weight of human=60 kgSystemic exposure dose (SED)SAS x A x 0.001/...=0.0076 mg/kg bwNo observed adverse effect levelNOAEL=25 mg/kg bw/d(90-day, oral, rat)Bioavailability 65%*=16 mg/kg bw/dMargin of Safetyadjusted NOAEL/SED=2100
+* based on the toxicokinetic study (ref. 13)
+
+
+
+
+Physico-chemical properties
+
+HC Blue 18 is intended to be used as a direct hair colouring agent up to an on-head concentration of 0.35% in non-oxidative as well as oxidative hair dye formulations.
+HPLC data on purity and impurities of HC Blue 18 was not submitted for the batches 04040601 and 11-001.
+The measurement of HPLC purity and impurities present in the HC Blue 18 batches Y-6 and T9611-9612 is not acceptable (see SCCS comments to purity and impurities in section 3.1.4 and 3.1.5). Details on impurities will be submitted at a later date by the applicant.
+Methodology used for the determination of water content, ash content and metal content was not described and the study reports were not submitted.
+The study reports on water solubility and Log Pow determination of HC Blue 18 were not submitted. It is not known whether water solubility and Log Pow were determined by respective EU methods. Physicochemical properties such as melting point and density of HC Blue 18 are not reported.
+Stability of HC Blue 18 in typical hair dye formulations is not shown.
+
+General toxicity
+
+No acute oral toxicity studies were performed with HC Blue No 18. However, as no deaths were observed in the oral rat subchronic toxicity study performed at dose levels of up to the limit dose level of 1000 mg/kg/day, it can be inferred that HC Blue No 18 is of low acute toxicity following a single administration by the oral route.
+In a 14 days toxicity study in rats performed under GLP conditions, the NOAEL was judged to be lower than 250 mg/kg bw/day in males and. In an OECD 408 subchronic toxicity study in rats performed under GLP conditions, a NOAEL of 25 mg/kg bw/day in males and females was derived based on the simple hyperplasia of the mucosal epithelium in the urinary bladder observed at 250 mg/kg bw/day. The change due to the test substance treatment was considered to be reversible from the results of the 4-week recovery study.
+In a developmental OECD 414 toxicity study performed under GLP conditions, the maternal NOAEL of HC Blue 18 was considered to be 300 mg/kg bw/day for general toxicity of the dams and the embryo-foetal development.
+HC Blue 18 did not reveal any teratogenic potential up to 1000 mg/kg bw/day.
+
+Irritation/sensitization
+
+Based on 2 experimental studies, HC Blue 18 is considered to be "not irritating" to rabbit skin and slightly irritating to the rabbit eye.
+Sensitisation potential of HC Blue 18 was evaluated with 2 LLNA tests. In the first test performed with the batch Y6-9, no conclusion could be reached (SI value above 3 at all concentrations tested) and a second test was done with the batch 0404061. The LLNA results were highly dependent on the batch of HC Blue 18 used. The batch Y6-9 which contains several impurities did not induce a clear dose response in the LLNA. Therefore SCCS has doubts on the relevance of this study. Batch 0404061, where these impurities are absent (see 3.1.4 and 3.1.5), did not induce SI values equal to or higher than 3 in the LLNA. Since this test item was borderline positive at the highest concentration tested (10%) and induced a dose-dependent response, SCCS considers HC Blue 18 as a moderate sensitiser.
+
+Dermal absorption
+
+Two in vitro experiments under oxidative and non-oxidative conditions were performed to measure dermal absorption of HC Blue 18. Under oxidative conditions, the dermal delivery
+
+
+of FPK-145 was 85.8 ± 49.8 ng/cm² (0.14 ± 0.085 % of the applied total dose). Under non- oxidative conditions of application, the dermal delivery of FPK-145 was 0.386 ± 0.405 µg/cm2 (0.756% + 0.814% of the applied total dose). For MoS calculation, dermal absorption of mean + 1SD isused: 135.6 ng/cm² for oxidative conditions and 0.791 µg/cm2 for non-oxidative conditions.
+
+Mutagenicity
+
+The genotoxic potential of FPK-145 was evaluated covering all relevant endpoints: gene mutation, structural (clastogenicity) and numerical (aneugenic) chromosomal aberrations.
+FPK-145 did not induce gene mutations in bacteria nor at the hprt locus in a gene mutation test in mammalian cells. Treatment with FPK-145 did not result in an increase in human lymphocytes with micronuclei. The negative results from the in vitro experiment were confirmed in an in vivo micronucleus test in mice. Finally in a micronucleus test integrated into a 14-day toxicity test in rats, after the repeated treatments, no increase in bone marrow cells with micronuclei was observed.
+Consequently, FPK-145 can be considered to have no genotoxic potential and additional tests are unnecessary.
+
+Carcinogenicity
+
+No study
+
+Toxicokinetics
+
+The TK study performed showed that the bioavailability of HC Blue 18 after oral gavage is expected to be 63.99%. Based on the results of this study, the no-observed-adverse-effect level (NOAEL) of HC Blue 18 of 25 mg/kg bw/day was corrected and set at 16 mg/kg bw/day.
+
+Human data
+
+No data
+
+4. CONCLUSION
+
+(1) In light of the data provided, does the SCCS consider HC Blue 18 (B122) safe when used as a direct hair colouring agent at an on-head concentration up to 0.35% in non-oxidative as well as in oxidative hair dye formulations?
+
+In light of the data provided, SCCS considers that the use of HC Blue 18 (B122) as an ingredient in non-oxidative as well as in oxidative hair dye formulations at a maximum concentration of 0.35% on the head is safe.
+
+(2) Does the SCCS have any further scientific concerns with regard to the use of HC Blue 18 (B122) in cosmetic products?
+
+The purity of HC Blue 18 and impurities in it are not adequately quantified. Details on impurities will be submitted at a later date by the applicant.
+
+SCCS considers HC Blue 18 as a moderate sensitiser.
+
+
+
+
+5. MINORITY OPINION
+
+/
+
+
+6. REFERENCES
+
+1. G. Arcelin; Primary Eye Irritation Study in Rabbits, RCC Study Number C31921, Füllinsdorf / Switzerland, May 2009G.
+2. Arcelin; Primary Skin Irritation Study in Rabbits (4 Hour Semi-Occlusive Application), RCC Study Number C31932, Füllinsdorf / Switzerland, March 2009
+3a. Wang-Fan, Local Lymph Node assay (LLNA) in mice with FPK-145; RCC Study Number 850799, Itingen, November 2003
+3b. B.Rudolph, Local Lymph Node assay (LLNA) in mice with FPK-145; Harlan Study Number C52316, Itingen, July 2009
+4. Martina Jäger, 2011; In vitro dermal delivery of Cream, 0.7% FPK-145 under oxidative conditions, Harlan Project No. 1407602; Test Report, Rossdorf, October 2011
+5. A. Sokolowski, 2010; Salmonella typhimurium and Escherichia coli reverse mutation assay with FPK-145, Harlan CCR Study Number 1333101, Roßdorf/Germany, August, 22, 2010
+6. H.-E. Wollny, Gene Mutation Assay in Chinese Hamster V79 Cells in Vitro (V79/HPRT) with FPK-145, Harlan-CCR Study Number 1333103, Roßdorf/Germany, December, 2010
+7. S. Bohnenberger, In vitro Micronucleus Assay in Human Lymphocytes with FPK-145, Harlan Study Number 1333102, Roßdorf/Germany, December 08, 2010
+8. N. Honarvar, Micronucleus Assay in Bone Marrow Cells of the Mouse with FPK-145, RCC- CCR Study Number 1232303, Roßdorf/Germany, May 06, 2009
+9. Takayuki Okamura, 14-day Oral Repeated Dosel Toxicity Study (gavage) Study in Rats; Study No. B100889, Mitsubishi Chemical Medience Coporation; February 22, 2011
+10. Takayuki Okamura, 2012, A 90-day oral repeated toxicity study of FPK-145 in rats, Mitsubishi Chemicals Medience Corporation.
+11. Hiroyuki Izumi, Preliminary Prenatal Developmental Toxicity Study of FPK-145 by Oral Administration	in	Rats;	Study	No.	P100724,	Mitsubishi	Chemical	Medience Corporation; February 7, 2011
+12. Hiroyuki Izumi, Prenatal Developmental Toxicity Study of FPK-145 by Oral Administration in Rats; Study No. P100637, Mitsubishi Chemical Medience Corporation; April 12, 2012
+
+
+13. Nobuaki Shimamura, Toxicokinetics Study of FPK-145 in Rats-Absorption, Distribution, Metabolism, and Excretion Follwing Single Percutaneous and Oral Administration- Study No B120169, Mitsubishi Chemicals Medience Corporation. March, 21 2013
+14. Contact Sensitisation; Classification According to Potency; technical report No. 87
+15. Göebel et al., Quantitative risk assessment for skin sensitization: Consideration of a simplified approach for hair dye ingredients; Regulatory Toxicology and Pharmacology; 64 (2012), 459-465
+16. Chemiebüro Knapsack; InfraServ Knapsack, 1H-NMR,13C-NMR, IR and UV/Vis
+17. Harlan report 1542602: Cream with 0.35% FPK-145: In vitro dermal delivery with pig skin under non-oxidative conditions
+
+
+
+
+
+

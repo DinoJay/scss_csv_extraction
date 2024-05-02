@@ -1,11 +1,14 @@
 <script lang="ts">
+	import LightBox from './LightBox.svelte';
+	import ParagraphPreview from './ParagraphPreview.svelte';
+	import Paragraph from './Paragraph.svelte';
+	import Modal from './Modal.svelte';
+
 	import '../app.css';
 
 	export const prerender = false;
 
 	// export let data;
-
-	import Paragraph from '$lib/Paragraph.svelte';
 
 	import { onMount } from 'svelte';
 
@@ -17,6 +20,8 @@
 			/3\.3\.5\.\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6\.\s+Mutagenicity \/ Genotoxicity)/;
 
 		const repeatedDoseToxicityTxt = txt.match(regexRepeatedDoseToxicity)?.[0];
+
+		// console.log('repeatedDoseToxicityTxt\n', repeatedDoseToxicityTxt);
 
 		let pattern = /^Guideline:[\s\S]*?Ref\.*: \d+\s/gm;
 
@@ -34,7 +39,7 @@
 		// const regex = /3\.3\.1\s+Acute\s+toxicity\s*([\s\S]*?)3\.3\.2\s+Irritation\s+and\s+corrosivity/;
 
 		const acuteToxicityTxt = txt.match(regexAcuteToxicity)?.[0];
-		console.log('acuteToxicityTxt\n', acuteToxicityTxt);
+		// console.log('acuteToxicityTxt\n', acuteToxicityTxt);
 
 		// console.log('acuteToxicityTxt\n', acuteToxicityTxt);
 		let pattern = /^Guideline:[\s\S]*?Ref\.*: \d+\s/gm;
@@ -42,11 +47,20 @@
 		// console.log('repeatedDose\n', repeatedDoseToxicityTxt);
 
 		let matchesAcuteToxicity = acuteToxicityTxt?.match(pattern);
-		console.log('matchesAcuteToxicity\n', matchesAcuteToxicity);
+		// console.log('matchesAcuteToxicity\n', matchesAcuteToxicity);
 		return matchesAcuteToxicity;
 	};
 
-	const textIds = ['scss_o_044', 'scss_o_040', 'scss_o_059', 'scss_o_230'];
+	const textIds = [
+		'scss_o_044',
+		'scss_o_040',
+		'scss_o_059',
+		'scss_o_082'
+		// 'scss_o_087',
+		// 'scss_o_180',
+		// 'scss_o_195',
+		// 'scss_o_222'
+	];
 
 	let originalTxtsMap: Map<any, any> | null = null;
 	let scrapedTxtsMap: Map<any, any> | null = null;
@@ -55,11 +69,17 @@
 	let scraped = false;
 
 	onMount(() => {
-		const promise044 = fetch('/sccs_o_044.txt').then((response) => response.text());
-		const promise040 = fetch('/sccs_o_040.txt').then((response) => response.text());
-		const promise059 = fetch('/sccs_o_059.txt').then((response) => response.text());
-		const promise230 = fetch('/sccs_o_230.txt').then((response) => response.text());
-		const prs = [promise044, promise040, promise059, promise230];
+		const prs = [
+			fetch('/sccs_o_044.txt').then((response) => response.text()),
+			fetch('/sccs_o_040.txt').then((response) => response.text()),
+			fetch('/sccs_o_059.txt').then((response) => response.text()),
+			fetch('/sccs_o_082.txt').then((response) => response.text())
+			// fetch('/sccs_o_087.txt').then((response) => response.text()),
+			// fetch('/sccs_o_180.txt').then((response) => response.text()),
+			// fetch('/sccs_o_195.txt').then((response) => response.text()),
+			// fetch('/sccs_o_222.txt').then((response) => response.text())
+			// const promise230 = fetch('/sccs_o_230.txt').then((response) => response.text());
+		];
 
 		allpromiseTxt = Promise.all([...prs]).then((values) => {
 			const tmpMap0 = new Map();
@@ -80,8 +100,23 @@
 
 	$: selector = (t) => t === paragraph || paragraph === null;
 
-	$: acuteTox = scrapedTxtsMap?.get(selectedTextId).acuteTox.filter(selector);
-	$: rdt = scrapedTxtsMap?.get(selectedTextId).rdt.filter(selector);
+	$: console.log('scrapedmap', scrapedTxtsMap);
+	$: acuteTox = scrapedTxtsMap?.get(selectedTextId)?.acuteTox;
+	$: rdt = scrapedTxtsMap?.get(selectedTextId)?.rdt;
+
+	$: getSelectedParagraph = (p) => {
+		const inRdt = rdt?.find((d) => d === p);
+		const inAcute = acuteTox?.find((d) => d === p);
+
+		if (inRdt) {
+			return { txt: inRdt, type: 'RDT', index: rdt.indexOf(inRdt) + 1 };
+		} else if (inAcute) {
+			return { txt: inAcute, type: 'Acute Toxicity', index: acuteTox.indexOf(inAcute) + 1 };
+		}
+	};
+	$: selectedParagraph = getSelectedParagraph(paragraph);
+
+	// $: onTextClick = (i) => (selectedTextId = selectedTextId === textIds[i] ? null : textIds[i]);
 </script>
 
 <div class="flex h-screen">
@@ -89,7 +124,7 @@
 		{#await allpromiseTxt}
 			...Loading
 		{:then _}
-			<div class="flex gap-2 mb-3">
+			<div class="flex gap-2 mb-3 overflow-auto">
 				{#each convertIter(originalTxtsMap) as [key, txt]}
 					<button
 						class="border-2 p-2 flex-1"
@@ -105,31 +140,38 @@
 			<div class="flex-1 flex overflow-auto bg-gray-50 p-2">
 				{#if scraped}
 					<div class="flex-1 overflow-auto p-3">
-						{#if rdt.length !== 0}
+						{#if rdt?.length !== 0}
 							<h1 class="text-xl mb-3">Repeated Dose Toxicity</h1>
 						{/if}
 						{#each rdt as p, i}
-							<Paragraph
+							<ParagraphPreview
 								selected={paragraph === p}
 								title={`Study ${i + 1}`}
 								text={p}
-								onClick={() => (paragraph = paragraph === p ? null : p)}
-							></Paragraph>
+								onClick={() => (paragraph = p)}
+							></ParagraphPreview>
 						{/each}
 
-						{#if acuteTox.length !== 0}
+						{#if acuteTox?.length !== 0}
 							<h1 class="text-xl mb-3">Acute Dose Toxicity</h1>
 						{/if}
 						{#each acuteTox as p, i}
-							<Paragraph
+							<ParagraphPreview
 								selected={paragraph === p}
 								title={`Study ${i + 1}`}
 								text={p}
-								onClick={() => (paragraph = paragraph === p ? null : p)}
-							></Paragraph>
+								onClick={() => (paragraph = p)}
+							></ParagraphPreview>
 						{/each}
 					</div>
 				{/if}
+				<LightBox
+					title={`${selectedTextId} ${selectedParagraph?.type} Study ${selectedParagraph?.index}`}
+					isOpen={paragraph !== null}
+					close={() => (paragraph = null)}
+				>
+					<Paragraph title={selectedTextId} text={paragraph} />
+				</LightBox>
 				{#if !scraped}
 					<div class="whitespace-pre-wrap flex-1 overflow-auto">
 						{originalTxtsMap?.get(selectedTextId)}

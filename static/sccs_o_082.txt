@@ -1,0 +1,958 @@
+	
+
+
+
+Scientific Committee on Consumer Safety SCCS
+
+
+
+
+
+OPINION ON
+Basic Orange 31
+
+
+
+COLIPA n° B118
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The SCCS adopted this opinion at its 13th plenary meeting of 13-14 December 2011
+
+
+About the Scientific Committees
+Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat.
+They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts.
+In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA).
+
+SCCS
+The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.).
+
+
+Scientific Committee members
+Jürgen Angerer, Ulrike Bernauer, Claire Chambers, Qasim Chaudhry, Gisela Degen, Elsa Nielsen, Thomas Platzek, Suresh Chandra Rastogi, Vera Rogiers, Christophe Rousselle, Tore Sanner, Jan van Benthem, Jacqueline van Engelen, Maria Pilar Vinardell, Rosemary Waring, Ian R. White
+
+
+Contact
+European Commission Health & Consumers
+Directorate D: Health Systems and Products Unit D5 - Risk Assessment
+Office: B232	B-1049 Brussels
+Sanco-SCCS-Secretariat@ec.europa.eu
+
+
+(c) European Union, 2011
+ISSN 1831-4767	ISBN 978-92-79-30732-4
+Doi:10.2772/26934	ND-AQ-11-025-EN-N
+
+The opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The opinions are published by the European Commission in their original language only.
+
+http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm
+
+
+
+ACKNOWLEDGMENTS
+
+
+Prof. J. Angerer Dr. C. Chambers
+Dr. W. Lilienblum	(associated Scientific Advisor) Dr. E. Nielsen
+Prof. T. Platzek	(chairman)
+Dr. S.C. Rastogi	(rapporteur) Dr. C. Rousselle
+Prof. T. Sanner
+Dr. J. van Benthem Prof. M.P. Vinardell Dr. I.R. White
+
+External experts
+
+Dr. Mona-Lise Binderup	National Food Institute, Denmark
+
+
+
+
+
+Keywords: SCCS, scientific opinion, hair dye, Basic Orange 31, B118, CAS 97404-02-9, EC 306-764-4, Directive 76/768/EEC
+
+
+Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on Basic Orange 31, 13-14 December 2011
+
+
+
+TABLE OF CONTENTS
+ACKNOWLEDGMENTS	3
+1. BACKGROUND	5
+2. TERMS OF REFERENCE	5
+3. OPINION	6
+4. CONCLUSION	30
+5. MINORITY OPINION	30
+6. REFERENCES	31
+
+
+1. BACKGROUND
+
+Based on submission I the Scientific Committee on Cosmetic Products and Non-Food Products intended for Consumers (SCCNFP) adopted at its 25th plenary meeting on 20 October 2003 its opinion (SCCNFP/0736/03) on Basic Orange 31 with the chemical name 2- [(4-aminophenyl)azo]-1,3-dimethyl-1H-imidazolium chloride. According to this opinion further information is needed on:
+
+• All impurities
+• The stability of the test material in the test preparations and in the hair dye formulations
+• A percutaneous absorption study in accordance with the Notes of Guidance, if used in an oxidising environment
+• Data on the genotoxicity/mutagenicity following the relevant SCCNFP opinions and in accordance with the Notes of Guidance
+
+Submission II was submitted in July 2005. According to this submission Basic Orange 31 is a hair dying ingredient intended be used in direct (non-oxidative) hair dyes at 1% concentration and is also used at 1% in oxidative hair dye formulations, which after mixing in a 1:1 ratio with hydrogen peroxide just prior to use corresponds to a concentration of 0.5% upon application. The applied hair dye formulations are rinsed/washed off after about 30 minutes and the normal frequency of application being about once per month.
+
+Submission II presents updated scientific data on the above mentioned substance in line with the second step of the strategy for the evaluation of hair dyes (http://europa.eu.int/comm/enterprise/cosmetics/doc/hairdyestrategyinternet.pdf)) within the framework of the Cosmetics Directive 76/768/EEC.
+
+The SCCS revision (SCCS/1334/10) of 22 March 2011 concluded that for a final assessment of the use of Basic Orange 31 in oxidative hair dye formulations, data on the stability in an oxidative environment should be provided. The present submission III presents the requested data.
+
+
+2. TERMS OF REFERENCE
+
+1. Does the Scientific Committee on Consumer Safety (SCCS) consider Basic Orange 31 to be safe for use in non-oxidative hair dye formulations at a maximum on-head concentration of 1.0% and in oxidative hair dye formulations at a maximum on-head concentration of 0.5% taken into account the scientific data provided?
+
+2. Does the SCCS recommend any restrictions with regard to the use of Basic Orange 31 in non-oxidative and oxidative hair dyes formulations?
+
+
+3. OPINION
+3.1. Chemical and Physical Specifications
+
+
+
+Basic Orange 31 (INCI)
+
+
+2-[(4-aminophenyl)azo]-1,3-dimethyl-1H-Imidazolium chloride 1H-Imidazolium, 2-[(4-aminophenyl)azo]-1,3-dimethyl-, chloride
+
+
+MIP Orange 3100
+MIP 3100
+Orange (MIP 3100) VIBRACOLOR(r) Flame Orange COLIPA B118
+
+
+CAS:	97404-02-9
+EC:	306-764-4
+
+
+
+
+Formula:	C11H14N5.Cl
+
+
+Violet/brown or dark red powder
+
+
+Molecular weight:	251.72 g/mol
+
+
+The chemical characterisation of Basic Orange 31 was performed by IR and UV-Vis spectroscopy.
+
+The purity and impurities of batches of MIP Orange 3100 (028407A2 and 028334A2) used for the studies listed in the dossier are described in the table below.
+
+BatchMeasured purity active (%)Impurities (%)Volatile matter (%)Salt: Sum of (Cl+SO4+CH3SO 4) as NaCH3SO (%)028407A298.50.3 coloured by-products
+
+Coloured by-product 1:
+
+N
+N
++	 
+N	H
+N	N
+
+
+Cl
+O
+
+Coloured by-product 2:
+
+N
+N
++		
+N	H
+N	N
+
+Cl0.7<= 8028334A297.3< 0.11.00.7
+Analytical methods:
+Quantification of MIP Orange 3100 and impurities: HPLC-MS and UV-VIS detection and quantified using external standard.
+Determination of volatile matter: IR drying
+Determination of salt content as sum of chloride, sulfate and methyl sulfate: Calculation based on sodium content
+
+Additional Information on the identity of the impurities contained in below listed batches:
+
+Batch Nr.Impurities (%)Coloured by-product 1
+
+
+N
+N
++
+N	H
+N	N
+
+
+Cl
+OColoured by-product 2
+
+
+N
+N
++	 
+N	H
+N	N
+
+ClColoured by-products 3
+CH3
+N	N	NH2
+N
+N
+
+Molecular Weight =201.2
+Exact Mass =201.1
+Molecular Formula =C10H11N5
+CH3	H
+N	N	N
++	N
+N	O
+CH3
+Molecular Weight =258.3 Exact Mass =258.1
+Molecular Formula =C13H16N5OMIP 3100/ 23 R-1<0.1%12 R-101.3%CGF- F020088/010
+= 48 R-90.2%013673A10.3%0.3%
+
+
+
+See 3.1.4
+
+
+In water: 27.5 g/l at 20 °C, OECD Method 105 (1995)
+
+
+Log Po/w: -2.13, OECD Method 107 (1981)
+
+
+Melting point:	> 400 °C
+Boiling point:	/
+Flash point:	/
+Vapour pressure:	/
+Density:	/
+Viscosity:	/
+pKa:	/
+Refractive index:	/
+UV/Visible spectrum:	/
+
+
+The stability, concentration and homogeneity of MIP Orange 3100 in rodent feed (Batch nr. CGF-F020088/0010) have been assessed in both a 14-day rat oral toxicity (feeding) study and in a 13-week rat oral toxicity (feeding) study.
+
+14 day study
+Mean concentration of MIP 3100 of dose group 2 (214 ppm MIP 3100), dose group 3 (642
+ppm MIP 3100), and dose group 4 (2020 ppm MIP 3100) were 95.0%, 95.7% and 101.0% respectively of the nominal concentrations. Individual concentration varied in the range from -9% to +5% of the mean concentrations.
+MIP 3100 was found to be stable and homogeneous in rodent feed at room temperature over a period of at least 14 days.
+
+13 week study
+Mean concentration of MIP 3100 were found to vary within a range of 90.5% to 116.6% of the nominal concentrations. Individual concentration varied in the range from -4% to +3% of the mean concentrations. Test article was found to be homogeneous.
+
+Stability of Basic Orange 31 was evaluated for a period of 30 minutes in a typical oxidative hair colouring product after addition of the oxidative developer. The concentration of Basic Orange 31 (0.486 ± 0.012 g/100g) in the hair colouring formulation, immediately after the addition of the developer (1:1 w/w), did not change significantly after storage at room temperature for 30 minutes (a maximum deviation of +0.5% from initial concentration). These measurements were done in triplicates. The direct hair dye ingredient Basic Orange 31 can be considered to be stable in hair colouring formulations under oxidative conditions, representative of consumer exposure
+
+General Comments on Physico-chemical characterisation
+
+- The stability of Basic Orange 31 in typical hair dye formulations was not reported.
+
+
+3.2. Function and uses
+
+Basic Orange 31 is incorporated in non-oxidative hair dye formulations at a maximum concentration of 1.0%, and in oxidative hair dye formulations at a maximum final concentration of 0.5%, after mixing with the oxidative agent.
+
+
+
+3.3. Toxicological Evaluation
+
+
+
+Taken from SCCS/1334/10
+
+Guideline:	/
+Species/strain:	 Sprague Dawley Rat, Crl: CD (SD)IGS BR Group Size:	2 rats/sex per dose
+Test material:	 MIP Orange 3100 Batch:	013673A1
+Purity:	94.1% (as chloride salt)
+Dose:	 500, 1000, 2000 mg/kg bw Observ. period:	14 days
+GLP:	in compliance
+
+In a dose-limit test, the test substance was dissolved in cell culture grade water and administered by gavage as single doses (mg/kg bw) of MIP Orange 3100. One female from the mid and high dose groups died on Day 1 of the experiment. Clinical observations observed prior to death included salivation, lacrimation and hypoactivity. Macroscopic findings were red discoloured mucosal surface of stomach and distended organ filled with red lumen fluid in the stomach, caecum, ileum, duodenum, jejunum and colon.
+All other animals survived until study termination; none showed signs of toxicity or adverse effects. The study indicated a LD50 between l000 mg/kg bw and 2000 mg/kg bw.
+Ref.: 1
+
+
+Taken from SCCS/1334/10
+
+Guideline:	OECD Guideline 402
+Species/strain:	 Sprague Dawley Rat, Crl: CD (SD)IGS BR Group Size:	5 male and 5 female
+Test material:	 MIP Orange 3100 Batch:	013673A1
+Purity:	94.1% (as chloride salt)
+Dose:	 2000 mg/kg bw Observ. period:	14 days
+GLP:	in compliance
+
+The test material was moistened with distilled water and applied at a dose of 2000 mg/kg bw. The hair was clipped the day prior to the experiment. It was applied to the clipped area as a thin uniform layer to approximately 10% of the body surface area from scapula to iliac crest and half way down the flank on each side of the animal's back. The area was occluded
+
+for 24 h. The initial dermal irritation was scored and recorded 30 minutes after bandage removal on Day 1. The untreated skin of each animal served as the control. Additional dermal irritation readings were performed for each animal on Days 3, 7, 10, and 14. All animals were examined for clinical signs of ill health or mortality immediately post-dose and approximately 1, 2.5 and 4 hours post-dose, and daily thereafter. Body weights were recorded pre-dose on the day of dosing (Day 0), and on Days 7 and 14, and prior to sacrifice on Day 15 (fasted). A curtailed gross examination of the cervical, thoracic, and abdominal viscera was performed.
+
+No deaths occurred during the study. All animals showed clinical signs of toxicity including chromodacryorrhea and red nasal discharge on the day of dosing and observation Day 1. All signs of toxicity were resolved at day 2. Body weight gain was not affected during the study and necropsy did not reveal observable changes. No irritation was noted throughout the study. The acute dermal LD5O is greater than 2000 mg/kg bw.
+Ref.: 2
+
+
+No data submitted
+
+
+
+Taken from SCCS/1334/10
+
+Guideline:	OECD 404 (1981) Species/strain:	 albino rabbits, New Zealand Group size:	 2 males, 1 female
+Test substance:	MIP Orange 3100 Batch:	 013673A1
+Purity:	94.1% (as chloride salt)
+Dose:	 0.5g applied to 6.25 cm2 of intact skin for 4 hours GLP:	In compliance
+
+After clipping the back and flanks, 0.5g of the test material, moistened with approximately
+0.5 ml distilled water, was applied to an area of approximately 6.25 cm2 under a semi- occlusive dressing. The patches were removed after 4 hours, residual test article wiped off, and observations made at 0.5, 1, 24, 48 and 72 hours after removal.
+
+Results
+No erythema was observed. Very slight oedema was noted in one animal at the 0.5 to 1- hour observation. The primary irritation index was 0.1. The test material was considered to be slightly irritating to rabbit skin under the conditions of the study.
+Ref.: 6
+
+
+Guideline:	OECD 402 (1987) Species/strain:	Albino Guinea pig Group Size:	 4 males and 4 females Test material:	 MIP ORANGE 3100 Batch:	 CGF-F020088/0010
+Purity:	98%
+Dose:	 5.0, 3.0, 1.0 or 0.5 w/w Observ. period:	14 days
+GLP:	in compliance
+
+
+To assess the cumulative irritation potential, MIP ORANGE 3100 was applied daily at concentrations of 5.0, 3.0, 1.0 or 0.5% w/w in double distilled water. One male and female served as controls and received only double distilled water. Two of the four different concentrations (5.0, 3.0, 1.0 or 0.5% w/w) were applied daily. Each application was 0.1 ml and was made to separate 7 cm² shaved areas on the back of each of the treated animals. The control or dose sites were not occluded.
+Each day of treatment each concentration was applied three times, each time on three different animals. This was repeated for 14 daily treatments.
+Due to slight accumulation of the test substance, no grading scores were possible from Day 2 -14, as no depilation was used during this period. After depilation, the MIP Orange 3100 application sites remained coloured.
+Macroscopic isolated reddish foci in the subcutis were noted in one animal at 1% dose. The skin, at vehicle alone sites, showed no histopathological changes. The MIP Orange 3100 application sites showed minimal to moderate epidermal hyperplasia and in some cases with minimal to slight dermal inflammatory cell infiltrate. These observations were not dose- related. No deaths occurred during the study.
+
+MIP Orange 3100 is considered to be non-irritant when tested under these experimental conditions. A NOEL could not be established under these experimental conditions.
+Ref.: 3
+
+
+Taken from SCCS/1334/10
+
+Study 1
+
+Guideline:	OECD 405 (1981) Species/strain:	 albino rabbits, New Zealand Group size:	 3 females
+Test substance:	MIP 3100 Batch:	013673A1
+Purity:	94.1% (as chloride salt)
+Dose:	0.045 g (neat substance)
+GLP:	In compliance
+
+The test material was placed into the averted lower lid of the right eye of each animal. The left eye served as the untreated control. The eyes of the 3 animals remained unrinsed for approximately 24 hours after instillation of the test material.
+1, 24, 48, 72 and 96 hours and 7, 14 and 21 days after instillation of the test material, the treated eyes of the rabbits were observed for signs of ocular irritation. Corneal injury was assessed using sodium fluorescein (followed by a saline wash) on all animals at 24 hours post-instillation.
+
+Results
+Changes to the cornea, iris and conjunctivae were noted in all three animals. On day 5, two animals were sacrificed due to severe ocular irritation. The third animal had a positive sodium fluorescein test at 24 and 72 hours and a negative test at 96 hours. The findings for this animal began to resolve on day 7 through day 21 post-instillation.
+
+MIP 3100 was severely irritating to the eye under the test conditions of study 1.
+Ref.: 7
+
+Study 2
+
+Guideline:	OECD 405 (1981) Species/strain:	 albino rabbits, New Zealand Group size:	 3 females
+Test substance:	MIP 3100 Batch:	013673A1
+Purity:	94.1% (as chloride salt)
+Dose:	0.1ml of 1% w/v
+GLP:	In compliance
+
+The test material was instilled into the averted lower lid of the right eye of each animal. The left eye served as the untreated control. The eyes of the 3 animals remained unrinsed for approximately 24 hours after instillation of the test material.
+1, 24, 48, 72 and 96 hours and 7, 14 and 21 days after instillation of the test material, the treated eyes of the rabbits were observed for signs of ocular irritation. Corneal injury was assessed using sodium fluorescein (followed by a saline wash) on all animals at 24 hours post-instillation.
+
+Results
+There were no findings involving the cornea or iris noted in any animal. All three animals showed conjunctival redness (score 1) at 1-hour and 24-hours post-instillation and discharge (score 1) in one animal at 1 hour post-instillation.
+A 1% solution of MIP 3100 was slightly irritating to the eye under the test conditions of study 2.
+Ref.: 7
+
+
+Taken from SCCS/1334/10
+
+Magnusson and Kligman Guinea pig maximisation test
+
+Guideline:	OECD 406 Species/strain:	 albino guinea pigs
+Group size:	30 females (20 test and 10 control) Test substance:	 MIP 3100
+Batch:	MIP 3100/23 R-1
+Purity:	56.1% of base (with 19.3% sodium and 25.7% chloride)
+Dose:	Intradermal induction:	5% aqueous solution with Freund's Complete
+Adjuvant.
+Topical induction:    A 50% dilution of test material under occlusion
+for 48 hours. Controls received vehicle only. Skin pretreated with 10% sodium lauryl sulphate in liquid paraffin.
+Challenge:	Performed  on  day  22  (14  days  epidermal
+applications) by exposing 50% aqueous dilution of the test substance (24 hours, occlusion).
+GLP:	In compliance
+
+Animals were examined 24 and 48 hours after removal of the patches for signs of erythema and oedema.
+
+Results
+Brown-red discoloration was noted directly after removal of patches. To remove discoloration, all animals were depilated 3 hours prior to challenge reading with a depilatory cream .
+None of the animals of the control or test group were observed with skin reactions after challenge with a non-irritating dilution of 50% of the test material. MIP 3100 was considered not to be a sensitiser under the test conditions.
+Ref.: 9
+
+Comment
+This study was not considered adequate. In other batches considered in this dossier, Basic Orange 31, the active ingredient, was >94% w/w with sodium <2.1% w/w, methylsulphate 3.6% and chloride <0.8% w/w. The purity of MIP 3100/23 R-1 is given as >35% in the study dossier (Nov 1996). In the analytical report, (Aug 2001), MIP 3100/23 R-1 is described as the methylsulphate salt and the active ingredient was 56% w/w; with free non-combined sodium (19.3% w/w) and chloride (25.7% w/w).
+
+Local lymph node assay
+
+Guideline:	OECD 429 Species/strain:	 CBA/J mice
+Group size:	28 females (7 groups of 4 animals) Test substance:	 MIP 3100
+Batch:	013673A1
+Purity:	94.1% (as chloride salt)
+Dose:	0.25, 0.5, 1, 2.5 and 5%
+GLP:	In compliance
+
+Five treated groups received MIP 3100 at concentrations of 0.25, 0.5, 1, 2.5 and 5%. A negative control received the vehicle (ethanol/water - 50/50 v/v). A positive control group received 25% alpha-hexylcinnamaldehyde. The test items were applied over the ears (25µL per ear) for three consecutive days. After 2 days of resting, the proliferation of the lymph node cells in the lymph node draining the application site was measured by incorporation of tritiated-methyl thymidine.
+The obtained values were used to calculate stimulation indices (SI). The irritant potential of the test item was assessed in parallel by measurement of ear thickness on days 1, 2, 3 and 6.
+
+Results
+No increase in ear thickness was observed in the animals of the treated group. A red coloration of the skin, which could have masked an erythema, was noted on the ears of the treated animals from day 2 up to the end of the study.
+A dose-related increase in the stimulation index was noted and the threshold positive value of 3 was exceeded at the concentrations of 1 and 5%.
+
+In the absence of local irritation, the positive lymphoproliferative responses observed at 1 and 5% were attributed to delayed contact hypersensitivity. The extrapolated EC3 value for the test item MIP 3100 was 3.12%.
+MIP 3100 induces delayed contact hypersensitivity in the murine Local Lymph Node Assay.
+Ref.: 8
+
+Comment
+The test item is a moderate sensitiser.
+
+
+
+
+Taken from SCCS/1334/10
+
+Rat and human skin, in vitro
+
+Guideline:	OECD 428 (2004)
+Tissue:	rat split-thickness skin, 200 µm (2 males, strain: HanBrl: WIST (SPF))
+Human split-thickness skin, 200 µm (2 female donors)
+Group size:	 6 membranes per species (3 cells/donor) Skin integrity:	permeability coefficient (Kp) of tritium water
+Kp < 3.5 x 10-3 cm/h (rat) Kp < 2.5 x 10-3 cm/h (human
+Diffusion cell:	 flow-through cell system, 0.64 cm² Test substance:	Orange (MIP 3100)
+Batch:	028407A2
+3496175 (radio-labelled, 1295 MBq/mmol, 35 mCi/mmol)
+Purity:	94.6% (contains about 5% inorganic salt)
+> 97% (radio-labelled)
+Test item:	Vibracolor(r) dye Orange (MIP 3100), as an aqueous solution Dose:	 approximately 9.4 µl/cm² (6 µl/0.64 cm²) of an aqueous solution
+                          of 19 mg/ml Dose of test substance: 0.181 mg/cm²
+Receptor fluid:	physiological saline, 0.9% NaCl w/v Solubility receptor fluid: /
+Stability receptor fluid:	/
+Method of Analysis:	 Liquid Scintillation Counting GLP:	in compliance
+Study date:	22 February - 1 March 2005
+
+The percutaneous penetration of the test substance formulated as aqueous solution was determined in vitro using split-thickness skin membranes from rat and human skin. The formulated [14C] Orange (MIP 3100) was applied onto skin membranes of 200 µm thickness at concentrations of 19 mg/ml leading to an area concentration of 181 µg/cm². For each species 6 replicates were used.
+
+Results
+
+
+The totally absorbed test item was calculated based on the amount penetrated through the skin membrane (perfusate) and the amount in the remaining skin membrane after tape stripping. The total absorption amounted to 1.18% and 0.06% of the applied dose for rat
+
+and human skin membranes, respectively. Orange (MIP 3100), applied as aqueous solution to rat and human skin membranes, penetrated at a low rate and to a limited extent through the skin membranes. In rat the mean flux value was calculated to be 0.357 µg/cm²/h and
+0.004 µg/cm²/h in human.
+Ref.: 1, submission II
+
+Comments
+Only 2 subjects were used for each study. Only non oxidative conditions have been studied. The amounts absorbed are 2.14 µg/cm² in rat and 0.11 µg/cm² in human.
+
+Human skin, in vitro
+
+Guideline:	OECD 428 (2004)
+Tissue:	human post mortem dermatomed skin, 400 µm thickness Group size:	 9 membranes from 6 donors (4 females, 2 males)(oxidative
+conditions)
+9 membranes from 5 donors (non-oxidative conditions)
+Skin integrity:	electrical resistance, > 10 k?
+Diffusion cell:	glass diffusion cell; 2.54 cm²
+Test substance:	Basic Orange 31
+Batch:	028334A2
+3496175 (radio-labelled) (35.0 mCi/mmol)
+Purity:	97.1% (UV-Vis spectroscopy) 99% (HPLC)
+Test item:	Basic Orange 1% formulations oxidative and non-oxidative
+conditions
+Dose:	20 mg/cm²
+Dose of test substance: 0.5% (100 µg/cm²) Basic Orange 31 under oxidative conditions 1% (200 µg/cm²) Basic Orange 31 under non-oxidative conditions
+Receptor fluid:	phosphate buffered saline Solubility receptor fluid: 27 mg/ml at 20 °C Stability receptor fluid:	/
+Method of Analysis:	 Liquid scintillation counting GLP:	in compliance
+Study date:	14 March - 18 April 2005
+
+The absorption and distribution of Basic Orange 31 from 2 different and typical w/w formulations, has been measured in vitro through human skin. The formulations were applied as a direct hair dye formulation at a nominal 1% concentration of Basic Orange 31, and as an oxidative hair dye formulation mixed 1:1 with hydrogen peroxide, resulting in a nominal final dose concentration of 0.5% Basic Orange 31.
+
+
+Results
+
+Oxidative conditions
+
+
+Non-oxidative conditions Two cells were rejected
+
+The absorption of Basic Orange 31 through human skin from the semi-permanent or oxidative formulations was 0.053 ± 0.015% (0.106 ± 0.030 ?g/cm²) and 0.076 ± 0.036% (0.076 ± 0.036 ?g/cm²) of the applied Basic Orange 31, respectively.
+Ref.: 2, submission II
+
+Comment
+The mean + 1 SD or 0.136 (0.106 + 0.030) µg/cm² can be used to calculate the MOS under non-oxidative conditions and 0.112 (0.076 + 0.036) ?g/cm² under oxidative conditions.
+
+
+
+Taken from SCCS/1334/10
+
+Guideline:	OECD Guideline 407 Species/strain:	 Wistar Hanlbm (SPF) rat
+Group Size:	10 rats/sex: control and the high dose
+                    5 rats/sex: mid and low doses Test material:	MIP ORANGE 3100
+Batch:	CGF-F020088/0010
+Purity:	98%
+Dose:	20, 70 and 250 mg/kg bw Treatment Period: 14 days
+Observ period:	14 days
+GLP:	in compliance
+
+MIP ORANGE 3100 was administered in feed at theoretical dose levels of 20, 70 and 250 mg/kg bw/day while the control group received the normal diet. The corresponding effective daily intake for males and females was 15.5 mg/kg bw, 53.4 mg/kg bw and 186.4 mg/kg bw, for the low, mid and high dose groups respectively. At the end of the 14 day treatment period, 5 animals of each dose and sex were killed. The remaining control and high-dose animals had a 14-day recovery period before sacrifice. The animals were examined for clinical signs daily and checked twice daily for mortality/viability. Food consumption and body weight were recorded once pre-test, and weekly thereafter and body weight at necropsy. A functional observational battery (modified Irwin screen test), grip strength and locomotor activity were performed during week 2. Blood samples for haematology and clinical biochemistry were collected from all animals, and urine samples were collected for analysis.
+
+All animals were killed and descriptions of all macroscopic abnormalities were recorded. The major organ weights (absolute and relative) were recorded on the date of necropsy. Samples of major organs from control and top dose groups, as well as liver and thyroid glands and all gross lesions from all animals were examined by light microscopy. Only liver, thyroid gland and gross lesions were examined microscopically from rats of mid and low dose groups. All animals survived during the study. There were no quantitative or qualitative differences of the clinical parameters compared with the controls. Slight orange discoloration of the urine was observed in all dosed animals and was attributed to ingestion of the dye rather than to a specific toxic effect.
+Dose-related decreased food consumption was observed in the mid and high dose group males and in the high-dose group females. The relative food consumption reflected these differences. Mean body weight and body weight gain were lower in high-dose group compared with the control. The functional observational battery tests, grip strength and locomotor activity were similar in the high dose and control groups.
+
+The observed haematological effects (slightly prolonged activated partial thromboplastin time), clinical biochemical changes (increase of triglyceride levels in males and elevated
+
+albumin and total protein level in females at the high-dose group) or urinalysis parameters (pH slightly more alkaline in females at the high-dose) were considered to be incidental and unrelated to the treatment. No test substance related differences in any organ weights or organ weight ratios compared with the controls were evident either at the end of the treatment or recovery. All macroscopic and microscopic findings observed (renal pelvic dilatation, bilateral dilatation of the uterine horns, incomplete deflation of the lung, one renal nephroblastoma) were considered to be within the normal range of background findings commonly seen in rats of this strain and age and not related to MIP Orange 3100.
+
+These results suggest a NOEL of MIP Orange 3100 at 15 mg/kg bw/day and a NOAEL of 53 mg/kg bw.
+Ref.: 4
+
+
+Taken from SCCS/1334/10
+
+Guideline:	OECD 408 (1981) and Directive 96/54/EEC Species/strain:	 Wistar rat, Hannover (SPF)
+Group Size:	10 males + 10 females per dose Test material:	 MIP ORANGE 3100
+Batch:	CGF-F020088//0010
+Purity:	98%
+Dose:	 0, 20, 70 and 250 mg/kg bw/day Exposure period:	13 weeks
+GLP:	in compliance
+Study date	1999
+MIP Orange 3100 was administered in feed at theoretical dose levels of 20, 70 and 250 mg/kg bw/day while the control group received the normal diet. The corresponding effective daily intake, based on food consumption and body weight for males was 18, 63 and 229 mg/kg bw, and for females 19, 66 and 232 mg/kg bw for low, mid and high dose groups respectively.
+The animals were examined for clinical signs daily and checked twice daily for mortality/viability. Food consumption and body weight were recorded once pre-test, and weekly thereafter and body weight at necropsy. Ophthalmoscopic examination was performed at pre-test and at week 13 (control and high dose animals). A functional observational battery (modified Irwin screen test) was performed during pre-test and at week 12 on all rats and grip strength and locomotor activity were evaluated. At week 13, blood and urine were analysed. After 13 weeks, all animals were weighed and killed and descriptions of all macroscopic abnormalities were recorded. The major tissues and organ were collected from all animals and absolute and relative weights were recorded at necropsy for adrenals, brain, heart, kidneys, liver, ovaries, spleen, testes, thyroid, and thymus. Samples of major organs from control and high-dose and all gross lesions from all animals were processed as haematoxylin-eosin slides and examined by light microscopy.
+No deaths occurred during the study. The only clinical signs related to the test substance were in the high dose group. These were orange urine from Day 3 and orange faeces from Week 4 and a reduction in food consumption (17% in males, 8% in females). This resulted in significant decreased body weight and body weight gain in males (p <0.05). No treatment-related effects in the functional observational battery, grip strength measurement, and locomotor activity were noted.
+Methaemoglobin levels were statistically significant increased in the high-dose group. Also in the high-dose group, there was a significant (p>0.05 or p >0.01) reduction including glucose and urea in the males, creatinine in both males and females, and alpha-1 globulin in females. There were also significant (p>0.05 or p >0.01) increases of total cholesterol,
+
+triglycerides, phospholipids, albumin/globulin ratio, and gamma glutamyltransferase. These findings could not be correlated with microscopically observable adverse effects so they are considered to be adaptive responses to the test article and of no toxicological relevance. In the mid- and low-dose groups none of the small number of clinical chemistry changes were considered to be adverse effects of the test substance. Urinalysis did not reveal any differences from control.
+
+Compared with the control group, a slight increase in relative kidney weight and a decrease in relative heart weight were observed and attributed to the test article at the high dose of
+250 mg/kg bw. All macroscopic findings observed were similar in treated and control animals. Some microscopic findings, classified as either minimal or slight, differed from treated and controls rats: hepatocellular hypertrophy considered as a metabolic response to the treatment.
+
+The study authors estimated the NOEL to be 18 mg/kg bw/day and the NOAEL, 60 mg/kg bw/day.
+Ref: 5
+
+
+No data submitted
+
+
+
+Taken from SCCS/1334/10
+
+Bacterial Reverse Mutation Test
+
+Guideline:	OECD 471
+Species/strain:	 S. typhimurium, TA98, TA100, TA1535, TA1537, E. coli WP2 uvrA Replicates:	Triplicate plates, 2 independent tests
+Test substance:	MIP Orange 3100 Solvent:	water
+Batch:	013673A1
+Purity:	94.1%
+Concentrations:	Experiment 1 Salmonella strains:	10.0, 33.3, 100, 333, 1000, 2000
+µg/plate without S9-mix
+E. coli:	3.33, 10.0, 33.3, 100, 333, 500
+µg/plate without S9-mix
+Salmonella strains:	33.3, 100, 333, 1000, 2000, 3330
+µg/plate with rat S9-mix
+E. coli:	33.3, 100, 333, 1000, 2000, 3330
+µg/plate with rat S9-mix
+Salmonella and E. coli: 33.3, 100, 333, 1000, 3330, 5000
+µg/plate without hamsterS9-mix
+Salmonella and E. coli: 33.3, 100, 333, 1000, 3330, 5000
+                                      µg/plate with hamster S9-mix Experiment 2 Salmonella and E. coli: 3.33, 10, 33.3, 100, 333, 500
+µg/plate without S9-mix
+33.3, 100, 333, 500, 667, 1000
+µg/plate with rat S9-mix
+33.3, 100, 333, 667, 1000, 2000
+µg/plate with hamster S9-mix
+
+Treatment:	pre-incubation method with 20 minutes (rat S9-mix) or 30 minutes (hamster S9-mix) pre-incubation and 52 ± 4 h incubation.
+GLP:	in compliance
+Date:	9 October 2001 - 17 December 2001
+
+MIP Orange 3100 was investigated for the induction of gene mutations in both S. typhimurium and E. coli (Ames test). S9-mixes from different origin have been used as exogenous metabolic activation system: liver S9 fraction from Aroclor 1254-induced rats and liver S9-fraction of uninduced male Golden Syrian hamsters. Test concentrations were based on the level of toxicity in a dose range finding assay with concentrations between
+6.67 and 5000 µg/plate in Salmonella TA100 and E. coli WP2 uvrA measuring the decrease in revertant frequency or thinning of the background lawn. Both experiments were performed with the pre-incubation method. Negative and positive controls were in accordance with the guideline.
+
+Results
+In the dose range finding assay inhibition of growth, as evidenced by a decrease of revertant frequency or thinning of the background lawn was observed in the absence of S9- mix at concentrations = 33.3 µg/plate for TA100 and at concentrations = 333 µg/plate for
+E. coli and in the presence of S9-mix at concentrations = 333 µg/plate for both TA100 and
+E. coli.
+In experiment 1 both in the absence and presence of rat S9-mix a dose related and biologically relevant increase in revertant numbers was not observed in any of the Salmonella tester strains nor in E. coli. However, for TA98 at 100 µg/plate, an increase according to the positivity criteria of the testlab (2 times the control value for TA 98) was observed. This increase is not mentioned in the main text of the study report and its biological relevance is not commented.
+In the presence of hamster (reductive) S9-mix activation a dose-dependent increase in revertant numbers was observed for TA98 from the lowest concentration of 33.3 µg/plate. The increases should be considered as biologically relevant since the maximal mean value observed is approximately 7.2 times the mean revertant control values. For the other strains or E coli, no statistically or biologically relevant increase in the number of revertants has been observed as compared to the controls.
+Also in experiment 2 both in the absence and presence of rat S9-mix a dose related and biologically relevant increase in revertant numbers was not observed in any of the Salmonella tester strains nor in E. coli. A finding similar to that in experiment 1 was observed for the tester strain TA98 at the concentration of 100 µg/plate. This increase is again not mentioned in the main text of the study report and its biological relevance not commented while being positive according to the positivity criteria (x 2 the control value for TA 98).
+In the presence of hamster (reductive) S9-mix a dose-dependent increase in revertant numbers was observed for TA98 from the lowest concentration of 33.3 µg/plate. These increases should be considered as biologically relevant. The maximal mean value observed is approximately 15.5 times the mean revertant control values. For the other strains, no statistically or biologically relevant increase of mutant frequencies have been observed as compared to the controls.
+The positive results in the experiments using the reductive S9-mix may be the consequence of the metabolizing properties (azo-reduction) of the S9-mix fraction from hamster. The higher amount of aromatic amines released, which are metabolised to electrophilic molecules, may react with DNA. This might explain the positive results observed in TA98.
+
+Conclusions
+Under the experimental conditions used it may be concluded that MIP Orange 3100, in the presence of reductive S9-mix, shows clear evidence of mutagenic activity in tester strain TA98. Consequently, MIP Orange 3100 is mutagenic in this gene mutation tests in bacteria.
+Ref.: 14
+
+
+In Vitro Mammalian Cell Gene Mutation Test
+
+Guideline:	OECD 476
+Cells:	Chinese Hamster V-79 cells
+Replicates:	2 independent tests Test substance:	 MIP 3100
+Solvent:	water
+Batch:	12R-10
+Purity:	98.8%
+Concentrations:	Experiment 1:	3, 30, 100, 300 and 600 µg/ml without S9-mix
+3, 30, 100, and 300 µg/ml with hamster S9-mix
+Experiment 2:	3, 30, 300 and 400 µg/ml without S9-mix
+                                      3, 30, 100, and 300 µg/ml with rat S9-mix Treatment	4 h both without and with S9-mix; expression period 7 days and a
+selection period of 9 days.
+GLP:	In compliance
+Date:	23 April 1996 - 26 June 1996
+
+MIP 3100 has been investigated for gene mutation at the hprt locus in V79 Chinese hamster cells in the presence or absence of an activation system. Liver S9 fraction from hamster was used as exogenous metabolic activation system in experiment 1 and from Arochlor 1254- induced rats in experiment 2. Test concentrations were based on the results of a XTT assay as pre-test of toxicity with 8 concentrations ranging from 1 to 3000 µg/ml without and with S9-mix. In the main test, cells were treated for 4 h followed by an expression period of 7 days to fix the DNA damage into a stable hprt mutations. Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+No precipitation of the test article occurred up to the maximal concentration. In both experiments, relevant toxic effects occurred at concentrations of 300 µg/ml and above without and with S9-mix.
+In both experiments, in the absence as well as presence of S9-mix a biological relevant and dose dependent increase in mutant colonies over the concurrent solvent controls was not observed.
+
+Conclusions
+Under the experimental conditions used, MIP 3100 was not genotoxic (mutagenic) in this gene mutation tests in mammalian cells.
+Ref.: 16
+Comment
+It should be noted that the test agent expresses a clear cytotoxic effect.
+
+
+In Vitro Mammalian Chromosomal Aberration Test
+
+Guideline:	OECD 473 (1997)
+Cells:	 Human lymphocytes from 2 healthy donors Replicates:	Duplicate cultures, 2 independent experiments Test substance:	 MIP Orange 3100
+Solvent:	water
+Batch:	013673A1
+Purity:	94.1%
+Concentrations:	initial assay:	33.7, 48.1, 68.7 and 98.1 µg/ml without S9-mix
+98.1, 140.0, 200.0 and 285.0 µg/ml with S9-mix
+confirmatory assay:	3.13, 6.25, 12.5 and 25.0 µg/ml without S9-mix
+25.0, 50.0, 100.0 and 200.0 µg/ml with S9-mix
+
+Treatment	initial assay:	3 h treatment without and with S9-mix; harvest
+time 22.1 h
+confirmatory assay:	22 h treatment without S9-mix; harvest time 22h
+3 h treatment with S9-mix; harvest time 22 h
+GLP:	In compliance
+Date:	11 October 2001 - 3 December 2001
+
+MIP Orange 3100 has been investigated for induction of chromosomal aberrations in human lymphocytes withdrawn from 2 volunteers. Liver S9 fraction from AroclorTM 1254-induced rats was used as the exogenous metabolic activation system. Cells were treated for 3 or 22 h (only without S9-mix) and harvested ~22 h after the start of treatment. Approximately 2 h before harvest, each culture was treated with colcemid (final concentration 0.1 µg/ml) to block cells at metaphase of mitosis. Chromosome (metaphase) preparations were stained with 5% Giemsa and examined microscopically for chromosome aberrations and mitotic index. Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+In both experiments in the absence as well as in the presence of metabolic activation neither a statistically significant or biologically relevant increase in the number of aberrant cells nor an increase in aneuploidy and/or endoreduplicated cells were observed as compared to the corresponding solvent control for all concentrations tested. Exclusively, in the initial experiment without S9-mix at the highest concentration tested (98.1 µg/ml) a mean value of 6% of aberrant cells was observed as compared to 0.5% in the control group. However, these aberrations occurred at a concentration that produced more than 50% of MI reduction. Moreover, this increased is only observed at one concentration and thus not reproducible. Consequently, the biological significance is questionable.
+
+Conclusions
+Under the experimental conditions used MIP Orange 3100 did not show evidence for a genotoxic (clastogenic) activity in human lymphocytes in vitro.
+Ref.: 15
+Comment
+The test has only been performed with a standard metabolic activation system.
+
+
+
+Taken from SCCS/1334/10
+
+Mammalian Erythrocyte Micronucleus Test
+
+Guideline:	OECD 474
+Species:	NMRI mice
+Group sizes:	6 male and 6 female mice/group Test substance:	 MIP Orange 3100
+Batch nr.:	CGF-F020088/0010
+Purity:	98% (HPLC)
+Dose levels:	0, 30, 100 and 300 mg/kg bw Route:	 intragastric gavage
+Vehicle:	deionized water
+Sacrifice times:	24 h after treatment for all concentrations, 48 h for the high dose only. GLP:	In compliance
+Date:	5 May 1998 - 11 August 1998
+
+MIP Orange 3100 has been investigated for induction of micronuclei in the bone marrow cells of male and female mice. Test doses were based on the results of a pre-experiment on acute toxicity. Approximately 18 h before treatment the animals received no food but water
+
+ad libitum. Mice were treated by a single intragastric gavage up to 2000 mg/kg bw (the maximum dose level recommended by guidelines) and examined for acute toxic symptoms at 1, 6, 24 and 48 h after start of treatment. In the main experiment mice were exposed orally to 0, 30, 100 and 300 mg/kg bw. The volume administered orally was 10 ml/kg bw. Bone marrow cells were collected 24 h or 48 h (high dose only) after dosing. Toxicity and thus exposure of the target cells was determined by measuring the ratio between polychromatic and normochromatic erythrocytes (PCE/NCE). Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+In the a pre-experiment on acute toxicity all animals died at 2 000 mg/kg bw, 1 male and 1 female at 1000 mg/kg bw and 2 females at 500 mg/kg bw. Clinical signs observed 1 h after treatment were reduction of spontaneous activity, eyelid closure, apathy and abdominal position at 1000 and 500 mg/kg bw. These clinical signs gradually declined from 6 h after treatment. After treatment with 300 mg/kg bw reduction of spontaneous activity, eyelid closure and apathy were found as well. The clinical signs at this dose only declined after 24
+h. Orange urine was found at all doses tested 1 h after treatment.
+A decrease in the PCE/NCE ratio was observed due to treatment indicating cytotoxicity of the test agent for bone marrow cells.
+At both sacrifice times (24 and 48 h) a statistically significant or biologically relevant increase in the number of micronucleated polychromatic erythrocytes over the concurrent vehicle control values were not observed for any dose levels.
+
+Conclusions
+Under the experimental conditions used MIP Orange 3100 did not induce an increase in the number of bone marrow cells with micronuclei in treated mice and, consequently, MIP Orange 3100 is not genotoxic (clastogenic and/or aneugenic) in bone marrow cells of mice.
+Ref.: 18
+Comment
+For some doses only the mean of 2 independent scorings is reported without giving the raw data. The rational for the separate scoring was not indicated.
+
+Unscheduled DNA Synthesis (UDS) Test With Mammalian Liver Cells in vivo
+
+Guideline:	OECD 486 (1997)
+Species/strain:	 Wistar rat, HanIbm: WIST (SPF) strain Group size:	4 male rats
+Test substance:	MIP Orange 3100 Batch no:	 CGF-F020088/0010
+Purity:	98.0%
+Dose levels:	0, 100 and 400 mg/kg bw Route:	 oral gavage
+Vehicle:	deionised water
+Sacrifice times:	3 h and 16 h after dosing GLP:	 in compliance
+Date:	1 September 1998 - 20 January 1999
+
+MIP Orange 3100 was investigated for the induction of unscheduled DNA synthesis (UDS) in hepatocytes of rats. Test doses were based on the results of a pre-experiment on toxicity. Rats were treated orally with 400 and 500 mg/kg bw and examined for acute toxic symptoms at 1 and 24 h after start of treatment. In the main experiment mice were exposed orally to 0, 100 and 400 mg/kg bw.
+Hepatocytes for UDS analysis were collected by perfusion with 0.05% collagenase approximately 3 h and 16 h after administration of MIP Orange 3100. At least 90 minutes after plating the cells were incubated for 4 h with 5 µCi/ml 3H-thymidine (specific activity 20
+
+Ci/mmol) followed by overnight incubation with unlabelled thymidine. Evaluation of autoradiography was done after 14 days.
+UDS was reported as net grain counts: the nuclear grain count subtracted with the average number of grains in 3 nuclear sized areas adjacent to each nucleus. Unscheduled synthesis was determined in 50 randomly selected hepatocytes on 2 replicate slides per rat from at least 3 treated rats. Negative and positive controls were in accordance with the OECD guideline.
+
+Results
+The viability of the hepatocytes was not substantially affected by the treatments. In the pre- experiment on acute toxicity 1 male of the 500 mg/kg bw group and 2 animals of the 400 mg/kg bw group died 24 h after treatment. All treated animals showed reduction of spontaneous activity; in some animal's eyelid closure, apathy and piloerection was observed as well.
+MIP Orange 3100 at doses of 100 and 400 mg/kg bw yielded group mean NNG values less than 0 for both experiment time and caused no significant increases, as compared to control, in mean nuclear grain counts.
+
+Conclusions
+Under the experimental conditions, it is concluded that MIP Orange 3100 did not induce DNA-damage leading to unscheduled DNA synthesis and, consequently, is not genotoxic in the in vivo UDS test in rats.
+Ref.: 17
+
+
+No data submitted
+
+
+
+No data submitted
+
+
+Taken from SCCS/1334/10
+
+Guideline:	CEC, N° 111/3387/93, according to ICH guidelines. Species/strain:	 Wistar rat, Hanlbm (SPF)
+Group Size:	22 mated females per dose Test material:	 MIP ORANGE 3100
+Batch:	CGF-F020088//0010
+Purity:	98%
+Dose:	0, 15, 60 and 240 mg/kg bw/day Treatment period: Days 6 to 17 post coitum
+GLP:	in compliance
+
+Groups of 22 mated female rats were dosed with 10ml/kg aqueous solution of MIP Orange 3100 by gavage once daily. The control group received only the vehicle (double distilled water). Food consumption was recorded for the following periods: days 0-6, 6-12, 12-18 and 18-21 post coitum; body weight was recorded daily from day 0 until day 21 post coitum. Clinical observations and deaths were recorded at least twice daily. After sacrifice on day 21 post coitum, all internal organs were examined, with emphasis on the uterus, uterine contents, position of foetuses in the uterus and number of corpora lutea. The uteri
+
+of all females with live foetuses were weighed at necropsy; the foetuses were removed from the uterus, weighed, and examined for sex and gross external abnormalities.
+
+There were no deaths of dams during the treatment period. Reduced food consumption (- 8.6% and - 20.9% in the mid-and high dose groups) was observed and reflected in diminished body weight gain. The bedding was stained orange, assumed to be due to excretion in the urine and faeces of parent compound or metabolites.
+
+Mean post-implantation loss and mean number of foetuses per dam were similar between treated and control dams. There was a slight decrease in mean foetal body weights in the high-dose group. Statistically significant differences were observed in the sex ratio of foetuses (fewer male to female foetuses) in the mid- and high dose groups. The study authors considered the difference not treatment related since implantation occurred prior to dosing, litter size and post-implantation losses were unaffected. Some abnormal findings were noted on external features (one abdominal hernia in the low-dose group; low weight, cleft palate and tail defects in the high-dose group) and skeletal parameters (small number of shaped sternebrae or wavy ribs in all groups, delayed ossification in the high dose group). Delayed ossification commonly occurs secondary to maternal toxicity. Thus the skeletal findings were considered unrelated to the tested product.
+
+Based on these results, the study authors considered the NOAEL to be 60 mg/kg bw/day for maternal and foetal effects. MIP Orange 3100 did not reveal any teratogenic effects.
+Ref.: 12
+
+
+Taken from SCCS/1334/10
+
+Bioavailability after oral administration, mice
+
+Guideline:	OECD 417 (1984) Species/strain:	Hybrid mice, NMRI, SPF-quality Group Size:	 15 females
+Test material:	 Orange (MIP 3100) Batch:	028407A2
+3496175 (radio-labelled, 1295 MBq/mmol; 35 mCi/mmol)
+Purity:	94.6%
+> 97% (radio-labelled)
+Vehicle:	purified water
+Dose:	 100 mg/kg bw Administration:	 oral, single administration GLP:	in compliance
+Study period:	18 August - 4 September 2004
+
+[14C] ORANGE (MIP 3100) was given by gavage to fifteen female mice at a dose level of 100 mg/kg bw. At post-dosing intervals of 0.5, 1, 2, 4, and 24 hours, three animals were killed and the concentration of radioactivity in plasma and femur determined.
+After single oral administration, the test substance was rapidly absorbed from the gastro- intestinal tract into the systemic circulation. The maximum concentration in plasma, i.e.
+15.113 µg eq/g, was reached 0.5 hours post-dosing. The plasma concentration decreased rapidly and by 4 hours post-dosing was 2.463 µg eq/g. Within 24 hours post-dosing, the plasma concentration was 0.199 µg eq/g.
+The elimination half-life was calculated to be 4.9 hours. The AUC, as an index for systemic bioavailability, amounted to 55.7 µg x h/g.
+In femur, the maximum concentration was 7.667 µg eq/g after 0.5 hours post-dosing. The concentration in femur decreased rapidly to 3.084 µg eq/g by 4 hours and 0.809 µg eq/g at 24 hours post-dosing.
+
+The study authors assumed that the radioactivity in femur was found mainly in bone marrow. The kinetics was similar between plasma and the femur but there was a slower elimination rate in the femur, calculated to be an elimination half-life of 8.9 hours.
+Ref.: 3, submission II
+
+ADME after oral and dermal administration, rat
+
+Guideline:	OECD 417 (1984)
+Species/strain:	 rat, HanBrl:WIST (SPF): Wistar rats, outbred, SPF-quality Group Size:	17 females (oral: 9; dermal: 8)
+Test material:	 Orange (MIP 3100) Batch:	028407A2
+3496175 (radio-labelled, 1295 MBq/mmol; 35 mCi/mmol)
+Purity:	94.6%
+> 97% (radio-labelled)
+Vehicle:	purified water
+Dose:	20 mg/kg bw (Group 1, oral dosing)
+                    0.2 mg/cm² (Group 2, dermal application) Exposure period:	30 minutes (dermal application)
+GLP:	in compliance
+Study period:	28 June - 24 November 2004
+
+Group 1 - Oral dosing.
+After oral dosing, the radioactivity excreted over 96 hours in urine and faeces represented 55.60% and 32.73%, respectively, of the radioactive dose. When the cage wash (1.07%) was included, the total excreted was 90.40%. Residual radioactivity in total organs/tissues at 96 hours post-dosing was 0.45%. The total recovery of radioactivity was ~ 90.85%.
+In plasma, the maximum concentration, 3.104 µg eq/g, was reached 1 hour post-dosing. The AUC(0 - 8) value amounted to 27.2 µg*h/ml and the elimination half-life was calculated to be 6.9 h. In blood, the elimination half-life was 10.6 h, longer than in plasma suggesting that binding of the test substance and/or its metabolites to whole blood components occurs. By 96 hours after the oral dose, radioactivity in organs/tissues was low. The highest levels were in the liver (0.240 µg eq/g) and kidney (0.147 µg eqlg). All other values were below
+0.1 µg eq/g.
+Urine and faeces were collected up to 24h and from 24 - 48h. In urine collected up to 24h, in addition to low levels of the parent substance (0.31%), major metabolites were 1,4- diacetoaminobenzene (DAAB) and 1,3-dimethyl-imidazole-2- amine (DMIA), occurring in amounts of 15.07% and 22.70%, respectively. Seven other radioactive fractions were detected ranging from 0.21% to 0.97%. In urine collected from 24 - 48h, no parent compound was detected, major metabolites were 1,4-diacetoaminobenzene (DAAB) and 1,3-dimethyl-imidazole-2- amine (DMIA), respectively occurring in amounts of 0.63% and 2.33%. Seven other radioactive fractions were detected ranging from 0.07% to 0.53%.
+In faeces, collected up to 24h, in addition to low levels of the parent substance (1.59%), 13 radioactive fractions were found. The main metabolite was 1,3-dimethyl-imidazole-2-amine, (10.03% of the radioactivity administered). All other radioactive fractions were detected in low amounts ranging from 0.11-2.11% of the radioactivity administered.
+From the 24-48 h faeces, the radioactivity detected had decreased, the parent substance to 0.17%, the main metabolite, 1,3-dimethyl-imidazole-2-amine, to 1.65% and all other radioactive fractions to 0.03-0.53%.
+In conclusion, 96 hours after a single oral dose of 14C-ORANGE (MIP 3100), excretion of radioactivity was almost complete. Approximately 2/3 of the orally administered radioactivity was excreted via urine. Residual radioactivity in organs/tissues was very low.
+
+Group 2 - Percutaneous absorption after dermal application for 30 minutes to reflect typical use as hair dye.
+
+After dermal application, radioactivity excretion, over 96 hours via urine and faeces, represented on average 0.03% each. Residual radioactivity in total organs/tissues after 96 hours was 0.06%. Systemic absorption was 0.11% and dislodged dose was 91.69%. On average, the total recovery of radioactivity amounted to 94.92%.
+Very low levels of radioactivity were measured in blood and plasma. The highest radioactivity level in plasma amounted to 0.014 µg eq/g after 6 hours.
+At 96 hours after dermal administration radioactivity levels in organs/tissues were very low. Organs/tissues with the highest amounts were treated skin (0.055 µg eq/g), untreated skin (0.069 µg eq/g) and fat (0.014 µg eq/g). Total radioactivity in residual carcass amounted to
+0.063 µg eq/g. All other values were 0.010 µg eq/g or below.
+Ref.: 4, submission II
+
+
+
+Taken from SCCS/1334/10
+
+Photoirritation
+
+Guideline:	OECD draft (1995) "Acute dermal photoirritation dose-response test" Species/strain:	Himalayan spotted guinea pigs
+Group size:	15 males (10 test and 5 control) Test substance:	 MIP 3100
+Batch:	CGF-F020088/0010
+Purity:	98%
+Dose:		0.025 ml/2cm² of 50%, 25%, 15% and 10% aqueous dilutions. Skin at test sites treated 30 minutes before application with 2% DMSO in ethanol
+GLP:	In compliance
+
+MIP 3100 was applied epicutaneously to skin areas of 2 cm² on both flanks. 30 minutes after application of the test materials, the left flank was exposed to 20 J/cm² UVA. The right flank remained unexposed to light after treatment and served as a reference site. Control animals were exposed to UVA similarly but treated with solvent only. Cutaneous reactions were evaluated at 24, 48 and 72 hours after application. Before the 24 hour reading, the application sites of the test animals were depilated with a depilatory cream.
+
+Results
+There was no reaction observed in any animal and it was concluded that under the test conditions, MIP 3100 does not exhibit a phototoxic potential in the guinea pigs of the strain and age.
+Ref.: 10
+
+Photoallergy
+
+Guideline:	CTFA Safety Testing Guideline Species/strain:	Himalayan spotted guinea pigs Group size:	 30 males (20 test and 10 control) Test substance:	 MIP 3100
+Batch:	MIP 3100/48 R-9 (CGF-F020088/0010)
+Purity:	98%
+Dose:	Induction:   nuchal skin of the test group shaved. Test site of 6-8 cm²
+defined by four 0.1ml intradermal injections of Freund's Complete Adjuvant and physiological saline 1:1 into the corners. 0.1ml of 50% MIP 3100 applied to area of 8 cm². The site was then exposed to 1.8 J/cm² UVB and 10J/cm²
+
+ UVA. The application and irradiation (after shaving) was repeated on days 3, 6, 8, and 10.
+Challenge:  3 weeks after the start of the induction procedure, test sites of 2cm² were marked and 0.025 ml/2cm² of 50%, 25%, 15% and 10% were applied to the left flank and then irradiated with 10J/cm² UVA. After irradiation of the left flank, the right flank was treated with the test materials without irradiation.
+GLP:	In compliance
+
+3 hours prior to the first readings, the application sites were depilated with a depilatory cream. Each animal was assessed for reactions at 24, 48 and 72 hours after challenge.
+
+Results
+A very slight red discoloration produced by the test material at the application sites were observed from test days 2 to 23. No skin reactions were observed in the test animals treated with 50% test material during the induction phase. No reactions were observed on the irradiated or non-irradiated flanks of the control and test animals treated with 50, 25, 15 and 10% test material.
+The data indicates that MIP 3100 does not exhibit photoallergic potential.
+Ref.: 11
+
+
+No data submitted
+
+
+No data submitted
+
+
+No data submitted
+
+
+
+CALCULATION OF THE MARGIN OF SAFETY
+
+Basic Orange 31
+
+non-oxidative conditions
+
+Absorption through the skinA (mean + 1SD)= 0.136 µg/cm²Skin Area surfaceSAS (cm2)= 580 cm²Dermal absorption per treatmentSAS x A x 0.001= 0.08 mgTypical body weight of human= 60 kgSystemic exposure dose (SED)SAS x A x 0.001/60= 0.0013 mg/kg bwNo Observed Adverse Effect LevelNOAEL= 60 mg/kg bw(90-day, oral, rat)MOS (rounded)NOAEL/ SED= 46 000
+
+oxidative conditions
+
+Absorption through the skinA (mean + 1SD)= 0.112 µg/cm²Skin Area surfaceSAS (cm2)= 580 cm²Dermal absorption per treatmentSAS x A x 0.001= 0.065 mgTypical body weight of human= 60 kgSystemic exposure dose (SED)SAS x A x 0.001/60= 0.0011 mg/kg bwNo Observed Adverse Effect LevelNOAEL= 60 mg/kg bw(90-day, oral, rat)MOS (rounded)NOAEL/ SED= 55 000
+
+
+Physico-chemical specification
+Basic Orange 31 is incorporated in non-oxidative hair dye formulations at a maximum concentration of 1.0%, and in oxidative hair dye formulations at a maximum final concentration of 0.5%, after mixing with the oxidative agent.
+The stability of Basic Orange 31 in typical hair dye formulations is not reported.
+
+General toxicity
+In an acute oral toxicity study, the calculated LD50 of Basic Orange 31 was between l000 and 2000 mg/kg bw.
+In an oral 28-day feeding study in rats, the No Observed Adverse Effect Level (NOAEL) was 53 mg/kg bw/day.
+In an oral 90-day feeding study in rats, the NOAEL was 60 mg/kg bw/day. Adverse effects observed in this study were statistically significant alterations in some haematological and biochemical parameters with hepatocellular hypertrophy, a metabolic response to the test substance.
+No data on two-generation reproductive toxicity was submitted. In a teratogenicity study, the maternal and foetal NOAEL was 60 mg/kg bw/day. The only effects considered adverse observed at 60 mg/kg bw/day were decreased maternal weight and foetal body weights. This lead to delayed foetal ossification that commonly occurs secondary to maternal toxicity.
+
+Irritation, sensitisation
+Basic Orange 31 is slightly irritating to rabbit skin, and is severely irritating to the eye undiluted and slight irritant in a 1% dilution.
+Basic Orange 31 is a moderate sensitiser.
+
+Dermal absorption
+In an in vitro dermal absorption assay using human skin, the absorption of Basic Orange 31 from the semi-permanent or oxidative formulations was 0.053 ± 0.015% (0.106 ± 0.030
+?g/cm²) and 0.076 ± 0.036% (0.076 ± 0.036 ?g/cm²) of the applied Basic Orange 31, respectively.
+The mean + 1 SD or 0.136 (0.106 + 0.030) µg/cm² can be used to calculate the MOS under non-oxidative conditions and 0.112 (0.076 + 0.036) ?g/cm² under oxidative conditions.
+
+Mutagenicity
+Overall, the genotoxicity of Basic Orange 31 is sufficiently investigated in valid genotoxicity tests for the 3 endpoints of genotoxicity: gene mutations, chromosome aberrations and aneuploidy. In the gene mutation assay in bacteria, Basic Orange 31, shows clear evidence
+
+of mutagenic activity in TA98 in the presence of reductive S9-mix. This may be the consequence of the metabolizing properties (azo-reduction) of the S9-mix fraction from hamster. In an in vitro gene mutation test with mammalian cells Basic Orange 31 did not demonstrate a mutagenic potential at the hprt locus. Exposure to Basic Orange 31 did not result in the induction of human lymphocytes with chromosomal aberrations in vitro neither in the presence nor in the absence of an activation system.
+The mutagenic effect found in the gene mutation test in bacteria which was already not confirmed in an in vitro gene mutation test in mammalian cells, could also not be confirmed in an in vivo UDS test. The negative effects of the in vitro chromosome aberration test were confirmed with a negative in vivo micronucleus test.
+As the genotoxic effect found in vitro was not confirmed by in vivo tests, Basic Orange 31 can be considered to have no in vivo genotoxic potential and additional tests are unnecessary.
+
+Carcinogenicity
+No data submitted
+
+
+4. CONCLUSION
+
+Based on the data provided, the SCCS is of the opinion that the use of Basic Orange 31 with a maximum on-head concentration of 1.0% in non-oxidative hair dye formulations and 0.5% in oxidative hair formulations does not pose a risk to the health of the consumer, apart from its sensitising potential.
+
+
+
+5. MINORITY OPINION
+
+Not applicable
+
+
+6. REFERENCES
+
+Submission I, 2002
+
+A. RCC Project 702933. (16 November 1998). Determination of the melting point/melting range of MIP ORANGE 3100
+B. Ciba Specialty Chemicals, Grenzach, Report on Analytical Test No: 98/0194D (25.05.1998). Determination of the Partition Coefficient n-Octanol/Water of MIP ORANGE 3100.
+C. RCC Project 702955 (09.12.1998). Determ of Water solubility of MIP ORANGE 3100.
+1. Covance Laboratories, Inc. report n° 6623-146. (21 January 2002). Acute oral toxicity study in rats with MIP 3100
+2. Covance Laboratories, Inc. report n° 6623-164. (21 January 2002). Acute dermal toxicity study in rabbits with MIP 3100
+3. RCC Project 733702. (2000). 14-day repeated dose dermal toxicity in albino Guinea pig
+4. RCC Project 699636. (1999). 14-day oral toxicity (feeding) study in the Wistar rat
+5. RCC Project 699647. (1999). Subchronic 13-week oral toxicity (feeding) study in the rat
+6. Covance Laboratories, Inc. report n° 6623-140. (21 January 2002). Primary dermal irritation study in rabbits with MIP 3100
+7. Covance Laboratories, Inc. report n° 6623-143. (21 January 2002) Primary eye irritation study in rabbits with MIP 3100
+8. CIT Study number 22882 TSS. (9 April 2002). MIP 3100: Evaluation of skin sensitization potential in mice using the local lymph node assay (LLNA)
+9. RCC Project 634803. (1996). Contact hypersensitivity in albino guinea pig maxim. test
+10. RCC Project 699581. (1998). Determination of phototoxicity in albino guinea pigs
+11. RCC Project 699570. (1998). Determination of photoallergenicity in albino guinea pigs
+12. RCC Project 699568. (1999). Study for effects on embryo-foetal development in the rat
+13. An-eX analytical services ltd. (99). In vitro human skin penetration under "in-use" conditions
+14. Covance Laboratories, Inc. Report No. 22735-0-422OECD (July 2002). Salmonella- Escherichia coli/ Mammalian-microsome reverse mutation assay with MIP Orange 3100: Preincubation method with a confirmatory assay using standard and reductive exogenous metabolic activation systems
+15. Covance Laboratories, Inc. Report No. 22735-0-449OECD (July 2002). Chromosomal aberrations in cultured human peripheral blood lymphocytes with MIP 3100
+16. RCC Project 558900. (1996). Gene mutation assay in Chinese Hamster V79 cells in vitro (V79 / RPR T)
+17. RCC Project 611603. (99). In vivo /in vitro unscheduled DNA synthesis in rat hepatocytes
+18. RCC Project 611602. (1998). Micronucleus assay in bone marrow cells of the mouse
+
+Submission II, 2005
+
+A. Ciba Specialty Chemicals Inc., CH-4002 Basel, Certificate of Analysis of VIBRACOLOR FLAME ORANGE, Item 4042411, Lot 028407A2 of 23 October 200, and Lot 028334A2
+of 23 October 2002.
+B. RCC Umweltchemie, CH-Itingen, Project 699636 (February 2, 1999). Determination of concentration, homogeneity, and stability of MIP Orange 3100 in rodent feed. Analytical report to the 14-week oral toxicity (feeding) study with MIP Orange 3100 in the wistar rat.
+C. RCC LTD, Environmental Chemistry & Pharmanalytics Division, CH-Itingen., Project 699647 (July 5, 1999). Determination of concentration, homogeneity, and stability of
+
+MIP Orange 3100 in rodent feed. Analytical report to the 13-week oral toxicity (feeding) study with MIP Orange 3100 in the rat.
+1. RCC Ltd Environmental Chemistry & Pharmanalytics, CH-4452 Itingen Switzerland, RCC Study Number 858625, (July 7, 2005) 14C-ORANGE (MIP 3100): The
+Percutaneous Penetration of [14C] Orange (MIP 3100) Through Rat and Human Split- Thickness Skin Membranes (in vitro)
+2. Central Toxicology Laboratory, ALDERLEY PARK MACCLESFIELD CHESHIRE SK10 4TJ UK, Study Report Number: CTL/JV1781/REGULATORY/REPORT (27 June 2005). BASIC
+ORANGE 31: In Vitro Absorption through human dermatomed skin
+3. RCC Ltd, Environmental Chemistry & Pharmanalytics, CH-4452 Itingen, RCC Study number 854506 (March 29, 2005). 14-C ORANGE (MIP 3100): Bioavailability after oral administration to female mice.
+4. RCC Ltd, Environmental Chemistry & Pharmanalytics, CH-4452 Itingen, RCC Study number 854509 (June 20, 2005). 14-C ORANGE (MIP 3100): Absorption, Distribution, Metabolism and Excretion after oral and dermal administration to female rats
+5. RCC Project 611602. (1998). Micronucleus assay in bone marrow cells of the mouse
+
+
+
+
+
+
+
+
+
+
+
+
+
+

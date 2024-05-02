@@ -15,7 +15,7 @@
 <div class="w-full h-48 flex flex-col">
 	<input
 		type="text"
-		class="w-full p-2 mb-3"
+		class="w-full p-2 mb-3 border-2"
 		placeholder="Search endpoints"
 		on:input={(e) => {
 			console.log('cehck');
