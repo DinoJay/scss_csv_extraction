@@ -1,6 +1,7 @@
 <script lang="ts">
 	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
+	import EndpointNav from './EndpointNav.svelte';
 
 	export let selected;
 	export let onClick;
@@ -10,7 +11,7 @@
 	let loadingResponse = false;
 
 	let response = null;
-	let chatGPTerror;
+	let chatGPTerror = null;
 
 	const openai = new OpenAI({
 		apiKey: import.meta.env.VITE_OPEN_AI,
@@ -19,7 +20,7 @@
 	});
 
 	const genQuery = (cols) =>
-		`create a html table (using only the table element) with following columns finding the information for the rows in the text given. don't include any commentary text: ${cols}`;
+		`create a html table (using only the table element) with following columns finding the information for the rows in the text given. don't include any commentary text: ${cols}. Please `;
 	let selEndpoint = endpoints[0].name;
 	let question = genQuery(endpoints[0].cols);
 
@@ -64,24 +65,41 @@
 <div
 	on:keydown={(e) => {
 		if (e.key === 'Enter') {
-			onClick();
+			// onClick();
 		}
+		// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
 	}}
-	on:click={() => {
-		onClick();
-		response = null;
+	on:click={(e) => {
+		// onClick();
+		// response = null;
+		// console.log('check');
 	}}
 	tabindex="0"
 	role="button"
 	class=" mb-3"
 >
-	<div>
-		<h2 class="text-lg mb-2">{title}</h2>
+	<div
+		role="button"
+		tabindex="0"
+		on:keydown={(e) => {
+			if (e.key === 'Enter') {
+				e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
+			}
+		}}
+		on:click={(e) => {
+			e.stopPropagation();
 
+			e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
+		}}
+	>
+		<div class="flex">
+			<h2 class="text-lg mb-2 flex-1 items-center">{title}</h2>
+			<button on:click={onClick}>@</button>
+		</div>
 		<p
-			class="p-2 whitespace-pre-wrap border-2"
-			class:border-fuchsia-300={selected}
-			class:border-fuchsia-200={!selected}
+			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-hidden"
+			class:border-fuchsia-200={selected}
+			class:border-fuchsia-100={!selected}
 		>
 			{text}
 		</p>
@@ -89,17 +107,15 @@
 	{#if selected}
 		<div class="flex flex-col">
 			<div class="mt-3">
-				<div class="flex gap-2">
-					{#each endpoints as e}
-						<button
-							class="p-2 border-2 flex-1"
-							class:bg-blue-300={e.name === selEndpoint}
-							on:click={() => {
-								selEndpoint = e.name;
-								question = genQuery(e.cols);
-							}}>{e.name}</button
-						>
-					{/each}
+				<div class="flex gap-2 overflow-auto">
+					<EndpointNav
+						endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
+						{selEndpoint}
+						onClick={(e) => {
+							selEndpoint = e.name;
+							question = genQuery(e.cols.join(';'));
+						}}
+					></EndpointNav>
 				</div>
 
 				<div class=" flex my-2">
@@ -120,15 +136,19 @@
 					Submit
 				</button>
 			</div>
-			<div class="w-full flex min-h-44 overflow-auto">
-				<div class="w-full flex min-h-44">
-					{#if chatGPTerror !== null}
+			<div class="w-full flex">
+				{#if chatGPTerror !== null}
+					<div class="w-full flex h-44 overflow-auto">
 						<p class="text-red-500">{chatGPTerror}</p>
-					{/if}
+					</div>
+				{/if}
+				<div class="w-full flex">
 					{#if loadingResponse}
-						<div class="m-auto">Loading...</div>
+						<div class="h-44 flex w-full">
+							<div class="m-auto">Loading...</div>
+						</div>
 					{:else if response}
-						<p class="bg mt-2 p-1" style:background="#cae6ea">
+						<p class="bg mt-2 p-1 min-h-44 overflow-auto" style:background="#cae6ea">
 							{@html response.choices[0].message.content}
 						</p>
 					{/if}
