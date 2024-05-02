@@ -3,13 +3,13 @@
 	export let endpoints;
 	export let onClick;
 
-	export let selEndpoint;
+	export let selEndpoints;
 	let curEndpoints = endpoints;
 
 	const label = (e) => (e.path.length > 1 ? `${e.path.substring(1)}/${e.name}` : e.name);
 
-	const selected = (e) => e.name === selEndpoint;
-	console.log('selEndpoint', selEndpoint);
+	const selected = (e) => selEndpoints.includes(e.name);
+	console.log('selEndpoint', selEndpoints);
 </script>
 
 <div class="w-full h-48 flex flex-col">

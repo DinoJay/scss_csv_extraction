@@ -4,6 +4,8 @@
 	import EndpointNav from './EndpointNav.svelte';
 	import LightBox from './LightBox.svelte';
 
+	import CloseIcon from 'svelte-icons/md/MdClose.svelte';
+
 	export let selected;
 	export let onClick;
 	export let title;
@@ -22,8 +24,15 @@
 
 	const genQuery = (cols) =>
 		`create a html table (using only the table element) with following columns finding the information for the rows in the text given. don't include any commentary text: ${cols}. Please `;
-	let selEndpoint = endpoints[0].name;
-	let question = genQuery(endpoints[0].cols);
+	let selEndpoints = [endpoints[0].name];
+	$: question = genQuery(
+		selEndpoints
+			.map((n) => endpoints.find((d) => d.name === n))
+			.flatMap((e) => e.cols)
+			.join(';')
+	);
+	$: console.log('selEndpoints', selEndpoints);
+	$: console.log('selEndpoints', selEndpoints);
 
 	$: setChatGPTContext = (array) => {
 		const messages = array.map((p) => ({
@@ -72,7 +81,7 @@
 			<button on:click={onClick}>@</button>
 		</div> -->
 		<p
-			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-auto"
+			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-auto text-gray-700"
 			class:border-fuchsia-200={selected}
 			class:border-fuchsia-100={!selected}
 		>
@@ -81,25 +90,48 @@
 	</div>
 	<div class="flex flex-col">
 		<div class="mt-3">
-			<div class="flex gap-2 overflow-auto">
+			<div class="gap-2 overflow-auto">
+				<div class=" mb-1 text-gray-700 mb-2">Select Endpoints</div>
+				{#if selEndpoints.length === 0}
+					<div class=" text-sm text-gray-500 py-2">No Endpoints Selected</div>
+				{/if}
+				<div class="flex gap-2 flex-wrap mb-1">
+					{#each selEndpoints as e}
+						<button
+							class="border-2 p-1 text-sm flex items-center"
+							on:click={() => {
+								selEndpoints = selEndpoints.filter((s) => s !== e);
+							}}
+						>
+							<div>{e}</div>
+							<div style="width:16px;height:16px">
+								<CloseIcon />
+							</div></button
+						>
+					{/each}
+				</div>
 				<EndpointNav
 					endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
-					{selEndpoint}
+					{selEndpoints}
 					onClick={(e) => {
-						selEndpoint = e.name;
-						question = genQuery(e.cols.join(';'));
+						if (selEndpoints.includes(e.name)) {
+							selEndpoints = selEndpoints.filter((s) => s !== e.name);
+						} else {
+							selEndpoints = [...selEndpoints, e.name];
+						}
 					}}
 				></EndpointNav>
 			</div>
 
-			<div class=" flex my-2">
+			<div class="  my-2 text-gray-700">
+				<div for="text" class=" mb-1">ChatGPT Prompt</div>
 				<textarea
 					on:change={(e) => {
 						question = e.target.value;
 					}}
 					value={question}
 					placeholder="ChatGPT question"
-					class="h-32 border-2 border-gray p-2 flex-grow"
+					class="h-32 w-full border-2 border-gray p-2 flex-grow"
 				/>
 			</div>
 			<button

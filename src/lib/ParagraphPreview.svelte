@@ -3,6 +3,7 @@
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
 
+	import Zoom from 'svelte-icons/io/IoIosSearch.svelte';
 	export let selected;
 	export let onClick;
 	export let title;
@@ -35,18 +36,18 @@
 		tabindex="0"
 		on:keydown={(e) => {
 			if (e.key === 'Enter') {
-				e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
+				// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
 			}
 		}}
 		on:click={(e) => {
 			e.stopPropagation();
 
-			e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
+			// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
 		}}
 	>
-		<div class="flex">
-			<h2 class="text-lg mb-2 flex-1 items-center">{title}</h2>
-			<button on:click={onClick}>@</button>
+		<div class="flex items-center mb-2">
+			<h2 class="text-lg flex-1">{title}</h2>
+			<button on:click={onClick} style="width:24px;height:24px"><Zoom></Zoom> </button>
 		</div>
 		<p
 			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-hidden"

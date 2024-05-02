@@ -5,7 +5,6 @@
 	 * @type {(arg0: any) => void}
 	 */
 	export let close;
-	export let isMandatory = false;
 	/**
 	 * @type {string|null}
 	 */
@@ -44,7 +43,7 @@
 				{title}
 			</h1>
 		</div>
-		<button on:click={close} class="ml-auto" style="width:32px;height:32px">
+		<button on:click={close} class="ml-auto text-gray-600" style="width:24px;height:24px">
 			<WindowClose />
 		</button>
 	</div>
