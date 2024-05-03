@@ -47,7 +47,9 @@
 	>
 		<div class="flex items-center mb-2">
 			<h2 class="text-lg flex-1">{title}</h2>
-			<button on:click={onClick} style="width:24px;height:24px"><Zoom></Zoom> </button>
+			<button on:click={onClick} class="text-gray-600" style="width:24px;height:24px"
+				><Zoom></Zoom>
+			</button>
 		</div>
 		<p
 			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-hidden"

@@ -34,7 +34,7 @@
 >
 	<div class=" flex mb-3 items-start">
 		<div
-			class="text-xl flex {!titleExpanded ? 'crop' : ''} transition uppercase cursor-pointer"
+			class="text-xl flex {!titleExpanded ? 'crop' : ''} transition cursor-pointer"
 			on:click={() => (titleExpanded = !titleExpanded)}
 			on:keydown={() => (titleExpanded = !titleExpanded)}
 			style="max-width:90%"

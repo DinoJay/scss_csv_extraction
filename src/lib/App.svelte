@@ -55,11 +55,11 @@
 		'scss_o_044',
 		'scss_o_040',
 		'scss_o_059',
-		'scss_o_082'
-		// 'scss_o_087',
-		// 'scss_o_180',
-		// 'scss_o_195',
-		// 'scss_o_222'
+		'scss_o_082',
+		'scss_o_087',
+		'scss_o_180',
+		'scss_o_195',
+		'scss_o_222'
 	];
 
 	let originalTxtsMap: Map<any, any> | null = null;
@@ -73,11 +73,11 @@
 			fetch('/sccs_o_044.txt').then((response) => response.text()),
 			fetch('/sccs_o_040.txt').then((response) => response.text()),
 			fetch('/sccs_o_059.txt').then((response) => response.text()),
-			fetch('/sccs_o_082.txt').then((response) => response.text())
-			// fetch('/sccs_o_087.txt').then((response) => response.text()),
-			// fetch('/sccs_o_180.txt').then((response) => response.text()),
-			// fetch('/sccs_o_195.txt').then((response) => response.text()),
-			// fetch('/sccs_o_222.txt').then((response) => response.text())
+			fetch('/sccs_o_082.txt').then((response) => response.text()),
+			fetch('/sccs_o_087.txt').then((response) => response.text()),
+			fetch('/sccs_o_180.txt').then((response) => response.text()),
+			fetch('/sccs_o_195.txt').then((response) => response.text()),
+			fetch('/sccs_o_222.txt').then((response) => response.text())
 			// const promise230 = fetch('/sccs_o_230.txt').then((response) => response.text());
 		];
 
@@ -120,7 +120,7 @@
 </script>
 
 <div class="flex h-screen">
-	<div class="p-3 max-w-prose mx-auto flex flex-auto flex-col">
+	<div class="p-3 max-w-prose mx-auto flex flex-auto flex-col py-2">
 		{#await allpromiseTxt}
 			...Loading
 		{:then _}
@@ -166,7 +166,7 @@
 					</div>
 				{/if}
 				<LightBox
-					title={`${selectedTextId} ${selectedParagraph?.type} Study ${selectedParagraph?.index}`}
+					title={`${selectedTextId} - ${selectedParagraph?.type} - Study ${selectedParagraph?.index}`}
 					isOpen={paragraph !== null}
 					close={() => (paragraph = null)}
 				>
