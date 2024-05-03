@@ -1,789 +1,1 @@
-SCCS/1332/10 
-
- 
- 
- 
- 
-Scientific Committee on Consumer Safety 
- 
-SCCS 
- 
- 
- 
- 
- 
-OPINION ON 
-Basic Red 51 
- 
-COLIPA n� B116 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-The SCCS adopted this opinion at its 10th plenary meeting  
- of 22 March 2011 About the Scientific Committees 
-Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat.  
-They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts.   
-In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA).  
-SCCS 
-The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.). 
- 
- 
-Scientific Committee members 
-J�rgen Angerer, Ulrike Bernauer, Claire Chambers, Qasim Chaudhry, Gisela Degen, Thomas Platzek, Suresh Chandra Rastogi, Vera Rogiers, Christophe Rousselle, Tore Sanner, Jacqueline van Engelen, Maria Pilar Vinardell, Rosemary Waring, Ian R. White 
- 
- 
-Contact 
-European Commission 
-Health & Consumers 
-Directorate C: Public Health and Risk Assessment 
-Unit C7 - Risk Assessment 
-Office: B232     B-1049 Brussels 
-Sanco-Sc6-Secretariat@ec.europa.eu 
- 
- 
-(c) European Union, 2011 
-ISSN 1831-4767                                        ISBN 978-92-79-30712-6 
-Doi:10.2772/97050                                    ND-AQ-11-005-EN-N 
- 
-The opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The opinions are published by the European Commission in their original language only. 
- 
-http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm 
-ACKNOWLEDGMENTS 
- 
- 
-Prof. J. Angerer 
-Dr. C. Chambers 
-Prof. T. Platzek 	(chairman) 
-Dr. S.C. Rastogi 
-Dr. C. Rousselle 
-Prof. T. Sanner 
-Dr. J. van Benthem 	(associate scientific adviser) 
-Prof. M.P. Vinardell 
-Dr. I.R. White 
- 
- 
-External experts 
- 
-Dr. Mona-Lise Binderup 	National Food Institute, Denmark (rapporteur) 
- 	 
- 
- 
- 
- 
-Keywords: SCCS, scientific opinion, hair dye, Basic Red 51, B116, CAS 77061-58-6, EC 278601-4, Directive 76/768/EEC 
- 
- 
- 
-Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on Basic Red 51, 22 March 2011 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-This opinion has been subject to a commenting period of four weeks after its initial publication. Comments received during this time have been considered by the SCCS and discussed in the subsequent plenary meeting. Where appropriate, the text of the relevant sections of the opinion has been modified or explanations have been added. In the cases where the SCCS after consideration and discussion of the comments, has decided to maintain its initial views, the opinion (or the section concerned) has remained unchanged. Revised opinions carry the date of revision. 
- 
- 
-TABLE OF CONTENTS 
- 
- 
- 
- 
-ACKNOWLEDGMENTS  	3 
-1.  BACKGROUND	5 
-2.  TERMS OF REFERENCE	5 
-3.  OPINION	6 
-4.  CONCLUSION	29 
-5.  MINORITY OPINION 	29 
-6.  REFERENCES	30 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-1. BACKGROUND 
- 
-Based on submission I, the Scientific Committee on Cosmetic Products and Non-Food Products intended for Consumers (SCCNFP) adopted at its 25th plenary meeting on 20 
-October 2003 its opinion (SCCNFP/0735/03) on Basic Red 51 with the chemical name 2-[(4- (dimethylamino)phenyl)azo]-1,3-dimethyl-1H-imidazolium chloride. According to this opinion further information is needed on: 
- 
-� The stability of the test material in the test preparations and in the hair dye formulations 
-� A percutaneous absorption study in accordance with the Notes of Guidance, if used in an oxidising environment 
-� Data on the genotoxicity/mutagenicity following the relevant SCCNFP opinions and in accordance with the Notes of Guidance. 
- 
-Submission II was submitted in July 2005. According to this submission Basic Red 51 is a hair dying ingredient intended be used in direct (non-oxidative) hair dyes at 1.0% concentration and it is also used at a concentration of 1.0% in oxidative hair dye formulations, which after mixing in a 1:1 ratio with hydrogen peroxide just prior to use corresponds to a concentration of 0.5% upon application. The applied hair dye formulations are rinsed off after about 30 minutes and the normal frequency of application being about once per month. 
- 
-Submission II presents updated scientific data on the above mentioned substance in line with the second step of the strategy for the evaluation of hair dyes 
-(http://europa.eu.int/comm/enterprise/cosmetics/doc/hairdyestrategyinternet.pdf)) within the framework of the Cosmetics Directive 76/768/EEC. 
- 
- 
- 
- 
-2. TERMS OF REFERENCE 
- 
-1. Does the Scientific Committee on Consumer Safety (SCCS) consider Basic Red 51 to be safe for use in non-oxidative hair dye formulations at a maximum on-head concentration up to 1% and in oxidative hair dye formulations at a maximum on-head concentration of 0.5% taken into account the data scientific provided? 
- 
-2. Does the SCCS recommend any restrictions with regard to the use of Basic Red 51 in non-oxidative and oxidative hair dye formulations? 
- 
- 
- 
- 
- 
-3. OPINION 
- 
-3.1.1. Chemical identity  
-3.1.1.1. Primary name and/or INCI name  
-Basic Red 51 (INCI) 
- 
-3.1.1.2. Chemical names  
-2-[((4-Dimethylamino)phenyl)azo]-1,3-dimethyl-1H-imidazolium chloride 
-1H-Imidazolium, 2-[((4-dimethylamino)phenyl)azo]-1,3-dimethyl-, chloride (CAS Name) 
- 
-3.1.1.3. Trade names and abbreviations  
-MIP RED 2985 
-RED (MIP 2985) 
-MIP 2985 
-VIBRACOLOR(r) Ruby Red 
- 
-3.1.1.4. CAS / EC number  
-CAS: 77061-58-6 EC: 
- 278-601-4 3.1.1.5. Structural formula  
-      
- 
-3.1.1.6. Empirical formula  
-Formula: C13H18N5Cl 
- 
-3.1.2. Physical form  
-Blue to dark violet powder containing lumps 
- 
-3.1.3. Molecular weight  
-Molecular weight: 	279.8 
- 
-3.1.4. Purity, composition and substance codes  
-Basic Red 51 was chemically characterised by IR and UV-Vis spectroscopy. 
- 
-The composition of the MIP RED batches 2985 (21187FC3 and 28936FC3) used for the toxicological assays is summarized in the table below.  
- 
-Batch Nr. Measured purity 
-active* 
-(%) Impurities* 
- 
-(%) Volatile matter** 
-(%) Salt: Sum of 
-(Cl+SO4+CH3SO4) as 
-NaCH3SO*** 
-(%) 21187FC3 95.9 
- 0.4 coloured by-product 
- 
- 
-N
-Molecular Weight =230,29
-Exact Mass =230
-Molecular Formula =C12H16N5
-Molecular Composition =C    62.59%   H     7.00%   N    30.41%
- 3.5 <= 5 28936FC3 97.9 
- 0.4 coloured by-product 
- 
- 
-N
-Molecular Weight =230,29
-Exact Mass =230
-Molecular Formula =C12H16N5
-Molecular Composition =C    62.59%   H     7.00%   N    30.41%
- 0.6 <= 5 * 	Quantification of active ingredient and impurities was performed by HPLC and UV-VIS detection using external standard. 
-** 	Determination of volatile matter by IR, after drying 
-*** 	Determination of salt content as sum of chloride, sulfate and methyl sulfate, Calculation based on sodium content 
- 
-Comment 
-No reference materials were used for identification and quantification of Basic Red 1 and its impurities. 
- 
-3.1.5. Impurities / accompanying contaminants  
-See 3.1.4 
- 
-3.1.6. Solubility  
-In water: 40 g/l at 30�C 
- 
-Comment 
-Solubility is not determined by the EC method A.6 
- 
-3.1.7. Partition coefficient (Log Pow)  
-Log Pow: -1.97                               (OECD method No. 197/1981) 
- 
-3.1.8. Additional physical and chemical specifications  
-Melting point: > 200 �C Boiling point: / Flash point: 	/ 
-Vapour pressure: 	/ 
-Density: 	/ Viscosity: 	/ pKa: 	/ 
-Refractive index: 	/ 
-UV_Vis spectrum (200-800 nm):  ?max 524 nm  
- 
-3.1.9. Homogeneity and Stability  
-The MIP RED 2985 in rodent feed (Batch nr. CGF-F016740/0018) was shown to be homogeneous and stable for a period of at least 21 days (variations � 7%).  
- 
-The stability of MIP RED 2985 in the semi-permanent and oxidative hair dye formulations used for dermal absorption study has been assessed during a period of 24 hours at room temperature. The concentrations of active material in both semi-permanent and oxidative formulations were within � 5% of the nominal concentration. 
-Ref.: 1, submission II 
- 
- 
-General comments on analytical and physico-chemical characterisation 
- 
-- Solubility of Basic Red 51 is not determined by the EC method A.6. 
-- Stability of Basic Red 51 in typical hair dye formulations has been studied only for 24 hours. 
-- No reference materials were used for identification and quantification of Basic Red 1 and its impurities. 
-- The stability in an oxidative environment has not been demonstrated. 
- 
- 
- 
-3.2. Function and uses 
- 
-Basic Red 51 is intended for use in direct hair dye formulations at concentrations up to 1 % and in oxidative hair dyes at a final concentration of 0.5%, after mixing with the oxidative agent. 
- 
- 
- 
-3.3. Toxicological Evaluation 
- 
-3.3.1. Acute toxicity  3.3.1.1. Acute oral toxicity  
-Taken from SCCNFP/0735/03 
- 
-Guideline: / Species/strain: Rat, Crl:CD (SD)IGS BR Group Size: 2 rats per sex at the 3 low doses, 5 rats per sex at the highest dose Test material: MIP 2985 Batch: 029753 A8AA Purity: 97.2% Dose: 500, 1000, 1500, 2000 mg/kg bw Observ. period: 14 days GLP: in compliance In a dose-limit test, the test substance was dissolved in cell culture grade water and administered by gavage as single doses of MIP 2985 at 2000 mg/kg bw (5 rats per sex). The treatment-related mortality occurred at this dose. Thus additional dose levels (500, 1000, 1500) were tested on 2 rats per sex per dose. 
-Most animals, except one female and 2 males at the lowest dose (500 mg/kg bw), died within the first 24 h of the experiment. The female died on Day 1. Clinical observations observed prior to death included hypoactivity, recumbency, irregular respiration, ataxia, and squinted eye. 
- 
-The 2 males from the lowest dose (500 mg/kg bw) survived until the scheduled sacrifice and gained weight during the course of the study. Clinical observations in these animals included hypoactivity, irregular respiration, ataxia, squinted eyes, discoloured urine, faecal stains, and/or few faeces. Most of these findings were resolved by Day 3. 
- 
-At necropsy, no visible lesions were noted in the two males that survived in the 500 mg/kg dose group. In the animals that died, macroscopic findings involved the stomach, caecum, ileum, duodenum, jejunum, and/or colon. These were discoloured and/or distended filled with purple, red, or pink fluid. 
- 
- 
-Lower Dose Study 
- 
-Guideline: / Species/strain: Rat, Crl:CD (SD)IGS BR Group Size: 5 male rats at the high dose only, 5 female rats at the low dose only Test material: MIP 2985 Batch: 029753 A8AA Purity: 97.2% Dose: 250, 500 mg/kg bw Observ. period: 14 days GLP: in compliance  
-In this small range-finding study, dosages were reduced. 2 males receiving 500 mg/kg bw died on Day 1. All other animals survived until the end of the experiment. 
-3 males, including the two that died on Day 1, were hypoactive and had roughened haircoat within 4 hours. Macroscopic findings of the 2 males that died showed discoloured and/or distended stomach, caecum, ileum, duodenum, jejunum and bladder filled with purple, red, or pink fluid. 1 female was hypoactive and had liquid and/or mucoid faeces within 4h postdosing. All surviving animals gained weight and showed no post-mortem anomalies at the end of the study. The acute oral LD5O was considered to be between 250 - 500 mg/kg bw in females and between 500 - 1000 mg/kg bw in males. 
-Ref.: 1 
- 
-3.3.1.2. Acute dermal toxicity  
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD Guideline 402 Species/strain: Rat, Crl:CD (SD)IGS BR Group Size: 10 males and females Test material: MIP 2985 Batch: 029753 A8AA Purity: 97.2% Dose: 2000 mg/kg bw Observ. period: 14 days GLP: in compliance The hair was clipped the day prior to the experiment. The test material was moistened with distilled water and applied at a dose of 2000 mg/kg bw. It was applied to the clipped area as a thin uniform layer from scapula to iliac crest and half way down the flank on each side of the animal's back. The area was occluded for 24 h. The initial dermal irritation was scored and recorded 30 minutes after bandage removal on Day 1. The untreated skin of each animal served as the control. Additional dermal irritation readings were performed for each animal on Days 3, 7, 10, and 14. All animals were examined for clinical signs of ill health or mortality immediately post-dose and approximately 1, 2.5 and 4 hours post-dose, and daily thereafter. Body weights were recorded pre-dose on the day of dosing (Day 0), and on Days 7 and 14, and prior to sacrifice on Day 15 (fasted). A curtailed gross examination of the cervical, thoracic and abdominal viscera was performed. 
- 
-Signs of clinical toxicity included chromodacryorrhea and/or red nasal discharge. Findings were first noted 4 hours post-dose and were resolved by Day 2. Signs of dermal irritation included desquamation (slight scaling) in all males on Day 3 and in one male and one female on Day 7. There were no signs of dermal irritation at any observation interval in any of the remaining animals. All animals gained weight during the course of the study. No visible lesions were noted in any of the animals at necropsy. 
- 
-MIP 2985 was mildly irritating to the skin when applied dermally at a dose of 2000 mg/kg bw. Under the conditions of this study, there were also minor systemic effects. The acute dermal LD5O is greater than 2000 mg/kg bw. 
-Ref.: 2 
- 
-3.3.1.3. Acute inhalation toxicity  
-No data submitted 
- 
-3.3.2. Irritation and corrosivity  
-3.3.2.1. Skin irritation  
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD 404 (1981) Species/strain: albino rabbits, New Zealand Group size: 1 male, 2 females Test substance: MIP 2985 Batch: 029753A8AA Purity: 97.2% by UV-VIS; 98.8% by HPLC Dose: 0.5 g applied to 6.25 cm2 of intact skin GLP: In compliance  
-After clipping the back and flanks, 0.5g of the test material was applied to an area of approximately 6.25 cm� under a semi-occlusive dressing. The patches were removed after 4 hours and observations made at 0.5, 1, 24, 48 and 72 hours after removal. 
- 
-Results 
-No erythema or oedema was observed. The primary irritation index was 0.0. The test material was considered to be non-irritating to the rabbit skin. 
-Ref.: 6 
-3.3.2.2. Mucous membrane irritation  
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD 405 (1981) Species/strain: albino rabbits, New Zealand Group size: 3 (sex not stated) Test substance: MIP 2985 Batch: 029753A8AA Purity: 97.2% by UV-VIS; 98.8% by HPLC Dose: 0.0360 g in 0.1ml GLP: In compliance  
-The test material was applied instilled into the lower lid of the right eye of each animal. The left eye served as the untreated control. The eyes of the 3 animals remained unrinsed for approximately 24 hours after instillation of the test material. 
-1, 24, 48, 72 and 96 hours and 7, 14 and 21 days after instillation of the test material, the treated eyes of the rabbits were observed for signs of ocular irritation. Corneal injury was assessed using sodium fluorescein (followed by a saline wash) on all animals at 24 hours post-instillation. 
- 
-Results 
-There were no effects involving the cornea or iris. 
-Redness of the conjunctiva was noted in all animals from 1 hour to 14 days post instillation and in 1 animal at 21 days post instillation. Chemosis was noted in 2 animals from 1 hour through to 7 days post-instillation and in 1 animal on days 14 and 21. Discharge was noted in 2 animals from 1 hour to day 14 and in 1 animal through to day 21. There was no evidence of corrosion. 
-A maximum mean score of 7.3 (of max. 110 possible) at 1 and 24 hours post instillation was determined. MIP 2985 was moderately irritating to the eyes of the rabbits under the conditions of the study. 
-Ref.: 7 
- 
-3.3.3. Skin sensitisation  
-Taken from SCCNFP/0735/03 
- 
-Magnusson and Kligman Guinea pig maximisation test 
- 
-Guideline: OECD 406 Species/strain: albino guinea pigs Group size: 15 females (10 test and 5 control) Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: >98% Dose: Intradermal induction: A 5% aqueous solution with and without 
- 	Freund's Complete Adjuvant. 
-Topical induction: A 50% preparation of test material under  occlusion for 48 hours. Controls received  	vehicle only. 
-Challenge: 	14 days later by exposing 25% aqueous  	dilution of the test substance (24 hours,  	occlusion). GLP: In compliance  
-Animals were examined 24 and 48 hours after removal of the patches for signs of erythema and oedema. 
- 
-Results 
-None of the animals of the control or test group were observed with skin reactions after challenge with a non-irritating preparation of 25% of the test material. MIP 2985 was considered not to be a sensitizer under the test conditions. 
-Ref.: 8 
- 
-3.3.4. Dermal / percutaneous absorption  
-Rat and human skin, in vitro 
- 
-Guideline: OECD 428 (2004) Tissue: rat split-thickness skin, 200 �m (2 males, strain: HanBrl: WIST (SPF))  Human split-thickness skin, 200 �m (2 female donors) Group size: 7 membranes per species (3 or 4 cells/donor) Skin integrity: permeability coefficient (Kp) of tritium water  Kp < 3.5 x 10-3 cm/h (rat)  Kp < 2.5 x 10-3 cm/h (human) Diffusion cell: automated flow-through cell system, 0.64 cm� Test substance: Red (MIP 2985) Batch: 21187FC3  3501-069 (radio-labelled, 2072 MBq/mmol, 56 mCi/mmol) Purity: 95.9% (contains about 4% inorganic salt)  98.15% (radio-labelled) Test item: aqueous solution Dose: 19 mg/cm� Dose of test substance: 0.182 mg/cm� 
-Receptor fluid: 	physiological saline, 0.9% NaCl w/v 
-Solubility receptor fluid: / Stability receptor fluid: / 
-Method of Analysis: 	Liquid Scintillation Counting 
-GLP: 	in compliance 
-Study date: 	18 February - 4 March 2005 
- 
-The percutaneous penetration of the test substance, formulated as aqueous solution was determined in vitro using split-thickness skin membranes from rat and human skin. The formulated [14C] Red (MIP 2985) was applied onto skin membranes of 200 �m thickness at a concentration of 19 mg/cm� leading to an area concentration of 182 �g/cm�. For each species 7 replicates were used. 
- 
-Results 
-The totally absorbed test item was calculated based on the amount penetrated through the skin membrane (perfusate) and the amount in the remaining skin membrane after tape stripping. The total absorption amounted to 1.61% and 0.13% of the applied dose for rat and human skin membranes, respectively. The penetration of [14C] Red (MIP 2985) through rat and human skin membrane was very low. The mean flux value was calculated to be 0.067 �g/cm�/h in rat and 0.031 �g/cm�/h in human. Ref.: 1, submission II 
- 
-Comments 
-Only 2 subjects were used for each study. Only non-oxidative conditions have been studied Human skin, in vitro 
- 
-Guideline: OECD 428 (2004) Tissue: human post mortem dermatomed skin, 400 �m thickness Group size: 9 membranes from 6 female donors (oxidative conditions)  9 membranes from 4 female donors (non-oxidative conditions) Skin integrity: electrical resistance, > 10 k? Diffusion cell: glass diffusion cell; 2.54 cm� Test substance: Basic Red 51 Batch: 028936FC3  3501-069 (radio-labelled) (50.5 mCi/mmol) Purity: 97.9% (UV-Vis spectroscopy)  98.15% (HPLC) Test item: Basic Red 51 1% formulations oxidative and non-oxidative conditions Dose: 20 mg/cm� test formulation Dose of test substance: 0.5% (100 �g/cm�) Basic Red 51 under oxidative conditions 
- 	1.0% (200 �g/cm�) Basic Red 51 under non-oxidative conditions Receptor fluid: 	phosphate buffered saline 
-Solubility receptor fluid: 40 mg/ml at 30 �C 
-Stability receptor fluid: / 
-Method of Analysis: 	Liquid scintillation counting 
-GLP: 	in compliance 
-Study date: 	25 February - 8 April 2005 
- 
- 
-The absorption and distribution of Basic Red 51 from two different and typical nominal 1% w/w formulations, has been measured in vitro through human skin 
- 
-Results  
-Oxidative conditions 
-3 cells were excluded from the analysis. 
- 
- 
- 
- 
-Non-oxidative conditions 
- 
- 
- 
-The results obtained in this study indicate that the absorption of Basic Red 51 through human skin from the semi-permanent or oxidative formulations is slow. 0.200% (0.399/�geq/cm�) and 0.351% (0.351/�geq/cm�) of the applied Basic Red 51, semipermanent and oxidative formulations respectively, was regarded as being systemically available. 
-Ref.: 2, submission II 
- 
-Comment 
-The mean + 1 SD, 0.660 (0.399 � 0.261) �g/cm� can be used to calculate the MOS under non-oxidative conditions and 0.540 (0.351 � 0.189) �g/cm� under oxidative conditions. 
- 
-3.3.5. Repeated dose toxicity  
-3.3.5.1. Repeated Dose (28 days) oral toxicity  
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD Guideline 407 Species/strain: Wistar Hanlbm (SPF) rat Group Size: 10 rats per sex: control and the high dose 5 rats per sex: mid and low doses Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 15, 50 and 150 mg/kg bw Treatment Period: 28 days Observ. period: 	14 days 
-GLP: 	in compliance 
- 
-MIP 2985 was administered in feed for 28 days at theoretical dose levels of 15, 50 and 150 mg/kg body weight/day while the control group received the normal diet. The corresponding effective daily intake for males was 12.25, 39.59 and 135.46 mg/kg body weight, and for females, 13.16, 40.50 and 132.54 mg/kg body weight for low, mid and high dose groups respectively. A 14-day recovery period was allowed for 5 animals per sex in the control and high dose groups. 
- 
-The animals were examined for clinical signs daily and checked twice daily for mortality. Food consumption and body weight were recorded once pre-test, and weekly thereafter and body weight at necropsy. A functional observational battery (modified Irwin screen test), grip strength and locomotor activity were performed during week 4. Urine and blood for haematology and clinical biochemistry were collected from all animals. All animals were killed and descriptions of all macroscopic abnormalities were recorded. The major organ weights (absolute and relative) were recorded on the date of necropsy. Samples of major organs from control and top dose groups, as well as liver and thyroid glands and all gross lesions from all animals were examined by light microscopy. Only liver, thyroid gland and gross lesions were examined microscopically from rats of mid and low dose groups. 
- 
-All animals survived during the study. No quantitative or qualitative differences of clinical parameters from the control values were noted. A dark discoloration of the faeces was observed in all animals of the high-dose group on Day 3 dosing to Day 3 recovery. In the high dose group, urine of 9 males and 3 females was a deep yellow colour after 4 weeks but by week 6, the urine colour was normal. A lack of appetite was observed in females of the high-dose group only during the treatment period. The relative food consumption was similar in all groups. Mean body weight and body weight gain were slightly increased in the mid and low dose group males, and reduced in high-dose group females when compared with the control. There were no dose-related effects in the functional observational battery, grip strength measurement, and locomotor activity. 
- 
-Minor clinical laboratory changes were recorded after 4 weeks treatment between the high dose group and the controls. At the high dose, there was a slight increase in circulating lymphocytes (relative) as well as a slight decrease in segmented neutrophils (relative and/or absolute) in both sexes (p<0.05). At end of the treatment-free recovery period, these haematological parameters were found to be similar to the controls, indicating reversibility. Clinical biochemistry results showed the following findings in the high dose group: 
- 
-Total cholesterol level slightly increased in both males and females (p<0.01). 
-Triglyceride level slightly increased in both males (p<0.01) and females (p<0.05); a slight increase was also recorded in the mid-dose group females (p<0.05) 
-Phospholipid level slightly increased in both males and females (p<0.0l) 
-Albumin level slightly increased in both males (p<0.05) and females (p<0.0l) 
-Globulin level slightly reduced in both males (p<0.05) and females (statistically not significant) 
-Albumin to globulin ratio slightly increased in both males and females (p<0.05). 
- 
-At the end of the treatment-free recovery period, there was an indication of reversibility for most parameters. However, slightly higher significant (p<0.05) values were still observed in the triglyceride, phospholipid and albumin concentrations in male rats. The authors considered these findings to primarily reflect adaptive changes in lipid metabolism. Histopathological correlates to these hepatic metabolic changes were not found. Urinalysis parameters were not adversely affected by treatment and only the reversible deep-yellow urine discoloration was considered test article-related. Organ weights and organ to body weight ratios were higher in the mid-dose group males, but were attributed to the higher terminal body weights of the rats. Macroscopically, there was a reddish brown discoloration of the thyroid gland observed at 4 weeks in 80% of the males and in all the females of the high-dose group, 40% of the males in mid-dose group and one control female. At 6 weeks, all the high dose recovery group animals showed thyroid discoloration. All other lesions recorded were considered to be within the normal range of background findings commonly seen in rats of this strain and age. 
- 
-Based on these results, the NOAEL of MIP 2985 was estimated as 12.25 mg/kg body weight/day. 
-Ref: 4 
- 
-3.3.5.2. Repeated Dose (14 days) dermal toxicity  
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD Guideline 402 Species/strain: Albino Guinea pig, Ibm: GOHI, SPF Group Size: 4 males and 4 females Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 1.0, 0.5, 0.1%w/w Observ. period: 14 days GLP: in compliance  
-A 14-day repeated dose dermal toxicity study to assess the cumulative irritation potential with MIP 2985 was applied daily at concentrations of 1.0, 0.5 and 0.1% w/w in doubledistilled water. The skin was shaved prior to the study and 2 circular areas 7 cm� were marked. The animals were shaved four times during the first week and 3 times in the second week. A depilatory cream was used on Day 15 after the final application. One male and female served as controls and received double distilled water. No grading scores were recorded from test day 2-14, as no depilation was used during this period. However after depilation on test day 15, no skin reaction was observed. These data were confirmed by histopathology. Under the experimental conditions, the study authors considered MIP 2985 to be a non-irritant when repeatedly applied to guinea pigs skin. 
-Ref.: 3 
- 
-3.3.5.3. Sub-chronic (90 days) oral / dermal / inhalation toxicity  
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD 408 (1981) and Directive 96/54/EEC Species/strain: Wistar rat, Hannover (SPF) Group Size: 10 males + 10 females per dose Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 0, 10, 50 and 250 mg/kg bw/day Exposure period: 13 weeks 
-GLP: 	in compliance 
- 
-MIP 2985 was administered in feed at theoretical dose levels of 10, 50 and 250 mg/kg bw/day while the control group received the normal diet. The corresponding effective daily intake, based on food consumption and body weight for males was 9.8, 49.5 and 253.4 mg/kg body weight, and for females 10.1 51.2 and 247.3 mg/kg. bw for low, mid and high dose groups respectively. 
- 
-The animals were examined for clinical signs daily and checked twice daily for mortality/viability. Food consumption and body weight were recorded once pre-test, and weekly thereafter and body weight at necropsy. Ophthalmoscopic examination was performed at pre-test and at week 13 (control and high dose animals). A functional observational battery (modified Irwin screen test) was performed during pre-test and at week 12 on all rats and grip strength and locomotor activity were evaluated. At week 13, blood samples were collected for haematology and clinical biochemistry from all animals and urine samples were collected for analysis. After 13 weeks, all animals were weighed and killed and descriptions of all macroscopic abnormalities were recorded. The major tissues and organ were collected from all animals and absolute and relative weights were recorded at necropsy for adrenals, brain, heart, kidneys, liver, ovaries, spleen, testes, thyroid, and thymus. Samples of major organs from control and high-dose and all gross lesions from all animals were processed as haematoxylin-eosin slides and examined by light microscopy. 
- 
-Deaths did not occur during the study. No clinical signs considered related to the test substance occurred. In the high dose group, a reduction in mean food consumption was 25% in males and 20% in females. An 8% reduction in the males of the mid dose group was noted. These data were considered test substance-related. 
- 
-No effect of MIP 2985 was observed in any group on food consumption relative to body weight. The body weight and body weight gain in males and females of the high-dose group showed a significant (p<0.05) reduction. In the mid-dose group males, a non-significant reduction was observed. The low dose group was not affected. 
- 
-Ophthalmologic findings were noted in a small proportion of animals from all groups during the study.  
-The following findings, considered unrelated to treatment, occurred at similar incidences in the high and in the control group: persistent pupillary membranes, comeal opacities, anterior synechia and persistent hyaloid vessels in the vitreous body. From the functional observational battery, grip strength measurement and locomotor activity, some incidental findings were recorded: decreased pupil diameter and contraction response in one male of the high-dose group, increased aggressiveness and fearfulness in females of the high-dose group; a statistically significant decreased grip strength of both forelimb and hind limb in group 4 was attributed to the reduced body weight of the animals. 
- 
-Haematology results showed a significant (p<0.05) increase in methaemoglobin levels in males and females of the high dose group. A dose-related decrease of the number of white blood cells (p<0.01) was noted in high dose males along with a significantly (p<0.01) reduced absolute number of lymphocytes; these changes were considered dose-related. The clinical biochemistry parameters showed a significant (p<0.01) increase of gamma-glutamyl transferase levels in rats of the high dose group (212 % and 202 % in males and females, respectively). The high dose group animals also showed significant (p<0.01) decreases in creatinine levels, in amount of total protein accompanied by disproteinemia, and in urea and uric acid levels. Glucose, total bilirubin and phospholipids levels were decreased in high dose males; total cholesterol, creatine kinase and alkaline phosphatase were increased in high dose females. The authors considered these findings to be metabolic adaptations to MIP 2985 and of no toxicological relevance. No abnormalities were revealed by urinalysis results. 
- 
-Decreased (p<0.05) absolute organ weights and/or organ weight ratios of most organs were recorded for males in the mid and high dose groups and for females in the high dose group. Macroscopically, there was a reddish discoloration of the forestomach mucosa, the thymus was reduced in size (high dose), and the thyroid gland was discoloured red-brown (mid dose) or black (high dose). The microscopic findings occurred mainly in the high dose group and included the following: Minimal to slight diffuse hepatocellular hypertrophy associated with moderately increased incidence of focal necrosis, and decreased haematopoiesis. The spleen showed a decreased incidence of increased haematopoiesis. In the kidneys an increased incidence of intratubular granular casts and transitional cell hyperplasia occurred in females. Non-glandular stomach dilation was observed in one male and one female in the high dose group and most of the high dose animals showed congestion; a low incidence of glandular stomach erosion also occurred. 
-In the thymus, the observed cortical atrophy was considered as a condition of stress rather than an immunotoxic effect. The ovaries showed an interstitial cell hyperplasia considered as a nonneoplastic proliferation of cellular components of the interstitial gland. An increased diffuse fatty change was observed in the adrenal cortices of males and females of the high dose group. Thyroid of mid- and high-dose males and females showed an increased incidence of follicular cell hypertrophy, pigmented colloid, and pigmented follicular cells. The pituitary gland of males of these two groups showed an increased incidence of TSH/ACTH cell hypertrophy. 
-Ref.: 5 
- 
-Comment 
-The study authors estimated the NOAEL to be 50 mg/kg bw/d, and the NOEL, 10 mg/kg bw/day, the lowest dose used. However, in light of the effects on the thyroid and pituitary at 50 mg/kg bw/d and higher, The SCCNFP concluded that the NOAEL should be 10 mg/kg bw/day. 
- 
-3.3.5.3. Chronic (> 12 months) toxicity  
-No data submitted 
- 
-3.3.6. Mutagenicity / Genotoxicity  
-3.3.6.1. Mutagenicity / Genotoxicity in vitro  
-Taken from SCCNFP/0735/03 
- 
-Bacterial Reverse Mutation Test 
- 
-Guideline: OECD 471 Species/strain: S. typhimurium TA98, TA100, TA1535 and TA1537; E. coli WP2 uvrA Replicates: Triplicate plates, 2 independent tests 	 Test substance: MIP 2985 Batch: 029753A8AA Purity: 98.8% by HPLC Concentrations: S. typhimurium 
-Without metabolic activation 
-Test #1: 	3.33 - 333 �g/plate 
-With metabolic activation (rat liver) 
-Test #1: 	3.33 - 500 �g/plate 
-With reductive metabolic activation (hamster liver) 
-Test #1: 	3.33 - 500 �g/plate  
-E. coli 
-With and without metabolic activation (normal & reductive systems) 
-	Test #1: 	3.33 - 333 �g/plate 
- 
-S. typhimurium 
-Without metabolic activation 
-	Test #2: 	3.33 - 200 �g/plate (the last 2 concentrations are toxic) 
-With metabolic activation (rat liver) 
-	Test #2: 	3.33 - 333 �g/plate 
-With reductive metabolic activation (hamster liver) 
-	Test #2: 	10 - 500 �g/plate 
- 
-E. coli 
-Without metabolic activation (normal & reductive systems) 
-	Test #2: 	3.33 - 333 �g/plate (the last 2 concentrations are toxic) 
-With metabolic activation (normal & reductive systems) 
-	Test #2: 	3.33 - 333 �g/plate (the last concentrations were toxic) 
-GLP: 	In compliance 
- 
-MIP 2985 was investigated for gene mutation in Salmonella typhimurium and Escherichia coli using the direct plate incorporation method both with and without S9-mix. S9-mix from different origin was used. Standard: Sprague-Dawley rats injected i.p. with AroclorTM 1254; reductive: uninduced male Golden Syrian hamsters. 
-Negative and positive controls were in accordance with the OECD guideline. 
- 
-Results 
-Test # 1 
-In the absence of activation, no dose related and biologically relevant increase in revertant numbers was observed, in all but one tester strains (strain TA 98). The increase is according to the OECD criteria. 
-In the presence of rat (commonly used S9) activation: No dose related and biologically relevant increase in revertant numbers was observed, in any of the tester strains used (S. typhimurium or E. coli). 
-In the presence of hamster (reductive S9) activation: an increase in revertant numbers was observed for TA 98 - a frameshift tester strain - at the dose of 100 �g/plate. There is a trend for a dose relationship until cytotoxicity that could have prevented the expression. 
-For the other strains (including E. coli), no statistically or biologically relevant increase of mutant frequencies have been observed as compared to the controls. Positive controls showed the expected response. 
- 
-Test # 2 
-In the absence of activation, no dose related and biologically relevant increase in revertant numbers was observed, in any of the tester strains. 
-In the presence of rat activation, no dose related and biologically relevant increase in revertant numbers was observed, in any of the tester strains. 
-In the presence of hamster (reductive S9) activation, a statistical and dose related significant increase in revertant numbers was observed for TA 98. 
- 
-Conclusions 
-Based on the reversion rate, and under the conditions of the 2 assays performed, it could be concluded that the test agent Basic Red 51, in the presence of reductive S9-mix, shows clear evidence of mutagenic activity in tester strain TA 98. Such positive results may be the consequence of the metabolizing properties (azo-reduction) of the S9-mix fraction from hamster. 
-The higher amount of aromatic amines released, which are metabolised to electrophilic molecules that may react with DNA, might explain the positive results observed in TA 98. 
-Ref.: 13 
- 
- 
-In Vitro Mammalian Cell Gene Mutation Test 
- 
-Guideline: OECD 476 Cells: Chinese Hamster V-79 cell line (mutation at the hprt locus) Replicates: 2 independent tests Test substance: MIP 2985 in serum free medium Batch: 11R-1 Purity: 60 % Concentrations: Test #1  Without metabolic activation: 3 - 300 �g/ml (6 doses)  	With metabolic activation: 3 - 400 �g/ml (6 doses) 
- 	Test #2 
- 	Without metabolic activation : 3 - 150 �g/ml (6 doses) 
- 	With metabolic activation : 3 - 200 �g/ml (6 doses) 
-GLP: 	In compliance 
- 
-MIP 2985 in serum free medium was investigated for gene mutation at the hprt locus in V79 Chinese hamster cell line. 
-S9-mixes from different origins were used: Standard: Sprague-Dawley rats injected i.p. with AroclorTM 1254 in the second test; reductive: uninduced male Golden Syrian hamsters in the first test. 
- 
-Results 
-Toxicity occurred at dose of 100 �g/ml and above with and without activation in both assays. 
- 
-No visible precipitation was observed. 
- 
-In test #1 and in test # 2 with S9-mix, no statistically or biologically significant increase in mutant frequency was observed over the concurrent solvent controls for any doses in all conditions. 
-In test # 2 without S9-mix, the negative control value was extremely low (1.4 per million cells). The treated doses showed an increase in mutant frequency without dose dependence. Therefore, the increases observed are thought to be devoid of biological relevance. 
- 
-Conclusions 
-MIP 2985 did not demonstrate mutagenic potential on the hprt gene of V79 cells. 
-Ref.: 15 
- 
- 
-In Vitro Mammalian Chromosomal Aberration Test 
- 
-Guideline: OECD 473 Species/strain: Human lymphocytes (pooled cultured blood samples) Replicates: Duplicate cultures, 2 independent experiments Test substance: MIP 2985 in cell culture grade water Batch: 029753A8AA Purity: 98.8% by HPLC Concentrations: Test #1  3 h without S9-mix: 20.2, 28.8, 41.2 �g/ml  3 h with S9-mix: 41.2, 58.8, 84, 120 �g/ml  Test # 2  3 h with S9-mix: 22.5, 45, 90, 120 �g/ml  22.2 h without S9-mix: 17.5, 22.5, 30, 35 �g/ml GLP: In compliance  
-MIP 2985 was investigated for induction of chromosomal aberrations in human pooled lymphocytes. The test concentrations were established from a preliminary toxicity study. Liver S9 fraction from Aroclor 1254-induced rats was used as the exogenous metabolic activation system. 
- 
-Results pH was not significantly changed at the maximum dose tested of 4990 �g/ml(pH =7.5). 
-Molarity for the maximum dose tested in the assay (2990 �g/ml) was found to exceed slightly the maximum value recommended (10 mM = 2798 �g/ml). However, the small deviation (2990-2798 = 192) is devoid of biological relevance. 
- 
-No statistically or biologically significant increase in the number of aberrant cells was observed as compared to the corresponding solvent control. 
- 
-No significant increase of aneuploidy and/or endoreduplicated cells was noted. 
- 
-Conclusions 
-Basic Red 51 is considered negative for clastogenic and/or aneugenic activity in human lymphocytes in the presence or the absence of activation under the conditions of the test. 
-Ref.: 14 
- 
-Comment 
-The tests have been performed only with the standard metabolic activation system (rats injected i.p. with AroclorTM 1254). No definitive conclusions can be made on the basis of this test. 
- 
-3.3.6.2 Mutagenicity/Genotoxicity in vivo  
-Taken from SCCNFP/0735/03 
- 
-Mammalian Erythrocyte Micronucleus Test 
- 
-Guideline: OECD 474 (1983) Species: NMRI mice Group sizes: 6 male and 6 female Material: MIP 2985 Batch: 0017 Purity: > 88% Dose levels: MIP 2985 was administered by 1 single oral dose of: 10, 33 and 100 mg/kg bw for the 24 h sacrifice time  100 mg/kg bw for the 48 h sacrifice time. GLP: In compliance  
-MIP 2985 was investigated for induction of micronuclei in the bone marrow cells of male or female mice. Dose levels were determined by a preliminary range finding study in which observable toxic effects were seen at doses of 1000 and 2000 mg/kg bw. The substance was administered by a single intragastric gavage and the groups of animals sacrificed 24, 48 and 72 hours after administration. Negative and positive controls were in accordance with the OECD guideline. 
- 
-Results 
-A total of at least 1000 erythrocytes were examined from each animal; the incidence of micronucleated erythrocytes and the ratio of polychromatic erythrocytes to normochromatic erythrocytes were calculated. 
-In a pre-experiment for toxicity, all mice treated with 250 mg/kg bw died within 6 h. Consequently, 100 mg/kg bw was chosen as the highest dose. At this dose in the preexperiment clinical signs (reduction of spontaneous activity, eyelid closure, apathy, abdominal position and occasionally tumbling movement and convulsions up to at least 6 h) were observed which may indicate to systemic bioavailability. 
- 
-The mean number of NCE (mature differentiated cells) was not significantly increased after treatment as compared to controls; this reflects the lack of cytotoxicity of the test agent. Both at the 24 h and 48 h sampling time, no statistically significant or biologically relevant increase in the incidence of micronucleated polychromatic erythrocytes over the concurrent vehicle control values was observed for any dose levels. 
- 
-Conclusion 
-Under the conditions of the test it can be concluded that MIP 2985, at doses at which some signs of clinical toxicity were recorded, does not induce statistically significant increase in the frequency of micronucleated PCE. 
-Therefore, MIP 2985 is not clastogenic and/or aneugenic in this mouse bone marrow micronucleus test. 
-Ref.: 17 
- 
-Comment 
-Although the mean number of NCE was not significantly increased after treatment as compared to controls reflecting a lack of cytotoxicity of the test agent, clinical signs found in the pre-experiment in treated animals up to 6 h after the highest dose may point to systemic bioavailability of MIP 2985. 
- 
- 
-Unscheduled DNA Synthesis (UDS) Test with Mammalian Liver Cells in vivo 
- 
-Guideline: OECD draft guideline 486 Species/strain: Wistar rat, HanIbm: WIST (SPF) strain Group size: 4 male rats Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: > 98% Dose levels: 0, 75 and 300 mg/kg bw, by single oral gavage Exposure time: 16 hours: all dose groups; 2 h: high dose group GLP: In compliance  
-MIP 2985 was investigated for induction of unscheduled DNA synthesis in rat hepatocytes at 2 doses 75 and 300 mg/kg bw. 
-Positive controls were in accordance with OECD guideline for 60 hours treatment and UDS analysed by autoradiography. 3 males were used per dose/time sampling. 
- 
-Results 
-The viability of the hepatocytes was not substantially affected by the treatments. Treatment with MIP 2985 at doses of 75 & 300 mg/kg yielded group mean NNG values less than 0 for both experiment time and caused no significant increases, as compared to control, in the mean nuclear grain counts. 
- 
-Conclusion 
-The study is inadequate for evaluation. According to OECD guidelines, a positive control should have been included for the short time exposure. 
-Ref.: 16 
- 
- 
-Submission II, 2005 
- 
-Unscheduled DNA Synthesis (UDS) Test with Mammalian Liver Cells in vivo 
- 
-Guideline: OECD 486 (1997) Species/strain: rat, Wistar Hanlbm: WIST (SPF) Group size: 3 males per dose and time Test substance: Red MIP 2985 Batch: 21187FC3 Purity: 95.5% Vehicle: deionised water Dose levels: 125 and 250 mg/kg bw Volume: 10 ml/kg bw Route: oral, once Exposure time: 2 and 16 hours Positive control: N,N'-dimethylhydrazinedihydrochloride (DMH): 2h preparation interval  2-acetylaminofluorene (2-AAF): 16h preparation interval   GLP: in compliance Study period: 8 July - 10 September 2004  
-The test item RED MIP 2985 was assessed in the in vivo UDS assay for its potential to induce DNA repair (UDS) in the hepatocytes of rats. The highest dose used in the main experiment was estimated in a pre-experiment to be the maximum applicable dose at which clinical signs of toxicity occurred without affecting the survival rates. Appropriate positive controls were included in the assay. 
- 
-Results 
-The viability of the hepatocytes was not substantially affected by the in vivo treatment with the test item. 
-No dose level of the test item revealed UDS induction in the hepatocytes of the treated animals as compared to the current vehicle controls. Neither the nuclear grains nor the resulting net grains were distinctly enhanced due to the in vivo treatment of the animals with the test item for 2 hours or 16 hours, respectively. Therefore, the net grain values obtained after treatment with the test item were consistently negative. In addition, no substantial shift to higher values was obtained in the percentage of cells in repair. In vivo treatment with DMH or 2-AAF revealed distinct increases in the number of nuclear and net grain counts. 
- 
-Conclusion 
-Under the experimental conditions reported, the test item did not induce DNA-damage leading to increased repair synthesis in the hepatocytes of the treated rats. Therefore, RED MIP 2985 is considered to be non-genotoxic in this in vivo UDS test system. 
-Ref.: 3, submission II 
- 
-3.3.7. Carcinogenicity  
-No data submitted 
- 
-3.3.8. Reproductive toxicity  
-3.3.8.1. Two generation reproduction toxicity  
-No data submitted 
- 
-3.3.8.2. Teratogenicity  
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD 414 Species/strain: Wistar rat, Hanlbm (SPF) Group Size: 22 mated females per dose Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 0, 20, 60 and 180 mg/kg bw/day Treatment period: Days 6 to 17 post coitum 
-GLP: 	in compliance 
- 
-The animals were dosed with 10ml /kg by gavage once daily. The control group received only the vehicle (double distilled water). 
- 
-Food consumption was recorded for the following periods: days 0-6, 6-12, 12-18 and 18-21 post coitum; body weight was recorded daily from day 0 until day 21 post coitum. Clinical observations and mortality were recorded at least twice daily. At post mortem, on day 21, necropsy, all internal organs were examined with emphasis on the uterus, uterine contents, position of foetuses in the uterus and number of corpora lutea. The uteri of all females with live foetuses were weighed at necropsy on day 21 post coitum; the foetuses were removed from the uterus, weighed, sexed, and examined for gross external abnormalities. 
- 
-Maternal deaths did not occur during the study and clinical signs of toxicity or reactions to treatment did not occur in any group. A dose-dependent reduction of the food consumption was observed during the treatment period in the mid- and high-dose groups (-7.6% and 23.5% respectively); an increase of + 5.5 % was observed in the high dose group after the treatment period. 
-The mean body weight gain was reduced only in the high dose group, these data being correlated with the decreased food consumption. Mean post-implantation loss and mean number of foetuses per dam were similar between treated and control dams in the low- and mid-dose groups. The increased post-implantation loss observed only in the mid dose group was considered to be incidental. No abnormal findings were noted in any female of any treated group. 
- 
-The mean foetal body weights were similar in all groups except for a slight increase observed in the mid-dose group, which was attributed to the slightly reduced mean number of foetuses per dam. The sex ratio for foetuses was similar in all groups. Some abnormal findings were noted during foetal examination: externally, one cleft palate was observed in the low dose group. Skeletal changes included a small number of foetuses in each group with abnormally shaped sternebrae. These were not considered related to the test substance, as they were within the range for historical controls. 
- 
-Under the experimental conditions, MIP 2985 was not toxic to embryo or foetus and was not teratogenic. The study authors considered the NOEL for the maternal effects is 20 mg/kg bw/day and for foetal effects the NOEL is 180 mg/kg bw/day. 
-Ref.: 11 
- 
-3.3.9. Toxicokinetics  
-Bioavailability after oral administration, mice 
- 
-Guideline: OECD 417 (1984) Species/strain: Hybrid mice, NMRI, SPF-quality  Group Size: 15 females Test material: Vibracolor(r) Red (MIP 2985) Batch: 21187FC3  3501-069 (radio-labelled) (2072 MBq/mmol; 56 mCi/mmol) Purity: 95.9% (containing about 4% inorganic salts)  98.15% (radio-labelled) Vehicle: water (MilliQ) Dose: 33 mg/kg bw Administration: oral, single gavage GLP: in compliance Study period: 1 - 14 September 2004  
-The radiolabelled Vibracolor(r) Red (MIP 2985) test material had a final specific radioactivity of 846 kBq/mg (22.86 �Ci/mg).  
-Fifteen female mice were dosed by gavage at a nominal dose level of 33 mg/kg body weight based on a target volume of 0.5 ml per 100 g body weight. 
-At intervals of 0.5, 1, 2, 4, and 24 h after dosing, three animals were killed by CO2. Blood and femurs from these animals were taken. Radioactivity was measured by liquid scintillation of plasma and both femurs of each animal.  
- 
-Results 
-The test item was rapidly absorbed from the gastrointestinal tract. In plasma, the highest concentration of radioactivity 2.016 ppm (�g Red (MIP 2985) equivalents/g) was found 0.5 h after dosing. After reaching the maximum, the concentration in plasma decreased rapidly with an initial half-life of 1.3 h (initial phase, 1-2 h). Between 4 and 24 h after dosing, a second, slower depletion phase (2-24 h) was seen with a depletion half-life of 8 hours. By 24 hours, the plasma concentration had decreased to 0.117 ppm. The AUC was 14.12 �g h/g. 
-In the femur, the highest concentration of radioactivity 4.23 ppm (�g Red (MIP 2985) equivalents/g) was found 1 h after dosing. By 24 h post-dosing the concentration in femur decreased to 0.228 ppm. The depletion kinetics in the femur was similar to that seen in the plasma, with an initial half-life of 1.3 h and a depletion half-life of 10 h. It was assumed that the bone marrow of the femur was the main site of radioactivity. 
-Ref.: 4, submission II 
- 
- 
-ADME after oral and dermal administration, rat 
- 
-Guideline: OECD 417 (1984) Species/strain: Rat, Wistar HanBrl:WIST (SPF): outbred,  Group Size: 17 females (oral: 9; dermal: 8) Test material: Vibracolor (r) Red (MIP 2985) Batch: 21187FC3  3501-069 (radio-labelled) (2072 MBq/mmol; 56 mCi/mmol) Purity: 95.9% (containing about 4% inorganic salts)  98.15% (radio-labelled) Vehicle: water Dose: 50 mg/kg bw (gavage)  0.2 mg/cm� (dermal administration) Exposure period: 30 minutes (dermal administration) GLP: in compliance Study period: 21 August 2004 - 11 January 2005  
-Oral study 
-Nine females were dosed by gavage at a nominal dose level of 50 mg/kg body weight with [14C] labelled RED (MIP 2985) with a final specific radioactivity of 204 kBq/mg (5.5 �Ci/mg).  Blood was taken at 0.5, 1, 2 4, 6, 8 h from selected animals. Terminal blood was taken at the three post-dosing sacrifice times of 24, 48 and 96 h (3 animals). Urine and faeces were collected over 0-24, 24-48, 48-72, and 72-96 h. At the end of the study period, the cagewash was also collected for analysis. 
- 
-Results 
-Red (MIP 2985) was rapidly and almost completely absorbed from the gastrointestinal tract. The apparent extent of absorption, based essentially on the amount renally excreted, was calculated to at least 62 % of the dose. There appeared to be some bilary recirculation.  The maximum concentration (Cmax) in blood and plasma was reached within 1 hour after administration accounting to 3.933 ppm and 4.785 ppm Red (MIP 2985 equivalents), respectively. A second lower maximum in blood and plasma was observed 6 hours postdosing. After reaching the second maximum, blood and plasma showed a biphasic depletion half-life of 15 and 9 h for the initial phase and 206 and 40 h for the second slower phase, respectively. 
-The oral dose was rapidly eliminated. Within 24 hours, 74 % of the dose was totally excreted, (53 % in urine, 17 % in the faeces and 4 % collected in the cage wash). By 96 days post-dosing, 93 % of the dose was eliminated. Only 0.5 % of the dose is still remaining in tissues and carcass. 
-The highest residue levels in tissues and organs were observed 24 hours post-dosing in the kidney (5.3643 ppm) and liver (4.0287 ppm), with low levels in fat (0.3267 ppm). The depletion kinetics in tissues and organs was similar to that seen in blood and plasma. The initial half-life was calculated to be in the range of 11-17 hours followed by a second slower phase with half life of 29-56 hours. 
-Two major metabolites, 1,3-dimethyl-imidazole-2-amine (about 50 % of the dose) and 1,4diacetoaminobenzene (about 20% of the dose) and 6 minor metabolites were seen in urine and faeces. Unchanged Red (MIP 2985) (1.5 % of the dose) was found in the faeces. Due to the structure of the identified metabolites, the metabolic pathway suggested that the 1,3dimethyl-imidazole-2-amine was a cleavage product of Red (MIP 2985) and that the 1,4diacetoaminobenzene was the di-acetylation product of Red (MIP 2985) after demethylation of the (4-dimethylamino)phenyl site and cleavage of the azo bond. 
- 
-Dermal study 
-Eight females were exposed dermally to [14C] labelled RED (MIP 2985) at 0.2 mg/cm2 (the highest achievable water solubility of the test material) for 30 min. The final specific radioactivity was 241 kBq/mg (6.52 �Ci/mg at pH 7.7). At 24 and 96 h post-application, four animals were killed.  The exposure site was washed and tape stripped to remove the unabsorbed test material. 
- 
-Results 
-After 30 min dermal exposure to [14C] Red (MIP 2985), only 1.29% of the applied dose was systemically absorbed; 93-94% of the dose could be dislodged from the application site. After the skin washing, 2% of the dose remained in/on the treated skin area. The remaining radioactivity in/on the application site was found in the stratum corneum. Less than 0.01% of the dose was determined in the dermis and subcutis. The quantity of test substance in the stratum corneum was virtually constant throughout the 96 h study period, indicating low penetration into deeper skin layers. The systemically absorbed test substance was rapidly excreted with the urine (1.08 %) and the faeces (0.14%). 
- 
-Conclusion 
-Red (MIP 2985) was rapidly and almost completely absorbed after oral dosing. The systemically absorbed test substance was metabolized and eliminated with urine and faeces. Dermal absorption was very low. 
-Ref.: 5, submission II 
- 
-3.3.10. Photo-induced toxicity  
-3.3.10.1. Phototoxicity / photoirritation and photosensitisation 
- 
-Taken from SCCNFP/0735/03 
- 
-Guideline: OECD draft (1995) "Acute dermal photoirritation dose-response test" Species/strain: Himalayan spotted guinea pigs Group size: 15 males (10 test and 5 control) Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: > 98% Dose: 0.025 ml/2cm2 of 50%, 25%, 15% and 10% aqueous dilutions. Skin at test sites treated 30 minutes before application with 2% DMSO in ethanol. GLP: In compliance  
-MIP 2985 was applied epicutaneously to skin areas of 2 cm2 on both flanks. 30 minutes after application of the test materials, the left flank was exposed to 20J/cm2 UVA. The right flank remained unexposed to light after treatment and served as a reference site. Control animals were exposed to UVA similarly but treated with solvent only. Cutaneous reactions were evaluated at 24, 48 and 72 hours after application. 
- 
-Results 
-There were positive reactions in all animals at the sites treated with 50% of the test material, both with and without UVA. The reactions were considered to be an irritant effect unrelated to UVA exposure. There were no other reactions and it was concluded that under the test conditions, MIP 2985 does not exhibit a phototoxic potential in the guinea pigs of the strain and age. 
-Ref.: 9 
- 
- 
-Photo-allergy 
- Guideline: CTFA Safety Testing Guideline Species/strain: Himalayan spotted guinea pigs Group size: 30 males (20 test and 10 control) Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: >98% Dose: Induction: nuchal skin of the test group shaved. Test site of 6-8 cm�  defined by four 0.1ml intradermal injections of Freund's  Complete Adjuvant and physiological saline 1:1 into the  corners. 0.1ml of 50% MIP 2985 applied to area of 8 cm�.  The site was then exposed to 1.8J/cm� UVB and 10J/cm�  UVA. The application and irradiation (after shaving) was  repeated on days 3, 6, 8 and 10. 
-Challenge: 3 weeks after the start of the induction procedure, test sites  of 2 cm� were marked and 0.025 ml/2cm2 of 50%, 25%,  15% and 10% were applied to the left flank and then  irradiated with 10J/cm� UVA. After irradiation of the left  flank, the right flank was treated with the test materials  without irradiation. GLP: In compliance  
-3 hours prior to the first readings, the application sites were depilated with a depilatory cream. Each animal was assessed for reactions at 24, 48 and 72 hours after challenge. 
- 
-Results 
-A very slight red discoloration produced by the test material at the application sites were observed from test days 2 to 22. No skin reactions were observed in the test animals treated with 50% test material during the induction phase. No reactions were observed on the irradiated or non-irradiated flanks of the control and test animals treated with 50, 25, 15 and 10% test material. The data indicated that MIP 2985 does not exhibit photoallergic potential. 
-Ref.: 10 
- 
-3.3.10.2. Phototoxicity / photomutagenicity / photoclastogenicity 
- 
-No data submitted 
- 
-3.3.11. Human data  
-No data submitted 
- 
-3.3.12. Special investigations  
-No data submitted 
- 
-3.3.13. Safety evaluation (including calculation of the MoS)  
-CALCULATION OF THE MARGIN OF SAFETY 
- 
-Basic Red 51 
- 
-(non-oxidative) 
- 
-Absorption through the skin  A (mean + 1SD) 	= 0.66 �g/cm� Skin Area surface SAS (cm2) 	= 580 cm2 Dermal absorption per treatment SAS x A x 0.001 	= 0.383 mg Typical body weight of human  	= 60 kg Systemic exposure dose (SED)  SAS x A x 0.001/60 = 0.006 mg/kg No Observed Adverse Effect Level (subchronic, oral, rat) NOAEL 	= 10 mg/kg bw  
-MOS = 1567  
- 
-3.3.14. Discussion  
-Physico-chemical specification 
-Basic Red 51 is intended for use in direct hair dye formulations at concentrations up to 0.2% and in oxidative hair dyes at a final concentration of 0.1%, after mixing with the oxidative agent. Stability of Basic Red 51 in typical hair dye formulations has been studied only for 24 hours. 
-No reference materials were used for identification and quantification of Basic Red 1 and its impurities. 
-The stability in an oxidative environment has not been demonstrated. 
- 
- 
-General toxicity 
-The acute oral LD5O is considered to be between 250 - 500 mg/kg bw in females and 500 - 1000 mg/kg bw in males. The acute dermal LD5O is greater than 2000 mg/kg bw. 
-The NOAEL was considered to be 12.25 mg/kg bw/day in the repeated dose oral toxicity study. In the sub-chronic oral toxicity study, due to the effects on the thyroid and pituitary, the NOAEL was set at 10 mg/kg bw/day.  
-Basic Red 51 was neither embryotoxic nor foetotoxic nor teratogenic in the performed assays. The NOEL for the maternal effects was considered to be 20 mg/kg bw/day and 180 mg/kg bw/day for foetal effects. 
-Basic Red 51 was rapidly absorbed after oral dosing. The systemically absorbed test substance was almost completely metabolized and eliminated with urine and faeces. Dermal absorption was very low. 
- 
- 
-Irritation, sensitisation 
-Basic Red 51 is considered as a non skin irritant in a skin irritation study; however, the acute dermal toxicity study shows that the substance is mildly irritating. Basic Red 51 is moderately irritant to rabbit eye and a non sensitizer. 
- 
-Dermal absorption 
-The dermal absorption of Basic Red 51 was 0.399 �g/cm� and 0.351 �g/cm� in non oxidative and oxidative conditions, respectively.  
-The mean + 1 SD, 0.660 (0.399 � 0.261) �g/cm� can be used to calculate the MOS under non-oxidative conditions and 0.540 (0.351 � 0.189) �g/cm� under oxidative conditions. 
- 
- 
-Mutagenicity 
-Basic Red 51 has been tested for the three genetic endpoints: gene mutation, structural and numerical chromosomal aberrations. It induced frame shift mutations in bacteria (strain TA98) when reductive metabolic activation was used. In mammalian cells with different metabolic activation, including reductive activation, no gene mutations were induced. An in vitro chromosomal aberration study was inconclusive due to inadequate metabolic activation. However, the test substance was not clastogenic or aneugenic in an in vivo micronucleus assay and no DNA repair was induced in an adequate performed in vivo UDS assay. Therefore, it is concluded that Basic Red 51 does not have genotoxic potential in vivo 
- 
- 
-Carcinogenicity 
-No data submitted 
- 
- 
-4. CONCLUSION 
-Based on the data provided, the SCCS is of the opinion that the use of Basic Red 51 with a maximum on-head concentration of 1% in non-oxidative hair dye formulations does not pose a risk to the health of the consumer. For a final assessment of the use of Basic Red 51 with a maximum on-head concentration of 0.5% in oxidative hair dye formulations, data on the stability in an oxidative environment should be provided. 
- 
- 
- 
-5. MINORITY OPINION 
- 
-Not applicable 
- 
- 
-6. REFERENCES 
- 
-Submission I, 2002 
- 
-A. Ciba Speciality Chemicals, Grenzach, Report on Analytical Test No: 9810194B (06.04.1998). Determination of the Partition Coefficient n-Octanol/Water. 
-B. Institute of Safety & Security, Test report: 1997.0613 (05.05.1997). Exothermic decomposition (page2 of 2) 
-1. Covance Laboratories, Inc. report n� 6623-145. (21 January 2002). Acute oral toxicity study in rats with MIP 2985 
-2. Covance Laboratories, Inc. report n� 6623-163. (21 January 2002). Acute dermal toxicity study in rabbits with MIP 2985 
-3. RCC Project 733691. (2000). 14-day repeated dose dermal toxicity study in the albino Guinea pig 
-4. RCC Project 680905. (1998). 28-day oral toxicity (feeding) study in the rat 
-5. RCC Project 681322. (1998). Subchronic 13-week oral toxicity (feeding) study in the 
-rat 
-6. Covance Laboratories, Inc. report n� 6623-150. (19 October 2001). Primary dermal irritation study in rabbits with MIP 2985 
-7. Covance Laboratories, Inc. report n� 6623-142. (21 January 2002) Primary eye 
-irritation study in rabbits with MIP 2985 
-8. RCC Project 720900. (1999). Contact hypersensitivity in albino Guinea pig: maximization-test 
-9. RCC Project 699423. (1998). Determination of phototoxicity in albino Guinea pig 
-10. RCC Project 699412. (1998). Determination of photoallergenicity in albino Guinea pig 
-11. RCC Project 699401. (1999). Study for effects on embryo-fetal development in the rat 
-12. An-eX analytical services ltd. Report CSC/6b/98 (1999). In vitro human skin penetrationunder 'in-use' conditions 
-13. Covance Laboratories, Inc. Report No. 22734-0-422OECD (July 2002).SalmonellaEscherichia coli / Mammalian-microsome reverse mutation assay with MIP Red 2985: Preincubation method with a confirmatory assay using standard and reductive exogenous metabolic activation systems 
-14. Covance Laboratories, Inc. Report No. 22734-0-449OECD (July 2002). Chromosomal aberrations in cultured human peripheral blood lymphocytes with MIP 2985 
-15. RCC Project 559600. (1996). Gene mutation assay in Chinese Hamster V79 cells in vitro (V79 / HPRT) 
-16. RCC Project 604701. (1998). In vivo / in vitro unscheduled DNA synthesis in rat hepatocytes 
-17. RCC Project 592200. (1997). Micronucleus assay in bone marrow cells of the mouse 
- 
- 
-Submission II, 2005 
- 
-A. Ciba Specialty Chemicals Inc., CH-4002 Basel, Certificate of Analysis of VIBRACOLOR RUBY RED, Item 1681657, Lot 21187FC3 of 23 July 2003 and Batch no.: 28936FC3 of 20 August 2003. 
-B. RCC Umweltchemie, CH-Itingen, Project 680905 (April 27, 1998). Determination of concentration, homogeneity, and stability of MIP 2985 in rodent feed. Analytical report to the 28-day oral toxicity (feeding) study with MIP 2985 in the rat. 
-C. RCC LTD, Environmental Chemistry & Pharmanalytics Division, CH-Itinge., Project 681322 (December 04, 1998). Determination of concentration, homogeneity, and stability of MIP 2985 in rodent feed. Analytical report to the 13-week oral toxicity (feeding) study with MIP 2985 in the rat. 
-1. RCC Ltd Environmental Chemistry & Pharmanalytics, CH-4452 Itingen Switzerland, RCC Study Number858626, (13 July 2005) 14C-RED (MIP 2985): The Percutaneous Penetration of [14C] Red (MIP 2985) Through Rat and Human Split-Thickness Skin Membranes (in vitro) 
-2. Central Toxicology Laboratory, ALDERLEY PARK MACCLESFIELD CHESHIRE SK10 4TJ UK, Study Report Number: CTL/JV1780/REGULATORY/REPORT (16 June 2005). BASIC RED 51: In Vitro Absorption through human dermatomed skin 
-3. RCC Cytotest Cell research GmbH, RCC-CCR Project 840300. (26. January 2005). In vivo / in vitro unscheduled DNA synthesis in rat hepatocytes 
-4. RCC Ltd, Environmental Chemistry & Pharmanalytics, CH-4452 Itingen, RCC Study number 854507(June 16, 2004). 14-C RED (MIP 2985): Bioavailability after oral administration to female mice. 
-5. RCC Ltd, Environmental Chemistry & Pharmanalytics, CH-4452 Itingen, RCC Study number 854510 (June 16, 2005). 14-C RED (MIP 2985): Absorption, Distribution, Metabolism and Excretion after oral and dermal administration to female rats 
- 
-SCCS/1332/10 
- 
-Opinion on Basic Red 51 
-__________________________________________________________________________________ 
- 
-
-SCCS/1332/10 
- 
-Opinion on Basic Red 51 
-__________________________________________________________________________________ 
- 
-
- 	2
-
- 	2
-
-
-
-
-
+SCCS/1332/10 Scientific Committee on Consumer Safety SCCS OPINION ON Basic Red 51 COLIPA n° B116 The SCCS adopted this opinion at its 10th plenary meeting of 22 March 2011 SCCS/1332/10 Opinion on Basic Red 51 About the Scientific Committees Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat. They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts. In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA). SCCS The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.). Scientific Committee members Jürgen Angerer, Ulrike Bernauer, Claire Chambers, Qasim Chaudhry, Gisela Degen, Thomas Platzek, Suresh Chandra Rastogi, Vera Rogiers, Christophe Rousselle, Tore Sanner, Jacqueline van Engelen, Maria Pilar Vinardell, Rosemary Waring, Ian R. White Contact European Commission Health & Consumers Directorate C: Public Health and Risk Assessment Unit C7 - Risk Assessment Office: B232 B-1049 Brussels Sanco-Sc6-Secretariat@ec.europa.eu © European Union, 2011 ISSN 1831-4767 ISBN 978-92-79-30712-6 Doi:10.2772/97050 ND-AQ-11-005-EN-N The opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The opinions are published by the European Commission in their original language only. http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm 2 SCCS/1332/10 Opinion on Basic Red 51 ACKNOWLEDGMENTS Prof. J. Angerer Dr. C. Chambers Prof. T. Platzek (chairman) Dr. S.C. Rastogi Dr. C. Rousselle Prof. T. Sanner Dr. J. van Benthem (associate scientific adviser) Prof. M.P. Vinardell Dr. I.R. White External experts Dr. Mona-Lise Binderup National Food Institute, Denmark (rapporteur) Keywords: SCCS, scientific opinion, hair dye, Basic Red 51, B116, CAS 77061-58-6, EC 278601-4, Directive 76/768/EEC Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on Basic Red 51, 22 March 2011 This opinion has been subject to a commenting period of four weeks after its initial publication. Comments received during this time have been considered by the SCCS and discussed in the subsequent plenary meeting. Where appropriate, the text of the relevant sections of the opinion has been modified or explanations have been added. In the cases where the SCCS after consideration and discussion of the comments, has decided to maintain its initial views, the opinion (or the section concerned) has remained unchanged. Revised opinions carry the date of revision. 3 SCCS/1332/10 Opinion on Basic Red 51 TABLE OF CONTENTS ACKNOWLEDGMENTS ………………………………………………………………………………... 3 1. BACKGROUND …………………………………………………………………………………. 5 2. TERMS OF REFERENCE …………………………………………………………………………………. 5 3. OPINION …………………………………………………………………………………. 6 4. CONCLUSION …………………………………………………………………………………. 29 5. MINORITY OPINION …………………………………………………………………………………. 29 6. REFERENCES …………………………………………………………………………………. 30 4 SCCS/1332/10 Opinion on Basic Red 51 1. BACKGROUND Based on submission I, the Scientific Committee on Cosmetic Products and Non-Food Products intended for Consumers (SCCNFP) adopted at its 25th plenary meeting on 20 October 2003 its opinion (SCCNFP/0735/03) on Basic Red 51 with the chemical name 2-[(4- (dimethylamino)phenyl)azo]-1,3-dimethyl-1H-imidazolium chloride. According to this opinion further information is needed on: • The stability of the test material in the test preparations and in the hair dye formulations • A percutaneous absorption study in accordance with the Notes of Guidance, if used in an oxidising environment • Data on the genotoxicity/mutagenicity following the relevant SCCNFP opinions and in accordance with the Notes of Guidance. Submission II was submitted in July 2005. According to this submission Basic Red 51 is a hair dying ingredient intended be used in direct (non-oxidative) hair dyes at 1.0% concentration and it is also used at a concentration of 1.0% in oxidative hair dye formulations, which after mixing in a 1:1 ratio with hydrogen peroxide just prior to use corresponds to a concentration of 0.5% upon application. The applied hair dye formulations are rinsed off after about 30 minutes and the normal frequency of application being about once per month. Submission II presents updated scientific data on the above mentioned substance in line with the second step of the strategy for the evaluation of hair dyes (http://europa.eu.int/comm/enterprise/cosmetics/doc/hairdyestrategyinternet.pdf)) within the framework of the Cosmetics Directive 76/768/EEC. 2. TERMS OF REFERENCE 1. Does the Scientific Committee on Consumer Safety (SCCS) consider Basic Red 51 to be safe for use in non-oxidative hair dye formulations at a maximum on-head concentration up to 1% and in oxidative hair dye formulations at a maximum on-head concentration of 0.5% taken into account the data scientific provided? 2. Does the SCCS recommend any restrictions with regard to the use of Basic Red 51 in non-oxidative and oxidative hair dye formulations? 5 SCCS/1332/10 Opinion on Basic Red 51 3. OPINION 3.1.1. Chemical identity 3.1.1.1. Primary name and/or INCI name Basic Red 51 (INCI) 3.1.1.2. Chemical names 2-[((4-Dimethylamino)phenyl)azo]-1,3-dimethyl-1H-imidazolium chloride 1H-Imidazolium, 2-[((4-dimethylamino)phenyl)azo]-1,3-dimethyl-, chloride (CAS Name) 3.1.1.3. Trade names and abbreviations MIP RED 2985 RED (MIP 2985) MIP 2985 VIBRACOLOR® Ruby Red 3.1.1.4. CAS / EC number CAS: 77061-58-6 EC: 278-601-4 3.1.1.5. Structural formula 3.1.1.6. Empirical formula Formula: C13H18N5Cl 3.1.2. Physical form Blue to dark violet powder containing lumps 3.1.3. Molecular weight Molecular weight: 279.8 3.1.4. Purity, composition and substance codes Basic Red 51 was chemically characterised by IR and UV-Vis spectroscopy. The composition of the MIP RED batches 2985 (21187FC3 and 28936FC3) used for the toxicological assays is summarized in the table below. 6 SCCS/1332/10 Opinion on Basic Red 51 Batch Nr. Measured purity active* (%) Impurities* (%) Volatile matter** (%) Salt: Sum of (Cl+SO4+CH3SO4) as NaCH3SO*** (%) 21187FC3 95.9 0.4 coloured by-product 3.5 <= 5 CH3 N N N+NCH3 Molecular Weight =230,29 Exact Mass =230 Molecular Formula =C12H16N5 Molecular Composition =C 62.59% HH N 7.00% N 30.41% 28936FC3 97.9 0.4 coloured by-product 0.6 <= 5 CH3 N N N+NCH3 Molecular Weight =230,29 Exact Mass =230 Molecular Formula =C12H16N5 Molecular Composition =C 62.59% HH N 7.00% N 30.41% * Quantification of active ingredient and impurities was performed by HPLC and UV-VIS detection using external standard. ** Determination of volatile matter by IR, after drying *** Determination of salt content as sum of chloride, sulfate and methyl sulfate, Calculation based on sodium content Comment No reference materials were used for identification and quantification of Basic Red 1 and its impurities. 3.1.5. Impurities / accompanying contaminants See 3.1.4 3.1.6. Solubility In water: 40 g/l at 30°C Comment Solubility is not determined by the EC method A.6 3.1.7. Partition coefficient (Log Pow) Log Pow: -1.97 (OECD method No. 197/1981) 3.1.8. Additional physical and chemical specifications Melting point: > 200 °C Boiling point: / 7 SCCS/1332/10 Opinion on Basic Red 51 Flash point: / Vapour pressure: / Density: / Viscosity: / pKa: / Refractive index: / UV_Vis spectrum (200-800 nm): λmax 524 nm 3.1.9. Homogeneity and Stability The MIP RED 2985 in rodent feed (Batch nr. CGF-F016740/0018) was shown to be homogeneous and stable for a period of at least 21 days (variations ± 7%). The stability of MIP RED 2985 in the semi-permanent and oxidative hair dye formulations used for dermal absorption study has been assessed during a period of 24 hours at room temperature. The concentrations of active material in both semi-permanent and oxidative formulations were within ± 5% of the nominal concentration. Ref.: 1, submission II General comments on analytical and physico-chemical characterisation -Solubility of Basic Red 51 is not determined by the EC method A.6. -Stability of Basic Red 51 in typical hair dye formulations has been studied only for 24 hours. -No reference materials were used for identification and quantification of Basic Red 1 and its impurities. -The stability in an oxidative environment has not been demonstrated. 3.2. Function and uses Basic Red 51 is intended for use in direct hair dye formulations at concentrations up to 1 % and in oxidative hair dyes at a final concentration of 0.5%, after mixing with the oxidative agent. 3.3. Toxicological Evaluation 3.3.1. Acute toxicity 3.3.1.1. Acute oral toxicity Taken from SCCNFP/0735/03 Guideline: / Species/strain: Rat, Crl:CD (SD)IGS BR Group Size: 2 rats per sex at the 3 low doses, 5 rats per sex at the highest dose Test material: MIP 2985 Batch: 029753 A8AA Purity: 97.2% Dose: 500, 1000, 1500, 2000 mg/kg bw Observ. period: 14 days GLP: in compliance 8 SCCS/1332/10 Opinion on Basic Red 51 In a dose-limit test, the test substance was dissolved in cell culture grade water and administered by gavage as single doses of MIP 2985 at 2000 mg/kg bw (5 rats per sex). The treatment-related mortality occurred at this dose. Thus additional dose levels (500, 1000, 1500) were tested on 2 rats per sex per dose. Most animals, except one female and 2 males at the lowest dose (500 mg/kg bw), died within the first 24 h of the experiment. The female died on Day 1. Clinical observations observed prior to death included hypoactivity, recumbency, irregular respiration, ataxia, and squinted eye. The 2 males from the lowest dose (500 mg/kg bw) survived until the scheduled sacrifice and gained weight during the course of the study. Clinical observations in these animals included hypoactivity, irregular respiration, ataxia, squinted eyes, discoloured urine, faecal stains, and/or few faeces. Most of these findings were resolved by Day 3. At necropsy, no visible lesions were noted in the two males that survived in the 500 mg/kg dose group. In the animals that died, macroscopic findings involved the stomach, caecum, ileum, duodenum, jejunum, and/or colon. These were discoloured and/or distended filled with purple, red, or pink fluid. Lower Dose Study Guideline: / Species/strain: Rat, Crl:CD (SD)IGS BR Group Size: 5 male rats at the high dose only, 5 female rats at the low dose only Test material: MIP 2985 Batch: 029753 A8AA Purity: 97.2% Dose: 250, 500 mg/kg bw Observ. period: 14 days GLP: in compliance In this small range-finding study, dosages were reduced. 2 males receiving 500 mg/kg bw died on Day 1. All other animals survived until the end of the experiment. 3 males, including the two that died on Day 1, were hypoactive and had roughened haircoat within 4 hours. Macroscopic findings of the 2 males that died showed discoloured and/or distended stomach, caecum, ileum, duodenum, jejunum and bladder filled with purple, red, or pink fluid. 1 female was hypoactive and had liquid and/or mucoid faeces within 4h post-dosing. All surviving animals gained weight and showed no post-mortem anomalies at the end of the study. The acute oral LD5O was considered to be between 250 - 500 mg/kg bw in females and between 500 - 1000 mg/kg bw in males. Ref.: 1 3.3.1.2. Acute dermal toxicity Taken from SCCNFP/0735/03 Guideline: OECD Guideline 402 Species/strain: Rat, Crl:CD (SD)IGS BR Group Size: 10 males and females Test material: MIP 2985 Batch: 029753 A8AA Purity: 97.2% Dose: 2000 mg/kg bw Observ. period: 14 days GLP: in compliance 9 SCCS/1332/10 Opinion on Basic Red 51 The hair was clipped the day prior to the experiment. The test material was moistened with distilled water and applied at a dose of 2000 mg/kg bw. It was applied to the clipped area as a thin uniform layer from scapula to iliac crest and half way down the flank on each side of the animal’s back. The area was occluded for 24 h. The initial dermal irritation was scored and recorded 30 minutes after bandage removal on Day 1. The untreated skin of each animal served as the control. Additional dermal irritation readings were performed for each animal on Days 3, 7, 10, and 14. All animals were examined for clinical signs of ill health or mortality immediately post-dose and approximately 1, 2.5 and 4 hours post-dose, and daily thereafter. Body weights were recorded pre-dose on the day of dosing (Day 0), and on Days 7 and 14, and prior to sacrifice on Day 15 (fasted). A curtailed gross examination of the cervical, thoracic and abdominal viscera was performed. Signs of clinical toxicity included chromodacryorrhea and/or red nasal discharge. Findings were first noted 4 hours post-dose and were resolved by Day 2. Signs of dermal irritation included desquamation (slight scaling) in all males on Day 3 and in one male and one female on Day 7. There were no signs of dermal irritation at any observation interval in any of the remaining animals. All animals gained weight during the course of the study. No visible lesions were noted in any of the animals at necropsy. MIP 2985 was mildly irritating to the skin when applied dermally at a dose of 2000 mg/kg bw. Under the conditions of this study, there were also minor systemic effects. The acute dermal LD5O is greater than 2000 mg/kg bw. Ref.: 2 3.3.1.3. Acute inhalation toxicity No data submitted 3.3.2. Irritation and corrosivity 3.3.2.1. Skin irritation Taken from SCCNFP/0735/03 Guideline: OECD 404 (1981) Species/strain: albino rabbits, New Zealand Group size: 1 male, 2 females Test substance: MIP 2985 Batch: 029753A8AA Purity: 97.2% by UV-VIS; 98.8% by HPLC Dose: 0.5 g applied to 6.25 cm2 of intact skin GLP: In compliance After clipping the back and flanks, 0.5g of the test material was applied to an area of approximately 6.25 cm² under a semi-occlusive dressing. The patches were removed after 4 hours and observations made at 0.5, 1, 24, 48 and 72 hours after removal. Results No erythema or oedema was observed. The primary irritation index was 0.0. The test material was considered to be non-irritating to the rabbit skin. Ref.: 6 10 SCCS/1332/10 Opinion on Basic Red 51 3.3.2.2. Mucous membrane irritation Taken from SCCNFP/0735/03 Guideline: OECD 405 (1981) Species/strain: albino rabbits, New Zealand Group size: 3 (sex not stated) Test substance: MIP 2985 Batch: 029753A8AA Purity: 97.2% by UV-VIS; 98.8% by HPLC Dose: 0.0360 g in 0.1ml GLP: In compliance The test material was applied instilled into the lower lid of the right eye of each animal. The left eye served as the untreated control. The eyes of the 3 animals remained unrinsed for approximately 24 hours after instillation of the test material. 1, 24, 48, 72 and 96 hours and 7, 14 and 21 days after instillation of the test material, the treated eyes of the rabbits were observed for signs of ocular irritation. Corneal injury was assessed using sodium fluorescein (followed by a saline wash) on all animals at 24 hours post-instillation. Results There were no effects involving the cornea or iris. Redness of the conjunctiva was noted in all animals from 1 hour to 14 days post instillation and in 1 animal at 21 days post instillation. Chemosis was noted in 2 animals from 1 hour through to 7 days post-instillation and in 1 animal on days 14 and 21. Discharge was noted in 2 animals from 1 hour to day 14 and in 1 animal through to day 21. There was no evidence of corrosion. A maximum mean score of 7.3 (of max. 110 possible) at 1 and 24 hours post instillation was determined. MIP 2985 was moderately irritating to the eyes of the rabbits under the conditions of the study. Ref.: 7 3.3.3. Skin sensitisation Taken from SCCNFP/0735/03 Magnusson and Kligman Guinea pig maximisation test Guideline: OECD 406 Species/strain: albino guinea pigs Group size: 15 females (10 test and 5 control) Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: >98% Dose: Intradermal induction: A 5% aqueous solution with and without Freund’s Complete Adjuvant. Topical induction: A 50% preparation of test material under occlusion for 48 hours. Controls received vehicle only. Challenge: 14 days later by exposing 25% aqueous dilution of the test substance (24 hours, occlusion). GLP: In compliance 11 SCCS/1332/10 Opinion on Basic Red 51 Animals were examined 24 and 48 hours after removal of the patches for signs of erythema and oedema. Results None of the animals of the control or test group were observed with skin reactions after challenge with a non-irritating preparation of 25% of the test material. MIP 2985 was considered not to be a sensitizer under the test conditions. Ref.: 8 3.3.4. Dermal / percutaneous absorption Rat and human skin, in vitro Guideline: OECD 428 (2004) Tissue: rat split-thickness skin, 200 μm (2 males, strain: HanBrl: WIST (SPF)) Human split-thickness skin, 200 μm (2 female donors) Group size: 7 membranes per species (3 or 4 cells/donor) Skin integrity: permeability coefficient (Kp) of tritium water Kp < 3.5 x 10-3 cm/h (rat) Kp < 2.5 x 10-3 cm/h (human) Diffusion cell: automated flow-through cell system, 0.64 cm² Test substance: Red (MIP 2985) Batch: 21187FC3 3501-069 (radio-labelled, 2072 MBq/mmol, 56 mCi/mmol) Purity: 95.9% (contains about 4% inorganic salt) 98.15% (radio-labelled) Test item: aqueous solution Dose: 19 mg/cm² Dose of test substance: 0.182 mg/cm² Receptor fluid: physiological saline, 0.9% NaCl w/v Solubility receptor fluid: / Stability receptor fluid: / Method of Analysis: Liquid Scintillation Counting GLP: in compliance Study date: 18 February – 4 March 2005 The percutaneous penetration of the test substance, formulated as aqueous solution was determined in vitro using split-thickness skin membranes from rat and human skin. The formulated [14C] Red (MIP 2985) was applied onto skin membranes of 200 μm thickness at a concentration of 19 mg/cm² leading to an area concentration of 182 μg/cm². For each species 7 replicates were used. Results The totally absorbed test item was calculated based on the amount penetrated through the skin membrane (perfusate) and the amount in the remaining skin membrane after tape stripping. The total absorption amounted to 1.61% and 0.13% of the applied dose for rat and human skin membranes, respectively. The penetration of [14C] Red (MIP 2985) through rat and human skin membrane was very low. The mean flux value was calculated to be 0.067 μg/cm²/h in rat and 0.031 μg/cm²/h in human. Ref.: 1, submission II Comments Only 2 subjects were used for each study. Only non-oxidative conditions have been studied 12 SCCS/1332/10 Opinion on Basic Red 51 Human skin, in vitro Guideline: OECD 428 (2004) Tissue: human post mortem dermatomed skin, 400 μm thickness Group size: 9 membranes from 6 female donors (oxidative conditions) 9 membranes from 4 female donors (non-oxidative conditions) Skin integrity: electrical resistance, > 10 kΩ Diffusion cell: glass diffusion cell; 2.54 cm² Test substance: Basic Red 51 Batch: 028936FC3 3501-069 (radio-labelled) (50.5 mCi/mmol) Purity: 97.9% (UV-Vis spectroscopy) 98.15% (HPLC) Test item: Basic Red 51 1% formulations oxidative and non-oxidative conditions Dose: 20 mg/cm² test formulation Dose of test substance: 0.5% (100 μg/cm²) Basic Red 51 under oxidative conditions 1.0% (200 μg/cm²) Basic Red 51 under non-oxidative conditions Receptor fluid: phosphate buffered saline Solubility receptor fluid: 40 mg/ml at 30 °C Stability receptor fluid: / Method of Analysis: Liquid scintillation counting GLP: in compliance Study date: 25 February – 8 April 2005 The absorption and distribution of Basic Red 51 from two different and typical nominal 1% w/w formulations, has been measured in vitro through human skin Results Oxidative conditions 3 cells were excluded from the analysis. 13 SCCS/1332/10 Opinion on Basic Red 51 Non-oxidative conditions The results obtained in this study indicate that the absorption of Basic Red 51 through human skin from the semi-permanent or oxidative formulations is slow. 0.200% (0.399/μgeq/cm²) and 0.351% (0.351/μgeq/cm²) of the applied Basic Red 51, semipermanent and oxidative formulations respectively, was regarded as being systemically available. Ref.: 2, submission II Comment The mean + 1 SD, 0.660 (0.399 ± 0.261) μg/cm² can be used to calculate the MOS under non-oxidative conditions and 0.540 (0.351 ± 0.189) μg/cm² under oxidative conditions. 3.3.5. Repeated dose toxicity 3.3.5.1. Repeated Dose (28 days) oral toxicity Taken from SCCNFP/0735/03 Guideline: OECD Guideline 407 Species/strain: Wistar Hanlbm (SPF) rat Group Size: 10 rats per sex: control and the high dose 5 rats per sex: mid and low doses Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 15, 50 and 150 mg/kg bw Treatment Period: 28 days Observ. period: 14 days GLP: in compliance 14 SCCS/1332/10 Opinion on Basic Red 51 MIP 2985 was administered in feed for 28 days at theoretical dose levels of 15, 50 and 150 mg/kg body weight/day while the control group received the normal diet. The corresponding effective daily intake for males was 12.25, 39.59 and 135.46 mg/kg body weight, and for females, 13.16, 40.50 and 132.54 mg/kg body weight for low, mid and high dose groups respectively. A 14-day recovery period was allowed for 5 animals per sex in the control and high dose groups. The animals were examined for clinical signs daily and checked twice daily for mortality. Food consumption and body weight were recorded once pre-test, and weekly thereafter and body weight at necropsy. A functional observational battery (modified Irwin screen test), grip strength and locomotor activity were performed during week 4. Urine and blood for haematology and clinical biochemistry were collected from all animals. All animals were killed and descriptions of all macroscopic abnormalities were recorded. The major organ weights (absolute and relative) were recorded on the date of necropsy. Samples of major organs from control and top dose groups, as well as liver and thyroid glands and all gross lesions from all animals were examined by light microscopy. Only liver, thyroid gland and gross lesions were examined microscopically from rats of mid and low dose groups. All animals survived during the study. No quantitative or qualitative differences of clinical parameters from the control values were noted. A dark discoloration of the faeces was observed in all animals of the high-dose group on Day 3 dosing to Day 3 recovery. In the high dose group, urine of 9 males and 3 females was a deep yellow colour after 4 weeks but by week 6, the urine colour was normal. A lack of appetite was observed in females of the high-dose group only during the treatment period. The relative food consumption was similar in all groups. Mean body weight and body weight gain were slightly increased in the mid and low dose group males, and reduced in high-dose group females when compared with the control. There were no dose-related effects in the functional observational battery, grip strength measurement, and locomotor activity. Minor clinical laboratory changes were recorded after 4 weeks treatment between the high dose group and the controls. At the high dose, there was a slight increase in circulating lymphocytes (relative) as well as a slight decrease in segmented neutrophils (relative and/or absolute) in both sexes (p<0.05). At end of the treatment-free recovery period, these haematological parameters were found to be similar to the controls, indicating reversibility. Clinical biochemistry results showed the following findings in the high dose group: Total cholesterol level slightly increased in both males and females (p<0.01). Triglyceride level slightly increased in both males (p<0.01) and females (p<0.05); a slight increase was also recorded in the mid-dose group females (p<0.05) Phospholipid level slightly increased in both males and females (p<0.0l) Albumin level slightly increased in both males (p<0.05) and females (p<0.0l) Globulin level slightly reduced in both males (p<0.05) and females (statistically not significant) Albumin to globulin ratio slightly increased in both males and females (p<0.05). At the end of the treatment-free recovery period, there was an indication of reversibility for most parameters. However, slightly higher significant (p<0.05) values were still observed in the triglyceride, phospholipid and albumin concentrations in male rats. The authors considered these findings to primarily reflect adaptive changes in lipid metabolism. Histopathological correlates to these hepatic metabolic changes were not found. Urinalysis parameters were not adversely affected by treatment and only the reversible deep-yellow urine discoloration was considered test article-related. Organ weights and organ to body weight ratios were higher in the mid-dose group males, but were attributed to the higher terminal body weights of the rats. Macroscopically, there was a reddish brown discoloration of the thyroid gland observed at 4 weeks in 80% of the males and in all the females of the high-dose group, 40% of the males in mid-dose group and one control female. At 6 weeks, 15 SCCS/1332/10 Opinion on Basic Red 51 all the high dose recovery group animals showed thyroid discoloration. All other lesions recorded were considered to be within the normal range of background findings commonly seen in rats of this strain and age. Based on these results, the NOAEL of MIP 2985 was estimated as 12.25 mg/kg body weight/day. Ref: 4 3.3.5.2. Repeated Dose (14 days) dermal toxicity Taken from SCCNFP/0735/03 Guideline: OECD Guideline 402 Species/strain: Albino Guinea pig, Ibm: GOHI, SPF Group Size: 4 males and 4 females Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 1.0, 0.5, 0.1%w/w Observ. period: 14 days GLP: in compliance A 14-day repeated dose dermal toxicity study to assess the cumulative irritation potential with MIP 2985 was applied daily at concentrations of 1.0, 0.5 and 0.1% w/w in double-distilled water. The skin was shaved prior to the study and 2 circular areas 7 cm² were marked. The animals were shaved four times during the first week and 3 times in the second week. A depilatory cream was used on Day 15 after the final application. One male and female served as controls and received double distilled water. No grading scores were recorded from test day 2-14, as no depilation was used during this period. However after depilation on test day 15, no skin reaction was observed. These data were confirmed by histopathology. Under the experimental conditions, the study authors considered MIP 2985 to be a non-irritant when repeatedly applied to guinea pigs skin. Ref.: 3 3.3.5.3. Sub-chronic (90 days) oral / dermal / inhalation toxicity Taken from SCCNFP/0735/03 Guideline: OECD 408 (1981) and Directive 96/54/EEC Species/strain: Wistar rat, Hannover (SPF) Group Size: 10 males + 10 females per dose Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 0, 10, 50 and 250 mg/kg bw/day Exposure period: 13 weeks GLP: in compliance MIP 2985 was administered in feed at theoretical dose levels of 10, 50 and 250 mg/kg bw/day while the control group received the normal diet. The corresponding effective daily intake, based on food consumption and body weight for males was 9.8, 49.5 and 253.4 mg/kg body weight, and for females 10.1 51.2 and 247.3 mg/kg. bw for low, mid and high dose groups respectively. The animals were examined for clinical signs daily and checked twice daily for mortality/viability. Food consumption and body weight were recorded once pre-test, and weekly thereafter and body weight at necropsy. Ophthalmoscopic examination was 16 SCCS/1332/10 Opinion on Basic Red 51 performed at pre-test and at week 13 (control and high dose animals). A functional observational battery (modified Irwin screen test) was performed during pre-test and at week 12 on all rats and grip strength and locomotor activity were evaluated. At week 13, blood samples were collected for haematology and clinical biochemistry from all animals and urine samples were collected for analysis. After 13 weeks, all animals were weighed and killed and descriptions of all macroscopic abnormalities were recorded. The major tissues and organ were collected from all animals and absolute and relative weights were recorded at necropsy for adrenals, brain, heart, kidneys, liver, ovaries, spleen, testes, thyroid, and thymus. Samples of major organs from control and high-dose and all gross lesions from all animals were processed as haematoxylin-eosin slides and examined by light microscopy. Deaths did not occur during the study. No clinical signs considered related to the test substance occurred. In the high dose group, a reduction in mean food consumption was 25% in males and 20% in females. An 8% reduction in the males of the mid dose group was noted. These data were considered test substance-related. No effect of MIP 2985 was observed in any group on food consumption relative to body weight. The body weight and body weight gain in males and females of the high-dose group showed a significant (p<0.05) reduction. In the mid-dose group males, a non-significant reduction was observed. The low dose group was not affected. Ophthalmologic findings were noted in a small proportion of animals from all groups during the study. The following findings, considered unrelated to treatment, occurred at similar incidences in the high and in the control group: persistent pupillary membranes, comeal opacities, anterior synechia and persistent hyaloid vessels in the vitreous body. From the functional observational battery, grip strength measurement and locomotor activity, some incidental findings were recorded: decreased pupil diameter and contraction response in one male of the high-dose group, increased aggressiveness and fearfulness in females of the high-dose group; a statistically significant decreased grip strength of both forelimb and hind limb in group 4 was attributed to the reduced body weight of the animals. Haematology results showed a significant (p<0.05) increase in methaemoglobin levels in males and females of the high dose group. A dose-related decrease of the number of white blood cells (p<0.01) was noted in high dose males along with a significantly (p<0.01) reduced absolute number of lymphocytes; these changes were considered dose-related. The clinical biochemistry parameters showed a significant (p<0.01) increase of gamma-glutamyl transferase levels in rats of the high dose group (212 % and 202 % in males and females, respectively). The high dose group animals also showed significant (p<0.01) decreases in creatinine levels, in amount of total protein accompanied by disproteinemia, and in urea and uric acid levels. Glucose, total bilirubin and phospholipids levels were decreased in high dose males; total cholesterol, creatine kinase and alkaline phosphatase were increased in high dose females. The authors considered these findings to be metabolic adaptations to MIP 2985 and of no toxicological relevance. No abnormalities were revealed by urinalysis results. Decreased (p<0.05) absolute organ weights and/or organ weight ratios of most organs were recorded for males in the mid and high dose groups and for females in the high dose group. Macroscopically, there was a reddish discoloration of the forestomach mucosa, the thymus was reduced in size (high dose), and the thyroid gland was discoloured red-brown (mid dose) or black (high dose). The microscopic findings occurred mainly in the high dose group and included the following: Minimal to slight diffuse hepatocellular hypertrophy associated with moderately increased incidence of focal necrosis, and decreased haematopoiesis. The spleen showed a decreased incidence of increased haematopoiesis. In the kidneys an increased incidence of intratubular granular casts and transitional cell hyperplasia occurred in females. Non-glandular stomach dilation was observed in one male 17 SCCS/1332/10 Opinion on Basic Red 51 and one female in the high dose group and most of the high dose animals showed congestion; a low incidence of glandular stomach erosion also occurred. In the thymus, the observed cortical atrophy was considered as a condition of stress rather than an immunotoxic effect. The ovaries showed an interstitial cell hyperplasia considered as a nonneoplastic proliferation of cellular components of the interstitial gland. An increased diffuse fatty change was observed in the adrenal cortices of males and females of the high dose group. Thyroid of mid- and high-dose males and females showed an increased incidence of follicular cell hypertrophy, pigmented colloid, and pigmented follicular cells. The pituitary gland of males of these two groups showed an increased incidence of TSH/ACTH cell hypertrophy. Ref.: 5 Comment The study authors estimated the NOAEL to be 50 mg/kg bw/d, and the NOEL, 10 mg/kg bw/day, the lowest dose used. However, in light of the effects on the thyroid and pituitary at 50 mg/kg bw/d and higher, The SCCNFP concluded that the NOAEL should be 10 mg/kg bw/day. 3.3.5.3. Chronic (> 12 months) toxicity No data submitted 3.3.6. Mutagenicity / Genotoxicity 3.3.6.1. Mutagenicity / Genotoxicity in vitro Taken from SCCNFP/0735/03 Bacterial Reverse Mutation Test Guideline: OECD 471 Species/strain: S. typhimurium TA98, TA100, TA1535 and TA1537; E. coli WP2 uvrA Replicates: Triplicate plates, 2 independent tests Test substance: MIP 2985 Batch: 029753A8AA Purity: 98.8% by HPLC Concentrations: S. typhimurium Without metabolic activation Test #1: 3.33 – 333 μg/plate With metabolic activation (rat liver) Test #1: 3.33 – 500 μg/plate With reductive metabolic activation (hamster liver) Test #1: 3.33 – 500 μg/plate E. coli With and without metabolic activation (normal & reductive systems) Test #1: 3.33 – 333 μg/plate S. typhimurium Without metabolic activation Test #2: 3.33 – 200 μg/plate (the last 2 concentrations are toxic) With metabolic activation (rat liver) Test #2: 3.33 – 333 μg/plate With reductive metabolic activation (hamster liver) Test #2: 10 – 500 μg/plate 18 SCCS/1332/10 Opinion on Basic Red 51 E. coli Without metabolic activation (normal & reductive systems) Test #2: 3.33 – 333 μg/plate (the last 2 concentrations are toxic) With metabolic activation (normal & reductive systems) Test #2: 3.33 – 333 μg/plate (the last concentrations were toxic) GLP: In compliance MIP 2985 was investigated for gene mutation in Salmonella typhimurium and Escherichia coli using the direct plate incorporation method both with and without S9-mix. S9-mix from different origin was used. Standard: Sprague-Dawley rats injected i.p. with AroclorTM 1254; reductive: uninduced male Golden Syrian hamsters. Negative and positive controls were in accordance with the OECD guideline. Results Test # 1 In the absence of activation, no dose related and biologically relevant increase in revertant numbers was observed, in all but one tester strains (strain TA 98). The increase is according to the OECD criteria. In the presence of rat (commonly used S9) activation: No dose related and biologically relevant increase in revertant numbers was observed, in any of the tester strains used (S. typhimurium or E. coli). In the presence of hamster (reductive S9) activation: an increase in revertant numbers was observed for TA 98 - a frameshift tester strain - at the dose of 100 μg/plate. There is a trend for a dose relationship until cytotoxicity that could have prevented the expression. For the other strains (including E. coli), no statistically or biologically relevant increase of mutant frequencies have been observed as compared to the controls. Positive controls showed the expected response. Test # 2 In the absence of activation, no dose related and biologically relevant increase in revertant numbers was observed, in any of the tester strains. In the presence of rat activation, no dose related and biologically relevant increase in revertant numbers was observed, in any of the tester strains. In the presence of hamster (reductive S9) activation, a statistical and dose related significant increase in revertant numbers was observed for TA 98. Conclusions Based on the reversion rate, and under the conditions of the 2 assays performed, it could be concluded that the test agent Basic Red 51, in the presence of reductive S9-mix, shows clear evidence of mutagenic activity in tester strain TA 98. Such positive results may be the consequence of the metabolizing properties (azo-reduction) of the S9-mix fraction from hamster. The higher amount of aromatic amines released, which are metabolised to electrophilic molecules that may react with DNA, might explain the positive results observed in TA 98. Ref.: 13 In Vitro Mammalian Cell Gene Mutation Test Guideline: OECD 476 Cells: Chinese Hamster V-79 cell line (mutation at the hprt locus) Replicates: 2 independent tests Test substance: MIP 2985 in serum free medium Batch: 11R-1 Purity: 60 % Concentrations: Test #1 Without metabolic activation: 3 – 300 μg/ml (6 doses) 19 SCCS/1332/10 Opinion on Basic Red 51 With metabolic activation: 3 – 400 μg/ml (6 doses) Test #2 Without metabolic activation : 3 – 150 μg/ml (6 doses) With metabolic activation : 3 – 200 μg/ml (6 doses) GLP: In compliance MIP 2985 in serum free medium was investigated for gene mutation at the hprt locus in V79 Chinese hamster cell line. S9-mixes from different origins were used: Standard: Sprague-Dawley rats injected i.p. with AroclorTM 1254 in the second test; reductive: uninduced male Golden Syrian hamsters in the first test. Results Toxicity occurred at dose of 100 μg/ml and above with and without activation in both assays. No visible precipitation was observed. In test #1 and in test # 2 with S9-mix, no statistically or biologically significant increase in mutant frequency was observed over the concurrent solvent controls for any doses in all conditions. In test # 2 without S9-mix, the negative control value was extremely low (1.4 per million cells). The treated doses showed an increase in mutant frequency without dose dependence. Therefore, the increases observed are thought to be devoid of biological relevance. Conclusions MIP 2985 did not demonstrate mutagenic potential on the hprt gene of V79 cells. Ref.: 15 In Vitro Mammalian Chromosomal Aberration Test Guideline: OECD 473 Species/strain: Human lymphocytes (pooled cultured blood samples) Replicates: Duplicate cultures, 2 independent experiments Test substance: MIP 2985 in cell culture grade water Batch: 029753A8AA Purity: 98.8% by HPLC Concentrations: Test #1 3 h without S9-mix: 20.2, 28.8, 41.2 μg/ml 3 h with S9-mix: 41.2, 58.8, 84, 120 μg/ml Test # 2 3 h with S9-mix: 22.5, 45, 90, 120 μg/ml 22.2 h without S9-mix: 17.5, 22.5, 30, 35 μg/ml GLP: In compliance MIP 2985 was investigated for induction of chromosomal aberrations in human pooled lymphocytes. The test concentrations were established from a preliminary toxicity study. Liver S9 fraction from Aroclor 1254-induced rats was used as the exogenous metabolic activation system. Results pH was not significantly changed at the maximum dose tested of 4990 μg/ml(pH =7.5). Molarity for the maximum dose tested in the assay (2990 μg/ml) was found to exceed slightly the maximum value recommended (10 mM = 2798 μg/ml). However, the small deviation (2990-2798 = 192) is devoid of biological relevance. 20 SCCS/1332/10 Opinion on Basic Red 51 No statistically or biologically significant increase in the number of aberrant cells was observed as compared to the corresponding solvent control. No significant increase of aneuploidy and/or endoreduplicated cells was noted. Conclusions Basic Red 51 is considered negative for clastogenic and/or aneugenic activity in human lymphocytes in the presence or the absence of activation under the conditions of the test. Ref.: 14 Comment The tests have been performed only with the standard metabolic activation system (rats injected i.p. with AroclorTM 1254). No definitive conclusions can be made on the basis of this test. 3.3.6.2 Mutagenicity/Genotoxicity in vivo Taken from SCCNFP/0735/03 Mammalian Erythrocyte Micronucleus Test Guideline: OECD 474 (1983) Species: NMRI mice Group sizes: 6 male and 6 female Material: MIP 2985 Batch: 0017 Purity: > 88% Dose levels: MIP 2985 was administered by 1 single oral dose of: 10, 33 and 100 mg/kg bw for the 24 h sacrifice time 100 mg/kg bw for the 48 h sacrifice time. GLP: In compliance MIP 2985 was investigated for induction of micronuclei in the bone marrow cells of male or female mice. Dose levels were determined by a preliminary range finding study in which observable toxic effects were seen at doses of 1000 and 2000 mg/kg bw. The substance was administered by a single intragastric gavage and the groups of animals sacrificed 24, 48 and 72 hours after administration. Negative and positive controls were in accordance with the OECD guideline. Results A total of at least 1000 erythrocytes were examined from each animal; the incidence of micronucleated erythrocytes and the ratio of polychromatic erythrocytes to normochromatic erythrocytes were calculated. In a pre-experiment for toxicity, all mice treated with 250 mg/kg bw died within 6 h. Consequently, 100 mg/kg bw was chosen as the highest dose. At this dose in the preexperiment clinical signs (reduction of spontaneous activity, eyelid closure, apathy, abdominal position and occasionally tumbling movement and convulsions up to at least 6 h) were observed which may indicate to systemic bioavailability. The mean number of NCE (mature differentiated cells) was not significantly increased after treatment as compared to controls; this reflects the lack of cytotoxicity of the test agent. Both at the 24 h and 48 h sampling time, no statistically significant or biologically relevant increase in the incidence of micronucleated polychromatic erythrocytes over the concurrent vehicle control values was observed for any dose levels. Conclusion 21 SCCS/1332/10 Opinion on Basic Red 51 Under the conditions of the test it can be concluded that MIP 2985, at doses at which some signs of clinical toxicity were recorded, does not induce statistically significant increase in the frequency of micronucleated PCE. Therefore, MIP 2985 is not clastogenic and/or aneugenic in this mouse bone marrow micronucleus test. Ref.: 17 Comment Although the mean number of NCE was not significantly increased after treatment as compared to controls reflecting a lack of cytotoxicity of the test agent, clinical signs found in the pre-experiment in treated animals up to 6 h after the highest dose may point to systemic bioavailability of MIP 2985. Unscheduled DNA Synthesis (UDS) Test with Mammalian Liver Cells in vivo Guideline: OECD draft guideline 486 Species/strain: Wistar rat, HanIbm: WIST (SPF) strain Group size: 4 male rats Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: > 98% Dose levels: 0, 75 and 300 mg/kg bw, by single oral gavage Exposure time: 16 hours: all dose groups; 2 h: high dose group GLP: In compliance MIP 2985 was investigated for induction of unscheduled DNA synthesis in rat hepatocytes at 2 doses 75 and 300 mg/kg bw. Positive controls were in accordance with OECD guideline for 60 hours treatment and UDS analysed by autoradiography. 3 males were used per dose/time sampling. Results The viability of the hepatocytes was not substantially affected by the treatments. Treatment with MIP 2985 at doses of 75 & 300 mg/kg yielded group mean NNG values less than 0 for both experiment time and caused no significant increases, as compared to control, in the mean nuclear grain counts. Conclusion The study is inadequate for evaluation. According to OECD guidelines, a positive control should have been included for the short time exposure. Ref.: 16 Submission II, 2005 Unscheduled DNA Synthesis (UDS) Test with Mammalian Liver Cells in vivo Guideline: OECD 486 (1997) Species/strain: rat, Wistar Hanlbm: WIST (SPF) Group size: 3 males per dose and time Test substance: Red MIP 2985 Batch: 21187FC3 Purity: 95.5% Vehicle: deionised water Dose levels: 125 and 250 mg/kg bw Volume: 10 ml/kg bw Route: oral, once 22 SCCS/1332/10 Opinion on Basic Red 51 Exposure time: 2 and 16 hours Positive control: N,N'-dimethylhydrazinedihydrochloride (DMH): 2h preparation interval  2-acetylaminofluorene (2-AAF): 16h preparation interval GLP: in compliance Study period: 8 July - 10 September 2004 The test item RED MIP 2985 was assessed in the in vivo UDS assay for its potential to induce DNA repair (UDS) in the hepatocytes of rats. The highest dose used in the main experiment was estimated in a pre-experiment to be the maximum applicable dose at which clinical signs of toxicity occurred without affecting the survival rates. Appropriate positive controls were included in the assay. Results The viability of the hepatocytes was not substantially affected by the in vivo treatment with the test item. No dose level of the test item revealed UDS induction in the hepatocytes of the treated animals as compared to the current vehicle controls. Neither the nuclear grains nor the resulting net grains were distinctly enhanced due to the in vivo treatment of the animals with the test item for 2 hours or 16 hours, respectively. Therefore, the net grain values obtained after treatment with the test item were consistently negative. In addition, no substantial shift to higher values was obtained in the percentage of cells in repair. In vivo treatment with DMH or 2-AAF revealed distinct increases in the number of nuclear and net grain counts. Conclusion Under the experimental conditions reported, the test item did not induce DNA-damage leading to increased repair synthesis in the hepatocytes of the treated rats. Therefore, RED MIP 2985 is considered to be non-genotoxic in this in vivo UDS test system. Ref.: 3, submission II 3.3.7. Carcinogenicity No data submitted 3.3.8. Reproductive toxicity 3.3.8.1. Two generation reproduction toxicity No data submitted 3.3.8.2. Teratogenicity Taken from SCCNFP/0735/03 Guideline: OECD 414 Species/strain: Wistar rat, Hanlbm (SPF) Group Size: 22 mated females per dose Test material: MIP 2985 Batch: CGF-F016740/0018 Purity: 98% Dose: 0, 20, 60 and 180 mg/kg bw/day Treatment period: Days 6 to 17 post coitum GLP: in compliance The animals were dosed with 10ml /kg by gavage once daily. The control group received only the vehicle (double distilled water). 23 SCCS/1332/10 Opinion on Basic Red 51 Food consumption was recorded for the following periods: days 0-6, 6-12, 12-18 and 18-21 post coitum; body weight was recorded daily from day 0 until day 21 post coitum. Clinical observations and mortality were recorded at least twice daily. At post mortem, on day 21, necropsy, all internal organs were examined with emphasis on the uterus, uterine contents, position of foetuses in the uterus and number of corpora lutea. The uteri of all females with live foetuses were weighed at necropsy on day 21 post coitum; the foetuses were removed from the uterus, weighed, sexed, and examined for gross external abnormalities. Maternal deaths did not occur during the study and clinical signs of toxicity or reactions to treatment did not occur in any group. A dose-dependent reduction of the food consumption was observed during the treatment period in the mid- and high-dose groups (-7.6% and 23.5% respectively); an increase of + 5.5 % was observed in the high dose group after the treatment period. The mean body weight gain was reduced only in the high dose group, these data being correlated with the decreased food consumption. Mean post-implantation loss and mean number of foetuses per dam were similar between treated and control dams in the low- and mid-dose groups. The increased post-implantation loss observed only in the mid dose group was considered to be incidental. No abnormal findings were noted in any female of any treated group. The mean foetal body weights were similar in all groups except for a slight increase observed in the mid-dose group, which was attributed to the slightly reduced mean number of foetuses per dam. The sex ratio for foetuses was similar in all groups. Some abnormal findings were noted during foetal examination: externally, one cleft palate was observed in the low dose group. Skeletal changes included a small number of foetuses in each group with abnormally shaped sternebrae. These were not considered related to the test substance, as they were within the range for historical controls. Under the experimental conditions, MIP 2985 was not toxic to embryo or foetus and was not teratogenic. The study authors considered the NOEL for the maternal effects is 20 mg/kg bw/day and for foetal effects the NOEL is 180 mg/kg bw/day. Ref.: 11 3.3.9. Toxicokinetics Bioavailability after oral administration, mice Guideline: OECD 417 (1984) Species/strain: Hybrid mice, NMRI, SPF-quality Group Size: 15 females Test material: Vibracolor® Red (MIP 2985) Batch: 21187FC3 3501-069 (radio-labelled) (2072 MBq/mmol; 56 mCi/mmol) Purity: 95.9% (containing about 4% inorganic salts) 98.15% (radio-labelled) Vehicle: water (MilliQ) Dose: 33 mg/kg bw Administration: oral, single gavage GLP: in compliance Study period: 1 – 14 September 2004 The radiolabelled Vibracolor® Red (MIP 2985) test material had a final specific radioactivity of 846 kBq/mg (22.86 μCi/mg). Fifteen female mice were dosed by gavage at a nominal dose level of 33 mg/kg body weight based on a target volume of 0.5 ml per 100 g body weight. 24 SCCS/1332/10 Opinion on Basic Red 51 At intervals of 0.5, 1, 2, 4, and 24 h after dosing, three animals were killed by CO2. Blood and femurs from these animals were taken. Radioactivity was measured by liquid scintillation of plasma and both femurs of each animal. Results The test item was rapidly absorbed from the gastrointestinal tract. In plasma, the highest concentration of radioactivity 2.016 ppm (μg Red (MIP 2985) equivalents/g) was found 0.5 h after dosing. After reaching the maximum, the concentration in plasma decreased rapidly with an initial half-life of 1.3 h (initial phase, 1-2 h). Between 4 and 24 h after dosing, a second, slower depletion phase (2-24 h) was seen with a depletion half-life of 8 hours. By 24 hours, the plasma concentration had decreased to 0.117 ppm. The AUC was 14.12 μg h/g. In the femur, the highest concentration of radioactivity 4.23 ppm (μg Red (MIP 2985) equivalents/g) was found 1 h after dosing. By 24 h post-dosing the concentration in femur decreased to 0.228 ppm. The depletion kinetics in the femur was similar to that seen in the plasma, with an initial half-life of 1.3 h and a depletion half-life of 10 h. It was assumed that the bone marrow of the femur was the main site of radioactivity. Ref.: 4, submission II ADME after oral and dermal administration, rat Guideline: OECD 417 (1984) Species/strain: Rat, Wistar HanBrl:WIST (SPF): outbred, Group Size: 17 females (oral: 9; dermal: 8) Test material: Vibracolor ® Red (MIP 2985) Batch: 21187FC3 3501-069 (radio-labelled) (2072 MBq/mmol; 56 mCi/mmol) Purity: 95.9% (containing about 4% inorganic salts) 98.15% (radio-labelled) Vehicle: water Dose: 50 mg/kg bw (gavage) 0.2 mg/cm² (dermal administration) Exposure period: 30 minutes (dermal administration) GLP: in compliance Study period: 21 August 2004 – 11 January 2005 Oral study Nine females were dosed by gavage at a nominal dose level of 50 mg/kg body weight with [14C] labelled RED (MIP 2985) with a final specific radioactivity of 204 kBq/mg (5.5 μCi/mg). Blood was taken at 0.5, 1, 2 4, 6, 8 h from selected animals. Terminal blood was taken at the three post-dosing sacrifice times of 24, 48 and 96 h (3 animals). Urine and faeces were collected over 0-24, 24-48, 48–72, and 72-96 h. At the end of the study period, the cagewash was also collected for analysis. Results Red (MIP 2985) was rapidly and almost completely absorbed from the gastrointestinal tract. The apparent extent of absorption, based essentially on the amount renally excreted, was calculated to at least 62 % of the dose. There appeared to be some bilary recirculation. The maximum concentration (Cmax) in blood and plasma was reached within 1 hour after administration accounting to 3.933 ppm and 4.785 ppm Red (MIP 2985 equivalents), respectively. A second lower maximum in blood and plasma was observed 6 hours post-dosing. After reaching the second maximum, blood and plasma showed a biphasic depletion half-life of 15 and 9 h for the initial phase and 206 and 40 h for the second slower phase, respectively. The oral dose was rapidly eliminated. Within 24 hours, 74 % of the dose was totally excreted, (53 % in urine, 17 % in the faeces and 4 % collected in the cage wash). By 96 25 SCCS/1332/10 Opinion on Basic Red 51 days post-dosing, 93 % of the dose was eliminated. Only 0.5 % of the dose is still remaining in tissues and carcass. The highest residue levels in tissues and organs were observed 24 hours post-dosing in the kidney (5.3643 ppm) and liver (4.0287 ppm), with low levels in fat (0.3267 ppm). The depletion kinetics in tissues and organs was similar to that seen in blood and plasma. The initial half-life was calculated to be in the range of 11-17 hours followed by a second slower phase with half life of 29-56 hours. Two major metabolites, 1,3-dimethyl-imidazole-2-amine (about 50 % of the dose) and 1,4diacetoaminobenzene (about 20% of the dose) and 6 minor metabolites were seen in urine and faeces. Unchanged Red (MIP 2985) (1.5 % of the dose) was found in the faeces. Due to the structure of the identified metabolites, the metabolic pathway suggested that the 1,3dimethyl-imidazole-2-amine was a cleavage product of Red (MIP 2985) and that the 1,4diacetoaminobenzene was the di-acetylation product of Red (MIP 2985) after demethylation of the (4-dimethylamino)phenyl site and cleavage of the azo bond. Dermal study Eight females were exposed dermally to [14C] labelled RED (MIP 2985) at 0.2 mg/cm2 (the highest achievable water solubility of the test material) for 30 min. The final specific radioactivity was 241 kBq/mg (6.52 μCi/mg at pH 7.7). At 24 and 96 h post-application, four animals were killed. The exposure site was washed and tape stripped to remove the unabsorbed test material. Results After 30 min dermal exposure to [14C] Red (MIP 2985), only 1.29% of the applied dose was systemically absorbed; 93-94% of the dose could be dislodged from the application site. After the skin washing, 2% of the dose remained in/on the treated skin area. The remaining radioactivity in/on the application site was found in the stratum corneum. Less than 0.01% of the dose was determined in the dermis and subcutis. The quantity of test substance in the stratum corneum was virtually constant throughout the 96 h study period, indicating low penetration into deeper skin layers. The systemically absorbed test substance was rapidly excreted with the urine (1.08 %) and the faeces (0.14%). Conclusion Red (MIP 2985) was rapidly and almost completely absorbed after oral dosing. The systemically absorbed test substance was metabolized and eliminated with urine and faeces. Dermal absorption was very low. Ref.: 5, submission II 3.3.10. Photo-induced toxicity 3.3.10.1. Phototoxicity / photoirritation and photosensitisation Taken from SCCNFP/0735/03 Guideline: OECD draft (1995) “Acute dermal photoirritation dose-response test” Species/strain: Himalayan spotted guinea pigs Group size: 15 males (10 test and 5 control) Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: > 98% Dose: 0.025 ml/2cm2 of 50%, 25%, 15% and 10% aqueous dilutions. Skin at test sites treated 30 minutes before application with 2% DMSO in ethanol. GLP: In compliance MIP 2985 was applied epicutaneously to skin areas of 2 cm2 on both flanks. 30 minutes after application of the test materials, the left flank was exposed to 20J/cm2 UVA. The right 26 SCCS/1332/10 Opinion on Basic Red 51 flank remained unexposed to light after treatment and served as a reference site. Control animals were exposed to UVA similarly but treated with solvent only. Cutaneous reactions were evaluated at 24, 48 and 72 hours after application. Results There were positive reactions in all animals at the sites treated with 50% of the test material, both with and without UVA. The reactions were considered to be an irritant effect unrelated to UVA exposure. There were no other reactions and it was concluded that under the test conditions, MIP 2985 does not exhibit a phototoxic potential in the guinea pigs of the strain and age. Ref.: 9 Photo-allergy Guideline: CTFA Safety Testing Guideline Species/strain: Himalayan spotted guinea pigs Group size: 30 males (20 test and 10 control) Test substance: MIP 2985 Batch: CGF-F016740/0018 Purity: >98% Dose: Induction: nuchal skin of the test group shaved. Test site of 6-8 cm² defined by four 0.1ml intradermal injections of Freund’s Complete Adjuvant and physiological saline 1:1 into the corners. 0.1ml of 50% MIP 2985 applied to area of 8 cm². The site was then exposed to 1.8J/cm² UVB and 10J/cm² UVA. The application and irradiation (after shaving) was repeated on days 3, 6, 8 and 10. Challenge: 3 weeks after the start of the induction procedure, test sites of 2 cm² were marked and 0.025 ml/2cm2 of 50%, 25%, 15% and 10% were applied to the left flank and then irradiated with 10J/cm² UVA. After irradiation of the left flank, the right flank was treated with the test materials without irradiation. GLP: In compliance 3 hours prior to the first readings, the application sites were depilated with a depilatory cream. Each animal was assessed for reactions at 24, 48 and 72 hours after challenge. Results A very slight red discoloration produced by the test material at the application sites were observed from test days 2 to 22. No skin reactions were observed in the test animals treated with 50% test material during the induction phase. No reactions were observed on the irradiated or non-irradiated flanks of the control and test animals treated with 50, 25, 15 and 10% test material. The data indicated that MIP 2985 does not exhibit photoallergic potential. Ref.: 10 3.3.10.2. Phototoxicity / photomutagenicity / photoclastogenicity No data submitted 3.3.11. Human data No data submitted 27 SCCS/1332/10 Opinion on Basic Red 51 3.3.12. Special investigations No data submitted 3.3.13. Safety evaluation (including calculation of the MoS) CALCULATION OF THE MARGIN OF SAFETY Basic Red 51 (non-oxidative) Absorption through the skin A (mean + 1SD) = 0.66 μg/cm² Skin Area surface SAS (cm2) = 2580 cmDermal absorption per treatment SAS x A x 0.001 = 0.383 mg Typical body weight of human = 60 kg Systemic exposure dose (SED) SAS x A x 0.001/60 = 0.006 mg/kg No Observed Adverse Effect Level NOAEL = 10 mg/kg bw (subchronic, oral, rat) MOS = 1567 3.3.14. Discussion Physico-chemical specification Basic Red 51 is intended for use in direct hair dye formulations at concentrations up to 0.2% and in oxidative hair dyes at a final concentration of 0.1%, after mixing with the oxidative agent. Stability of Basic Red 51 in typical hair dye formulations has been studied only for 24 hours. No reference materials were used for identification and quantification of Basic Red 1 and its impurities. The stability in an oxidative environment has not been demonstrated. General toxicity The acute oral LD5O is considered to be between 250 - 500 mg/kg bw in females and 500 -1000 mg/kg bw in males. The acute dermal LD5O is greater than 2000 mg/kg bw. The NOAEL was considered to be 12.25 mg/kg bw/day in the repeated dose oral toxicity study. In the sub-chronic oral toxicity study, due to the effects on the thyroid and pituitary, the NOAEL was set at 10 mg/kg bw/day. Basic Red 51 was neither embryotoxic nor foetotoxic nor teratogenic in the performed assays. The NOEL for the maternal effects was considered to be 20 mg/kg bw/day and 180 mg/kg bw/day for foetal effects. Basic Red 51 was rapidly absorbed after oral dosing. The systemically absorbed test substance was almost completely metabolized and eliminated with urine and faeces. Dermal absorption was very low. Irritation, sensitisation Basic Red 51 is considered as a non skin irritant in a skin irritation study; however, the acute dermal toxicity study shows that the substance is mildly irritating. Basic Red 51 is moderately irritant to rabbit eye and a non sensitizer. 28 SCCS/1332/10 Opinion on Basic Red 51 Dermal absorption The dermal absorption of Basic Red 51 was 0.399 μg/cm² and 0.351 μg/cm² in non oxidative and oxidative conditions, respectively. The mean + 1 SD, 0.660 (0.399 ± 0.261) μg/cm² can be used to calculate the MOS under non-oxidative conditions and 0.540 (0.351 ± 0.189) μg/cm² under oxidative conditions. Mutagenicity Basic Red 51 has been tested for the three genetic endpoints: gene mutation, structural and numerical chromosomal aberrations. It induced frame shift mutations in bacteria (strain TA98) when reductive metabolic activation was used. In mammalian cells with different metabolic activation, including reductive activation, no gene mutations were induced. An in vitro chromosomal aberration study was inconclusive due to inadequate metabolic activation. However, the test substance was not clastogenic or aneugenic in an in vivo micronucleus assay and no DNA repair was induced in an adequate performed in vivo UDS assay. Therefore, it is concluded that Basic Red 51 does not have genotoxic potential in vivo Carcinogenicity No data submitted 4. CONCLUSION Based on the data provided, the SCCS is of the opinion that the use of Basic Red 51 with a maximum on-head concentration of 1% in non-oxidative hair dye formulations does not pose a risk to the health of the consumer. For a final assessment of the use of Basic Red 51 with a maximum on-head concentration of 0.5% in oxidative hair dye formulations, data on the stability in an oxidative environment should be provided. 5. MINORITY OPINION Not applicable 29 SCCS/1332/10 Opinion on Basic Red 51 6. REFERENCES Submission I, 2002 A. Ciba Speciality Chemicals, Grenzach, Report on Analytical Test No: 9810194B (06.04.1998). Determination of the Partition Coefficient n-Octanol/Water. B. Institute of Safety & Security, Test report: 1997.0613 (05.05.1997). Exothermic decomposition (page2 of 2) 1. Covance Laboratories, Inc. report n° 6623-145. (21 January 2002). Acute oral toxicity study in rats with MIP 2985 2. Covance Laboratories, Inc. report n° 6623-163. (21 January 2002). Acute dermal toxicity study in rabbits with MIP 2985 3. RCC Project 733691. (2000). 14-day repeated dose dermal toxicity study in the albino Guinea pig 4. RCC Project 680905. (1998). 28-day oral toxicity (feeding) study in the rat 5. RCC Project 681322. (1998). Subchronic 13-week oral toxicity (feeding) study in the rat 6. Covance Laboratories, Inc. report n° 6623-150. (19 October 2001). Primary dermal irritation study in rabbits with MIP 2985 7. Covance Laboratories, Inc. report n° 6623-142. (21 January 2002) Primary eye irritation study in rabbits with MIP 2985 8. RCC Project 720900. (1999). Contact hypersensitivity in albino Guinea pig: maximization-test 9. RCC Project 699423. (1998). Determination of phototoxicity in albino Guinea pig 10. RCC Project 699412. (1998). Determination of photoallergenicity in albino Guinea pig 11. RCC Project 699401. (1999). Study for effects on embryo-fetal development in the rat 12. An-eX analytical services ltd. Report CSC/6b/98 (1999). In vitro human skin penetrationunder 'in-use' conditions 13. Covance Laboratories, Inc. Report No. 22734-0-422OECD (July 2002).Salmonella-Escherichia coli / Mammalian-microsome reverse mutation assay with MIP Red 2985: Preincubation method with a confirmatory assay using standard and reductive exogenous metabolic activation systems 14. Covance Laboratories, Inc. Report No. 22734-0-449OECD (July 2002). Chromosomal aberrations in cultured human peripheral blood lymphocytes with MIP 2985 15. RCC Project 559600. (1996). Gene mutation assay in Chinese Hamster V79 cells in vitro (V79 / HPRT) 16. RCC Project 604701. (1998). In vivo / in vitro unscheduled DNA synthesis in rat hepatocytes 17. RCC Project 592200. (1997). Micronucleus assay in bone marrow cells of the mouse Submission II, 2005 A. Ciba Specialty Chemicals Inc., CH-4002 Basel, Certificate of Analysis of VIBRACOLOR RUBY RED, Item 1681657, Lot 21187FC3 of 23 July 2003 and Batch no.: 28936FC3 of 20 August 2003. B. RCC Umweltchemie, CH-Itingen, Project 680905 (April 27, 1998). Determination of concentration, homogeneity, and stability of MIP 2985 in rodent feed. Analytical report to the 28-day oral toxicity (feeding) study with MIP 2985 in the rat. C. RCC LTD, Environmental Chemistry & Pharmanalytics Division, CH-Itinge., Project 681322 (December 04, 1998). Determination of concentration, homogeneity, and stability of MIP 2985 in rodent feed. Analytical report to the 13-week oral toxicity (feeding) study with MIP 2985 in the rat. 1. RCC Ltd Environmental Chemistry & Pharmanalytics, CH-4452 Itingen Switzerland, RCC Study Number858626, (13 July 2005) 14C-RED (MIP 2985): The Percutaneous 30 SCCS/1332/10 Opinion on Basic Red 51 Penetration of [14C] Red (MIP 2985) Through Rat and Human Split-Thickness Skin Membranes (in vitro) 2. Central Toxicology Laboratory, ALDERLEY PARK MACCLESFIELD CHESHIRE SK10 4TJ UK, Study Report Number: CTL/JV1780/REGULATORY/REPORT (16 June 2005). BASIC RED 51: In Vitro Absorption through human dermatomed skin 3. RCC Cytotest Cell research GmbH, RCC-CCR Project 840300. (26. January 2005). In vivo / in vitro unscheduled DNA synthesis in rat hepatocytes 4. RCC Ltd, Environmental Chemistry & Pharmanalytics, CH-4452 Itingen, RCC Study number 854507(June 16, 2004). 14-C RED (MIP 2985): Bioavailability after oral administration to female mice. 5. RCC Ltd, Environmental Chemistry & Pharmanalytics, CH-4452 Itingen, RCC Study number 854510 (June 16, 2005). 14-C RED (MIP 2985): Absorption, Distribution, Metabolism and Excretion after oral and dermal administration to female rats 31 

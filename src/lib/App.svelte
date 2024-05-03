@@ -17,7 +17,7 @@
 
 	const scrapeRDT = (txt) => {
 		const regexRepeatedDoseToxicity =
-			/3\.3\.5\.\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6\.\s+Mutagenicity \/ Genotoxicity)/;
+			/3\.3\.5[\.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6[\.]*\s+Mutagenicity \/ Genotoxicity)/;
 
 		const repeatedDoseToxicityTxt = txt.match(regexRepeatedDoseToxicity)?.[0];
 
@@ -28,7 +28,7 @@
 		let matchesRepeatedDoseToxicity = repeatedDoseToxicityTxt?.match(pattern);
 		// ?.map((d) => d.substring(10));
 
-		// console.log('matches', matches);
+		console.log('matches rdt', matchesRepeatedDoseToxicity);
 		return matchesRepeatedDoseToxicity;
 	};
 
