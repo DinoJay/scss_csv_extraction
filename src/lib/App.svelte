@@ -11,6 +11,7 @@
 	// export let data;
 
 	import { onMount } from 'svelte';
+	import Spinner from './Spinner.svelte';
 
 	let allpromiseTxt: Promise<string[]> | null = null;
 	let paragraph: number | null = null;
@@ -18,19 +19,13 @@
 	const scrapeRDT = (txt) => {
 		const regexRepeatedDoseToxicity =
 			/3\.3\.5[\.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6[\.]*\s+Mutagenicity \/ Genotoxicity)/g;
-		// const regexRepeatedDoseToxicity = /.*/;
 
 		const rdtMatches = [...txt.matchAll(regexRepeatedDoseToxicity)];
 		const rdtText = rdtMatches[rdtMatches.length - 1]?.[0];
-		// console.log('rdtText\n', rdtText);
 
 		let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
 
 		let matchesRDT = rdtText?.match(pattern);
-		// console.log('matchesRDTGuideline\n', matchesRDT);
-		// ?.map((d) => d.substring(10));
-
-		// console.log('matches rdt', [...txt.matchAll(regexRepeatedDoseToxicity)]);
 		return matchesRDT;
 	};
 
@@ -134,7 +129,7 @@
 <div class="flex h-screen">
 	<div class="p-3 max-w-prose mx-auto flex flex-auto flex-col py-2">
 		{#await allpromiseTxt}
-			...Loading
+			<Spinner></Spinner>
 		{:then _}
 			<div class="flex gap-2 mb-3 overflow-auto">
 				{#each convertIter(originalTxtsMap) as [key, txt]}

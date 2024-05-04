@@ -82,7 +82,7 @@
 		transform: rotate(90deg);
 	}
 
-	.custom-shadow {
+	/* .custom-shadow {
 		box-shadow: 5px 5px 5px #a6a29f;
-	}
+	} */
 </style>

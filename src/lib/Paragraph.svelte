@@ -24,6 +24,8 @@
 		dangerouslyAllowBrowser: true
 	});
 
+	console.log('text', text);
+
 	const genQuery = (cols) =>
 		`create a html table (using only the table element) with following columns finding the information for the rows in the text given. don't include any commentary text: ${cols}. Please `;
 	let selEndpoints = [endpoints[0].name];
@@ -34,7 +36,7 @@
 			.join(';')
 	);
 	$: console.log('selEndpoints', selEndpoints);
-	$: console.log('selEndpoints', selEndpoints);
+	$: console.log('question', question);
 
 	$: setChatGPTContext = (array) => {
 		const messages = array.map((p) => ({
@@ -86,42 +88,45 @@
 	</p>
 	<div class="flex flex-col">
 		<div class="gap-2 overflow-auto">
-			<div class="  text-gray-700 mb-2">Select Endpoints</div>
-			{#if selEndpoints.length === 0}
-				<div class=" text-sm text-gray-500 py-2">No Endpoints Selected</div>
-			{/if}
-			<div class="flex gap-2 flex-wrap mb-1">
-				{#each selEndpoints as e}
-					<button
-						class="border-2 p-1 text-sm flex items-center"
-						on:click={() => {
-							if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e);
-						}}
-					>
-						<div>{e}</div>
-						{#if selEndpoints.length > 1}
-							<div style="width:16px;height:16px">
-								<CloseIcon />
-							</div>
-						{/if}
-					</button>
-				{/each}
+			<Extendable title="Select Endpoints">
+				<EndpointNav
+					endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
+					{selEndpoints}
+					onClick={(e) => {
+						if (selEndpoints.includes(e.name)) {
+							if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e.name);
+						} else {
+							selEndpoints = [...selEndpoints, e.name];
+						}
+					}}
+				></EndpointNav>
+			</Extendable>
+			<div class="mt-3">
+				{#if selEndpoints.length === 0}
+					<div class=" text-sm text-gray-500 py-2">No Endpoints Selected</div>
+				{/if}
+				<div class="flex gap-2 flex-wrap mb-1">
+					{#each selEndpoints as e}
+						<button
+							class="border-2 p-1 text-sm flex items-center"
+							on:click={() => {
+								if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e);
+							}}
+						>
+							<div>{e}</div>
+							{#if selEndpoints.length > 1}
+								<div style="width:16px;height:16px">
+									<CloseIcon />
+								</div>
+							{/if}
+						</button>
+					{/each}
+				</div>
 			</div>
-			<EndpointNav
-				endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
-				{selEndpoints}
-				onClick={(e) => {
-					if (selEndpoints.includes(e.name)) {
-						if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e.name);
-					} else {
-						selEndpoints = [...selEndpoints, e.name];
-					}
-				}}
-			></EndpointNav>
 		</div>
 
 		<div class="  mt-2 text-gray-700">
-			<Extendable title="ChatGPT Prompt" preClosed={true}>
+			<Extendable title="ChatGPT Prompt">
 				<textarea
 					on:change={(e) => {
 						question = e.target.value;
@@ -171,7 +176,7 @@
 
 <button
 	class="w-full p-2 border-2 mt-2"
-	on:click={() => setChatGPTContext([text, question])}
+	on:click={() => setChatGPTContext([question])}
 	type="button"
 >
 	Submit
