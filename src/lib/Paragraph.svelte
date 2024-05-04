@@ -24,7 +24,7 @@
 		dangerouslyAllowBrowser: true
 	});
 
-	console.log('text', text);
+	console.log('textPPPPPP', text);
 
 	const genQuery = (cols) =>
 		`create a html table (using only the table element) with following columns finding the information for the rows in the text given. don't include any commentary text: ${cols}. Please `;
@@ -176,7 +176,7 @@
 
 <button
 	class="w-full p-2 border-2 mt-2"
-	on:click={() => setChatGPTContext([question])}
+	on:click={() => setChatGPTContext([text, question])}
 	type="button"
 >
 	Submit

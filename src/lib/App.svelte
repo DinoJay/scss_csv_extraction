@@ -25,7 +25,8 @@
 
 		let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
 
-		let matchesRDT = rdtText?.match(pattern);
+		let matchesRDT = [...rdtText?.matchAll(pattern)].map((d) => d[0]);
+		console.log('matchesRDT\n', matchesRDT);
 		return matchesRDT;
 	};
 
@@ -44,7 +45,7 @@
 		const acuteToxMatches = [...txt.matchAll(regexAcuteToxicity)];
 		// console.log('acutetoxTxt', [...acuteToxMatches][0][0]);
 		const acuteToxicityTxt = [...acuteToxMatches][acuteToxMatches.length - 1]?.[0];
-		console.log('acutetoxtxt', acuteToxicityTxt);
+		// console.log('acutetoxtxt', acuteToxicityTxt);
 		// console.log('acuteToxicityTxt\n', [...acuteToxMatches]);
 
 		// let pattern = /.*/g;
@@ -53,7 +54,7 @@
 		// let pattern = /Guideline:/g;
 		// console.log('repeatedDose\n', repeatedDoseToxicityTxt);
 
-		let matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(pattern)];
+		let matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(pattern)].map((d) => d[0]);
 		console.log('matchesAcuteToxicity\n', matchesAcuteToxicity);
 		return matchesAcuteToxicity;
 	};
