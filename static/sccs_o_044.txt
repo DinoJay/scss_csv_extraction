@@ -1,686 +1,1 @@
-SCCS/1322/10 
-Revision of 22 March 2011 
-
- 
- 
- 
- 
- 
-Scientific Committee on Consumer Safety 
- 
-SCCS 
- 
- 
- 
- 
- 
- 
-OPINION on 
-HC Yellow n� 13 
- 
-COLIPA n� B102 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-The SCCS adopted this opinion at 9th plenary meeting on 14 December 2010 
- 
- 
-About the Scientific Committees 
-Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat.  
-They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts.   
-In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA).  
-SCCS 
-The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.). 
- 
- 
-Scientific Committee members 
-J�rgen Angerer, Ulrike Bernauer, Claire Chambers, Qasim Chaudhry, Gisela Degen, Thomas Platzek, Suresh Chandra Rastogi, Vera Rogiers, Christophe Rousselle, Tore Sanner, Kai Savolainen, Jacqueline Van Engelen, Maria Pilar Vinardell, Rosemary Waring, Ian R. White 
- 
- 
-Contact 
-European Commission 
-Health & Consumers 
-Directorate C: Public Health and Risk Assessment 
-Unit C7 - Risk Assessment 
-Office: B232     B-1049 Brussels 
-Sanco-Sc6-Secretariat@ec.europa.eu 
- 
- 
-(c) European Union, 2010 
-ISSN 1831-4767 ISBN 978-92-79-32654-7 Doi:10.2772/30935 ND-AQ-09-035-EN-N  
-The opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The opinions are published by the European Commission in their original language only. 
- 
-http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm 
-ACKNOWLEDGMENTS 
- 
- 
-Prof. J. Angerer 
-Dr. C. Chambers 
-Prof. T. Platzek 	(chairman) 
-Dr. S.C. Rastogi 
-Dr. C. Rousselle 
-Prof. T. Sanner 
-Dr. J. van Benthem 	(associate scientific advisor) 
-Prof. M.P. Vinardell 
-Dr. I.R. White 	(rapporteur) 
- 
- 
-External experts 
- 
-Dr. Mona-Lise Binderup 	Danish Food Institute, Denmark 
- 	 
- 
- 
- 
- 
-Keywords: SCCS, scientific opinion, hair dye, B102, HC Yellow n� 13, CAS 10442-83-8, EC 443-760-2, directive 76/768/EEC 
- 
- 
- 
-Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on HC Yellow n� 13, 14 December 2010 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-This opinion has been subject to a commenting period of four weeks after its initial publication. Comments received during this time have been considered by the SCCS and discussed in the subsequent plenary meeting. Where appropriate, the text of the relevant sections of the opinion has been modified or explanations have been added. In the cases where the SCCS after consideration and discussion of the comments, has decided to maintain its initial views, the opinion (or the section concerned) has remained unchanged. Revised opinions carry the date of revision. 
- 
-TABLE OF CONTENTS 
- 
- 
- 
- 
-ACKNOWLEDGMENTS  	3 
-1.  BACKGROUND	5 
-2.  TERMS OF REFERENCE	6 
-3.  OPINION	7 
-4.  CONCLUSION	25 
-5.  MINORITY OPINION 	25 
-6.  REFERENCES	26 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-1. BACKGROUND 
- 
-Submission I for HC Yellow n� 13 with the chemical name 4-(2'-Hydroxyethyl)-amino-3- nitrotrifluormethylbenzene was submitted in October 1993 by COLIPA 1, 2. 
- 
-Submission II for HC Yellow n� 13 was submitted in April 2002 by COLIPA �. 
- 
-The Scientific Committee on Cosmetic Products and Non-Food Products intended for Consumers (SCCNFP) adopted at its 24th plenary meeting on 24-25 June 2003 an opinion (SCCNFP/0689/03, final) with the conclusion that: 
- 
-"HC Yellow n� 13 consists for more than 99 % of N-(2-hydroxyethyl)-2-nitro-4trifluormethylaniline. However, relevant physico-chemical parameters are not given. Purity of the test material in several studies is not reported. The dye is a secondary alkanolamine, and thus, it is prone to nitrosation. No data is provided on the nitrosamine content of the dye and in hair dye formulations. The data provided on stability are insufficient. 
-HC Yellow n� 13 was found to be of low acute oral and dermal toxicity in rats. No signs of eye or skin irritation were observed. The sensitisation test results were negative. In a 90day oral toxicity study in rats, 30 mg/kg bw was the NOAEL. In a rat teratogenicity study, no structural abnormalities were observed in the foetuses, however, there were slight indications of developmental retardations following administration of 30 and 90 mg/kg/bw/day during the critical days of organogenesis. 10 mg/kg bw was the level without developmental anomalies. 
-Skin penetration (rat in vivo study, using 14C-labelled a.i.) indicated a maximum penetration of 2.5 �g/cm2 for oxidative hair dyes (max. in-use concentration 2.5%), and of 9.69 �g/cm2 for colour setting lotions (max. in-use concentration of 5%). 
-HC Yellow n� 13 was tested in procaryotic cells for gene mutation in several tester strains of S. typhimurium. The test is unsuitable for genotoxicity evaluation. A second Bacterial Reverse Mutation Test was provided and was acceptable for evaluation. Based on the reversion rate, it is concluded that HC Yellow n� 13 dissolved in DMSO is negative in any S. typhimurium tester strains in the absence or the presence of S9 mix. The earlier in vitro mammalian chromosomal aberration test is negative. However, the test is unsuitable for genotoxicity evaluation. A more recent suitable in vitro mammalian chromosomal aberration test has been provided in submission II with HC Yellow n� 13 in DMSO. It is positive for clastogenicity. HC Yellow n� 13 gave negative results in the mammalian erythrocyte micronucleus test. However, the study did not demonstrate that bone marrow was reached by the test agent." 
- 
- 
-Submission III for HC Yellow n� 13 was submitted by COLIPA in July 2005. According to this submission the substance is used as: 
- 
-a) a non-reactive hair colouring agent ("direct dye") in non-oxidative hair dye formulations at a maximum on-head concentration of 2.5%. It is common practice to apply 35 to 50 g of the product over a period of 30 minutes followed by rinse off with water and shampoo. The application may be repeated at weekly intervals. 
-b) a non-reactive hair colouring agent ("direct dye") in oxidative hair dye formulations at a maximum on-head concentration of 2.5%. The colouring component and a developer (hydrogen peroxide) are mixed in ratios between 1:1 to 1:3. It is common practice to apply up to 100 g of the finished mixed product for a period of 30 to 45 minutes followed by rinse off with water and shampoo. The application may be repeated at monthly intervals. 
- 
-Submission III presents updated scientific data on the above mentioned substance in line with the second step of the strategy for the evaluation of hair dyes (http://europa.eu.int/comm/enterprise/cosmetics/doc/hairdyestrategyinternet.pdf) within the framework of the Cosmetics Directive 76/768/EEC. 
- 
- 
- 
-2. TERMS OF REFERENCE 
- 
-1. Does the Scientific Committee on Consumer Safety (SCCS) consider HC Yellow n� 13 safe for use as a non-oxidative hair dye with an on-head concentration of maximum 2.5% taken into account the scientific data provided? 
- 
-2. Does the SCCS consider HC Yellow n� 13 safe for use in oxidative hair dye products with an on-head concentration of maximum 2.5% taken into account the scientific data provided? 
- 
-3. Does the SCCS recommend any further restrictions with regard to the use of HC Yellow n� 13 in any non-oxidative or oxidative hair dye formulations? 
- 
- 
-
- 
-3. OPINION 
- 
-3.1. Chemical and Physical Specifications 
- 
-3.1.1. Chemical identity  
-3.1.1.1. Primary name and/or INCI name  
-HC Yellow n� 13 (INCI name) 
- 
-3.1.1.2. Chemical names  
-N-(2-Hydroxyethyl)-2-nitro-4-trifluormethyl-aniline 
-1-(2-Hydroxyethyl)amino-2-nitro-4-trifluormethylbenzene 
- 
-3.1.1.3 Trade names and abbreviations  
-Fluorgelb II 
-Cos 128 
-COLIPA B102 
- 
-3.1.1.4 CAS /EC number  
-CAS: 10442-83-8 EC: 
- 443-760-2 3.1.1.5 Structural formula  
- 
- 
-3.1.1.6 Empirical formula  
-Formula: C9H9F3N2O3 
- 
-3.1.2  Physical form  
-Yellow crystalline powder  
- 
-3.1.3  Molecular weight  
-Molecular weight: 	250.18 g/mol 
- 
-3.1.4  Purity, composition and substance codes  
-4 batches were tested for the purity and impurities. The chemical characterisation was performed by NMR and IR. UV-spectra of the 4 batches were similar. 
- 
- G2001/011-001: batch 
-97/92/1094 G2001/011-002: batch AR902, 02001/011-003: batch AZ212, G2001/011-004: 
-batch AR822, 
-Eingang: 05.09.97 NMR content  (% w/w) 99.7 99.8 99.6 99.9 HPLC purity  
-(% peak area)     210 nm 
-254 nm 
-418 nm 99.5 99.8 99.8 99.8 99.9 100 100 100 99.8 100 100 100 Loss on drying (% w/w) 0.12 0.06 0.06 n.a Water content  (% w/w) 0.06 0.02 0.02 n.a Sulfated ash  (% w/w) 0.005 0.004 0.003 n.a. n.a.: not analysed 
- 
-Chromatograms of the samples at the HPLC purity test showed at the 210, 254, and 418 nm detection wavelength one main peak with 99.5 - 100 area % and minor peaks with 0.01 - 0.34 area % which might represent traces of impurities. 
- 
-Declaration by the Applicant 
- 
-Deduced specification Purity HPLC quantitative: > 98 % w/w HPLC qualitative (254 nm): > 99 % Solvent content: < 1 %  
-3.1.5  Impurities / accompanying contaminants  
-1-Chloro-2-nitro-4-trifluoro-methylbenzene 	< 100 ppm 
- 
-3.1.6  Solubility  
-Water solubility: 506 mg/L (20�C) 	determined by EC -A.6 method 
-DMSO solubility: 50 mg/ml 
- 
-See Ref 3 
- 
-3.1.7  Partition coefficient (Log Pow)  
-Log Po/w:  2.54 (pH 6.5 -7.1, 23�C) 	determined by EC -A.8 method  
- 
-3.1.8  Additional physicochemical specifications  
-Melting point: 74.7 �C Boiling point: 227.1 �C Flammability: not highly flammable Flash point: > 400 �C Vapour pressure: 3.1 x 10-8 hPa (20 �C) Relative density: 1.45 (20 �C) Surface tension (water): 42.4 nM/m (20 �C) Viscosity: / Oxidising properties: not oxidising pKa: / Refractive index: / UV/ Vis spectrum: 	absorption maxima at 240nm and 408 nm  
- 
-3.1.9.  Stability  
-HC Yellow n� 13 suspensions in 0.5% aqueous CMC used for the 90 day oral toxicity testing were shown to be homogeneous and stable ( variation � 10%) during the study. 
- 
-The stability of a solution of approximately 50 mg/L HC Yellow n� 13 in DMSO was examined at room temperature. After a storage period of 4 h, the recovery of the dye was 100.6%. 
-The stability of HC Yellow n� 13 was tested in a hair  dye formulation in the presence of hydrogen peroxide for 15, 30 and 45 minutes. The test results demonstrate the stability of HC Yellow n� 13 during a 45 minute test period. 
- 
- 
-General Comments on Physico-chemical characterisation 
- 
-- HC Yellow n� 13 is a secondary amine, and thus, it is prone to nitrosation. Nitrosamine content in HC Yellow n� 13 has not been reported. 
-- Stability of HC Yellow n� 13 in typical hair dye formulations has not been demonstrated.  
- 
- 
- 
- 
-3.2. Function and uses 
- 
-HC Yellow n� 13 is used as a hair colouring agent ("Direct Dye") in non-oxidative and in oxidative hair dye formulations at a maximum on-head concentration of 2.5%. 
- 
- 
- 
- 
-3.3. Toxicological Evaluation 
- 
-3.3.1. Acute toxicity  3.3.1.1. Acute oral toxicity  
-Taken from SCCNFP/0689/03 
- 
-Guideline: OECD 401 (1987) Species: Wistar rats, Crl: (WI)BR Group size: 5 males + 5 females Material: Fluorgelb II in 2% gum Arabic Batch: AR 902 Purity: 99.7% Dose: 2000 mg/kg bw in a volume of 10 ml/kg Observ. period: 14 days GLP: in compliance Study date: 1990  
-Groups of 5 male and 5 female rats received a single oral dose of 2000 mg/kg bw. The animals were observed daily for 14 days for clinical abnormalities and mortality. Body weights and macroscopic observations were recorded. 
- 
- 
-Results 
-No mortalities were observed. The treatment caused lethargy, piloerection, abnormal posture and reduced righting reflex for up to 6 hours after dosing. The LD50 was greater than 2000 mg/kg bw. 
-Ref.: 16  
- 
-3.3.1.2. Acute dermal toxicity  
-Taken from SCCNFP/0689/03 
- 
-Guideline: OECD 402 (1987) Species: Sprague Dawley rats, Him:OFA Group size: 5 males + 5 females Material: Fluorgelb II moistened with distilled water Batch: AR 902 Purity: 99.7% Dose: 2000 mg/kg bw on an area of 5 x 6 cm Observ. period: 14 days GLP: in compliance Study date: 1992  
-Moistened Fluorgelb II was administered, at a dose of 2000 mg/kg bw, under an occlusive patch to a shaven area on the back of 5 male and 5 female Sprague Dawley rats for 24 hours. The animals were observed twice daily for 14 days for clinical abnormalities and mortality. Body weights and macroscopic observations were recorded. 
- 
-Results 
-All animals survived until the end of the study. Chromodacryorrhea was noted in 3 males and 2 females. In 3 females body weight gain was lower than for controls. Fur and tails were stained in all animals. The LD50 was reported to be greater than 2000 mg/kg bw. 
-Ref.: 17 
- 
-3.3.1.3. Acute inhalation toxicity  
-No data submitted 
- 
-3.3.2. Irritation and corrosivity  
-3.3.2.1. Skin irritation  
-Taken from SCCNFP/0689/03 
- 
-Guideline: OECD n� 404 Species: New Zealand white rabbit Group size: 6 (sex not specified) Material: 5% Fluorgelb II suspended in propylene glycol (pH 6.5) Batch: AR 902 Purity: 99.7 % Dose: 0.5 ml on 6 cm� GLP: in compliance Study date: 1990  
-0.5 ml of a 5% solution of the test material in propylene glycol was topically applied to the clipped back of 6 rabbits under occlusive conditions for 4 hours. The material residues were then washed off. Skin reactions were recorded 30 - 60 min and 24, 48 and 72 h after removal of the rubber sheet. 
- 
-Results 
-No signs of erythema or oedema were observed. A 5% solution of the test material was not irritant to rabbit skin. 
-Ref.: 18 
- 
-3.3.2.2. Mucous membrane irritation  
-Taken from SCCNFP/0689/03 
- 
-Test on diluted material 
- 
-Guideline: OECD n� 405 Species: New Zealand white rabbit Route: eye Group size: 6 (sex not specified) Material: 5% Fluorgelb II suspended in propylene glycol (pH 6.8) Batch: AR 902 Purity: 99.7% Dose: 0.1 ml GLP: in compliance Study date: 1990  
-0.1 ml of a 5% dilution of the test material in propylene glycol was instilled into the left eye of 6 New Zealand White rabbits. In 3 animals it was washed out after 4 seconds. The untreated right eye served as control. Eye reactions were recorded at 1, 24, 48 and 72 hours after treatment. 
- 
-Results 
-Slight redness and chemosis of the conjuctivae was observed. According to 83/467/EEC, 5% Fluorgelb II in propyleneglycol was classified as not irritant. 
-Ref.: 19 
- 
-Test on undiluted material 
- 
-Guideline: OECD n� 405 Species: rabbit (New Zealand white) Route: eye Group size: 3 females Material: Fluorgelb II Batch: AR 902 Purity: 99.7% Dose: Approximately 0.1 ml GLP: in compliance Study date: 1991  
-The equivalent of 0.1 ml (actual amounts 52, 64 and 80 mg) of the undiluted test material was instilled into the right eye of 3 rabbits. The untreated left eye served as control. Eye reactions were read at 1, 24, 48 and 72 hours after treatment. 
- 
-Results 
-Mild reactions were seen with slight effects on the cornea, iris, and conjunctiva reported. In all cases the mean scores were below the thresholds defined in Directive 83/467/EEC for classification as "irritant". 
-Ref.: 20 
- 
-3.3.3. Skin sensitisation  
-Taken from SCCNFP/0689/03 
- 
-Magnusson and Kligman Maximisation test 
- 
-Guideline: OECD n� 406 Species: guinea pigs (Pirbright BOR:DHPW) Group size: 10 males and 10 females Material: Fluorgelb II Batch: AR 902 Purity: 99.7% Concentrations: Intradermal induction: 10% test material in propylene glycol  Topical induction: 	0.5 g undiluted test material  Challenge: 	0.2 g undiluted test material and 0.2 ml 5% 
- 	solution in propylene glycol GLP: in compliance Study date: 89  
-The systemic induction phase consisted of 3 pairs of 2 intradermal injections (0.1 ml each) on the clipped dorsal shoulder region of the animals. The injections contained: 1) the test material (10%) in propylene glycol; 2) the test material (10%) in Freund's complete adjuvant, 1:2 diluted; 3) Freund's complete adjuvant in distilled water (1:1). 
- 
-7 days later the pure test material was topically applied and occluded for 48 hours. The controls received similar treatments but received vehicle (without test substance) only. The challenge was carried out 3 weeks after the first intradermal treatment. 0.2 g of the pure test material and 0.2 ml of a 5% solution in propylene glycol were topically applied to the left flank for 24 hours under an occlusive patch. Reactions were recorded at 24 and 48 hours after the last application. 
- 
-Results 
-Sporadic, slight erythema was observed in both test and control animals at comparable incidence.  
- 
-Conclusion 
-The test material was considered non-sensitising. 
-Ref.: 21 
- 
-Comment 
-This study was not fully in compliance with OECD guideline 406, which specifies that, when testing a non-irritating material, local irritation should be induced 24 hours before the topical induction. 
-The sensitisation data in the dossier was generated without inducing irritation during induction. 
- 
-3.3.4. Dermal / percutaneous absorption  
-Guideline:  OECD 428 (2004) Tissue: Porcine (Schweizer Landedelschwein, female) back and flank skin (thickness: mean 1000 �m) Group size: 6 (five for the formulation containing the test item and one for the blank formulation)  Skin integrity: tritiated water Diffusion cell: Diffusion Teflon-chambers Test substance: Fluorgelb (WR18213) tested at a concentration of 2.5 % Batch: AZ212 Purity: 100 % (HPLC at 254 nm) Radiochemical / Test item: typical oxidative hair dye formulation Dose volume: 100 mg/cm� of formulation Receptor fluid: physiological receptor fluid Solubility receptor fluid: 0.769 mg/ml 
-Stability receptor fluid: 	stable 
-Method of Analysis: 	HPLC 
-GLP: 	In compliance 
-Study date: 	May 2005-June2005 
- 
-The integrity of each skin preparation was demonstrated with tritiated water resulting in 0.4 to 1.9% of the applied dose found in the receptor fluids, which was within the limit of acceptance (< 2.0%) for all 6 skin samples. 
-400 mg of formulation (= 100 mg/cm�) containing 2.5% Fluorgelb (WR18213) was applied once to the skin samples (4 cm�) in a typical cream formulation for oxidative hair dyes. Six chambers were investigated. The receptor solution (physiological phosphate buffer containing NaCl and antibiotics) was pumped through the receptor chamber at a rate of 5 ml/h.  
-Sixty minutes after test substance application, the test item was removed by washing the skin twice with 4 ml water, then once with 4 ml of a shampoo-formulation (diluted to approximately 14%), and again twice with water. The washing solutions were combined and the amount of dye was determined by HPLC. 
-Fractions of the receptor fluid were collected after 16, 24, 40, 48, 64, and 72 hours, concentrated by solid phase extraction and analysed immediately. At termination of the experiment, the skin was heat-treated and the 'upper skin' (stratum corneum and upper stratum germinativum) was mechanically separated from the 'lower skin' (lower stratum germinativum and upper dermis). Both skin compartments were extracted separately and the dye content was quantified by means of HPLC. 
- 
-Results 
-All samples/tissue extracts were analysed by HPLC.  
-The total balance (total recovery) was 100.21 � 3.41% of the dose applied. 
-The majority of the applied dose of Fluorgelb (WR18213) remained on the skin surface (100.10 � 3.40% of the applied dose or 2.503 � 0.085 mg/cm�). After 72 h, 1.65 � 0.11 �g/cm� had penetrated into the receptor fluid, 0.04 � 0.03 �g/cm� in the upper skin, and 0.92 � 0.42 �g/cm� was recovered in the lower skin.  
-The amount 2.61 � 0.56 �g/cm� (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable. 
-Ref.: 22 
- 
-Comment 
-The amount 2.61 � 0.56 �g/cm� (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable under oxidative conditions in a formulation containing 2.5% Fluorgelb. However, only 5 chambers were used and the dose of formulation was too high. Therefore, the mean+2SD (3.73 �g/cm�) should be used in calculating the MOS. 
- 
- 
-Guideline:  OECD 428 (2004) Tissue: Porcine back and flank skin (thickness: 1000 �m) Group size: 6 (five for the formulation containing the test item and one for the blank formulation) per study Skin integrity: tritiated water Diffusion cell: Diffusion Teflon-chambers Test substance: Fluorgelb (WR18213) tested at a concentration of 2.5% Batch: AZ212 Purity: 100% (HPLC at 254 nm) Radiochemical / Test item: typical non-oxidative hair dye formulation Dose volume: 100 mg/cm� of formulation Receptor fluid: physiological receptor fluid Solubility receptor fluid: 0.769 mg/ml 
-Stability receptor fluid: 	stable 
-Method of Analysis: 	HPLC 
-GLP: 	In compliance 
-Study date: 	June 2005 
- 
-The integrity of each skin preparation was demonstrated with tritiated water resulting in 0.6 to 0.9% of the applied dose found in the receptor fluids, which was within the limit of acceptance (< 2.0%) for all 6 skin samples. 
-400 mg of formulation (= 100 mg/cm�) containing 2.5% Fluorgelb (WR18213) was applied once to the skin samples (4 cm�) in a typical cream formulation for non-oxidative hair dyes. The experiment was carried out as in that under oxidative conditions. 
- 
-Results 
-The total balance (total recovery) 94.37 � 5.45% of the dose applied to the pig skin samples confirmed the validity of the experiment. 
-The majority of the applied dose of Fluorgelb (WR18213) remained on the skin surface (94.2 � 5.47% of the applied dose or 2.357 � 0.137 mg/cm�. After 72 h, 1.87 � 0.56 �g/cm� had penetrated into the receptor fluid, 0.01 � 0.01 �g/cm� in the upper skin, and 0.07 � 0.02 �g/cm� was recovered in the lower skin.  
-The amount 1.95 � 0.59 �g/cm� (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable. 
-Ref.: 23 
- 
-Comment 
-The amount 1.95 � 0.59 �g/cm� (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable under non-oxidative conditions in a formulation containing 2.5% Fluorgelb. However, only 5 chambers were used and the dose of formulation was too high. Therefore, the mean + 2SD (3.13 �g/cm�) should be used in calculating the MOS. 
- 
-3.3.5. Repeated dose toxicity  
-3.3.5.1. Repeated Dose (28 days) oral / dermal / inhalation toxicity  
-No data submitted 
- 
-3.3.5.2. Sub-chronic (90 days) oral / dermal / inhalation toxicity  
-Taken from SCCNFP/0689/03 
- 
-Guideline: OECD n� 408 Species: Wistar rats, Crl: (WI) BR Group sizes: 15 males and 15 females (+ 10 males and 10 females for recovery high dose and control group) Material: Fluorgelb II in 0.5% aqueous sodium carboxymethylcellulose Batch: AZ 212 Purity: > 99% Dose levels: 0, 10, 30 and 90 mg/kg bw in a volume of 10 ml/kg Exposure: 5 days per week for 90-92 days GLP: 	in compliance 
-Study date: 	1991 
- 
-Fluorgelb II, in 0.5% aqueous sodium carboxymethylcellulose, was administered by oral gavage to groups of 15 male and 15 female rats at doses of 10, 30 and 90 mg/kg bw, 5 days per week for 90-92 days. The high dose group and the control group included an additional 10 males and 10 females for observation in a 4-week recovery period. Controls received the vehicle only. The following investigations were performed: daily observations, ophthalmoscopy, bodyweights, food consumption, haematology, clinical chemistry and urinalysis (at several stages), gross pathological examination, organ weight determination and histopathology. 
- 
-Results 
-No animals died during the study. Urine samples of all treated animals were dark yellow throughout the administration period. Body weights and food consumption were unaffected by treatment. Blood, urine and clinical chemistry data were all within the normal range of variation with the exception of serum cholesterol in high dose males, which was elevated and did not return to normal following the 4-week recovery period. 
-No ophthalmological or macroscopic changes were observed. There was no effect on either the absolute or relative organ weights in treated rats compared with controls. 
-Islet cell degeneration, accompanied by inflammation or fibrosis of the endocrine pancreas was observed in two of the male rats treated with 90 mg/kg bw. These changes were accompanied by a high but not statistically significant blood glucose level and were considered to be material related. No pancreatic changes were found in any intermediatedose animals. No other treatment related effects were reported. The dose of 30 mg/kg bw/day was considered as NOAEL 
-Ref.: 25 
- 
-Comment 
-The NOAEL was adjusted to 21 mg/kg bw/day because of only 5 days treatment per week. 
- 
-3.3.5.3. Chronic (> 12 months) toxicity  
-No data submitted 
- 
-3.3.6. Mutagenicity / Genotoxicity  
-3.3.6.1. Mutagenicity / Genotoxicity in vitro  
-Bacterial Reverse Mutation Assay 
- 
-Guideline: OECD 471 Species/strain: Salmonella typhimurium TA98, TA100, TA1535, TA1537, TA 1538 Replicates: Triplicate plates, 2 independent tests Test substance: N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline Batch: 97/92/1094 Purity: 99.9% (GC/HPLC) Vehicle: DMSO Concentrations: experiment 1: 1, 10, 100, 1000 and 5000 �g/plate with and without S9mix  experiment 2: 30, 100, 300, 1000 and 3000 �g/plate with and without S9-mix Treatment: direct plate incorporation with 48 h incubation without and with S9-mix GLP: in compliance Study date: 2 November 1995 - 15 December 1995  
-N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline has been investigated for gene mutations in S. typhimurium, using the direct plate incorporation method both with or without S9-mix. Liver S9 fraction from Aroclor 1254-induced rats was used as the exogenous metabolic activation system. Both experiments were performed with the direct plate incorporation method. Toxicity was evaluated on the basis of a reduction in the number of revertant colonies and a qualitative evaluation of the bacterial lawn. Negative and positive controls are in accordance with the OECD guideline. 
- 
-Results 
-Toxicity as evidenced by a reduction in the number of spontaneous revertants per plate and an abnormal background lawn was observed for every tester strains at dose levels of 5000 (experiment 1) and 3000 �g/plate (experiment 2) both without and with S9-mix. Without and with S9-mix N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline did not induce a dose related or biologically relevant increase in revertant numbers at any dose in any of the S. typhimurium tester strains in both experiments performed. 
- 
-Conclusions 
-Under the experimental conditions used N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline was not mutagenic in this gene mutation tests in bacteria. 
-Ref.: 26 
- 
- 
-In vitro Mammalian Chromosome Aberration Test 
- 
-Guideline: OECD 473 (1997). Species/strain: Chinese Hamster V79 Cells Replicates: Duplicate cultures Test substance: Fluorgelb II, 89105 Batch: CH 97/92/1094 Purity: 99.7% Vehicle: DMSO Concentrations: 50, 100 and 150 �g/ml with and without metabolic activation. Treatment: 4 h both in absence and presence of S9-mix; harvest time 18 h after start of treatment. GLP: in compliance Study date: 21 August 2001 - 17 December 2001  
-Fluorgelb II has been investigated for induction of chromosomal aberrations in V79 cells. Liver S9 fraction from rats induced with Phenobarbital/�-naphthoflavone was used as the exogenous metabolic activation system. Fluorgelb II test concentrations were based on the results of a pre-test with concentrations between 20.3 and 2600 �g/ml (corresponding to circa 10 mM, the prescribed maximum concentration) in the presence and absence of S9mix using reduced cell numbers as indication for toxicity. In the chromosome aberration test the treatment period was 4 h with and without S9-mix; cultures were harvested 18 h after the start of treatment. The final 2.5 h before harvest culture was in the presence of Colcemid (at a final concentration of 0.2 �g/ml) to block cells at metaphase of mitosis. Toxicity was determined by measuring the reduction in mitotic index (MI). Chromosome (metaphase) preparations were stained with Giemsa and examined microscopically for chromosomal aberrations. Negative and positive controls were in accordance with the OECD guideline. 
- 
-Results 
-In the pre-test no precipitation occurred; at the top concentration, no influence on the pH or osmolarity was noted. In the pre-test clear toxic effects were seen with 325 �g/ml and above; therefore, 250 �g/ml was chosen as highest concentration in the chromosome aberration test. Toxic effects as evidenced by a reduction in cell numbers were observed in the presence of S9-mix at 150 �g/ml. A reduction in the mitotic index relative to the concurrent control was not noted in the absence of metabolic activation, in the presence of metabolic activation at the top dose a 73.5 % reduction of the mitotic index was observed. In the presence, but not in the absence, of S9-mix a biologically relevant, statistically significant and dose dependent increase in the number of cells with chromosome aberrations was found. No biologically relevant increase in the number of polyploid metaphases was recorded. 
- 
-Conclusion 
-Under the experimental conditions used, Fluorgelb II induced an increase in cells with chromosomal aberrations and, consequently, is genotoxic (clastogenic) in V79 cells in vitro. 
-Ref.: 27 
- 
-Comment 
-The required 50% reduction in mitotic index as measure for sufficient exposure was not reached. Since Fluorgelb II was considered to be genotoxic after 4 h treatment a second experiment with continuous treatment was not performed. 
- 
-3.3.6.2 Mutagenicity/Genotoxicity in vivo  
-In vivo Mammalian Erythrocytes Micronucleus Test 
- 
-Guideline: OECD 474 Species/strain: NMRI mice Group size: 6 mice/sex/group Test substance: Fluorgelb II Batch: 97/92/1094 Purity: > 99.5 % Vehicle: PEG 400 Dose level: 0, 375, 750 and 1500 mg/kg bw/day Route: oral, three times at 24 h intervals Sampling: 24 h after the final treatment GLP: in compliance Study date: 16 April 2002 - 5 November 2002  
-Fluorgelb II has been investigated for the induction of micronuclei in bone marrow cells of mice. Test concentrations were based on the acute toxicity in a pre-experiment for toxicity with 2 animals per sex/group. The animals were treated orally three times at 24 h intervals and were examined for acute toxic systems at intervals around 1, 2-4, 6 and 24 h after each administration of Fluorgelb II. In the main experiment mice were exposed orally three times at 24 h intervals to 0, 375, 750 and 1500 mg/kg bw/day. Bone marrow cells were collected 24 h after the last treatment. The animals of the highest dose group were examined for acute toxic symptoms 1, 2-4, 6 and 24 h after each administration. Toxicity and thus exposure of the target cells was determined by measuring the ratio between polychromatic and total erythrocytes (PCE/TE). Bone marrow preparations were stained with May-Gr�nwald/Giemsa and examined microscopically for the PCE/TE ratio and micronuclei. Five mice/sex/group were analysed; the remaining 6th animals of each group were only evaluated in case a mouse died spontaneously. Negative and positive controls were in accordance with the OECD guideline. 
- 
-Results 
-In the pre-experiment for toxicity the mice treated with 1500 mg/kg bw/day showed reduction of spontaneous activity and ruffled fur, abdominal position (after the 2nd application only), eyelid closure (after the 2nd and 3rd application only) and apathy (after the 2nd and 3rd application only). Based on these finding and since all mice survived, 1500 mg/kg bw/day was chosen as the top dose.  
-In the main experiment, one animal died after the first application of the highest dose 1500 mg/kg bw/day. The surviving mice treated with 1500 mg/kg bw/day showed reduction of spontaneous activity, abdominal position, eyelid closure, ruffled fur and apathy (after the 2nd and 3rd application only). After the 2nd and 3rd application the mice had yellow coloured urine. 
-Treatment with Fluorgelb II did not result in substantially decreased PCE/TE ratios compared to the untreated controls indicating that Fluorgelb II did not have cytotoxic properties in the bone marrow. However, clinical signs after treatment and the yellow coloured urine of treated mice indicated systemic distribution and thus bioavailability of Fluorgelb II. 
-Biologically relevant increases in the number of PCEs with micronuclei compared to the concurrent vehicle controls were not found in bone marrow at any treatment interval and dose level. The increase in PCEs with micronuclei in males observed after 1500 mg/kg bw/day was due to a high rate of micronuclei in one mouse only. However, this value as well as the mean value for the group is within the range of the historical data, not statistically significant and, consequently, considered not biologically relevant. 
- 
-Conclusion 
-Under the experimental conditions used, Fluorgelb II did not induce an increase in bone marrow cells with micronuclei in treated mice and, consequently, Fluorgelb II is not genotoxic (clastogenic and/or aneugenic) in bone marrow cells of mice. 
-Ref.: 28 
- 
-3.3.7. Carcinogenicity  
-No data submitted 
- 
-3.3.8. Reproductive toxicity  
-3.3.8.1. Two generation reproduction toxicity  
-No data submitted 
- 
-3.3.8.2. Teratogenicity  
-Taken from SCCNFP/0689/03 
- 
-Guideline: OECD n� 414 Species: Wistar rat Route: oral Group sizes: originally 26 mated females/group; 21-25 pregnant females/group Material: Fluorgelb II in 0.5% sodium carboxymethylcellulose Batch: AZ 212 Purity: > 99% Dose levels: 0, 10, 30, 90 mg/kg bw/day in a volume of 10 ml/kg Administration: days 6-15 of gestation GLP: in compliance Study date: 1991  
-Fluorgelb II, dissolved in 0.5% sodium carboxymethylcellulose, was administered by gavage to 4 groups of pregnant Wistar rats at dose levels of 10, 30 and 90 mg/kg bw (group sizes 22, 25 and 21, respectively). Controls received the vehicle only (group size 22). The dams were killed on day 20 of gestation. The abdominal and thoracic cavities of the dams were examined. All foetuses were examined for any external abnormalities. Half of the foetuses were examined for skeletal defects by Alizarin Red staining and the remaining foetuses were evaluated for visceral abnormalities after fixation in Bouin's fluid. 
- 
- 
-Results 
-Dams 
-No dams died during the study and no pups were delivered prematurely. Urine of animals treated with 30 and 90 mg/kg bw were stained yellow by the test material. No other treatment related effects were observed in the dams. 
- 
-Foetuses 
-In groups treated with 30 and 90 mg/kg bw there was a slight but not statistically significant decrease of viable foetuses per female and an increase in the number of post implantation losses. No skeletal or organ deformities were reported in any of the groups. 
-The study authors concluded that 90 mg/kg/bw was a NOAEL for maternal toxicity, embryotoxicity and teratogenicity. 
- 
-Reproductive performance: there were no significant effects on reproductive performance. Embryolethality was slightly increased at 30 and 90 mg/kg bw but the changes did not reach the level of statistical significance. 
- 
-Foetuses: external foetal observation revealed no gross malformations. Skeletal observations revealed delayed ossification of metacarpals and sternum at 30 and 90 mg/kg bw. No skeletal malformations were observed. Visceral observations did not show any treatment related effects. 
- 
-90 mg/kg bw was the NOAEL for maternal toxicity and teratogenicity.  
-In a conservative approach, the SCCNFP considers 10 mg/kg bw as the NOAEL for developmental anomalies. 
-Ref.: 29 
- 
-3.3.9. Toxicokinetics  In vitro study with human intestinal epithelial cells 
- 
-Guideline: 	/ 
-Cells: 	Human intestinal epithelial cell line TC-7 
-Test substance: 	HC Yellow n� 13 
-Batch: 	97/92/1094 
-Purity: 	99.9 area% (HPLC at 254 nm) 
-Test concentration: 10 �M in HBSS buffer containing 1 % DMSO 
-Incubation time: 	60 min 
-GLP: 	/ 
- 
-The bioavailability of HC Yellow n� 13 across the intestinal barrier was investigated in human intestinal epithelial (TC-7) cells in vitro in 2 independent experiments. The permeability from the apical (A, pH 6.5) to the basolateral (B, pH 7.4) side was investigated at 37 �C in 96-well transwell plates with shaking for a 60 min contact time. Analysis of the donor (apical) and receiver (basolateral) samples was done by means of HLPC-MS/MS and the apparent permeability coefficient (Papp) was calculated for two independent experiments. 14 C-mannitol (about 4 �M) was used to demonstrate the integrity of the cell monolayer. Only monolayers revealing a permeability of < 2.5 x 10-6 cm/sec were used. Propranolol, atenolol, vinblastine and ranitidine were analysed concurrently to demonstrate the validity of the test system. 
- 
-According to the laboratory's classification system, a low permeability is considered for test items revealing a Papp < 2 x 10-6 cm/sec. A Papp of 2 - 20 x 10-6 cm/sec and a Papp  =  20 x 10-6 cm/sec classify a substance to have a moderate and a high permeability, respectively. As recommended by FDA, ranitidine (50 % absorption in humans) was used as the low permeability reference compound and propranolol (90 % absorption in humans) was used as the high permeability reference compound. 
- 
-Results 
-The total recovery for the reference substances and HC Yellow n� 13 ranged from 73 to 162 %. The permeability figures for the reference substances propranolol (Papp = 58.2 and 48.0 x 10-6 cm/sec), a high permeability reference compound with 90 % absorption in humans, and ranitidine (Papp = 0.2 and <0.1 x 10-6 cm/sec), known to be absorbed at about 50 % in humans, were within acceptance range of 20 - 60 x 10-6 cm/sec and 0.0 - 2 x 10-6 cm/sec, respectively and demonstrated the validity of the assay. 
-For HC Yellow n� 13 a Papp of 82.6 x 10-6 cm/sec (86.7 and 78.5 x 10-6 cm/sec) was determined and thus the test substance was classified to be of high permeability, indicating a good absorption from the gastrointestinal tract. 
- 
-Conclusion 
-A mean permeability in human intestinal epithelial (TC-7) cells of 82.6 x 10-6 cm/sec was obtained with HC Yellow n� 13 which classifies the test item to be of high permeability. As the absorption across the intestinal epithelium is considered to be the limiting factor of the uptake through the gastro-intestinal tract, the high permeability observed in this assay indicates a good absorption of HC Yellow n� 13 after oral administration. 
-Ref.: 30 
-Comment 
-The study was not performed under GLP conditions, but a statement of the quality assurance unit of the test facility is included. There is no official guideline for this assay. 
-However, the study was performed according to ECVAM recommendations. The generated data is considered to provide an estimation of the bioavailability of HC Yellow n� 13 after oral administration. 
- 
- 
-In vivo study in rats 
- 
-Guideline: / Species: Sprague Dawley Him: OFA rat Group sizes: 3 males and 3 females Route: topical and oral Material: 14 C- HC Yellow n� 13 at 2.5 % in formulations with and without   hydrogen peroxide, and in water/DMSO (1:2) Batch: AZ2�2 Purity: 99.8 % (HPLC at 210 nm)  Application route: Experiments A, B, C: dermal  Experiments D, E: oral Dose levels: Exp. A: Formulation without H2O2: 2.5 %; 2.23 mg/cm�  Exp. B: Formulation with H2O2; 2.5 %; 2.72 mg/cm�  Exp. C: Solution in water/DMSO (1:2); 8.33 %; 2.85 mg/cm�  Exp. D: solution in water/DMSO (1:2); 2.5 %; 122.2 mg/kg bw  Exp, E: solution in water/DMSO (1:2); 2.5 %; 127.1 mg/kg bw Treatment: Exp. A, B, C: single dermal application for 30 min  Exp. D, E: single oral administration (gavage) GLP: In compliance  
-Dermal application (experiments ?, ? and C) 14
-  C- HC Yellow n� 13 was applied dermally to groups of 3 male and 3 female rats (body weight about 200 g). The application area was 9 cm2 and the test substance was applied at concentrations of 8.33 % in solution (water/DMSO 1:2, experiment C) and of 2.5 % in formulations without (experiment A) and with hydrogen peroxide (experiment B) for 30 min. The mean amount of the applied dyestuff corresponded to 9.68, 2.90 and 2.51 �g/cm2, respectively. 
-After treatment the test substance was scraped off and the skin rinsed with a shampoo formulation followed by water until the rinsing water was free from colour. Rinsing solutions were collected. During the exposure time, animals were constrained to avoid licking. After rinsing, the area was covered with gauze fixed by adhesive tape and an additional air permeable plastic cone to further prevent licking of the treated area during the 72 h in the metabolism cages. 
- 
-Oral administration (D and E): 
-5 mg/kg bw (D and E) 14C- HC Yellow n� 13 was administered as a 2.5 % solution in water/DMSO 2:1 by gavage to two groups of 3 male and 3 female rats each which were starved for 16 hours before treatment. In experiment D animals were placed in metabolism cages for 72 h. In experiment E, blood was taken at several time points within 24 h after administration. During the studies, blood was taken from the retrobulbar venous plexus under light ether anaesthesia. At termination of the experiment, blood samples were taken from the aorta. 
-Urine and faeces were collected daily (0-24, 24-48 and 48-72 h after administration) from the metabolism cages. Animals were killed 72 hours (A, B, C, and D) and 24 hours (E) after the application and the application sites (?, ? and C) as well as some organs were taken and analysed for radioactivity. The radioactivity in the remaining carcass after skin removal (A, B, C and D) or removal of the gastro-intestinal tract (D) was also determined. 
- 
-Results 
-Total recovery of the applied radioactivity for the individual animals in the experiments ranged from 98.0 to 99.2 % in the dermal groups and 98.73 % in the oral group D. The 14Ccontent of the gastro-intestinal tract in experiment D was not determined. 
- 
-Dermal application 
-Seventy two hours after application, the amount of radioactivity remaining at the application site (skin) was less than 0.15 % for all three experiments. The highest value (0.15 % of the applied dose) was noted for the formulation with hydrogen peroxide (experiment B). For the formulation without H2O2 (A) and with the DMSO/water solution (C), the figures were 0.121 and 0.146 %. The majority of the dyestuff was removed by rinsing 30 min after the application. 97.8 to 98.68 % of the applied dose was found in the washing water. 
-0.128 %, 0.091 % and 0.336 % of the applied doses were eliminated via urine and faeces within 72 h in experiment A, B and C, respectively. The lowest absorption rate was obtained for the formulation containing H2O2. Radioactivity was mainly excreted via urine (63 - 75 % of the amounts eliminated, equal to 62 - 74 % of the amounts absorbed) and to a lower extent via faeces (25-37 % of the amounts eliminated). 81 - 89 % of the total amount eliminated was excreted within the first 24 hours. 
-The radioactivity remaining in the carcass (0.0024 to 0.0033 % of the administered and 1.0 to 1.8 % of the adsorbed dose) was below or near the detection limit in experiments A, B and C. Residues in organs were mostly below the detection limit, with highest concentrations noted for thyroids, adrenals and fat. 
-Based on these results, the amount cutaneously absorbed was 0.121 % (equal to 2.90 �g/cm2) for the formulation without H2O2, 0.15 % (equal to 2.50 �g/cm2) for the formulation with H2O2 and 0.147 % (equal to 9.68 �g/cm2) for the pure dyestuff in water/DMSO. 
- 
-Oral application: 
-After oral application, 14C- HC Yellow n� 13 was mainly eliminated via urine (82 % of the applied dose within 72 h) and to a minor extent via the faeces (18 %). Elimination was fast as the main part was excreted within the first 24 hours (87 %). The radioactivity found in tissues 72 h after administration was generally very low (less than 0.003 % of the applied dose per g organ), with higher values noted in fat, liver and skin. In experiment E the blood level reached a peak at 120 min after application and declined with an initial half-life of 1 h. 
- 
-Conclusion 
-HC Yellow n� 13 given orally to rats is quickly absorbed and excreted within 72 h, with the majority eliminated within 24 h after application. Excretion takes place predominantly (82 %) via urine and to a minor extent via faeces, demonstrating a good bioavailability after oral application, which is in line with findings obtained in vitro. 
-The observed excretion pattern after dermal application is similar to the one observed for the oral route, with the majority excreted via urine within 24 hours after administration. The amount cutaneously absorbed was 0.121 % (equal to 2.90 �g/cm�) for the formulation without H2O2, 0.15 % (equal to 2.50 �g/cm�) for the formulation with H2O2 and 0.147 % (equal to 9.68 �g/cm�) in water/DMSO. Low tissue residue levels were noted for both routes of exposure (dermal or oral), indicating that bio-accumulation would not be expected. The remaining radioactivity in the skin after dermal application was also low (less than 1 % of the applied dose).  
-Ref.: 31 
- 
-3.3.10. Photo-induced toxicity  
-3.3.10.1. Phototoxicity / photoirritation and photosensitisation 
- 
-No data submitted 
- 
-3.3.10.2. Phototoxicity / photomutagenicity / photoclastogenicity 
- 
-No data submitted 
- 
-3.3.11. Human data  
-No data submitted  
- 
-3.3.12. Special investigations  
-No data submitted 
- 
- 
- 
-3.3.13. Safety evaluation (including calculation of the MoS)  
-CALCULATION OF THE MARGIN OF SAFETY 
- 
-HC Yellow n� 13 
- 
-Oxidative conditions 
- 
-Absorption through the skin  A (mean + 2SD) 	= 3.73 �g/cm� Skin Area surface SAS 	= 580 cm2 Dermal absorption per treatment SAS x A x 0.001 	= 2.16 mg Typical body weight of human  	= 60 kg Systemic exposure dose (SED)  SAS x A x 0.001/60 = 0.04 mg/kg bw NOAEL   	= 10 mg/kg bw (developmental toxicity study, oral, rat ) 
- 
-MOS = 277  
- 
- 
- 
- 
- 
-Non-oxidative conditions 
- 
-Absorption through the skin  A (mean + 2 SD) 	= 3.13 �g/cm� Skin Area surface SAS 	= 580 cm2 Dermal absorption per treatment SAS x A x 0.001 	= 1.82 mg Typical body weight of human  	= 60 kg Systemic exposure dose (SED)  SAS x A x 0.001/60 = 0.03 mg/kg bw NOAEL   	= 10 mg/kg bw/d (developmental toxicity study, oral, rat) 
- 
-MOS = 331  
- 
-3.3.14. Discussion  
-Physico-chemical specification 
-HC Yellow n� 13 is used as a hair colouring agent ("Direct Dye") in non-oxidative and in oxidative hair dye formulations at a maximum on-head concentration of 2.5%. The stability of HC Yellow n� 13 in the presence of hydrogen peroxide during a 45' period was demonstrated. The stability of HC Yellow n� 13 in typical hair dye formulations has not been demonstrated. HC Yellow n� 13 is a secondary amine, and thus, it is prone to nitrosation. Nitrosamine content in HC Yellow n� 13 has not been reported. It should not contain more than 50 ppb nitrosamine and it should not be used in the presence of nitrosating agent.  
- 
- 
-General toxicity 
-HC Yellow n� 13 was found to be of low acute oral and dermal toxicity in rats. In a 90-day oral toxicity study in rats, slight pancreatic islet cell degeneration, accompanied by inflammation or fibrosis of the endocrine pancreas was observed in two of the male rats treated with 90 mg/kg bw. These changes were accompanied by a high but not statistically significant blood glucose level. 30 mg/kg bw/d was considered the NOAEL. However, the NOAEL was adjusted to 21 mg/kg bw/day because of only 5 days treatment per week. 
- In a rat teratogenicity study, no structural abnormalities were observed in the foetuses. however, there were slight indications of developmental retardations (delayed ossification of metacarpals and sternum) following administration of 30 and 90 mg/kg bw/day during the critical days of organogenesis. While the dose of 90 mg/kg bw/d (the highest dose investigated) was judged the NOAEL for maternal toxicity and teratogenicity, the SCCS in a conservative approach considers 10 mg/kg bw/d as the NOAEL for developmental anomalies.  
- 
- 
-Irritation, sensitisation 
-A 5% solution of the test material was not irritant to rabbit skin. 
-Slight redness and chemosis of the conjuctivae was observed. According to 83/467/EEC, 5% HC Yellow n� 13 in propyleneglycol is classified as not irritant. 
-Mild reactions were seen with slight effects on the cornea, iris, and conjunctiva reported when tested with the undiluted substance. In all cases the mean scores were below the thresholds defined in Directive 83/467/EEC for classification as "irritant". 
-The sensitisation data in the dossier was generated without inducing irritation during induction. 
- 
- 
-Dermal absorption 
-In an in vitro dermal absorption assay using pig skin, the amount 2.61 � 0.56 �g/cm� (receptor fluid + upper skin + lower skin) was considered to be bioavailable under oxidative conditions from a formulation containing 2.5% HC Yellow n� 13. As only 5 chambers were used and the dose of formulation was too high, the mean+2SD (3.73 �g/cm�) is used in calculating the MOS. 
- 
-The amount 1.95 � 0.59 �g/cm� (receptor fluid + upper skin + lower skin) was considered to be bioavailable under non-oxidative conditions in a formulation containing 2.5% HC Yellow n� 13. As only 5 chambers were used and the dose of formulation was too high, the mean + 2SD (3.13 �g/cm�) should be used in calculating the MOS. 
- 
-The study in vivo is discussed in the toxicokinetics section. 
- 
- 
-Toxicokinetics 
-In vitro study 
-A mean permeability in human intestinal epithelial (TC-7) cells of 82.6 x 10-6 cm/sec was obtained with HC Yellow n� 13 which classifies the test item to be of high permeability. As the absorption across the intestinal epithelium is considered to be the limiting factor of the uptake through the gastro-intestinal tract, the high permeability observed in this assay indicates a good absorption of HC Yellow n� 13 after oral administration. 
-In vivo study 
-HC Yellow n� 13 given orally to rats is quickly absorbed and excreted within 72 h, with the majority eliminated within 24 h after application. Excretion takes place predominantly (82 %) via urine and to a minor extent via faeces, demonstrating a good bioavailability after oral application, which is in line with findings obtained in vitro. 
-The observed excretion pattern after dermal application is similar to the one observed for the oral route, with the majority excreted via urine within 24 hours after administration. The amount cutaneously absorbed was 0.121 % (equal to 2.90 �g/cm2) for the formulation without H2O2, 0.15 % (equal to 2.50 �g/cm2) for the formulation with H2O2 and 0.147 % (equal to 9.68 �g/cm2) in water/DMSO. Low tissue residue levels were noted for both routes of exposure (dermal or oral), indicating that bio-accumulation would not be expected. The remaining radioactivity in the skin after dermal application was also low (less than 1 % of the applied dose).  
- 
- 
-Mutagenicity 
-Overall, the genotoxicity of HC Yellow n� 13 is sufficiently investigated for the three endpoints of genotoxicity: gene mutations, chromosome aberrations and aneuploidy. HC Yellow n� 13 treatment did not result in an induction of gene mutations in bacteria. In an in vitro chromosome aberration test, an increase in the number of cells with chromosomal aberrations was found after treatment with HC Yellow n� 13. The positive effect found in the in vitro chromosome aberration test could not be confirmed with an in vivo test. HC Yellow n� 13 did not induce an increase in bone marrow cells with micronuclei in an in vivo micronucleus test. 
-As the positive effect found in vitro was not confirmed in an in vivo test, HC Yellow n� 13 itself can be considered to have no in vivo genotoxic potential and additional tests are unnecessary.  
- 
- 
-Carcinogenicity 
-No data submitted 
- 
- 
- 
- 
-4. CONCLUSION 
- 
-Based on the data provided, the SCCS is of the opinion that the use of HC Yellow n� 13 as a direct dye with a maximum on-head concentration of 2.5% in oxidative and non-oxidative hair dye formulations does not pose a risk to the health of the consumer. 
- 
-A possible sensitising potential of HC Yellow n� 13 cannot be excluded. 
- 
-HC Yellow n� 13 is a secondary amine, and thus, it is prone to nitrosation. Nitrosamine content in HC Yellow n� 13 has not been reported. It should not contain more than 50 ppb nitrosamine and it should not be used in the presence of nitrosating agent.  
- 
- 
- 
-5. MINORITY OPINION 
- 
-Not applicable 
- 
- 
-
-6. REFERENCES 
- 
-1. Pasquier, C; Formation of N-Nitrosamines during the storage of n�trodyestuffs; COSMITAL SA; 2000 
-2. Schneider, S.; Determination of the Water Solubility of Fluorgelb II in accordance with EECGuideline A.6.; CASSELLA; 1993 
-3. Tenberken-P�tzsch, ?.; Identity, Purity and Stability Test of Fluorgelb II; WELLA AG; 2001 
-4. Schneider, S.; Determination of the Partition Coefficient of Fluorgelb II in accordance with EEC-Guideline A.8.; CASSELLA; 1993 
-5. Werle, H.; Wet Sieving Particle Size Distribution and Fine Material < 50 �m Fluorgelb II; ?IOC???; 1996 
-6. Schneider, S.; Determination of the Melting Point of Fluorgelb II in accordance with EECGuideline A.1.; CASSELLA; 1993 
-7. Schneider, S.; Determination of the Boiling Point of Fluorgelb II in accordance with EECGuideline A.2.; CASSELLA; 1993 
-8. Schneider, S.; Determination of the relative Density of Fluorgelb II in accordance with EEC-Guideline A.3.; CASSELLA; 1993 
-9. W�rsd�rfer, U.; Vapour Pressure; HOECHST AG; 1993 
-10. Schneider, S.; Determination of the Surface Tension of Fluorgelb II (in aqueous solutions) in accordance with EEC-Guideline A.5.; CASSELLA; 1993 
-11. Wendt, W.; Determination of the Flammability of Fluorgelb II in accordance with EECGuideline A.10.; CASSELLA; 1993 
-12. Wendt, W.; Determination of the Explosive Properties of Fluorgelb II in accordance with EEC-Guideline A.14.; CASSELLA; 1993 
-13. Wendt, W.; Determination of Auto-flammability of Fluorgelb II �n accordance with EECGuideline ?.16.; CASSELLA; 1993 
-14. Wendt, W.; Determination of the Oxidizing Properties of Fluorgelb II in accordance with EEC-Guideline A.17.; CASSELLA; 1993 
-15. Opinion of the Scientific Committee on cosmetic products and non-food products intended for consumers concerning HC YELLOW ? 13, COLIPA n� B102; SCCNFP; 2003 
-16. Oetjen, M.; Acute orai toxicity test of "Fluorgelb II" in rats; IBR; 1990 
-17. Klein, W.; Acute dermal toxicity of "Fluorgelb II" in rats (Limit-Test); SELBERSDORF; 1992 
-18. Oetjen, M.; Acute dermal irritation / corrosion test of "Fluorgelb II" in rabbits; IBR; 1990 
-19. Oetjen, M.; Acute eye irritation / corrosion test of "Fluorgelb II" in rabbits; IBR; 1990 
-20. Klein, W.; Acute eye irritation/corrosion study with "Fluorgelb II"; SELBERSDORF; 1991 21. F�rst, M.; Fluorgelb II Sensitization testing in Guinea-pigs, modified method of B. Magnusson and A. M. Kligman (OECD-guideline 406); IBR; 1989 
-22. Beck, H.; Cutaneous Absorption of 2.5 % HC Yellow ? 13 (= WR18213) in a typical hair dye formulation through Pig Skin in vitro; COSMITAL SA; 2005 
-23. Beck, H.; Cutaneous Absorption of 2.5 % HC Yellow ? 13 (= WR1S213) in a typical hair dye formulation with hydrogen peroxide through Pig Skin in vitro; COSM1TAL SA; 2005 
-24. Simon, G. ?.; Maibach, H. L; The pig as an experimental animal model of percutaneous permeation in man; Qualitative and quantitative observations - An overview; SKIN PHARMACOL. PHYSIOL; 13,229-234; 2000 
-25. Hruby, R.; 90-Day toxicity study with "Fluorgelb II" in rats; SEIBERSDORF; 1991 
-26. Faller, C; Assessment of the potential mutagenicity of N-(2-Hydroxyethyl)-2-nitro-4(trifluormethyl)aniline in the Ames reversion assay with Salmonella Typhimurium; COSMITAL SA; 1995 
-27. Schulz, M.; In vitro Chromosome Aberration test in Chinese Hamster V79 cells with Fluorgelb II, 89105; RCC-CCR; 2001 
-28. HoHarvar, N.; Micronucleus assay in bone marrow cells of the mouse with Fluorgelb 2, 89105, 18213; RCC-CCR; 2002 
-29. Fenzl, Ch.; Teratogenicity study with "Fluorgelb II" in rats; SEIBERSDORF; 1991 
-30. Kennedy, K. J.; ADME: A-B permeability - Study of HC YELLOW No. 13; CEREP; 2005 
-31. Reind!, E.; Toxicokinetics of "Fluorgelb II'; SEIBERSDORF; 1991 
-32. Beck, H.; Bracher, M.; Bartnik, F. G.; Percutaneous absorption of hair dyes: An interlaboratory comparison ofin vivo and in vitro data with rat and pig; IN VITRO TOXICOL; 7, 305-312; 1994 
-33. Wester, R. C; Maibach, H. I.; Cutaneous pharmacokinetics: 10 steps to percutaneous absorption; DRUG METAB. REV.; 14,169-205; 1983 
-34. K�nig, P.; Data base search for references for B102 - HC YELLOW No. 13: 10442-83-8; WELLA AG;2005 
- 
-1 COLIPA - European Cosmetics Toiletry and Perfumery Association 2 According to records of COLIPA 
----------------
-
-------------------------------------------------------------
-
----------------
-
-------------------------------------------------------------
-
-SCCS/1322/10 
- 
-Opinion on HC Yellow n� 13 
-__________________________________________________________________________________ 
- 
-
-SCCS/1322/10 
- 
-Opinion on HC Yellow n� 13 
-__________________________________________________________________________________ 
- 
-
- 	2
-
- 	2
-
-
-
-
-
+SCCS/1322/10 Revision of 22 March 2011 Scientific Committee on Consumer Safety SCCS OPINION on HC Yellow n° 13 COLIPA n° B102 The SCCS adopted this opinion at 9th plenary meeting on 14 December 2010 SCCS/1322/10 Opinion on HC Yellow n° 13 About the Scientific Committees Three independent non-food Scientific Committees provide the Commission with the scientific advice it needs when preparing policy and proposals relating to consumer safety, public health and the environment. The Committees also draw the Commission's attention to the new or emerging problems which may pose an actual or potential threat. They are: the Scientific Committee on Consumer Safety (SCCS), the Scientific Committee on Health and Environmental Risks (SCHER) and the Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) and are made up of external experts. In addition, the Commission relies upon the work of the European Food Safety Authority (EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention and Control (ECDC) and the European Chemicals Agency (ECHA). SCCS The Committee shall provide opinions on questions concerning all types of health and safety risks (notably chemical, biological, mechanical and other physical risks) of non-food consumer products (for example: cosmetic products and their ingredients, toys, textiles, clothing, personal care and household products such as detergents, etc.) and services (for example: tattooing, artificial sun tanning, etc.). Scientific Committee members Jürgen Angerer, Ulrike Bernauer, Claire Chambers, Qasim Chaudhry, Gisela Degen, Thomas Platzek, Suresh Chandra Rastogi, Vera Rogiers, Christophe Rousselle, Tore Sanner, Kai Savolainen, Jacqueline Van Engelen, Maria Pilar Vinardell, Rosemary Waring, Ian R. White Contact European Commission Health & Consumers Directorate C: Public Health and Risk Assessment Unit C7 - Risk Assessment Office: B232 B-1049 Brussels Sanco-Sc6-Secretariat@ec.europa.eu © European Union, 2010 ISSN 1831-4767 ISBN 978-92-79-32654-7 Doi:10.2772/30935 ND-AQ-09-035-EN-N The opinions of the Scientific Committees present the views of the independent scientists who are members of the committees. They do not necessarily reflect the views of the European Commission. The opinions are published by the European Commission in their original language only. http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm 2 SCCS/1322/10 Opinion on HC Yellow n° 13 ACKNOWLEDGMENTS Prof. J. Angerer Dr. C. Chambers Prof. T. Platzek (chairman) Dr. S.C. Rastogi Dr. C. Rousselle Prof. T. Sanner Dr. J. van Benthem (associate scientific advisor) Prof. M.P. Vinardell Dr. I.R. White (rapporteur) External experts Dr. Mona-Lise Binderup Danish Food Institute, Denmark Keywords: SCCS, scientific opinion, hair dye, B102, HC Yellow n° 13, CAS 10442-83-8, EC 443-760-2, directive 76/768/EEC Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Opinion on HC Yellow n° 13, 14 December 2010 This opinion has been subject to a commenting period of four weeks after its initial publication. Comments received during this time have been considered by the SCCS and discussed in the subsequent plenary meeting. Where appropriate, the text of the relevant sections of the opinion has been modified or explanations have been added. In the cases where the SCCS after consideration and discussion of the comments, has decided to maintain its initial views, the opinion (or the section concerned) has remained unchanged. Revised opinions carry the date of revision. 3 SCCS/1322/10 Opinion on HC Yellow n° 13 TABLE OF CONTENTS ACKNOWLEDGMENTS ………………………………………………………………………………... 3 1. BACKGROUND …………………………………………………………………………………. 5 2. TERMS OF REFERENCE …………………………………………………………………………………. 6 3. OPINION …………………………………………………………………………………. 7 4. CONCLUSION …………………………………………………………………………………. 25 5. MINORITY OPINION …………………………………………………………………………………. 25 6. REFERENCES …………………………………………………………………………………. 26 4 SCCS/1322/10 Opinion on HC Yellow n° 13 1. BACKGROUND Submission I for HC Yellow n° 13 with the chemical name 4-(2’-Hydroxyethyl)-amino-3nitrotrifluormethylbenzene was submitted in October 1993 by COLIPA 1, 2. Submission II for HC Yellow n° 13 was submitted in April 2002 by COLIPA ². The Scientific Committee on Cosmetic Products and Non-Food Products intended for Consumers (SCCNFP) adopted at its 24th plenary meeting on 24-25 June 2003 an opinion (SCCNFP/0689/03, final) with the conclusion that: “HC Yellow n° 13 consists for more than 99 % of N-(2-hydroxyethyl)-2-nitro-4trifluormethylaniline. However, relevant physico-chemical parameters are not given. Purity of the test material in several studies is not reported. The dye is a secondary alkanolamine, and thus, it is prone to nitrosation. No data is provided on the nitrosamine content of the dye and in hair dye formulations. The data provided on stability are insufficient. HC Yellow n° 13 was found to be of low acute oral and dermal toxicity in rats. No signs of eye or skin irritation were observed. The sensitisation test results were negative. In a 90day oral toxicity study in rats, 30 mg/kg bw was the NOAEL. In a rat teratogenicity study, no structural abnormalities were observed in the foetuses, however, there were slight indications of developmental retardations following administration of 30 and 90 mg/kg/bw/day during the critical days of organogenesis. 10 mg/kg bw was the level without developmental anomalies. Skin penetration (rat in vivo study, using 14C-labelled a.i.) indicated a maximum penetration of 2.5 μg/cm2 for oxidative hair dyes (max. in-use concentration 2.5%), and of 9.69 μg/cm2 for colour setting lotions (max. in-use concentration of 5%). HC Yellow n° 13 was tested in procaryotic cells for gene mutation in several tester strains of S. typhimurium. The test is unsuitable for genotoxicity evaluation. A second Bacterial Reverse Mutation Test was provided and was acceptable for evaluation. Based on the reversion rate, it is concluded that HC Yellow n° 13 dissolved in DMSO is negative in any S. typhimurium tester strains in the absence or the presence of S9 mix. The earlier in vitro mammalian chromosomal aberration test is negative. However, the test is unsuitable for genotoxicity evaluation. A more recent suitable in vitro mammalian chromosomal aberration test has been provided in submission II with HC Yellow n° 13 in DMSO. It is positive for clastogenicity. HC Yellow n° 13 gave negative results in the mammalian erythrocyte micronucleus test. However, the study did not demonstrate that bone marrow was reached by the test agent.” Submission III for HC Yellow n° 13 was submitted by COLIPA in July 2005. According to this submission the substance is used as: a) a non-reactive hair colouring agent (“direct dye”) in non-oxidative hair dye formulations at a maximum on-head concentration of 2.5%. It is common practice to apply 35 to 50 g of the product over a period of 30 minutes followed by rinse off with water and shampoo. The application may be repeated at weekly intervals. b) a non-reactive hair colouring agent (“direct dye”) in oxidative hair dye formulations at a maximum on-head concentration of 2.5%. The colouring component and a developer (hydrogen peroxide) are mixed in ratios between 1:1 to 1:3. It is common practice to apply up to 100 g of the finished mixed product for a period of 30 to 45 minutes followed by rinse off with water and shampoo. The application may be repeated at monthly intervals. 1 COLIPA - European Cosmetics Toiletry and Perfumery Association 2 According to records of COLIPA 5 SCCS/1322/10 Opinion on HC Yellow n° 13 Submission III presents updated scientific data on the above mentioned substance in line with the second step of the strategy for the evaluation of hair dyes (http://europa.eu.int/comm/enterprise/cosmetics/doc/hairdyestrategyinternet.pdf) within the framework of the Cosmetics Directive 76/768/EEC. 2. TERMS OF REFERENCE 1. Does the Scientific Committee on Consumer Safety (SCCS) consider HC Yellow n° 13 safe for use as a non-oxidative hair dye with an on-head concentration of maximum 2.5% taken into account the scientific data provided? 2. Does the SCCS consider HC Yellow n° 13 safe for use in oxidative hair dye products with an on-head concentration of maximum 2.5% taken into account the scientific data provided? 3. Does the SCCS recommend any further restrictions with regard to the use of HC Yellow n° 13 in any non-oxidative or oxidative hair dye formulations? 6 SCCS/1322/10 Opinion on HC Yellow n° 13 3. OPINION 3.1. Chemical and Physical Specifications 3.1.1. Chemical identity 3.1.1.1. Primary name and/or INCI name HC Yellow n° 13 (INCI name) 3.1.1.2. Chemical names N-(2-Hydroxyethyl)-2-nitro-4-trifluormethyl-aniline 1-(2-Hydroxyethyl)amino-2-nitro-4-trifluormethylbenzene 3.1.1.3 Trade names and abbreviations Fluorgelb II Cos 128 COLIPA B102 3.1.1.4 CAS /EC number CAS: 10442-83-8 EC: 443-760-2 3.1.1.5 Structural formula 3.1.1.6 Empirical formula Formula: C9H9F3N2O3 3.1.2 Physical form Yellow crystalline powder 3.1.3 Molecular weight Molecular weight: 250.18 g/mol 3.1.4 Purity, composition and substance codes 4 batches were tested for the purity and impurities. The chemical characterisation was performed by NMR and IR. UV-spectra of the 4 batches were similar. 7 SCCS/1322/10 Opinion on HC Yellow n° 13 G2001/011-001: batch 97/92/1094 G2001/011-002: batch AR902, 02001/011-003: batch AZ212, G2001/011-004: batch AR822, Eingang: 05.09.97 NMR content (% w/w) 99.7 99.8 99.6 99.9 HPLC purity (% peak area) 210 nm 99.5 99.8 99.8 99.8 254 nm 99.9 100 100 100 418 nm 99.8 100 100 100 Loss on drying (% w/w) 0.12 0.06 0.06 n.a Water content (% w/w) 0.06 0.02 0.02 n.a Sulfated ash (% w/w) 0.005 0.004 0.003 n.a. n.a.: not analysed Chromatograms of the samples at the HPLC purity test showed at the 210, 254, and 418 nm detection wavelength one main peak with 99.5 - 100 area % and minor peaks with 0.01 -0.34 area % which might represent traces of impurities. Declaration by the Applicant Deduced specification Purity HPLC quantitative: HPLC qualitative (254 nm): Solvent content: > 98 % w/w > 99 % < 1 % 3.1.5 Impurities / accompanying contaminants 1-Chloro-2-nitro-4-trifluoro-methylbenzene < 100 ppm 3.1.6 Solubility Water solubility: 506 mg/L (20°C) determined by EC –A.6 method DMSO solubility: 50 mg/ml See Ref 3 3.1.7 Partition coefficient (Log Pow) Log Po/w: 2.54 (pH 6.5 -7.1, 23°C) determined by EC –A.8 method 3.1.8 Additional physicochemical specifications Melting point: 74.7 °C Boiling point: 227.1 °C Flammability: not highly flammable Flash point: > 400 °C Vapour pressure: 3.1 x 10-8 hPa (20 °C) Relative density: 1.45 (20 °C) Surface tension (water): 42.4 nM/m (20 °C) Viscosity: / Oxidising properties: not oxidising pKa: / Refractive index: / UV/ Vis spectrum: absorption maxima at 240nm and 408 nm 8 SCCS/1322/10 Opinion on HC Yellow n° 13 3.1.9. Stability HC Yellow n° 13 suspensions in 0.5% aqueous CMC used for the 90 day oral toxicity testing were shown to be homogeneous and stable ( variation ± 10%) during the study. The stability of a solution of approximately 50 mg/L HC Yellow n° 13 in DMSO was examined at room temperature. After a storage period of 4 h, the recovery of the dye was 100.6%. The stability of HC Yellow n° 13 was tested in a hair dye formulation in the presence of hydrogen peroxide for 15, 30 and 45 minutes. The test results demonstrate the stability of HC Yellow n° 13 during a 45 minute test period. General Comments on Physico-chemical characterisation -HC Yellow n° 13 is a secondary amine, and thus, it is prone to nitrosation. Nitrosamine content in HC Yellow n° 13 has not been reported. -Stability of HC Yellow n° 13 in typical hair dye formulations has not been demonstrated. 3.2. Function and uses HC Yellow n° 13 is used as a hair colouring agent ("Direct Dye") in non-oxidative and in oxidative hair dye formulations at a maximum on-head concentration of 2.5%. 3.3. Toxicological Evaluation 3.3.1. Acute toxicity 3.3.1.1. Acute oral toxicity Taken from SCCNFP/0689/03 Guideline: OECD 401 (1987) Species: Wistar rats, Crl: (WI)BR Group size: 5 males + 5 females Material: Fluorgelb II in 2% gum Arabic Batch: AR 902 Purity: 99.7% Dose: 2000 mg/kg bw in a volume of 10 ml/kg Observ. period: 14 days GLP: in compliance Study date: 1990 Groups of 5 male and 5 female rats received a single oral dose of 2000 mg/kg bw. The animals were observed daily for 14 days for clinical abnormalities and mortality. Body weights and macroscopic observations were recorded. 9 SCCS/1322/10 Opinion on HC Yellow n° 13 Results No mortalities were observed. The treatment caused lethargy, piloerection, abnormal posture and reduced righting reflex for up to 6 hours after dosing. The LD50 was greater than 2000 mg/kg bw. Ref.: 16 3.3.1.2. Acute dermal toxicity Taken from SCCNFP/0689/03 Guideline: OECD 402 (1987) Species: Sprague Dawley rats, Him:OFA Group size: 5 males + 5 females Material: Fluorgelb II moistened with distilled water Batch: AR 902 Purity: 99.7% Dose: 2000 mg/kg bw on an area of 5 x 6 cm Observ. period: 14 days GLP: in compliance Study date: 1992 Moistened Fluorgelb II was administered, at a dose of 2000 mg/kg bw, under an occlusive patch to a shaven area on the back of 5 male and 5 female Sprague Dawley rats for 24 hours. The animals were observed twice daily for 14 days for clinical abnormalities and mortality. Body weights and macroscopic observations were recorded. Results All animals survived until the end of the study. Chromodacryorrhea was noted in 3 males and 2 females. In 3 females body weight gain was lower than for controls. Fur and tails were stained in all animals. The LD50 was reported to be greater than 2000 mg/kg bw. Ref.: 17 3.3.1.3. Acute inhalation toxicity No data submitted 3.3.2. Irritation and corrosivity 3.3.2.1. Skin irritation Taken from SCCNFP/0689/03 Guideline: OECD n° 404 Species: New Zealand white rabbit Group size: 6 (sex not specified) Material: 5% Fluorgelb II suspended in propylene glycol (pH 6.5) Batch: AR 902 Purity: 99.7 % Dose: 0.5 ml on 6 cm² GLP: in compliance Study date: 1990 0.5 ml of a 5% solution of the test material in propylene glycol was topically applied to the clipped back of 6 rabbits under occlusive conditions for 4 hours. The material residues were then washed off. Skin reactions were recorded 30 - 60 min and 24, 48 and 72 h after removal of the rubber sheet. 10 SCCS/1322/10 Opinion on HC Yellow n° 13 Results No signs of erythema or oedema were observed. A 5% solution of the test material was not irritant to rabbit skin. Ref.: 18 3.3.2.2. Mucous membrane irritation Taken from SCCNFP/0689/03 Test on diluted material Guideline: OECD n° 405 Species: New Zealand white rabbit Route: eye Group size: 6 (sex not specified) Material: 5% Fluorgelb II suspended in propylene glycol (pH 6.8) Batch: AR 902 Purity: 99.7% Dose: 0.1 ml GLP: in compliance Study date: 1990 0.1 ml of a 5% dilution of the test material in propylene glycol was instilled into the left eye of 6 New Zealand White rabbits. In 3 animals it was washed out after 4 seconds. The untreated right eye served as control. Eye reactions were recorded at 1, 24, 48 and 72 hours after treatment. Results Slight redness and chemosis of the conjuctivae was observed. According to 83/467/EEC, 5% Fluorgelb II in propyleneglycol was classified as not irritant. Ref.: 19 Test on undiluted material Guideline: OECD n° 405 Species: rabbit (New Zealand white) Route: eye Group size: 3 females Material: Fluorgelb II Batch: AR 902 Purity: 99.7% Dose: Approximately 0.1 ml GLP: in compliance Study date: 1991 The equivalent of 0.1 ml (actual amounts 52, 64 and 80 mg) of the undiluted test material was instilled into the right eye of 3 rabbits. The untreated left eye served as control. Eye reactions were read at 1, 24, 48 and 72 hours after treatment. Results Mild reactions were seen with slight effects on the cornea, iris, and conjunctiva reported. In all cases the mean scores were below the thresholds defined in Directive 83/467/EEC for classification as “irritant”. Ref.: 20 11 SCCS/1322/10 Opinion on HC Yellow n° 13 3.3.3. Skin sensitisation Taken from SCCNFP/0689/03 Magnusson and Kligman Maximisation test Guideline: OECD n° 406 Species: guinea pigs (Pirbright BOR:DHPW) Group size: 10 males and 10 females Material: Fluorgelb II Batch: AR 902 Purity: 99.7% Concentrations: Intradermal induction: 10% test material in propylene glycol Topical induction: 0.5 g undiluted test material Challenge: 0.2 g undiluted test material and 0.2 ml 5% solution in propylene glycol GLP: in compliance Study date: 89 The systemic induction phase consisted of 3 pairs of 2 intradermal injections (0.1 ml each) on the clipped dorsal shoulder region of the animals. The injections contained: 1) the test material (10%) in propylene glycol; 2) the test material (10%) in Freund’s complete adjuvant, 1:2 diluted; 3) Freund’s complete adjuvant in distilled water (1:1). 7 days later the pure test material was topically applied and occluded for 48 hours. The controls received similar treatments but received vehicle (without test substance) only. The challenge was carried out 3 weeks after the first intradermal treatment. 0.2 g of the pure test material and 0.2 ml of a 5% solution in propylene glycol were topically applied to the left flank for 24 hours under an occlusive patch. Reactions were recorded at 24 and 48 hours after the last application. Results Sporadic, slight erythema was observed in both test and control animals at comparable incidence. Conclusion The test material was considered non-sensitising. Ref.: 21 Comment This study was not fully in compliance with OECD guideline 406, which specifies that, when testing a non-irritating material, local irritation should be induced 24 hours before the topical induction. The sensitisation data in the dossier was generated without inducing irritation during induction. 3.3.4. Dermal / percutaneous absorption Guideline: OECD 428 (2004) Tissue: Porcine (Schweizer Landedelschwein, female) back and flank skin (thickness: mean 1000 μm) Group size: 6 (five for the formulation containing the test item and one for the blank formulation) Skin integrity: tritiated water Diffusion cell: Diffusion Teflon-chambers Test substance: Fluorgelb (WR18213) tested at a concentration of 2.5 % 12 SCCS/1322/10 Opinion on HC Yellow n° 13 Batch: Purity: Radiochemical Test item: Dose volume: Receptor fluid: Solubility receptor fluid: Stability receptor fluid: Method of Analysis: GLP: Study date: AZ212 100 % (HPLC at 254 nm) / typical oxidative hair dye formulation 100 mg/cm² of formulation physiological receptor fluid 0.769 mg/ml stable HPLC In compliance May 2005-June2005 The integrity of each skin preparation was demonstrated with tritiated water resulting in 0.4 to 1.9% of the applied dose found in the receptor fluids, which was within the limit of acceptance (< 2.0%) for all 6 skin samples. 400 mg of formulation (= 100 mg/cm²) containing 2.5% Fluorgelb (WR18213) was applied once to the skin samples (4 cm²) in a typical cream formulation for oxidative hair dyes. Six chambers were investigated. The receptor solution (physiological phosphate buffer containing NaCl and antibiotics) was pumped through the receptor chamber at a rate of 5 ml/h. Sixty minutes after test substance application, the test item was removed by washing the skin twice with 4 ml water, then once with 4 ml of a shampoo-formulation (diluted to approximately 14%), and again twice with water. The washing solutions were combined and the amount of dye was determined by HPLC. Fractions of the receptor fluid were collected after 16, 24, 40, 48, 64, and 72 hours, concentrated by solid phase extraction and analysed immediately. At termination of the experiment, the skin was heat-treated and the ‘upper skin’ (stratum corneum and upper stratum germinativum) was mechanically separated from the ‘lower skin’ (lower stratum germinativum and upper dermis). Both skin compartments were extracted separately and the dye content was quantified by means of HPLC. Results All samples/tissue extracts were analysed by HPLC. The total balance (total recovery) was 100.21 ± 3.41% of the dose applied. The majority of the applied dose of Fluorgelb (WR18213) remained on the skin surface (100.10 ± 3.40% of the applied dose or 2.503 ± 0.085 mg/cm²). After 72 h, 1.65 ± 0.11 μg/cm² had penetrated into the receptor fluid, 0.04 ± 0.03 μg/cm² in the upper skin, and 0.92 ± 0.42 μg/cm² was recovered in the lower skin. The amount 2.61 ± 0.56 μg/cm² (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable. Ref.: 22 Comment The amount 2.61 ± 0.56 μg/cm² (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable under oxidative conditions in a formulation containing 2.5% Fluorgelb. However, only 5 chambers were used and the dose of formulation was too high. Therefore, the mean+2SD (3.73 μg/cm²) should be used in calculating the MOS. Guideline: OECD 428 (2004) Tissue: Porcine back and flank skin (thickness: 1000 μm) Group size: 6 (five for the formulation containing the test item and one for the blank formulation) per study Skin integrity: tritiated water Diffusion cell: Diffusion Teflon-chambers Test substance: Fluorgelb (WR18213) tested at a concentration of 2.5% 13 SCCS/1322/10 Opinion on HC Yellow n° 13 Batch: AZ212 Purity: 100% (HPLC at 254 nm) Radiochemical / Test item: typical non-oxidative hair dye formulation Dose volume: 100 mg/cm² of formulation Receptor fluid: physiological receptor fluid Solubility receptor fluid: 0.769 mg/ml Stability receptor fluid: stable Method of Analysis: HPLC GLP: In compliance Study date: June 2005 The integrity of each skin preparation was demonstrated with tritiated water resulting in 0.6 to 0.9% of the applied dose found in the receptor fluids, which was within the limit of acceptance (< 2.0%) for all 6 skin samples. 400 mg of formulation (= 100 mg/cm²) containing 2.5% Fluorgelb (WR18213) was applied once to the skin samples (4 cm²) in a typical cream formulation for non-oxidative hair dyes. The experiment was carried out as in that under oxidative conditions. Results The total balance (total recovery) 94.37 ± 5.45% of the dose applied to the pig skin samples confirmed the validity of the experiment. The majority of the applied dose of Fluorgelb (WR18213) remained on the skin surface (94.2 ± 5.47% of the applied dose or 2.357 ± 0.137 mg/cm². After 72 h, 1.87 ± 0.56 μg/cm² had penetrated into the receptor fluid, 0.01 ± 0.01 μg/cm² in the upper skin, and 0.07 ± 0.02 μg/cm² was recovered in the lower skin. The amount 1.95 ± 0.59 μg/cm² (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable. Ref.: 23 Comment The amount 1.95 ± 0.59 μg/cm² (receptor fluid + upper skin + lower skin) of Fluorgelb (WR18213) was considered to be bioavailable under non-oxidative conditions in a formulation containing 2.5% Fluorgelb. However, only 5 chambers were used and the dose of formulation was too high. Therefore, the mean + 2SD (3.13 μg/cm²) should be used in calculating the MOS. 3.3.5. Repeated dose toxicity 3.3.5.1. Repeated Dose (28 days) oral / dermal / inhalation toxicity No data submitted 3.3.5.2. Sub-chronic (90 days) oral / dermal / inhalation toxicity Taken from SCCNFP/0689/03 Guideline: OECD n° 408 Species: Wistar rats, Crl: (WI) BR Group sizes: 15 males and 15 females (+ 10 males and 10 females for recovery high dose and control group) Material: Fluorgelb II in 0.5% aqueous sodium carboxymethylcellulose Batch: AZ 212 Purity: > 99% Dose levels: 0, 10, 30 and 90 mg/kg bw in a volume of 10 ml/kg Exposure: 5 days per week for 90-92 days 14 SCCS/1322/10 Opinion on HC Yellow n° 13 GLP: in compliance Study date: 1991 Fluorgelb II, in 0.5% aqueous sodium carboxymethylcellulose, was administered by oral gavage to groups of 15 male and 15 female rats at doses of 10, 30 and 90 mg/kg bw, 5 days per week for 90-92 days. The high dose group and the control group included an additional 10 males and 10 females for observation in a 4-week recovery period. Controls received the vehicle only. The following investigations were performed: daily observations, ophthalmoscopy, bodyweights, food consumption, haematology, clinical chemistry and urinalysis (at several stages), gross pathological examination, organ weight determination and histopathology. Results No animals died during the study. Urine samples of all treated animals were dark yellow throughout the administration period. Body weights and food consumption were unaffected by treatment. Blood, urine and clinical chemistry data were all within the normal range of variation with the exception of serum cholesterol in high dose males, which was elevated and did not return to normal following the 4-week recovery period. No ophthalmological or macroscopic changes were observed. There was no effect on either the absolute or relative organ weights in treated rats compared with controls. Islet cell degeneration, accompanied by inflammation or fibrosis of the endocrine pancreas was observed in two of the male rats treated with 90 mg/kg bw. These changes were accompanied by a high but not statistically significant blood glucose level and were considered to be material related. No pancreatic changes were found in any intermediate-dose animals. No other treatment related effects were reported. The dose of 30 mg/kg bw/day was considered as NOAEL Ref.: 25 Comment The NOAEL was adjusted to 21 mg/kg bw/day because of only 5 days treatment per week. 3.3.5.3. Chronic (> 12 months) toxicity No data submitted 3.3.6. Mutagenicity / Genotoxicity 3.3.6.1. Mutagenicity / Genotoxicity in vitro Bacterial Reverse Mutation Assay Guideline: OECD 471 Species/strain: Salmonella typhimurium TA98, TA100, TA1535, TA1537, TA 1538 Replicates: Triplicate plates, 2 independent tests Test substance: N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline Batch: 97/92/1094 Purity: 99.9% (GC/HPLC) Vehicle: DMSO Concentrations: experiment 1: 1, 10, 100, 1000 and 5000 μg/plate with and without S9mix experiment 2: 30, 100, 300, 1000 and 3000 μg/plate with and without S9-mix Treatment: direct plate incorporation with 48 h incubation without and with S9-mix GLP: in compliance Study date: 2 November 1995 – 15 December 1995 15 SCCS/1322/10 Opinion on HC Yellow n° 13 N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline has been investigated for gene mutations in S. typhimurium, using the direct plate incorporation method both with or without S9-mix. Liver S9 fraction from Aroclor 1254-induced rats was used as the exogenous metabolic activation system. Both experiments were performed with the direct plate incorporation method. Toxicity was evaluated on the basis of a reduction in the number of revertant colonies and a qualitative evaluation of the bacterial lawn. Negative and positive controls are in accordance with the OECD guideline. Results Toxicity as evidenced by a reduction in the number of spontaneous revertants per plate and an abnormal background lawn was observed for every tester strains at dose levels of 5000 (experiment 1) and 3000 μg/plate (experiment 2) both without and with S9-mix. Without and with S9-mix N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline did not induce a dose related or biologically relevant increase in revertant numbers at any dose in any of the S. typhimurium tester strains in both experiments performed. Conclusions Under the experimental conditions used N-(2-hydroxyethyl)-2-nitro-4-(trifluormethyl)aniline was not mutagenic in this gene mutation tests in bacteria. Ref.: 26 In vitro Mammalian Chromosome Aberration Test Guideline: OECD 473 (1997). Species/strain: Chinese Hamster V79 Cells Replicates: Duplicate cultures Test substance: Fluorgelb II, 89105 Batch: CH 97/92/1094 Purity: 99.7% Vehicle: DMSO Concentrations: 50, 100 and 150 μg/ml with and without metabolic activation. Treatment: 4 h both in absence and presence of S9-mix; harvest time 18 h after start of treatment. GLP: in compliance Study date: 21 August 2001 – 17 December 2001 Fluorgelb II has been investigated for induction of chromosomal aberrations in V79 cells. Liver S9 fraction from rats induced with Phenobarbital/β-naphthoflavone was used as the exogenous metabolic activation system. Fluorgelb II test concentrations were based on the results of a pre-test with concentrations between 20.3 and 2600 μg/ml (corresponding to circa 10 mM, the prescribed maximum concentration) in the presence and absence of S9mix using reduced cell numbers as indication for toxicity. In the chromosome aberration test the treatment period was 4 h with and without S9-mix; cultures were harvested 18 h after the start of treatment. The final 2.5 h before harvest culture was in the presence of Colcemid (at a final concentration of 0.2 μg/ml) to block cells at metaphase of mitosis. Toxicity was determined by measuring the reduction in mitotic index (MI). Chromosome (metaphase) preparations were stained with Giemsa and examined microscopically for chromosomal aberrations. Negative and positive controls were in accordance with the OECD guideline. Results In the pre-test no precipitation occurred; at the top concentration, no influence on the pH or osmolarity was noted. In the pre-test clear toxic effects were seen with 325 μg/ml and above; therefore, 250 μg/ml was chosen as highest concentration in the chromosome aberration test. Toxic effects as evidenced by a reduction in cell numbers were observed in the presence of S9-mix at 150 μg/ml. A reduction in the mitotic index relative to the 16 SCCS/1322/10 Opinion on HC Yellow n° 13 concurrent control was not noted in the absence of metabolic activation, in the presence of metabolic activation at the top dose a 73.5 % reduction of the mitotic index was observed. In the presence, but not in the absence, of S9-mix a biologically relevant, statistically significant and dose dependent increase in the number of cells with chromosome aberrations was found. No biologically relevant increase in the number of polyploid metaphases was recorded. Conclusion Under the experimental conditions used, Fluorgelb II induced an increase in cells with chromosomal aberrations and, consequently, is genotoxic (clastogenic) in V79 cells in vitro. Ref.: 27 Comment The required 50% reduction in mitotic index as measure for sufficient exposure was not reached. Since Fluorgelb II was considered to be genotoxic after 4 h treatment a second experiment with continuous treatment was not performed. 3.3.6.2 Mutagenicity/Genotoxicity in vivo In vivo Mammalian Erythrocytes Micronucleus Test Guideline: OECD 474 Species/strain: NMRI mice Group size: 6 mice/sex/group Test substance: Fluorgelb II Batch: 97/92/1094 Purity: > 99.5 % Vehicle: PEG 400 Dose level: 0, 375, 750 and 1500 mg/kg bw/day Route: oral, three times at 24 h intervals Sampling: 24 h after the final treatment GLP: in compliance Study date: 16 April 2002 - 5 November 2002 Fluorgelb II has been investigated for the induction of micronuclei in bone marrow cells of mice. Test concentrations were based on the acute toxicity in a pre-experiment for toxicity with 2 animals per sex/group. The animals were treated orally three times at 24 h intervals and were examined for acute toxic systems at intervals around 1, 2-4, 6 and 24 h after each administration of Fluorgelb II. In the main experiment mice were exposed orally three times at 24 h intervals to 0, 375, 750 and 1500 mg/kg bw/day. Bone marrow cells were collected 24 h after the last treatment. The animals of the highest dose group were examined for acute toxic symptoms 1, 2-4, 6 and 24 h after each administration. Toxicity and thus exposure of the target cells was determined by measuring the ratio between polychromatic and total erythrocytes (PCE/TE). Bone marrow preparations were stained with May-Grünwald/Giemsa and examined microscopically for the PCE/TE ratio and micronuclei. Five mice/sex/group were analysed; the remaining 6th animals of each group were only evaluated in case a mouse died spontaneously. Negative and positive controls were in accordance with the OECD guideline. Results In the pre-experiment for toxicity the mice treated with 1500 mg/kg bw/day showed reduction of spontaneous activity and ruffled fur, abdominal position (after the 2nd application only), eyelid closure (after the 2nd and 3rd application only) and apathy (after the 2nd and 3rd application only). Based on these finding and since all mice survived, 1500 mg/kg bw/day was chosen as the top dose. In the main experiment, one animal died after the first application of the highest dose 1500 mg/kg bw/day. The surviving mice treated with 1500 mg/kg bw/day showed reduction of 17 SCCS/1322/10 Opinion on HC Yellow n° 13 spontaneous activity, abdominal position, eyelid closure, ruffled fur and apathy (after the 2nd and 3rd application only). After the 2nd and 3rd application the mice had yellow coloured urine. Treatment with Fluorgelb II did not result in substantially decreased PCE/TE ratios compared to the untreated controls indicating that Fluorgelb II did not have cytotoxic properties in the bone marrow. However, clinical signs after treatment and the yellow coloured urine of treated mice indicated systemic distribution and thus bioavailability of Fluorgelb II. Biologically relevant increases in the number of PCEs with micronuclei compared to the concurrent vehicle controls were not found in bone marrow at any treatment interval and dose level. The increase in PCEs with micronuclei in males observed after 1500 mg/kg bw/day was due to a high rate of micronuclei in one mouse only. However, this value as well as the mean value for the group is within the range of the historical data, not statistically significant and, consequently, considered not biologically relevant. Conclusion Under the experimental conditions used, Fluorgelb II did not induce an increase in bone marrow cells with micronuclei in treated mice and, consequently, Fluorgelb II is not genotoxic (clastogenic and/or aneugenic) in bone marrow cells of mice. Ref.: 28 3.3.7. Carcinogenicity No data submitted 3.3.8. Reproductive toxicity 3.3.8.1. Two generation reproduction toxicity No data submitted 3.3.8.2. Teratogenicity Taken from SCCNFP/0689/03 Guideline: OECD n° 414 Species: Wistar rat Route: oral Group sizes: originally 26 mated females/group; 21-25 pregnant females/group Material: Fluorgelb II in 0.5% sodium carboxymethylcellulose Batch: AZ 212 Purity: > 99% Dose levels: 0, 10, 30, 90 mg/kg bw/day in a volume of 10 ml/kg Administration: days 6-15 of gestation GLP: in compliance Study date: 1991 Fluorgelb II, dissolved in 0.5% sodium carboxymethylcellulose, was administered by gavage to 4 groups of pregnant Wistar rats at dose levels of 10, 30 and 90 mg/kg bw (group sizes 22, 25 and 21, respectively). Controls received the vehicle only (group size 22). The dams were killed on day 20 of gestation. The abdominal and thoracic cavities of the dams were examined. All foetuses were examined for any external abnormalities. Half of the foetuses were examined for skeletal defects by Alizarin Red staining and the remaining foetuses were evaluated for visceral abnormalities after fixation in Bouin’s fluid. 18 SCCS/1322/10 Opinion on HC Yellow n° 13 Results Dams No dams died during the study and no pups were delivered prematurely. Urine of animals treated with 30 and 90 mg/kg bw were stained yellow by the test material. No other treatment related effects were observed in the dams. Foetuses In groups treated with 30 and 90 mg/kg bw there was a slight but not statistically significant decrease of viable foetuses per female and an increase in the number of post implantation losses. No skeletal or organ deformities were reported in any of the groups. The study authors concluded that 90 mg/kg/bw was a NOAEL for maternal toxicity, embryotoxicity and teratogenicity. Reproductive performance: there were no significant effects on reproductive performance. Embryolethality was slightly increased at 30 and 90 mg/kg bw but the changes did not reach the level of statistical significance. Foetuses: external foetal observation revealed no gross malformations. Skeletal observations revealed delayed ossification of metacarpals and sternum at 30 and 90 mg/kg bw. No skeletal malformations were observed. Visceral observations did not show any treatment related effects. 90 mg/kg bw was the NOAEL for maternal toxicity and teratogenicity. In a conservative approach, the SCCNFP considers 10 mg/kg bw as the NOAEL for developmental anomalies. Ref.: 29 3.3.9. Toxicokinetics In vitro study with human intestinal epithelial cells Guideline: / Cells: Human intestinal epithelial cell line TC-7 Test substance: HC Yellow n° 13 Batch: 97/92/1094 Purity: 99.9 area% (HPLC at 254 nm) Test concentration: 10 μM in HBSS buffer containing 1 % DMSO Incubation time: 60 min GLP: / The bioavailability of HC Yellow n° 13 across the intestinal barrier was investigated in human intestinal epithelial (TC-7) cells in vitro in 2 independent experiments. The permeability from the apical (A, pH 6.5) to the basolateral (B, pH 7.4) side was investigated at 37 °C in 96-well transwell plates with shaking for a 60 min contact time. Analysis of the donor (apical) and receiver (basolateral) samples was done by means of HLPC-MS/MS and the apparent permeability coefficient (Papp) was calculated for two independent experiments. 14C-mannitol (about 4 μM) was used to demonstrate the integrity of the cell monolayer. Only monolayers revealing a permeability of < 2.5 x 10-6 cm/sec were used. Propranolol, atenolol, vinblastine and ranitidine were analysed concurrently to demonstrate the validity of the test system. According to the laboratory’s classification system, a low permeability is considered for test items revealing a Papp < 2 x 10-6 cm/sec. A Papp of 2 - 20 x 10-6 cm/sec and a Papp ≥ 20 x 10-6 cm/sec classify a substance to have a moderate and a high permeability, respectively. As recommended by FDA, ranitidine (50 % absorption in humans) was used as the low permeability reference compound and propranolol (90 % absorption in humans) was used as the high permeability reference compound. 19 SCCS/1322/10 Opinion on HC Yellow n° 13 Results The total recovery for the reference substances and HC Yellow n° 13 ranged from 73 to 162 %. The permeability figures for the reference substances propranolol (Papp = 58.2 and 48.0 x 10-6 cm/sec), a high permeability reference compound with 90 % absorption in humans, and ranitidine (Papp = 0.2 and <0.1 x 10-6 cm/sec), known to be absorbed at about 50 % in humans, were within acceptance range of 20 - 60 x 10-6 cm/sec and 0.0 - 2 x 10-6 cm/sec, respectively and demonstrated the validity of the assay. For HC Yellow n° 13 a Papp of 82.6 x 10-6 cm/sec (86.7 and 78.5 x 10-6 cm/sec) was determined and thus the test substance was classified to be of high permeability, indicating a good absorption from the gastrointestinal tract. Conclusion A mean permeability in human intestinal epithelial (TC-7) cells of 82.6 x 10-6 cm/sec was obtained with HC Yellow n° 13 which classifies the test item to be of high permeability. As the absorption across the intestinal epithelium is considered to be the limiting factor of the uptake through the gastro-intestinal tract, the high permeability observed in this assay indicates a good absorption of HC Yellow n° 13 after oral administration. Ref.: 30 Comment The study was not performed under GLP conditions, but a statement of the quality assurance unit of the test facility is included. There is no official guideline for this assay. However, the study was performed according to ECVAM recommendations. The generated data is considered to provide an estimation of the bioavailability of HC Yellow n° 13 after oral administration. In vivo study in rats Guideline: / Species: Sprague Dawley Him: OFA rat Group sizes: 3 males and 3 females Route: topical and oral Material: 14C- HC Yellow n° 13 at 2.5 % in formulations with and without hydrogen peroxide, and in water/DMSO (1:2) Batch: AZ2Ì2 Purity: 99.8 % (HPLC at 210 nm) Application route: Experiments A, B, C: dermal  Experiments D, E: oral Dose levels: Exp. A: Formulation without H2O2: 2.5 %; 2.23 mg/cm² Exp. B: Formulation with H2O2; 2.5 %; 2.72 mg/cm² Exp. C: Solution in water/DMSO (1:2); 8.33 %; 2.85 mg/cm² Exp. D: solution in water/DMSO (1:2); 2.5 %; 122.2 mg/kg bw Exp, E: solution in water/DMSO (1:2); 2.5 %; 127.1 mg/kg bw Treatment: Exp. A, B, C: single dermal application for 30 min Exp. D, E: single oral administration (gavage) GLP: In compliance Dermal application (experiments А, В and C)14C-HC Yellow n° 13 was applied dermally to groups of 3 male and 3 female rats (body weight about 200 g). The application area was 9 cm2 and the test substance was applied at concentrations of 8.33 % in solution (water/DMSO 1:2, experiment C) and of 2.5 % in formulations without (experiment A) and with hydrogen peroxide (experiment B) for 30 min. The mean amount of the applied dyestuff corresponded to 9.68, 2.90 and 2.51 μg/cm2, respectively. After treatment the test substance was scraped off and the skin rinsed with a shampoo formulation followed by water until the rinsing water was free from colour. Rinsing solutions 20 SCCS/1322/10 Opinion on HC Yellow n° 13 were collected. During the exposure time, animals were constrained to avoid licking. After rinsing, the area was covered with gauze fixed by adhesive tape and an additional air permeable plastic cone to further prevent licking of the treated area during the 72 ħ in the metabolism cages. Oral administration (D and E): 5 mg/kg bw (D and E) 14C- HC Yellow n° 13 was administered as a 2.5 % solution in water/DMSO 2:1 by gavage to two groups of 3 male and 3 female rats each which were starved for 16 hours before treatment. In experiment D animals were placed in metabolism cages for 72 h. In experiment E, blood was taken at several time points within 24 h after administration. During the studies, blood was taken from the retrobulbar venous plexus under light ether anaesthesia. At termination of the experiment, blood samples were taken from the aorta. Urine and faeces were collected daily (0-24, 24-48 and 48-72 h after administration) from the metabolism cages. Animals were killed 72 hours (A, B, C, and D) and 24 hours (E) after the application and the application sites (А, В and C) as well as some organs were taken and analysed for radioactivity. The radioactivity in the remaining carcass after skin removal (A, B, C and D) or removal of the gastro-intestinal tract (D) was also determined. Results Total recovery of the applied radioactivity for the individual animals in the experiments ranged from 98.0 to 99.2 % in the dermal groups and 98.73 % in the oral group D. The 14Ccontent of the gastro-intestinal tract in experiment D was not determined. Dermal application Seventy two hours after application, the amount of radioactivity remaining at the application site (skin) was less than 0.15 % for all three experiments. The highest value (0.15 % of the applied dose) was noted for the formulation with hydrogen peroxide (experiment B). For the formulation without H2O2 (A) and with the DMSO/water solution (C), the figures were 0.121 and 0.146 %. The majority of the dyestuff was removed by rinsing 30 min after the application. 97.8 to 98.68 % of the applied dose was found in the washing water. 0.128 %, 0.091 % and 0.336 % of the applied doses were eliminated via urine and faeces within 72 h in experiment A, B and C, respectively. The lowest absorption rate was obtained for the formulation containing H2O2. Radioactivity was mainly excreted via urine (63 -75 % of the amounts eliminated, equal to 62 - 74 % of the amounts absorbed) and to a lower extent via faeces (25-37 % of the amounts eliminated). 81 - 89 % of the total amount eliminated was excreted within the first 24 hours. The radioactivity remaining in the carcass (0.0024 to 0.0033 % of the administered and 1.0 to 1.8 % of the adsorbed dose) was below or near the detection limit in experiments A, B and C. Residues in organs were mostly below the detection limit, with highest concentrations noted for thyroids, adrenals and fat. Based on these results, the amount cutaneously absorbed was 0.121 % (equal to 2.90 μg/cm2) for the formulation without H2O2, 0.15 % (equal to 2.50 μg/cm2) for the formulation with H2O2 and 0.147 % (equal to 9.68 μg/cm2) for the pure dyestuff in water/DMSO. Oral application: After oral application, 14C-HC Yellow n° 13 was mainly eliminated via urine (82 % of the applied dose within 72 h) and to a minor extent via the faeces (18 %). Elimination was fast as the main part was excreted within the first 24 hours (87 %). The radioactivity found in tissues 72 h after administration was generally very low (less than 0.003 % of the applied dose per g organ), with higher values noted in fat, liver and skin. In experiment E the blood level reached a peak at 120 min after application and declined with an initial half-life of 1 h. Conclusion HC Yellow n° 13 given orally to rats is quickly absorbed and excreted within 72 h, with the majority eliminated within 24 h after application. Excretion takes place predominantly (82 %) 21 SCCS/1322/10 Opinion on HC Yellow n° 13 via urine and to a minor extent via faeces, demonstrating a good bioavailability after oral application, which is in line with findings obtained in vitro. The observed excretion pattern after dermal application is similar to the one observed for the oral route, with the majority excreted via urine within 24 hours after administration. The amount cutaneously absorbed was 0.121 % (equal to 2.90 μg/cm²) for the formulation without H2O2, 0.15 % (equal to 2.50 μg/cm²) for the formulation with H2O2 and 0.147 % (equal to 9.68 μg/cm²) in water/DMSO. Low tissue residue levels were noted for both routes of exposure (dermal or oral), indicating that bio-accumulation would not be expected. The remaining radioactivity in the skin after dermal application was also low (less than 1 % of the applied dose). Ref.: 31 3.3.10. Photo-induced toxicity 3.3.10.1. Phototoxicity / photoirritation and photosensitisation No data submitted 3.3.10.2. Phototoxicity / photomutagenicity / photoclastogenicity No data submitted 3.3.11. Human data No data submitted 3.3.12. Special investigations No data submitted 3.3.13. Safety evaluation (including calculation of the MoS) CALCULATION OF THE MARGIN OF SAFETY HC Yellow n° 13 Oxidative conditions Absorption through the skin A (mean + 2SD) = 3.73 μg/cm² Skin Area surface SAS = 2580 cmDermal absorption per treatment SAS x A x 0.001 = 2.16 mg Typical body weight of human = 60 kg Systemic exposure dose (SED) SAS x A x 0.001/60 = 0.04 mg/kg bw NOAEL = 10 mg/kg bw (developmental toxicity study, oral, rat ) MOS = 277 22 SCCS/1322/10 Opinion on HC Yellow n° 13 Non-oxidative conditions Absorption through the skin A (mean + 2 SD) = 3.13 μg/cm² Skin Area surface SAS = 580 cm2 Dermal absorption per treatment SAS x A x 0.001 = 1.82 mg Typical body weight of human = 60 kg Systemic exposure dose (SED) SAS x A x 0.001/60 = 0.03 mg/kg bw NOAEL = 10 mg/kg bw/d (developmental toxicity study, oral, rat) MOS = 331 3.3.14. Discussion Physico-chemical specification HC Yellow n° 13 is used as a hair colouring agent ("Direct Dye") in non-oxidative and in oxidative hair dye formulations at a maximum on-head concentration of 2.5%. The stability of HC Yellow n° 13 in the presence of hydrogen peroxide during a 45' period was demonstrated. The stability of HC Yellow n° 13 in typical hair dye formulations has not been demonstrated. HC Yellow n° 13 is a secondary amine, and thus, it is prone to nitrosation. Nitrosamine content in HC Yellow n° 13 has not been reported. It should not contain more than 50 ppb nitrosamine and it should not be used in the presence of nitrosating agent. General toxicity HC Yellow n° 13 was found to be of low acute oral and dermal toxicity in rats. In a 90-day oral toxicity study in rats, slight pancreatic islet cell degeneration, accompanied by inflammation or fibrosis of the endocrine pancreas was observed in two of the male rats treated with 90 mg/kg bw. These changes were accompanied by a high but not statistically significant blood glucose level. 30 mg/kg bw/d was considered the NOAEL. However, the NOAEL was adjusted to 21 mg/kg bw/day because of only 5 days treatment per week. In a rat teratogenicity study, no structural abnormalities were observed in the foetuses. however, there were slight indications of developmental retardations (delayed ossification of metacarpals and sternum) following administration of 30 and 90 mg/kg bw/day during the critical days of organogenesis. While the dose of 90 mg/kg bw/d (the highest dose investigated) was judged the NOAEL for maternal toxicity and teratogenicity, the SCCS in a conservative approach considers 10 mg/kg bw/d as the NOAEL for developmental anomalies. Irritation, sensitisation A 5% solution of the test material was not irritant to rabbit skin. Slight redness and chemosis of the conjuctivae was observed. According to 83/467/EEC, 5% HC Yellow n° 13 in propyleneglycol is classified as not irritant. Mild reactions were seen with slight effects on the cornea, iris, and conjunctiva reported when tested with the undiluted substance. In all cases the mean scores were below the thresholds defined in Directive 83/467/EEC for classification as “irritant”. The sensitisation data in the dossier was generated without inducing irritation during induction. Dermal absorption In an in vitro dermal absorption assay using pig skin, the amount 2.61 ± 0.56 μg/cm² (receptor fluid + upper skin + lower skin) was considered to be bioavailable under oxidative conditions from a formulation containing 2.5% HC Yellow n° 13. As only 5 chambers were 23 SCCS/1322/10 Opinion on HC Yellow n° 13 used and the dose of formulation was too high, the mean+2SD (3.73 μg/cm²) is used in calculating the MOS. The amount 1.95 ± 0.59 μg/cm² (receptor fluid + upper skin + lower skin) was considered to be bioavailable under non-oxidative conditions in a formulation containing 2.5% HC Yellow n° 13. As only 5 chambers were used and the dose of formulation was too high, the mean + 2SD (3.13 μg/cm²) should be used in calculating the MOS. The study in vivo is discussed in the toxicokinetics section. Toxicokinetics In vitro study A mean permeability in human intestinal epithelial (TC-7) cells of 82.6 x 10-6 cm/sec was obtained with HC Yellow n° 13 which classifies the test item to be of high permeability. As the absorption across the intestinal epithelium is considered to be the limiting factor of the uptake through the gastro-intestinal tract, the high permeability observed in this assay indicates a good absorption of HC Yellow n° 13 after oral administration. In vivo study HC Yellow n° 13 given orally to rats is quickly absorbed and excreted within 72 h, with the majority eliminated within 24 h after application. Excretion takes place predominantly (82 %) via urine and to a minor extent via faeces, demonstrating a good bioavailability after oral application, which is in line with findings obtained in vitro. The observed excretion pattern after dermal application is similar to the one observed for the oral route, with the majority excreted via urine within 24 hours after administration. The amount cutaneously absorbed was 0.121 % (equal to 2.90 μg/cm2) for the formulation without H2O2, 0.15 % (equal to 2.50 μg/cm2) for the formulation with H2O2 and 0.147 % (equal to 9.68 μg/cm2) in water/DMSO. Low tissue residue levels were noted for both routes of exposure (dermal or oral), indicating that bio-accumulation would not be expected. The remaining radioactivity in the skin after dermal application was also low (less than 1 % of the applied dose). Mutagenicity Overall, the genotoxicity of HC Yellow n° 13 is sufficiently investigated for the three endpoints of genotoxicity: gene mutations, chromosome aberrations and aneuploidy. HC Yellow n° 13 treatment did not result in an induction of gene mutations in bacteria. In an in vitro chromosome aberration test, an increase in the number of cells with chromosomal aberrations was found after treatment with HC Yellow n° 13. The positive effect found in the in vitro chromosome aberration test could not be confirmed with an in vivo test. HC Yellow n° 13 did not induce an increase in bone marrow cells with micronuclei in an in vivo micronucleus test. As the positive effect found in vitro was not confirmed in an in vivo test, HC Yellow n° 13 itself can be considered to have no in vivo genotoxic potential and additional tests are unnecessary. Carcinogenicity No data submitted 24 SCCS/1322/10 Opinion on HC Yellow n° 13 4. CONCLUSION Based on the data provided, the SCCS is of the opinion that the use of HC Yellow n° 13 as a direct dye with a maximum on-head concentration of 2.5% in oxidative and non-oxidative hair dye formulations does not pose a risk to the health of the consumer. A possible sensitising potential of HC Yellow n° 13 cannot be excluded. HC Yellow n° 13 is a secondary amine, and thus, it is prone to nitrosation. Nitrosamine content in HC Yellow n° 13 has not been reported. It should not contain more than 50 ppb nitrosamine and it should not be used in the presence of nitrosating agent. 5. MINORITY OPINION Not applicable 25 SCCS/1322/10 Opinion on HC Yellow n° 13 6. REFERENCES 1. Pasquier, C; Formation of N-Nitrosamines during the storage of nítrodyestuffs; COSMITAL SA; 2000 2. Schneider, S.; Determination of the Water Solubility of Fluorgelb II in accordance with EEC-Guideline A.6.; CASSELLA; 1993 3. Tenberken-Pötzsch, Β.; Identity, Purity and Stability Test of Fluorgelb II; WELLA AG; 2001 4. Schneider, S.; Determination of the Partition Coefficient of Fluorgelb II in accordance with EEC-Guideline A.8.; CASSELLA; 1993 5. Werle, H.; Wet Sieving Particle Size Distribution and Fine Material < 50 μm Fluorgelb II; ВIOCНЕМ; 1996 6. Schneider, S.; Determination of the Melting Point of Fluorgelb II in accordance with EEC-Guideline A.1.; CASSELLA; 1993 7. Schneider, S.; Determination of the Boiling Point of Fluorgelb II in accordance with EEC-Guideline A.2.; CASSELLA; 1993 8. Schneider, S.; Determination of the relative Density of Fluorgelb II in accordance with EEC-Guideline A.3.; CASSELLA; 1993 9. Wörsdörfer, U.; Vapour Pressure; HOECHST AG; 1993 10. Schneider, S.; Determination of the Surface Tension of Fluorgelb II (in aqueous solutions) in accordance with EEC-Guideline A.5.; CASSELLA; 1993 11. Wendt, W.; Determination of the Flammability of Fluorgelb II in accordance with EEC-Guideline A.10.; CASSELLA; 1993 12. Wendt, W.; Determination of the Explosive Properties of Fluorgelb II in accordance with EEC-Guideline A.14.; CASSELLA; 1993 13. Wendt, W.; Determination of Auto-flammability of Fluorgelb II ín accordance with EEC-Guideline А.16.; CASSELLA; 1993 14. Wendt, W.; Determination of the Oxidizing Properties of Fluorgelb II in accordance with EEC-Guideline A.17.; CASSELLA; 1993 15. Opinion of the Scientific Committee on cosmetic products and non-food products intended for consumers concerning HC YELLOW № 13, COLIPA n° B102; SCCNFP; 2003 16. Oetjen, M.; Acute orai toxicity test of "Fluorgelb II" in rats; IBR; 1990 17. Klein, W.; Acute dermal toxicity of "Fluorgelb II" in rats (Limit-Test); SELBERSDORF; 1992 18. Oetjen, M.; Acute dermal irritation / corrosion test of "Fluorgelb II" in rabbits; IBR; 1990 19. Oetjen, M.; Acute eye irritation / corrosion test of "Fluorgelb II" in rabbits; IBR; 1990 20. Klein, W.; Acute eye irritation/corrosion study with "Fluorgelb II"; SELBERSDORF; 1991 21. Fürst, M.; Fluorgelb II Sensitization testing in Guinea-pigs, modified method of B. Magnusson and A. M. Kligman (OECD-guideline 406); IBR; 1989 22. Beck, H.; Cutaneous Absorption of 2.5 % HC Yellow № 13 (= WR18213) in a typical hair dye formulation through Pig Skin in vitro; COSMITAL SA; 2005 23. Beck, H.; Cutaneous Absorption of 2.5 % HC Yellow № 13 (= WR1S213) in a typical hair dye formulation with hydrogen peroxide through Pig Skin in vitro; COSM1TAL SA; 2005 24. Simon, G. Α.; Maibach, H. L; The pig as an experimental animal model of percutaneous permeation in man; Qualitative and quantitative observations -An overview; SKIN PHARMACOL. PHYSIOL; 13,229-234; 2000 25. Hruby, R.; 90-Day toxicity study with "Fluorgelb II" in rats; SEIBERSDORF; 1991 26. Faller, C; Assessment of the potential mutagenicity of N-(2-Hydroxyethyl)-2-nitro-4(trifluormethyl)aniline in the Ames reversion assay with Salmonella Typhimurium; COSMITAL SA; 1995 27. Schulz, M.; In vitro Chromosome Aberration test in Chinese Hamster V79 cells with Fluorgelb II, 89105; RCC-CCR; 2001 28. HoHarvar, N.; Micronucleus assay in bone marrow cells of the mouse with Fluorgelb 2, 89105, 18213; RCC-CCR; 2002 29. Fenzl, Ch.; Teratogenicity study with "Fluorgelb II" in rats; SEIBERSDORF; 1991 30. Kennedy, K. J.; ADME: A-B permeability - Study of HC YELLOW No. 13; CEREP; 2005 31. Reind!, E.; Toxicokinetics of "Fluorgelb II'; SEIBERSDORF; 1991 26 SCCS/1322/10 Opinion on HC Yellow n° 13 32. Beck, H.; Bracher, M.; Bartnik, F. G.; Percutaneous absorption of hair dyes: An interlaboratory comparison ofin vivo and in vitro data with rat and pig; IN VITRO TOXICOL; 7, 305-312; 1994 33. Wester, R. C; Maibach, H. I.; Cutaneous pharmacokinetics: 10 steps to percutaneous absorption; DRUG METAB. REV.; 14,169-205; 1983 34. König, P.; Data base search for references for B102 - HC YELLOW No. 13: 10442-83-8; WELLA AG;2005 27 

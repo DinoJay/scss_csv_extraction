@@ -17,32 +17,35 @@
 
 	const scrapeRDT = (txt) => {
 		const regexRepeatedDoseToxicity =
-			/3\.3\.5[\.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6[\.]*\s+Mutagenicity \/ Genotoxicity)/;
+			/3\.3\.5[\.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6[\.]*\s+Mutagenicity \/ Genotoxicity)/g;
+		// const regexRepeatedDoseToxicity = /.*/;
 
-		const repeatedDoseToxicityTxt = txt.match(regexRepeatedDoseToxicity)?.[0];
+		const rdtMatches = [...txt.matchAll(regexRepeatedDoseToxicity)];
+		const rdtText = rdtMatches[rdtMatches.length - 1]?.[0];
+		// console.log('rdtText\n', rdtText);
 
-		// console.log('repeatedDoseToxicityTxt\n', repeatedDoseToxicityTxt);
+		let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
 
-		let pattern = /^Guideline:[\s\S]*?Ref\.*: \d+\s/gm;
-
-		let matchesRepeatedDoseToxicity = repeatedDoseToxicityTxt?.match(pattern);
+		let matchesRDT = rdtText?.match(pattern);
+		// console.log('matchesRDTGuideline\n', matchesRDT);
 		// ?.map((d) => d.substring(10));
 
-		console.log('matches rdt', matchesRepeatedDoseToxicity);
-		return matchesRepeatedDoseToxicity;
+		// console.log('matches rdt', [...txt.matchAll(regexRepeatedDoseToxicity)]);
+		return matchesRDT;
 	};
 
 	const scrapeAcuteTox = (txt) => {
 		const regexAcuteToxicity =
-			/3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[\.]*\s*Irritation and corrosivity)/;
+			/3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[\.]*\s*Irritation and corrosivity)/g;
 
 		// const regex = /3\.3\.1\s+Acute\s+toxicity\s*([\s\S]*?)3\.3\.2\s+Irritation\s+and\s+corrosivity/;
 
-		const acuteToxicityTxt = txt.match(regexAcuteToxicity)?.[0];
-		// console.log('acuteToxicityTxt\n', acuteToxicityTxt);
+		const acuteToxMatches = txt.matchAll(regexAcuteToxicity);
+		const acuteToxicityTxt = [...acuteToxMatches][acuteToxMatches.length - 1]?.[0];
+		console.log('acuteToxicityTxt\n', [...acuteToxMatches]);
 
 		// console.log('acuteToxicityTxt\n', acuteToxicityTxt);
-		let pattern = /^Guideline:[\s\S]*?Ref\.*: \d+\s/gm;
+		let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
 		// let pattern = /Guideline:[\s\S]*?Ref\.:.*?(?=\n|$)/g;
 		// console.log('repeatedDose\n', repeatedDoseToxicityTxt);
 
