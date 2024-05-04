@@ -35,22 +35,31 @@
 	};
 
 	const scrapeAcuteTox = (txt) => {
+		// const regexAcuteToxicity =
+		// 	/3\.3\.1[\.]*\sAcute toxicity[\s\S]*?(?=3\.3\.2[\.]*\s*Irritation and corrosivity)/g;
+
+		// const regexAcuteToxicity = /3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?3\.3\.6[\.]/g;
+
 		const regexAcuteToxicity =
-			/3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[\.]*\s*Irritation and corrosivity)/g;
+			/3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.6[\.]*\s+Mutagenicity \/ Genotoxicity)/g;
+		// const regexAcuteToxicity = /3\.3\.1[\.]*\sAcute toxicity[\s\S]*?3\.3\.6[\.]/g;
 
 		// const regex = /3\.3\.1\s+Acute\s+toxicity\s*([\s\S]*?)3\.3\.2\s+Irritation\s+and\s+corrosivity/;
 
-		const acuteToxMatches = txt.matchAll(regexAcuteToxicity);
+		const acuteToxMatches = [...txt.matchAll(regexAcuteToxicity)];
+		// console.log('acutetoxTxt', [...acuteToxMatches][0][0]);
 		const acuteToxicityTxt = [...acuteToxMatches][acuteToxMatches.length - 1]?.[0];
-		console.log('acuteToxicityTxt\n', [...acuteToxMatches]);
+		console.log('acutetoxtxt', acuteToxicityTxt);
+		// console.log('acuteToxicityTxt\n', [...acuteToxMatches]);
 
-		// console.log('acuteToxicityTxt\n', acuteToxicityTxt);
-		let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
-		// let pattern = /Guideline:[\s\S]*?Ref\.:.*?(?=\n|$)/g;
+		// let pattern = /.*/g;
+		let pattern = /Guideline:[\s\S]*?Ref\.*:*\s\d+\s/gm;
+		// let pattern = /Guideline:[\s\S]*?Ref\.:/g;
+		// let pattern = /Guideline:/g;
 		// console.log('repeatedDose\n', repeatedDoseToxicityTxt);
 
-		let matchesAcuteToxicity = acuteToxicityTxt?.match(pattern);
-		// console.log('matchesAcuteToxicity\n', matchesAcuteToxicity);
+		let matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(pattern)];
+		console.log('matchesAcuteToxicity\n', matchesAcuteToxicity);
 		return matchesAcuteToxicity;
 	};
 
@@ -79,8 +88,8 @@
 			fetch('/sccs_o_082.txt').then((response) => response.text()),
 			fetch('/sccs_o_087.txt').then((response) => response.text()),
 			fetch('/sccs_o_180.txt').then((response) => response.text()),
-			fetch('/sccs_o_195.txt').then((response) => response.text()),
-			fetch('/sccs_o_222.txt').then((response) => response.text())
+			fetch('/sccs_o_195.txt').then((response) => response.text())
+			// fetch('/sccs_o_222.txt').then((response) => response.text())
 			// const promise230 = fetch('/sccs_o_230.txt').then((response) => response.text());
 		];
 
