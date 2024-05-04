@@ -41,7 +41,7 @@
 		// const regexAcuteToxicity = /3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?3\.3\.6[\.]/g;
 
 		const regexAcuteToxicity =
-			/3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.6[\.]*\s+Mutagenicity \/ Genotoxicity)/g;
+			/3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[\.]*\s*Irritation and corrosivity)/g;
 		// const regexAcuteToxicity = /3\.3\.1[\.]*\sAcute toxicity[\s\S]*?3\.3\.6[\.]/g;
 
 		// const regex = /3\.3\.1\s+Acute\s+toxicity\s*([\s\S]*?)3\.3\.2\s+Irritation\s+and\s+corrosivity/;
