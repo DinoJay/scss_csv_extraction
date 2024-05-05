@@ -28,7 +28,7 @@
 	<div
 		on:keydown={() => null}
 		use:modalPortal
-		class="fixed modal cont h-full w-full flex z-50"
+		class="fixed modal cont h-full w-full flex z-50 py-3"
 		transition:blur
 		on:click={(/** @type {{ stopPropagation: () => void; }} */ e) => {
 			if (!isMandatory) {

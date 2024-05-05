@@ -34,6 +34,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"d3-dsv": "^3.0.1",
 		"openai": "^4.35.0",
 		"svelte-icons": "^2.1.0"
 	}
