@@ -78,7 +78,7 @@
 	console.log('text', text, question);
 </script>
 
-<div class="flex-1 overflow-auto">
+<div class="flex-1 overflow-auto flex flex-col">
 	<p
 		class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-96 overflow-auto text-gray-700"
 		class:border-fuchsia-200={selected}
@@ -86,92 +86,90 @@
 	>
 		{text}
 	</p>
-	<div class="flex flex-col">
-		<div class="gap-2 overflow-auto">
-			<Extendable title="Select Endpoints">
-				<EndpointNav
-					endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
-					{selEndpoints}
-					onClick={(e) => {
-						if (selEndpoints.includes(e.name)) {
-							if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e.name);
-						} else {
-							selEndpoints = [...selEndpoints, e.name];
-						}
-					}}
-				></EndpointNav>
-			</Extendable>
-			<div class="mt-3">
-				{#if selEndpoints.length === 0}
-					<div class=" text-sm text-gray-500 py-2">No Endpoints Selected</div>
-				{/if}
-				<div class="flex gap-2 flex-wrap mb-1">
-					{#each selEndpoints as e}
-						<button
-							class="border-2 p-1 text-sm flex items-center"
-							on:click={() => {
-								if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e);
-							}}
-						>
-							<div>{e}</div>
-							{#if selEndpoints.length > 1}
-								<div style="width:16px;height:16px">
-									<CloseIcon />
-								</div>
-							{/if}
-						</button>
-					{/each}
-				</div>
-			</div>
-		</div>
-
-		<div class="  mt-2 text-gray-700">
-			<Extendable title="ChatGPT Prompt">
-				<textarea
-					on:change={(e) => {
-						question = e.target.value;
-					}}
-					value={question}
-					placeholder="ChatGPT question"
-					class="h-32 w-full border-2 border-gray p-2 flex-grow"
-				/>
-			</Extendable>
-		</div>
-	</div>
-	<div class="w-full flex">
-		{#if chatGPTerror !== null}
-			<div class="w-full flex h-44 overflow-auto">
-				<p class="text-red-500">{chatGPTerror}</p>
-			</div>
-		{/if}
-		<LightBox
-			title="ChatGPT Result - {selEndpoints.join(',')}"
-			isOpen={loadingResponse || response}
-			close={() => (response = null)}
-		>
-			<div class="w-full flex">
-				{#if loadingResponse}
-					<div class="h-44 flex flex-1">
-						<div class="m-auto" style="width:20px;height:20px"><Spinner></Spinner></div>
-					</div>
-				{:else if response}
-					<p class="bg mt-2 p-1 overflow-auto" style:background="#cae6ea">
-						{@html response.choices[0].message.content}
-					</p>
-				{/if}
-			</div>
-
-			{#if response}
-				<button
-					class="w-full p-2 border-2 mt-3"
-					on:click={() => setChatGPTContext([text, question])}
-					type="button"
-				>
-					Re-Submit
-				</button>
+	<div class="gap-2 overflow-auto mb-auto">
+		<Extendable title="Select Endpoints">
+			<EndpointNav
+				endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
+				{selEndpoints}
+				onClick={(e) => {
+					if (selEndpoints.includes(e.name)) {
+						if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e.name);
+					} else {
+						selEndpoints = [...selEndpoints, e.name];
+					}
+				}}
+			></EndpointNav>
+		</Extendable>
+		<div class="">
+			{#if selEndpoints.length === 0}
+				<div class=" text-sm text-gray-500 py-2">No Endpoints Selected</div>
 			{/if}
-		</LightBox>
+			<div class="flex gap-2 flex-wrap mb-1">
+				{#each selEndpoints as e}
+					<button
+						class="border-2 p-1 text-sm flex items-center"
+						on:click={() => {
+							if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e);
+						}}
+					>
+						<div>{e}</div>
+						{#if selEndpoints.length > 1}
+							<div style="width:16px;height:16px">
+								<CloseIcon />
+							</div>
+						{/if}
+					</button>
+				{/each}
+			</div>
+		</div>
 	</div>
+
+	<div class="  mt-2 text-gray-700">
+		<Extendable title="ChatGPT Prompt" preClosed={true}>
+			<textarea
+				on:change={(e) => {
+					question = e.target.value;
+				}}
+				value={question}
+				placeholder="ChatGPT question"
+				class="h-32 w-full border-2 border-gray p-2 flex-grow"
+			/>
+		</Extendable>
+	</div>
+</div>
+<div class="w-full flex">
+	{#if chatGPTerror !== null}
+		<div class="w-full flex h-44 overflow-auto">
+			<p class="text-red-500">{chatGPTerror}</p>
+		</div>
+	{/if}
+	<LightBox
+		title="ChatGPT Result - {selEndpoints.join(',')}"
+		isOpen={loadingResponse || response}
+		close={() => (response = null)}
+	>
+		<div class="w-full flex">
+			{#if loadingResponse}
+				<div class="h-44 flex flex-1">
+					<div class="m-auto" style="width:20px;height:20px"><Spinner></Spinner></div>
+				</div>
+			{:else if response}
+				<p class="bg mt-2 p-1 overflow-auto" style:background="#cae6ea">
+					{@html response.choices[0].message.content}
+				</p>
+			{/if}
+		</div>
+
+		{#if response}
+			<button
+				class="w-full p-2 border-2 mt-3"
+				on:click={() => setChatGPTContext([text, question])}
+				type="button"
+			>
+				Re-Submit
+			</button>
+		{/if}
+	</LightBox>
 </div>
 
 <button

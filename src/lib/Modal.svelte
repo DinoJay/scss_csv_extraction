@@ -24,10 +24,11 @@
 </script>
 
 {#if isOpen}
+	<!-- <div class="absolute w-screen h-screen bg-black"></div> -->
 	<div
 		on:keydown={() => null}
 		use:modalPortal
-		class="fixed modal cont w-full h-full flex z-50"
+		class="fixed modal cont h-full w-full flex z-50"
 		transition:blur
 		on:click={(/** @type {{ stopPropagation: () => void; }} */ e) => {
 			if (!isMandatory) {
@@ -48,7 +49,8 @@
 		transform: translate(-50%, -50%);
 	}
 	.cont {
-		background: rgba(240, 248, 255, 0.86);
+		background: rgba(0, 0, 1, 0.1) !important;
+
 		will-change: transform;
 	}
 </style>

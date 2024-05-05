@@ -36,12 +36,14 @@
 		tabindex="0"
 		on:keydown={(e) => {
 			if (e.key === 'Enter') {
+				onClick();
 				// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
 			}
 		}}
 		on:click={(e) => {
 			e.stopPropagation();
 
+			onClick();
 			// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
 		}}
 	>
