@@ -12,6 +12,7 @@
 
 	import { onMount } from 'svelte';
 	import Spinner from './Spinner.svelte';
+	import NavCsv from './NavCsv.svelte';
 
 	let allpromiseTxt: Promise<string[]> | null = null;
 	let paragraph: number | null = null;
@@ -132,20 +133,16 @@
 		{#await allpromiseTxt}
 			<Spinner></Spinner>
 		{:then _}
-			<div class="flex gap-2 mb-3 overflow-auto">
-				{#each convertIter(originalTxtsMap) as [key, txt]}
-					<button
-						class="border-2 p-2 flex-1"
-						on:click={() => {
-							selectedTextId = key;
-							scraped = false;
-							paragraph = null;
-						}}
-						class:bg-blue-300={selectedTextId === key}>{key}</button
-					>
-				{/each}
-			</div>
-			<div class="flex-1 flex overflow-auto bg-gray-50 p-2">
+			<NavCsv
+				data={convertIter(originalTxtsMap)}
+				selectedId={selectedTextId}
+				onClick={(id) => {
+					selectedTextId = id;
+					scraped = false;
+					paragraph = null;
+				}}
+			></NavCsv>
+			<div class="flex-1 main flex overflow-auto bg-gray-50 p-2">
 				{#if scraped}
 					<div class="flex-1 overflow-auto p-3">
 						{#if rdt?.length !== 0}
@@ -187,7 +184,7 @@
 				{/if}
 			</div>
 			<button
-				class="p-2 border-2 0 mt-3"
+				class="p-2 border-2 0 mt-3 drop-shadow-md"
 				on:click={() => (scraped = !scraped)}
 				class:bg-yellow-200={!scraped}
 				class:bg-green-200={scraped}>{scraped ? 'Scraped' : 'Scrape'}</button

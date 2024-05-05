@@ -80,7 +80,7 @@
 
 <div class="flex-1 overflow-auto">
 	<p
-		class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-56 overflow-auto text-gray-700"
+		class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-96 overflow-auto text-gray-700"
 		class:border-fuchsia-200={selected}
 		class:border-fuchsia-100={!selected}
 	>
@@ -155,7 +155,7 @@
 						<div class="m-auto" style="width:20px;height:20px"><Spinner></Spinner></div>
 					</div>
 				{:else if response}
-					<p class="bg mt-2 p-1 min-h-44 overflow-auto" style:background="#cae6ea">
+					<p class="bg mt-2 p-1 overflow-auto" style:background="#cae6ea">
 						{@html response.choices[0].message.content}
 					</p>
 				{/if}

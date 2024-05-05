@@ -3,7 +3,7 @@
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
 
-	import Zoom from 'svelte-icons/io/IoIosSearch.svelte';
+	import MdExpandMore from 'svelte-icons/md/MdExpandMore.svelte';
 	export let selected;
 	export let onClick;
 	export let title;
@@ -47,8 +47,8 @@
 	>
 		<div class="flex items-center mb-2">
 			<h2 class="text-lg flex-1">{title}</h2>
-			<button on:click={onClick} class="text-gray-600" style="width:24px;height:24px"
-				><Zoom></Zoom>
+			<button on:click={onClick} class="text-gray-600" style="width:24px;height:24px">
+				<MdExpandMore></MdExpandMore>
 			</button>
 		</div>
 		<p

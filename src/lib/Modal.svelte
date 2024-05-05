@@ -1,5 +1,6 @@
 <script>
 	import { modalPortal } from '$lib/portalAction';
+	import { onDestroy, onMount } from 'svelte';
 	import { blur, fly, fade } from 'svelte/transition';
 	// import { v4 as uuidv4 } from 'uuid';
 
@@ -8,6 +9,18 @@
 	 * @type {(arg0: any) => void}
 	 */
 	export let isMandatory = false;
+
+	let handler = null;
+
+	// onMount(() => {
+	// 	handler = window.addEventListener('click', () => {
+	// 		console.log('click');
+	// 		open = false;
+	// 	});
+	// });
+	// onDestroy(() => {
+	// 	window.removeEventListener('click', handler);
+	// });
 </script>
 
 {#if isOpen}
