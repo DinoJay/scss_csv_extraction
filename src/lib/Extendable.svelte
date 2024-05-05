@@ -1,6 +1,6 @@
 <script>
 	import MdExpandMore from 'svelte-icons/md/MdExpandMore.svelte';
-	import { slide } from 'svelte/transition';
+	import { slide, blur } from 'svelte/transition';
 
 	export let title = '';
 	/**
@@ -28,7 +28,7 @@
 
 <!-- Main block -->
 <div
-	class="{expanded ? 'expanded ' : ''}  flex flex-col custom-shadow"
+	class="{expanded ? 'expanded ' : ''}  flex flex-col overflow-hidden custom-shadow"
 	{style}
 	style:height={height !== null && expanded ? height : undefined}
 	bind:this={el}
@@ -37,12 +37,12 @@
 		on:keydown={() => null}
 		role="button"
 		tabindex="0"
-		class="flex {expanded ? 'mb-3' : ''}  w-full flex-none justify-center cursor-pointer"
+		class="flex {expanded ? 'mb-3' : ''}  w-full flex flex-none justify-center cursor-pointer"
 		on:click={() => {
 			expanded = !expanded;
 		}}
 	>
-		<h1 class="   crop text-gray-700">
+		<h1 class="  drop-shadow-xl crop text-gray-700">
 			{title}
 		</h1>
 		<div class="ml-auto">
@@ -54,18 +54,14 @@
 		</span>
 	</div>
 
-	<div class="flex-grow flex flex-col overflow-y-auto">
-		{#key expanded}
-			{#if expanded}
-				<!-- {#if anim} -->
-				<div class="flex flex-col flex-grow overflow-y-auto" transition:slide>
+	<div class="flex-grow flex flex-col">
+		{#if expanded}
+			{#key expanded}
+				<div class="flex flex-col flex-grow" transition:slide>
 					<slot />
 				</div>
-				<!-- {:else} -->
-				<!-- <slot /> -->
-				<!-- {/if} -->
-			{/if}
-		{/key}
+			{/key}
+		{/if}
 	</div>
 </div>
 

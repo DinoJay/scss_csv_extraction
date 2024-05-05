@@ -49,7 +49,7 @@
 		transform: translate(-50%, -50%);
 	}
 	.cont {
-		background: rgba(0, 0, 1, 0.1) !important;
+		background: rgba(0, 0, 1, 0.3) !important;
 
 		will-change: transform;
 	}

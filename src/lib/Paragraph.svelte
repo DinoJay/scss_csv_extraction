@@ -80,13 +80,13 @@
 
 <div class="flex-1 overflow-auto flex flex-col">
 	<p
-		class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-96 overflow-auto text-gray-700"
+		class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-72 overflow-auto text-gray-700"
 		class:border-fuchsia-200={selected}
 		class:border-fuchsia-100={!selected}
 	>
 		{text}
 	</p>
-	<div class="gap-2 overflow-auto mb-auto">
+	<div class="gap-2 mb-auto">
 		<Extendable title="Select Endpoints">
 			<EndpointNav
 				endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
@@ -100,7 +100,7 @@
 				}}
 			></EndpointNav>
 		</Extendable>
-		<div class="">
+		<div class="mt-3">
 			{#if selEndpoints.length === 0}
 				<div class=" text-sm text-gray-500 py-2">No Endpoints Selected</div>
 			{/if}
