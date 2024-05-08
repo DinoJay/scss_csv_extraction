@@ -1,13 +1,12 @@
 <script lang="ts">
-	import OpenAI from 'openai';
-	import endpoints from '$lib/endpoints';
-	import EndpointNav from './EndpointNav.svelte';
-
 	import MdExpandMore from 'svelte-icons/md/MdExpandMore.svelte';
 	export let selected;
-	export let onClick;
 	export let title;
 	export let text;
+	export let pid;
+	export let reportId;
+
+	console.log('pid', pid);
 
 	let loadingResponse = false;
 
@@ -15,6 +14,7 @@
 	let chatGPTerror = null;
 </script>
 
+<h1 class="text-xl">{reportId}/{pid}</h1>
 <div
 	on:keydown={(e) => {
 		if (e.key === 'Enter') {
@@ -35,26 +35,26 @@
 		role="button"
 		tabindex="0"
 		on:keydown={(e) => {
-			if (e.key === 'Enter') {
-				onClick();
-				// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
-			}
+			// if (e.key === 'Enter') {
+			// 	onClick();
+			// 	// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
+			// }
 		}}
 		on:click={(e) => {
 			e.stopPropagation();
 
-			onClick();
+			// onClick();
 			// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
 		}}
 	>
 		<div class="flex items-center mb-2">
 			<h2 class="text-lg flex-1">{title}</h2>
-			<button on:click={onClick} class="text-gray-600" style="width:24px;height:24px">
+			<a href={`${reportId}?pid=${pid}`} class="text-gray-600" style="width:24px;height:24px">
 				<MdExpandMore></MdExpandMore>
-			</button>
+			</a>
 		</div>
 		<p
-			class="p-2 whitespace-pre-wrap border-2 max-h-56 overflow-hidden"
+			class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden"
 			class:border-fuchsia-200={selected}
 			class:border-fuchsia-100={!selected}
 		>

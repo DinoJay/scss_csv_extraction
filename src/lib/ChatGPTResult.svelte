@@ -7,6 +7,7 @@
 	export let title;
 	export let onSubmit;
 	export let onClose;
+	export let open;
 
 	import { csvParse } from 'd3-dsv';
 
@@ -15,7 +16,7 @@
 	$: console.log('csv', csv);
 </script>
 
-<LightBox {title} isOpen={loadingResponse || response} close={onClose}>
+<LightBox {title} isOpen={open} close={onClose}>
 	<div class="w-full flex">
 		{#if loadingResponse}
 			<div class="h-44 flex flex-1">

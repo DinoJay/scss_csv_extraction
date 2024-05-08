@@ -3,8 +3,6 @@
 	export let endpoints;
 	export let cls;
 	export let onClick;
-
-	console.log('endpoints', endpoints);
 </script>
 
 <div class={cls}>

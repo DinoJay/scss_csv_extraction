@@ -9,10 +9,14 @@
 	import EndpointList from './EndpointList.svelte';
 	import ChatGptResult from './ChatGPTResult.svelte';
 
+	import { pushState } from '$app/navigation';
+	import { page } from '$app/stores';
+
+	import MdArrowBack from 'svelte-icons/md/MdArrowBack.svelte';
 	export let selected;
-	export let onClick;
-	export let title;
 	export let text;
+	export let reportId;
+	export let pid;
 
 	let loadingResponse = false;
 
@@ -25,8 +29,7 @@
 		dangerouslyAllowBrowser: true
 	});
 
-	console.log('textPPPPPP', text);
-
+	// console.log('text', text);
 	const genQuery = (cols) =>
 		`create a html table (using only the table element) with following columns finding the information for the rows in the text given. 
 		don't include any commentary text: ${cols}. Please `;
@@ -40,8 +43,6 @@
 			.flatMap((e) => e.cols)
 			.join(';')
 	);
-	$: console.log('selEndpoints', selEndpoints);
-	$: console.log('question', question);
 
 	$: setChatGPTContext = (array) => {
 		const messages = array.map((p) => ({
@@ -80,10 +81,15 @@
 			});
 	};
 
-	console.log('text', text, question);
+	// console.log('text', text, question);
+	console.log('page', $page.state);
 </script>
 
 <div class="flex-1 overflow-auto flex flex-col">
+	<div class="flex items-center mb-3">
+		<a href={`/${reportId}`} style="width:20px;height:20px"> <MdArrowBack></MdArrowBack> </a>
+		<h1 class="text-xl ml-2">{reportId}/{pid}</h1>
+	</div>
 	<p
 		class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-72 overflow-auto text-gray-700"
 		class:border-fuchsia-200={selected}
@@ -92,7 +98,7 @@
 		{text}
 	</p>
 	<div class="gap-2 mb-auto">
-		<Extendable title="Select Endpoints">
+		<Extendable title="Select Endpoints" preClosed={true}>
 			<EndpointNav
 				endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
 				{selEndpoints}
@@ -136,8 +142,14 @@
 
 	<ChatGptResult
 		title="ChatGPT Result - {selEndpoints.join(',')}"
-		onClose={() => (response = null)}
-		onSubmit={() => setChatGPTContext([text, question])}
+		onClose={() => pushState('', { showModal: false })}
+		open={$page.state.showModal}
+		onSubmit={() => {
+			console.log('page', $page.state.showModal);
+			// pushState('', { showModal: true });
+
+			setChatGPTContext([text, question]);
+		}}
 		response={response?.choices?.[0].message?.content}
 		{loadingResponse}
 	></ChatGptResult>
@@ -145,7 +157,10 @@
 
 <button
 	class="w-full p-2 border-2 mt-2"
-	on:click={() => setChatGPTContext([text, question])}
+	on:click={() => {
+		pushState('', { showModal: true });
+		setChatGPTContext([text, question]);
+	}}
 	type="button"
 >
 	Submit
