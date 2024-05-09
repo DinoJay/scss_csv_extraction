@@ -34,8 +34,8 @@
 		`create a html table (using only the table element) with following columns finding the information for the rows in the text given. 
 		don't include any commentary text: ${cols}. Please `;
 	const genQuery2 = (cols) =>
-		`create a csv table with following columns. You find the information for the rows in the text given. 
-		Please, write nothing in the cells for which you can't find any data. Please use "," as delimiter. Finally, don't include any commentary text: ${cols}. Please!`;
+		`create a csv table with following columns: ${cols}. You find the information to fill in the csv in the text given. 
+		Please, don't include data for which you can't find any answer. all rows in the csv should be meaningful. Please use "," as delimiter. Finally, don't include any commentary text. Please!`;
 	let selEndpoints = [endpoints[0].name];
 	$: question = genQuery2(
 		selEndpoints

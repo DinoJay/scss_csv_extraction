@@ -55,7 +55,7 @@
 					/> -->
 	<!-- {/if} -->
 	{#if !$page.state.scraped}
-		<div class="whitespace-pre-wrap flex-1 overflow-auto">
+		<div class="whitespace-pre-wrap flex-1 overflow-y-auto">
 			{text}
 		</div>
 	{/if}

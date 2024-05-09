@@ -1,7 +1,7 @@
 export default [
     {
         name: 'Test-Substance',
-        cols: ['homogeneity and stability', 'pH', 'physical form (solid; liquid)', 'achieved concentration (%)', 'composition', 'purity (%)', 'chemical batch nr', 'additional info'],
+        cols: ['homogeneity and stability', 'pH', 'physical form', 'achieved concentration (%)', 'composition', 'purity (%)', 'chemical batch nr', 'additional info'],
         path: '/Test-Method'
     },
     {

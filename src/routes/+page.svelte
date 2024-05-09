@@ -2,7 +2,7 @@
 	import reportIds from '$lib/reportIds.js';
 </script>
 
-<div class="flex-1 flex flex-col bg-gray-50">
+<div class="flex-1 flex flex-col">
 	<div class="m-auto">
 		<h1 class="text-4xl mb-3">Welcome to TOXIN</h1>
 		<p>try out some example data sets</p>
