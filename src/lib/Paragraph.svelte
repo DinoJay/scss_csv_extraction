@@ -17,6 +17,7 @@
 	export let text;
 	export let reportId;
 	export let pid;
+	export let scraped;
 
 	let loadingResponse = false;
 
@@ -87,7 +88,9 @@
 
 <div class="flex-1 overflow-auto flex flex-col">
 	<div class="flex items-center mb-3">
-		<a href={`/${reportId}`} style="width:20px;height:20px"> <MdArrowBack></MdArrowBack> </a>
+		<a href={`/${reportId}?scraped=${scraped}`} style="width:20px;height:20px">
+			<MdArrowBack></MdArrowBack>
+		</a>
 		<h1 class="text-xl ml-2">{reportId}/{pid}</h1>
 	</div>
 	<p
@@ -121,7 +124,7 @@
 	</div>
 
 	<div class="  mt-2 text-gray-700">
-		<Extendable title="ChatGPT Prompt" preClosed={true}>
+		<Extendable title="ChatGPT Prompt">
 			<textarea
 				on:change={(e) => {
 					question = e.target.value;

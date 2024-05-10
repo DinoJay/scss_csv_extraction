@@ -9,18 +9,17 @@
 	// const originalTxtsMap = data.originalTxtsMap;
 	export let data;
 
-	console.log('data', data, 'selectedTextId', selectedTextId, 'page', $page);
 	$: selectedTextId = $page.params.textId;
 	$: paragraphId = $page.url.searchParams.get('pid');
 	$: report = data.scrapedTxtsMap?.get(selectedTextId);
-
-	$: console.log('paragraphId', paragraphId);
 
 	$: selectedParagraph =
 		report?.rdt?.find((d) => d.id === paragraphId) ||
 		report?.acuteTox?.find((d) => d.id === paragraphId);
 	// $: console.log('selectedParagraph', selectedParagraph);
 
+	$: scraped = $page.url.searchParams.get('scraped') === 'true';
+	// console.log('scr', scr, typeof scr);
 	// $: console.log('props', data);
 	// fetch(`/scss_o_044.txt`)
 	// 	.then((response) => response.text())
@@ -35,17 +34,19 @@
 	// 		return { rdt: [], acuteTox: [], txt: text, originalTextIds: textIds };
 	// 	});
 	// $: console.log('originalTxtsMap', originalTxtsMap);
-	$: console.log('reportId', report);
+	$: console.log('scraped', scraped);
 </script>
 
 {#if paragraphId}
 	{#if selectedParagraph}
-		<Paragraph pid={paragraphId} reportId={report.id} text={selectedParagraph?.txt}></Paragraph>
+		<Paragraph {scraped} pid={paragraphId} reportId={report.id} text={selectedParagraph?.txt}
+		></Paragraph>
 	{:else}
 		<div class="text-xl m-auto">Paragraph not found</div>
 	{/if}
 {:else if report}
 	<PreviewReports
+		{scraped}
 		rdt={report?.rdt}
 		acuteTox={report?.acuteTox}
 		text={report?.text}

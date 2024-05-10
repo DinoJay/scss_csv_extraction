@@ -5,8 +5,7 @@
 	export let text;
 	export let pid;
 	export let reportId;
-
-	console.log('pid', pid);
+	export let scraped;
 
 	let loadingResponse = false;
 
@@ -14,7 +13,6 @@
 	let chatGPTerror = null;
 </script>
 
-<h1 class="text-xl">{reportId}/{pid}</h1>
 <div
 	on:keydown={(e) => {
 		if (e.key === 'Enter') {
@@ -49,7 +47,11 @@
 	>
 		<div class="flex items-center mb-2">
 			<h2 class="text-lg flex-1">{title}</h2>
-			<a href={`${reportId}?pid=${pid}`} class="text-gray-600" style="width:24px;height:24px">
+			<a
+				href={`${reportId}?pid=${pid}&scraped=${scraped}`}
+				class="text-gray-600"
+				style="width:24px;height:24px"
+			>
 				<MdExpandMore></MdExpandMore>
 			</a>
 		</div>

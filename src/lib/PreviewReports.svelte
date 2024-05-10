@@ -14,16 +14,18 @@
 	export let selectedPid;
 	export let selectedTextId;
 	export let text;
+	export let scraped;
 </script>
 
 <div class="flex-1 main flex flex-col overflow-auto bg-gray-50 p-2">
-	{#if $page.state.scraped}
+	{#if scraped}
 		<div class="flex-1 overflow-auto p-3">
 			{#if rdt?.length > 0}
 				<h1 class="text-xl mb-3">Repeated Dose Toxicity</h1>
 			{/if}
 			{#each rdt as p, i (p.id)}
 				<ParagraphPreview
+					{scraped}
 					selected={selectedPid === p.id}
 					title={`Study ${i + 1}`}
 					text={p.txt}
@@ -37,6 +39,7 @@
 			{/if}
 			{#each acuteTox as p, i (p.id)}
 				<ParagraphPreview
+					{scraped}
 					selected={selectedPid === p.id}
 					title={`Study ${i + 1}`}
 					pid={p.id}
@@ -54,15 +57,15 @@
 						type={selectedParagraph?.type}
 					/> -->
 	<!-- {/if} -->
-	{#if !$page.state.scraped}
+	{#if !scraped}
 		<div class="whitespace-pre-wrap flex-1 overflow-y-auto">
 			{text}
 		</div>
 	{/if}
-	<button
-		class="p-2 border-2 0 mt-3 drop-shadow-md"
-		on:click={() => pushState('', { scraped: !$page.state.scraped })}
-		class:bg-yellow-200={!$page.state.scraped}
-		class:bg-green-200={$page.state.scraped}>{$page.state.scraped ? 'Scraped' : 'Scrape'}</button
+	<a
+		href="/{selectedTextId}?scraped={!scraped}"
+		class="p-2 border-2 0 mt-3 drop-shadow-md flex"
+		class:bg-yellow-200={!scraped}
+		class:bg-green-200={scraped}><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
 	>
 </div>

@@ -15,7 +15,7 @@
 		<div class="mb-1">
 			<NavCsv data={data.textIds} selectedId={$page.params.textId}></NavCsv>
 		</div>
-		<div class="flex flex-col flex-1 overflow-auto p-6">
+		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
 			<slot></slot>
 		</div>
 	</div>
