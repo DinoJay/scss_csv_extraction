@@ -1,5 +1,4 @@
-import { updateStore } from '$lib/store/index.js';
-import textIds from '$lib/reportIds.js';
+import { ACUTETOX, RDT, textIds } from '$lib/reportIds.js';
 
 const scrapeRDT = (txt, textId) => {
 
@@ -13,7 +12,10 @@ const scrapeRDT = (txt, textId) => {
 
     // console.log('rdtText MATCHES', [...rdtText.matchAll(pattern)])
 
-    let matchesRDT = [...rdtText?.matchAll(pattern)].map((d, i) => ({ id: `${textId}-rdt-${i}`, txt: d[0] }))
+    let matchesRDT = [...rdtText?.matchAll(pattern)].map((d, i) => ({
+        id: `${textId}-rdt-${i}`,
+        txt: d[0], type: RDT
+    }))
     // console.log('matchesRDT\n', matchesRDT);
     return matchesRDT;
 };
@@ -31,7 +33,8 @@ const scrapeAcuteTox = (txt, textId) => {
     // console.log('txt', txt.slice(0, 20))
     let matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(pattern)].map((d, i) => ({
         id: `${textId}-acute-${i}`,
-        txt: d[0]
+        txt: d[0],
+        type: ACUTETOX
     }));
 
     return matchesAcuteToxicity;

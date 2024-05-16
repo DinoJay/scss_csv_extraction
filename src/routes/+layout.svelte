@@ -2,12 +2,18 @@
 	import { blur } from 'svelte/transition';
 	import NavCsv from '$lib/NavCsv.svelte';
 	import { page } from '$app/stores';
+	import { store } from '$lib/store';
 
 	export let data;
 
 	import '../app.css';
+	import Table from '$lib/Table.svelte';
+	import CsvEdit from '$lib/CsvEdit.svelte';
 	$: console.log('page', data);
 	// $: console.log('page DATA', data);
+	let visible = false;
+
+	$: console.log('store', $store);
 </script>
 
 <div class="flex h-svh">
@@ -17,6 +23,17 @@
 		</div>
 		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
 			<slot></slot>
+		</div>
+		<div class="transition-all" class:min-h-fit={!visible} class:min-h-60={visible}>
+			<button
+				class="bg-blue-100 w-full p-2 mb-2 drop-shadow-md"
+				on:click={() => (visible = !visible)}
+			>
+				CSV</button
+			>
+			<div class="p-3">
+				<CsvEdit {visible}></CsvEdit>
+			</div>
 		</div>
 	</div>
 </div>

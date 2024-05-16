@@ -7,6 +7,7 @@
 	export let reportId;
 	export let scraped;
 
+	// export let type;
 	let loadingResponse = false;
 
 	let response = null;

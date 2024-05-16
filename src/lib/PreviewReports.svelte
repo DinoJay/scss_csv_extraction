@@ -10,7 +10,6 @@
 	export let paragraph;
 	export let rdt;
 	export let acuteTox;
-	export let originalTextIds;
 	export let selectedPid;
 	export let selectedTextId;
 	export let text;
@@ -29,6 +28,7 @@
 					selected={selectedPid === p.id}
 					title={`Study ${i + 1}`}
 					text={p.txt}
+					type={p.type}
 					pid={p.id}
 					reportId={selectedTextId}
 				/>
@@ -43,6 +43,7 @@
 					selected={selectedPid === p.id}
 					title={`Study ${i + 1}`}
 					pid={p.id}
+					type={p.type}
 					reportId={selectedTextId}
 					text={p.txt}
 				></ParagraphPreview>
@@ -64,7 +65,7 @@
 	{/if}
 	<a
 		href="/{selectedTextId}?scraped={!scraped}"
-		class="p-2 border-2 0 mt-3 drop-shadow-md flex"
+		class="p-2 border-2 0 mt-3 flex"
 		class:bg-yellow-200={!scraped}
 		class:bg-green-200={scraped}><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
 	>

@@ -1,5 +1,4 @@
 <script>
-	import LoadingReports from '$lib/LoadingReports.svelte';
 	import { store } from '$lib/store/index';
 	import { page } from '$app/stores';
 	import PreviewReports from '$lib/PreviewReports.svelte';
@@ -39,7 +38,12 @@
 
 {#if paragraphId}
 	{#if selectedParagraph}
-		<Paragraph {scraped} pid={paragraphId} reportId={report.id} text={selectedParagraph?.txt}
+		<Paragraph
+			{scraped}
+			type={selectedParagraph?.type}
+			pid={paragraphId}
+			reportId={report.id}
+			text={selectedParagraph?.txt}
 		></Paragraph>
 	{:else}
 		<div class="text-xl m-auto">Paragraph not found</div>

@@ -1,13 +1,14 @@
 
-const textIds = [
-    'scss_o_044',
-    'scss_o_040',
-    'scss_o_059',
-    'scss_o_082',
-    'scss_o_087',
-    'scss_o_180',
-    'scss_o_195',
-    'scss_o_222'
+export const textIds = [
+    'sccs_o_044',
+    'sccs_o_040',
+    'sccs_o_059',
+    'sccs_o_082',
+    'sccs_o_087',
+    'sccs_o_180',
+    'sccs_o_195',
+    'sccs_o_222'
 ];
 
-export default textIds;
+export const RDT = 'RDT';
+export const ACUTETOX = 'ACUTETOX';

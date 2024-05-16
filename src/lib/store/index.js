@@ -4,12 +4,12 @@ import { browser } from '$app/environment';
 
 
 const storedItems = JSON.parse(browser && localStorage.getItem('store')) || {
-    scrapedTxtsMap: [],
-    originalTxtsMap: []
+    csvAcuteTox: new Map(),
+    csvRdt: new Map(),
 };
 const defaultStore = {
-    scrapedTxtsMap: undefined,
-    originalTxtsMap: undefined
+    csvAcuteTox: new Map(),
+    csvRdt: new Map(),
 }
 export const store = writable(defaultStore /*browser && storedItems*/);
 

@@ -18,6 +18,7 @@
 	export let reportId;
 	export let pid;
 	export let scraped;
+	export let type;
 
 	let loadingResponse = false;
 
@@ -84,6 +85,7 @@
 
 	// console.log('text', text, question);
 	console.log('page', $page.state);
+	console.log('type', type);
 </script>
 
 <div class="flex-1 overflow-auto flex flex-col">
@@ -143,19 +145,23 @@
 		</div>
 	{/if}
 
-	<ChatGptResult
-		title="ChatGPT Result - {selEndpoints.join(',')}"
-		onClose={() => pushState('', { showModal: false })}
-		open={$page.state.showModal}
-		onSubmit={() => {
-			console.log('page', $page.state.showModal);
-			// pushState('', { showModal: true });
+	{#key response?.choices?.[0].message?.content}
+		<ChatGptResult
+			{type}
+			{pid}
+			title="ChatGPT Result - {selEndpoints.join(',')}"
+			onClose={() => pushState('', { showModal: false })}
+			open={$page.state.showModal}
+			onSubmit={() => {
+				console.log('page', $page.state.showModal);
+				// pushState('', { showModal: true });
 
-			setChatGPTContext([text, question]);
-		}}
-		response={response?.choices?.[0].message?.content}
-		{loadingResponse}
-	></ChatGptResult>
+				setChatGPTContext([text, question]);
+			}}
+			response={response?.choices?.[0].message?.content}
+			{loadingResponse}
+		></ChatGptResult>
+	{/key}
 </div>
 
 <button
