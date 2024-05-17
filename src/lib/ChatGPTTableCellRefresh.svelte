@@ -36,7 +36,7 @@
 <button
 	style="width:18px;height:18px"
 	on:click={() => {
-		const question = `What is the "${key}" in the given text? Don't include commentary text. Be concise and only give!`;
+		const question = `Find information for "${key}" in the given text? Don't include commentary text. Be concise and to the point! if you can't find an answer, respond with an "-"`;
 
 		console.log('question', question);
 		loadingResponse = true;

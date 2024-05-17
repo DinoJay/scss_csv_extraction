@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { Chat } from 'openai/resources/index.mjs';
 	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
@@ -41,8 +42,9 @@
 	// All rows in the csv should be meaningful. Use "," as delimiter. Don't include any commentary text and duplicate data.
 	const genQuery2 = (cols) =>
 		`Create a csv table with following columns: ${cols}. You find the information to fill in the csv in the text given. 
-		Don't include data for which you can't find any answers. Use "," as delimiter. All rows and cells in the csv should be meaningful. If the answer is not present in the text, respond with an "-".  
-		Don't include any commentary text or command strings such as \`\`\`csv! Your response must be a text string in csv format. 
+		Don't include data for which you can't find any answers. Use "," as delimiter. 
+		If the answer is not present in the text, respond with an "-".  
+		Don't include any commentary text or command strings such as \`\`\`csv! Your response must be a text string in valid csv format including the column header row. 
 		Most importantly respond with only one row.`;
 
 	let selEndpoints = [endpoints[0].name];
@@ -171,5 +173,5 @@
 	}}
 	type="button"
 >
-	Submit
+	Query ChatGPT
 </button>

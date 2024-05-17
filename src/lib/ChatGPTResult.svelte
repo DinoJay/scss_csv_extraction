@@ -142,7 +142,7 @@
 		{/if}
 	</div>
 
-	{#if response && !loadingResponse}
+	{#if response !== null && !loadingResponse}
 		<div class="flex mt-3">
 			<button class="flex-1 p-2 border-2" on:click={() => onSubmit()}> Re-Submit </button>
 			<button class="flex-1 p-2 border-2 ml-1 bg-gray-100" on:click={() => (csvMode = !csvMode)}
