@@ -23,8 +23,8 @@
 	$: console.log('csv', data);
 	$: console.log('type', type);
 	let csvMode = false;
-	$: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];
-	$: acuteTox = $store.csvAcuteTox ? [...$store.csvAcuteTox.entries()].map(([_, d]) => d) : [];
+	// $: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];
+	// $: acuteTox = $store.csvAcuteTox ? [...$store.csvAcuteTox.entries()].map(([_, d]) => d) : [];
 
 	$: updateStoreCsv = () => {
 		console.log('store', $store);
