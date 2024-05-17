@@ -7,23 +7,29 @@
 	export let data;
 
 	import '../app.css';
-	import Table from '$lib/Table.svelte';
 	import CsvEdit from '$lib/CsvEdit.svelte';
 	$: console.log('page', data);
 	// $: console.log('page DATA', data);
 	let visible = false;
 
+	$: paragraphId = $page.url.searchParams.get('pid');
+
+	$: scraped = $page.url.searchParams.get('scraped') === 'true';
+
 	$: console.log('store', $store);
+	$: console.log('url', $$props);
 </script>
 
 <div class="flex h-svh">
 	<div class="max-w-3xl mx-auto flex flex-1 flex-col transition-all">
 		<div class="mb-1">
-			<NavCsv data={data.textIds} selectedId={$page.params.textId}></NavCsv>
+			<NavCsv data={data.textIds} selectedId={$page.params.textId} {scraped}></NavCsv>
 		</div>
 		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
 			<slot></slot>
 		</div>
-		<CsvEdit {visible}></CsvEdit>
+		{#if data.url?.pathname !== '/'}
+			<CsvEdit {visible}></CsvEdit>
+		{/if}
 	</div>
 </div>

@@ -9,8 +9,6 @@
 <style>
 	.loading {
 		display: inline-block;
-		width: 50px;
-		height: 50px;
 		border-radius: 50%;
 		border-top-color: #fff;
 		animation: spin 1s ease-in-out infinite;

@@ -2,7 +2,7 @@
 	import { store } from '$lib/store/index';
 	import { page } from '$app/stores';
 	import PreviewReports from '$lib/PreviewReports.svelte';
-	import Paragraph from '$lib/Paragraph.svelte';
+	import Paragraph from '$lib/ChatGPTparagraph.svelte';
 
 	// const scrapedTxtsMap = data.scrapedTxtsMap;
 	// const originalTxtsMap = data.originalTxtsMap;
@@ -53,8 +53,8 @@
 		{scraped}
 		rdt={report?.rdt}
 		acuteTox={report?.acuteTox}
+		pid={paragraphId}
 		text={report?.text}
-		originalTextIds={report?.originalTextIds}
 		{selectedTextId}
 	></PreviewReports>
 {:else}

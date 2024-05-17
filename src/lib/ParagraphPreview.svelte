@@ -1,6 +1,5 @@
 <script lang="ts">
 	import MdExpandMore from 'svelte-icons/md/MdExpandMore.svelte';
-	export let selected;
 	export let title;
 	export let text;
 	export let pid;
@@ -56,11 +55,7 @@
 				<MdExpandMore></MdExpandMore>
 			</a>
 		</div>
-		<p
-			class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden"
-			class:border-fuchsia-200={selected}
-			class:border-fuchsia-100={!selected}
-		>
+		<p class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden">
 			{text}
 		</p>
 	</div>

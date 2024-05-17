@@ -1,11 +1,12 @@
 <script>
 	export let visible;
 	import { store } from '$lib/store';
-	import Table from './Table.svelte';
+	import Table from './ChatGPTTable.svelte';
 
 	import { csvFormat } from 'd3-dsv';
 	import FileSaver from 'file-saver';
-    import ExportCsvBtn from './ExportCsvBtn.svelte';
+	import ExportCsvBtn from './ExportCsvBtn.svelte';
+	import { slide } from 'svelte/transition';
 
 	$: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];
 	$: acuteTox = $store.csvAcuteTox ? [...$store.csvAcuteTox.entries()].map(([_, d]) => d) : [];
@@ -14,7 +15,7 @@
 	let csvMode = false;
 </script>
 
-<div class="transition-all" class:min-h-fit={!visible} class:min-h-60={visible}>
+<div class="" transition:slide class:min-h-fit={!visible} class:min-h-60={visible}>
 	<button
 		class="bg-blue-100 w-full p-2 mt-2 drop-shadow-md"
 		class:mb-2={!visible}
@@ -28,7 +29,8 @@
 				<h2 class="text-lg">Repeated Dose Toxicity</h2>
 
 				{#if rdt.length > 0}
-                    <ExportCsvBtn fileName="rdt.csv" data={csvFormat(rdt)} disabled={rdt.length===0}></ExportCsvBtn>
+					<ExportCsvBtn fileName="rdt.csv" data={csvFormat(rdt)} disabled={rdt.length === 0}
+					></ExportCsvBtn>
 				{/if}
 			</div>
 			{#if !csvMode}
@@ -49,7 +51,11 @@
 			<div class="flex">
 				<h2 class="text-lg my-2">Acute Dose Toxicity</h2>
 				{#if acuteTox.length > 0}
-                    <ExportCsvBtn fileName="acuteToxicity.csv" data={csvFormat(acuteTox)} disabled={acuteTox.length===0}></ExportCsvBtn>
+					<ExportCsvBtn
+						fileName="acuteToxicity.csv"
+						data={csvFormat(acuteTox)}
+						disabled={acuteTox.length === 0}
+					></ExportCsvBtn>
 				{/if}
 			</div>
 

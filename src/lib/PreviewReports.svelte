@@ -7,7 +7,6 @@
 	import { goto } from '$app/navigation';
 	import { pushState } from '$app/navigation';
 
-	export let paragraph;
 	export let rdt;
 	export let acuteTox;
 	export let selectedPid;
@@ -16,7 +15,7 @@
 	export let scraped;
 </script>
 
-<div class="flex-1 main flex flex-col overflow-auto bg-gray-50 p-2">
+<div class="flex-1 main flex flex-col overflow-auto bg-gray-50 p-2 relative">
 	{#if scraped}
 		<div class="flex-1 overflow-auto p-3">
 			{#if rdt?.length > 0}
@@ -40,10 +39,8 @@
 			{#each acuteTox as p, i (p.id)}
 				<ParagraphPreview
 					{scraped}
-					selected={selectedPid === p.id}
 					title={`Study ${i + 1}`}
 					pid={p.id}
-					type={p.type}
 					reportId={selectedTextId}
 					text={p.txt}
 				></ParagraphPreview>
@@ -63,10 +60,4 @@
 			{text}
 		</div>
 	{/if}
-	<a
-		href="/{selectedTextId}?scraped={!scraped}"
-		class="p-2 border-2 0 mt-3 flex"
-		class:bg-yellow-200={!scraped}
-		class:bg-green-200={scraped}><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
-	>
 </div>

@@ -35,15 +35,22 @@
 	// const genQuery = (cols) =>
 	// 	`create a html table (using only the table element) with following columns finding the information for the rows in the text given.
 	// 	don't include any commentary text: ${cols}. Please `;
+
+	// create a csv table with following columns: [cols].
+	// You find the information to fill in the csv in the text given. Don't include data for which you can't find any answer.
+	// All rows in the csv should be meaningful. Use "," as delimiter. Don't include any commentary text and duplicate data.
 	const genQuery2 = (cols) =>
-		`create a csv table with following columns: ${cols}. You find the information to fill in the csv in the text given. 
-		Please, don't include data for which you can't find any answer. all rows in the csv should be meaningful. Please use "," as delimiter. Finally, don't include any commentary text and duplicate data. Please!`;
+		`Create a csv table with following columns: ${cols}. You find the information to fill in the csv in the text given. 
+		Don't include data for which you can't find any answers. Use "," as delimiter. All rows and cells in the csv should be meaningful. If the answer is not present in the text, respond with an "-".  
+		Don't include any commentary text or command strings such as \`\`\`csv! Your response must be a text string in csv format. 
+		Most importantly respond with only one row.`;
+
 	let selEndpoints = [endpoints[0].name];
 	$: question = genQuery2(
 		selEndpoints
 			.map((n) => endpoints.find((d) => d.name === n))
 			.flatMap((e) => e.cols)
-			.join(';')
+			.join(', ')
 	);
 
 	$: setChatGPTContext = (array) => {
@@ -55,14 +62,8 @@
 		loadingResponse = true;
 		openai.chat.completions
 			.create({
-				model: 'gpt-3.5-turbo',
-				messages: [
-					// {
-					// 	role: 'user',
-					// 	content: question
-					// },
-					...messages
-				],
+				model: 'gpt-4o',
+				messages: [...messages],
 				temperature: 1,
 				max_tokens: 256,
 				top_p: 1,
@@ -71,15 +72,11 @@
 			})
 			.then((d) => {
 				loadingResponse = false;
-				// console.log('d', d);
 				response = d;
-				// match(/```html\n([\s\S]*?)\n```/g)[0]
-				// console.log('response', response.choices[0].message.content);
 				chatGPTerror = null;
 			})
 			.catch((err) => {
 				chatGPTerror = err;
-				// console.log(error);
 			});
 	};
 
@@ -149,6 +146,8 @@
 		<ChatGptResult
 			{type}
 			{pid}
+			paragraph={text}
+			{question}
 			title="ChatGPT Result - {selEndpoints.join(',')}"
 			onClose={() => pushState('', { showModal: false })}
 			open={$page.state.showModal}

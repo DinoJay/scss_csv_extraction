@@ -12,17 +12,23 @@
 	export let open;
 	export let type;
 	export let pid;
+	export let paragraph;
+	export let question;
 
 	import { csvParse } from 'd3-dsv';
 	import { ACUTETOX, RDT } from './reportIds';
-	import Table from './Table.svelte';
+	import Table from './ChatGPTTable.svelte';
+	import OpenAI from 'openai';
 
 	console.log('response', response);
-	let data = response ? csvParse(response).map((d, i) => ({ ...d, id: `${pid}-${i}` })) : [];
+	let data = response
+		? csvParse(response).map((d, i) => ({ ...d, id: `${pid}-${i}`, paragraph }))
+		: [];
 
 	$: console.log('csv', data);
 	$: console.log('type', type);
 	let csvMode = false;
+
 	// $: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];
 	// $: acuteTox = $store.csvAcuteTox ? [...$store.csvAcuteTox.entries()].map(([_, d]) => d) : [];
 
@@ -109,8 +115,8 @@
 <LightBox {title} isOpen={open} close={onClose}>
 	<div class="w-full flex flex-col overflow-auto min-h-64">
 		{#if loadingResponse}
-			<div class="h-44 flex flex-1">
-				<div class="m-auto" style="width:20px;height:20px"><Spinner></Spinner></div>
+			<div class="m-auto">
+				<Spinner></Spinner>
 			</div>
 		{:else if response}
 			{#if csvMode}
@@ -118,7 +124,12 @@
 					{response}
 				</p>
 			{:else}
-				<Table {data} onChange={(nd) => (data = nd)}></Table>
+				<Table
+					{data}
+					refreshable={true}
+					onChange={(nd) => (data = nd)}
+					context={[question, response]}
+				></Table>
 			{/if}
 
 			<!-- <table>
@@ -140,8 +151,8 @@
 			<button
 				class="flex-1 p-2 border-2 ml-1"
 				on:click={updateStoreCsv}
-				class:bg-green-400={equals()}
-				class:bg-yellow-400={!equals()}>Save to CSV</button
+				class:bg-green-300={equals()}
+				class:bg-yellow-300={!equals()}>Save to CSV</button
 			>
 			<button
 				class="flex-1 p-2 border-2 ml-1"

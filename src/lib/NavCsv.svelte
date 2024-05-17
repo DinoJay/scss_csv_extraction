@@ -8,6 +8,8 @@
 
 	let open = false;
 	let handler;
+	// export let pid;
+	export let scraped;
 
 	// onMount(() => {
 	// 	if (window && document?.querySelector)
@@ -22,11 +24,11 @@
 	// });
 </script>
 
-<div class="sticky mb-2 overflow-visible bg-blue-100 drop-shadow-md">
-	<button on:click={() => (open = !open)} class=" w-full flex-1 p-2 flex items-center">
-		<div style="width:32px; height:32px">
+<div class="sticky mb-2 overflow-visible bg-blue-100 drop-shadow-md z-50">
+	<div class=" w-full flex-1 p-2 flex items-center">
+		<button style="width:32px; height:32px" on:click={() => (open = !open)}>
 			<MdDehaze></MdDehaze>
-		</div>
+		</button>
 		<div class="ml-auto mr-3">
 			{#if selectedId !== null}
 				{selectedId}
@@ -34,9 +36,18 @@
 				Select a CSV
 			{/if}
 		</div>
-	</button>
+		<div>
+			<a
+				href="/{selectedId}?scraped={!scraped}"
+				class="ml-auto p-1 border-2 0 flex"
+				class:bg-yellow-200={!scraped}
+				class:bg-green-200={scraped}><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
+			>
+		</div>
+	</div>
+
 	{#if open}
-		<div transition:fade class="flex flex-col gap-1 z-30 absolute w-48 bg-blue-100 drop-shadow-md">
+		<div transition:fade class="flex flex-col gap-1 z-50 absolute w-48 bg-blue-100 drop-shadow-md">
 			{#each data.filter((d) => d !== selectedId) as key}
 				<a
 					href={`/${key}`}

@@ -1,7 +1,7 @@
 export default [
     {
         name: 'Test-Substance',
-        cols: ['homogeneity and stability', 'pH', 'physical form', 'achieved concentration (%)', 'composition', 'purity (%)', 'chemical batch nr', 'additional info'],
+        cols: ['homogeneity and stability', 'pH', 'physical form (solid or liquid)', 'achieved concentration (%)', 'composition', 'purity (%)', 'chemical batch nr', 'description of all other information not captured in given columns'],
         path: '/Test-Method'
     },
     {
@@ -39,7 +39,7 @@ export default [
     },
     {
         name: 'Urinanalysis', cols: [
-            'appearance', 'volume', 'osmolarity or specific gravity', 'pH', 'protein', 'glucose', 'blood/blood cells', 'other'
+            'appearance', 'volume', 'osmolarity or specific gravity', 'pH', 'protein', 'glucose', 'blood/blood cells', 'description of all other information not captured in given columns'
         ],
         path: '/Endpoints/Clinical-Biochemistry'
     }, {
@@ -70,7 +70,7 @@ export default [
             'oestradiol',
             'follicle stimulating hormones',
             'luteinizing hormone',
-            'other'
+            'description of all other information not captured in those columns'
         ], path: '/Endpoints/Clinical-Biochemistry'
     }, {
         name: 'Clinical Observation', cols: [
@@ -91,7 +91,7 @@ export default [
             'body weight and food/water consumption',
             'ophtalmological examination',
             'organ weight and organ/body weight',
-            'other'
+            'description of all other information not captured in given columns'
         ], path: '/Endpoints'
     }, {
         name: 'sensory reactvity', cols: [
@@ -106,7 +106,7 @@ export default [
             'platelet count',
             'measure of blood clotting time/potential',
             'site of blood samples',
-            'other'
+            'description of all other information not captured in given columns'
         ], path: '/Endpoints/Haematology'
     }, {
         name: 'Gross Necropsy', cols: [
@@ -121,7 +121,7 @@ export default [
             'spleen',
             'brain',
             'heart',
-            'other'
+            'description of all other information not captured in given columns'
         ], path: '/Endpoints/Pathology'
     }, {
         name: 'Histopathology', cols: [
@@ -156,7 +156,7 @@ export default [
             'bone marrow',
             'skin',
             'eye',
-            'other'
+            'description of all other information not captured in given columns'
         ], path: '/Endpoints/Pathology'
     }, {
         name: 'Endpoints', cols: [

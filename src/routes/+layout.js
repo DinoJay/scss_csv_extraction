@@ -98,5 +98,5 @@ const fetchData = ((fetch, textId) => {
 });
 
 export async function load({ params, fetch, url }) {
-    return { ...await fetchData(fetch, params.textId), pathname: url.pathname }
+    return { ...await fetchData(fetch, params.textId), url }
 }
