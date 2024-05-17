@@ -3,6 +3,8 @@
 	export let onChange;
 	import MdClose from 'svelte-icons/md/MdClose.svelte';
 	$: console.log('data', data);
+
+	$: columns = [...new Set(data.flatMap((d) => Object.keys(d)))];
 </script>
 
 {#if data.length === 0}
@@ -12,7 +14,7 @@
 		<table class="table-auto">
 			<thead>
 				<tr>
-					{#each ['Edit', ...Object.keys(data[0])] as key}
+					{#each ['Edit', ...columns] as key}
 						<th class="border-2 p-2">{key}</th>
 					{/each}
 				</tr>

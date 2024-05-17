@@ -84,6 +84,12 @@
 		console.log('store', $store);
 	};
 
+	$: isSaved = () => {
+		if (type === ACUTETOX) return [...$store.csvAcuteTox.values()].some((d) => d.id.includes(pid));
+
+		return [...$store.csvRdt.values()].some((d) => d.id.includes(pid));
+	};
+
 	$: equals = () => {
 		const keys = type === ACUTETOX ? [...$store.csvAcuteTox.keys()] : [...$store.csvRdt.keys()];
 
@@ -135,9 +141,14 @@
 				class="flex-1 p-2 border-2 ml-1"
 				on:click={updateStoreCsv}
 				class:bg-green-400={equals()}
-				class:bg-yellow-400={!equals()}>Save</button
+				class:bg-yellow-400={!equals()}>Save to CSV</button
 			>
-			<button class="flex-1 p-2 border-2 ml-1 bg-red-400" on:click={removeStore}>Remove</button>
+			<button
+				class="flex-1 p-2 border-2 ml-1"
+				class:bg-red-400={isSaved()}
+				class:opacity-50={!isSaved()}
+				on:click={removeStore}>Remove from CSV</button
+			>
 		</div>
 	{/if}
 </LightBox>
