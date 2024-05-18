@@ -64,7 +64,8 @@
 <button
 	style="width:18px;height:18px"
 	on:click={() => {
-		const question1 = `where did you find the information to respond to "${question0}"? Create a minimal list of text strings (separated by "||") found in "${paragraph}" to respond to the text input namely "${question0}". If you can't find an answer, respond with an "-". don't include any command string such as \`\`\`javascript`;
+		const question1 = `Provide a meaningful text passage found in "${paragraph}" used for the response of the previous user text input namely "${question0}". Run several iterations to find the best answer. If you can't find an answer, respond with an "-". don't include any command string such as \`\`\`javascript`;
+
 		// console.log('question', question1);
 		loadingResponse1 = true;
 		setChatGPTContext([...context, question0, question1]).then((resp) => {
