@@ -60,8 +60,9 @@
 			role: 'user',
 			content: p
 		}));
+		response = null;
 
-		loadingResponse = true;
+		// loadingResponse = true;
 		openai.chat.completions
 			.create({
 				model: 'gpt-4o',
@@ -73,7 +74,7 @@
 				presence_penalty: 0
 			})
 			.then((d) => {
-				loadingResponse = false;
+				// loadingResponse = false;
 				response = d;
 				chatGPTerror = null;
 			})
@@ -84,7 +85,7 @@
 
 	// console.log('text', text, question);
 	console.log('page', $page.state);
-	console.log('type', type);
+	$: console.log('text', text);
 </script>
 
 <div class="flex-1 overflow-auto flex flex-col">
@@ -160,18 +161,18 @@
 				setChatGPTContext([text, question]);
 			}}
 			response={response?.choices?.[0].message?.content}
-			{loadingResponse}
 		></ChatGptResult>
 	{/key}
 </div>
 
 <button
-	class="w-full p-2 border-2 mt-2"
+	class="w-full p-2 border-2 mt-2 flex items-center justify-center"
 	on:click={() => {
 		pushState('', { showModal: true });
 		setChatGPTContext([text, question]);
 	}}
 	type="button"
 >
-	Query ChatGPT
+	<span class="mr-1">Query ChatGPT</span>
+	<img src="/chatgpt.svg" width="25" alt="chatgpt" />
 </button>

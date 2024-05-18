@@ -4,6 +4,7 @@
 	export let onChange;
 	export let context;
 	export let refreshable = false;
+	export let paragraph;
 	import MdClose from 'svelte-icons/md/MdClose.svelte';
 	import ChatGPTTableCellRefresh from './ChatGPTTableCellRefresh.svelte';
 	import { isRunnableFunctionWithParse } from 'openai/lib/RunnableFunction.mjs';
@@ -47,6 +48,7 @@
 										<ChatGPTTableCellRefresh
 											{key}
 											{context}
+											{paragraph}
 											onChange={(answer) => {
 												onChange(data.map((d, j) => (j === i ? { ...d, [key]: answer } : d)));
 											}}

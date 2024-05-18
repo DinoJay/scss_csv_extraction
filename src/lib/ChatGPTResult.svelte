@@ -20,13 +20,13 @@
 	import Table from './ChatGPTTable.svelte';
 	import OpenAI from 'openai';
 
-	console.log('response', response);
+	$: console.log('response', response);
 	let data = response
 		? csvParse(response).map((d, i) => ({ ...d, id: `${pid}-${i}`, paragraph }))
 		: [];
 
 	$: console.log('csv', data);
-	$: console.log('type', type);
+	$: console.log('response', response, 'loadingResponse', loadingResponse);
 	let csvMode = false;
 
 	// $: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];
@@ -114,7 +114,7 @@
 
 <LightBox {title} isOpen={open} close={onClose}>
 	<div class="w-full flex flex-col overflow-auto min-h-64">
-		{#if loadingResponse}
+		{#if !response}
 			<div class="m-auto">
 				<Spinner></Spinner>
 			</div>
@@ -128,6 +128,7 @@
 					{data}
 					refreshable={true}
 					onChange={(nd) => (data = nd)}
+					{paragraph}
 					context={[question, response]}
 				></Table>
 			{/if}
@@ -142,7 +143,7 @@
 		{/if}
 	</div>
 
-	{#if response !== null && !loadingResponse}
+	{#if response}
 		<div class="flex mt-3">
 			<button class="flex-1 p-2 border-2" on:click={() => onSubmit()}> Re-Submit </button>
 			<button class="flex-1 p-2 border-2 ml-1 bg-gray-100" on:click={() => (csvMode = !csvMode)}
