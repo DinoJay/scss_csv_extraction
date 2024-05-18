@@ -11,12 +11,12 @@
 		? textPassages.split('||').map((p) => [cleanedP.indexOf(p), cleanedP.indexOf(p) + p.length])
 		: [];
 
-	$: console.log('textPassages', textPassages);
-	$: console.log(
-		'paragraphIndices reverse',
-		paragraphIndices.map(([start, end]) => cleanedP.substring(start, end))
-	);
-	$: console.log('paragraph', paragraph);
+	// $: console.log('textPassages', textPassages);
+	// $: console.log(
+	// 	'paragraphIndices reverse',
+	// 	paragraphIndices.map(([start, end]) => cleanedP.substring(start, end))
+	// );
+	// $: console.log('paragraph', paragraph);
 
 	$: htmlText = textPassages
 		? [...cleanedP]

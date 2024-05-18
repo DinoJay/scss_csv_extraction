@@ -41,10 +41,10 @@
 	// You find the information to fill in the csv in the text given. Don't include data for which you can't find any answer.
 	// All rows in the csv should be meaningful. Use "," as delimiter. Don't include any commentary text and duplicate data.
 	const genQuery2 = (cols) =>
-		`Create a csv table with following columns: ${cols}. You find the information to fill in the csv in the text given. 
+		`Create a csv table with following columns: "${cols}". The information to fill in the csv has to be extracted from the text given namely "${text}". 
 		Don't include data for which you can't find any answers. Use "," as delimiter. 
 		If the answer is not present in the text, respond with an "-".  
-		Don't include any commentary text or command strings such as \`\`\`csv! Your response must be a text string in valid csv format including the column header row. 
+		Don't include any commentary text or command strings such as "\`\`\`csv"! Your response must be a text string in valid csv format including the column header row correctly formatted. 
 		Most importantly respond with only one row.`;
 
 	let selEndpoints = [endpoints[0].name];
@@ -67,11 +67,11 @@
 			.create({
 				model: 'gpt-4o',
 				messages: [...messages],
-				temperature: 1,
-				max_tokens: 256,
-				top_p: 1,
-				frequency_penalty: 0,
-				presence_penalty: 0
+				temperature: 0
+				// max_tokens: 256,
+				// top_p: 1,
+				// frequency_penalty: -0.1
+				// presence_penalty: 0
 			})
 			.then((d) => {
 				// loadingResponse = false;
@@ -151,7 +151,7 @@
 			{pid}
 			paragraph={text}
 			{question}
-			title="ChatGPT Result - {selEndpoints.join(',')}"
+			title="ChatGPT Result - {selEndpoints.join(', ')}"
 			onClose={() => pushState('', { showModal: false })}
 			open={$page.state.showModal}
 			onSubmit={() => {

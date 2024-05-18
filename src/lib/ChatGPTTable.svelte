@@ -12,10 +12,9 @@
 	export let exclude = ['id', 'paragraph'];
 
 	//TODO: I don't know if this is right
-	$: columns = [...new Set(data.flatMap((d) => Object.keys(d)))].filter(
-		(d) => !exclude.includes(d)
-	);
-	console.log('data', data);
+	$: columns = Object.keys(data[0]) //[...new Set(data.flatMap((d) => Object.keys(d)))]
+		.filter((d) => !exclude.includes(d));
+	console.log('data Table', data);
 </script>
 
 {#if data.length === 0}
@@ -40,7 +39,7 @@
 								</button>
 							</div></td
 						>
-						{#each Object.keys(d).filter((d) => !exclude.includes(d)) as key (key)}
+						{#each columns.filter((d) => !exclude.includes(d)) as key (key)}
 							<td class="border-2 p-2">
 								<div class="flex flex-wrap items-center gap-1">
 									<div class="" class:line-clamp-3={key === 'paragraph'}>{d[key]}</div>

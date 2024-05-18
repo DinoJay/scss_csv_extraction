@@ -92,9 +92,10 @@ export default [
         ], path: '/Endpoints/Observations'
     }, {
         name: 'Observations', cols: [
-            'body weight and food/water consumption',
+            'body weight ',
+            'food/water consumption',
             'ophtalmological examination',
-            'organ weight and organ/body weight',
+            'organ/body weight',
             'description (all other information not captured in given columns)'
         ], path: '/Endpoints'
     }, {

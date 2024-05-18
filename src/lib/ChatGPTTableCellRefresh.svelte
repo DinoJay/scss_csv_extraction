@@ -34,11 +34,15 @@
 		return openai.chat.completions.create({
 			model: 'gpt-4o',
 			messages: [...messages],
-			temperature: 1,
-			max_tokens: 256,
-			top_p: 1,
-			frequency_penalty: 0,
-			presence_penalty: 0
+			temperature: 0.2,
+			// max_tokens: 256,
+			// top_p: 1,
+			frequency_penalty: -1
+			// temperature: 1,
+			// max_tokens: 256,
+			// top_p: 1,
+			// frequency_penalty: 0,
+			// presence_penalty: 0
 		});
 	};
 </script>
@@ -64,7 +68,7 @@
 <button
 	style="width:18px;height:18px"
 	on:click={() => {
-		const question1 = `Provide a meaningful text passage found in "${paragraph}" used for the response of the previous user text input namely "${question0}". Run several iterations to find the best answer. If you can't find an answer, respond with an "-". don't include any command string such as \`\`\`javascript`;
+		const question1 = `Provide a text passage found in "${paragraph}" which were used as input to inform the response for the previous user command namely "${question0}". Run several iterations to find th Don't respond with an empty text passage such as \'\'. If you can't find an answer, respond with an "-". don't include any command string such as \`\`\`javascript`;
 
 		// console.log('question', question1);
 		loadingResponse1 = true;
