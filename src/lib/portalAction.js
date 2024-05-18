@@ -28,7 +28,7 @@ export function portal(node, name) {
     const slot = document.querySelector(name)
     // find an element with this ID somewhere in the document
     // move this node to that element
-    slot?.appendChild(node);
+    slot?.prepend(node);
 
     return {
         destroy() {

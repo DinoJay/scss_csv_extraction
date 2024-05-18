@@ -47,6 +47,7 @@
 									{#if refreshable}
 										<ChatGPTTableCellRefresh
 											{key}
+											value={d[key]}
 											{context}
 											{paragraph}
 											onChange={(answer) => {

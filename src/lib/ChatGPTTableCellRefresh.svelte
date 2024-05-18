@@ -3,14 +3,19 @@
 	import OpenAI from 'openai';
 	import Spinner from './Spinner.svelte';
 	import MdErrorOutline from 'svelte-icons/md/MdErrorOutline.svelte';
+	import LightBox from './LightBox.svelte';
+	import ChatGptExplanationModal from './ChatGPTExplanationModal.svelte';
 
 	export let onChange;
 	export let context;
 	export let key;
+	export let value;
 	export let paragraph;
 
 	let loadingResponse0 = false;
 	let loadingResponse1 = false;
+
+	let textPassages = null;
 
 	const openai = new OpenAI({
 		apiKey: import.meta.env.VITE_OPEN_AI,
@@ -18,7 +23,6 @@
 		dangerouslyAllowBrowser: true
 	});
 
-	$: console.log('paragraph', paragraph);
 	$: question0 = `Find information for "${key}" in the given text. Don't include commentary text. Be concise and to the point! if you can't find an answer, respond with an "-"`;
 
 	$: setChatGPTContext = (array) => {
@@ -60,13 +64,13 @@
 <button
 	style="width:18px;height:18px"
 	on:click={() => {
-		const question1 = `where did you find the information to respond to "${question0}"? Create a list of text quotes (separated by ",") found in "${paragraph}" to respond to the text input namely "${question0}". If you can't find an answer, respond with an "-". don't include any command string such as \`\`\`javascript`;
-		console.log('question', question1);
+		const question1 = `where did you find the information to respond to "${question0}"? Create a minimal list of text strings (separated by "||") found in "${paragraph}" to respond to the text input namely "${question0}". If you can't find an answer, respond with an "-". don't include any command string such as \`\`\`javascript`;
+		// console.log('question', question1);
 		loadingResponse1 = true;
 		setChatGPTContext([...context, question0, question1]).then((resp) => {
 			const answer = resp?.choices?.[0].message?.content;
 			loadingResponse1 = false;
-			console.log('answer', answer);
+			textPassages = answer;
 		});
 	}}
 >
@@ -76,3 +80,10 @@
 		<MdErrorOutline></MdErrorOutline>
 	{/if}
 </button>
+
+<ChatGptExplanationModal
+	title="Source - {key}={value}"
+	{paragraph}
+	{textPassages}
+	onClose={() => (textPassages = null)}
+/>
