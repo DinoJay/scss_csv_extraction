@@ -39,7 +39,7 @@
 		<div>
 			<a
 				href="/{selectedId}?scraped={!scraped}"
-				class="ml-auto p-1 border flex border-gray-600"
+				class="ml-auto p-1 border-2 flex border-gray-600"
 				class:bg-yellow-200={!scraped}
 				class:bg-green-200={scraped}><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
 			>

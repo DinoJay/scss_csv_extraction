@@ -1,10 +1,12 @@
 <script>
+	import { csvFormat } from 'd3-dsv';
 	import MdRefresh from 'svelte-icons/md/MdRefresh.svelte';
 	import OpenAI from 'openai';
 	import Spinner from './Spinner.svelte';
 	import MdErrorOutline from 'svelte-icons/md/MdErrorOutline.svelte';
 	import LightBox from './LightBox.svelte';
 	import ChatGptExplanationModal from './ChatGPTExplanationModal.svelte';
+	import chatGPTApiOptions from './chatGPTApiOptions';
 
 	export let onChange;
 	export let context;
@@ -34,15 +36,7 @@
 		return openai.chat.completions.create({
 			model: 'gpt-4o',
 			messages: [...messages],
-			temperature: 0.2,
-			// max_tokens: 256,
-			// top_p: 1,
-			frequency_penalty: -1
-			// temperature: 1,
-			// max_tokens: 256,
-			// top_p: 1,
-			// frequency_penalty: 0,
-			// presence_penalty: 0
+			...chatGPTApiOptions
 		});
 	};
 </script>
@@ -52,6 +46,7 @@
 	on:click={() => {
 		loadingResponse0 = true;
 		setChatGPTContext([...context, question0]).then((resp) => {
+			console.log('context', context);
 			const answer = resp?.choices?.[0].message?.content;
 			loadingResponse0 = false;
 			onChange(answer);

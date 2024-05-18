@@ -34,5 +34,5 @@
 </script>
 
 <LightBox {title} isOpen={textPassages !== null} close={onClose}
-	><div class="">{@html htmlText}</div></LightBox
+	><div class="overflow-auto">{@html htmlText}</div></LightBox
 >

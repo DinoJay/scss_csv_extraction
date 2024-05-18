@@ -1,19 +1,18 @@
 <script>
-	import OpenAI from 'openai';
 	export let data;
 	export let onChange;
-	export let context;
+	export let context = [];
 	export let refreshable = false;
 	export let paragraph;
 	import MdClose from 'svelte-icons/md/MdClose.svelte';
 	import ChatGPTTableCellRefresh from './ChatGPTTableCellRefresh.svelte';
-	import { isRunnableFunctionWithParse } from 'openai/lib/RunnableFunction.mjs';
-	$: console.log('data', data);
+	$: console.log('data TABLE', data);
 	export let exclude = ['id', 'paragraph'];
 
 	//TODO: I don't know if this is right
-	$: columns = Object.keys(data[0]) //[...new Set(data.flatMap((d) => Object.keys(d)))]
-		.filter((d) => !exclude.includes(d));
+	const flat = data.flatMap((d) => Object.keys(d));
+	console.log('flat', flat);
+	$: columns = [...new Set(flat)].filter((d) => !exclude.includes(d));
 	console.log('data Table', data);
 </script>
 

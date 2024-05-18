@@ -1,11 +1,11 @@
 <script lang="ts">
-	import { Chat } from 'openai/resources/index.mjs';
 	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
 	import LightBox from './LightBox.svelte';
 
 	import Spinner from './Spinner.svelte';
+	import chatGPTApiOptions from './chatGPTApiOptions';
 	import Extendable from './Extendable.svelte';
 	import EndpointList from './EndpointList.svelte';
 	import ChatGptResult from './ChatGPTResult.svelte';
@@ -23,7 +23,7 @@
 
 	let loadingResponse = false;
 
-	let response = null;
+	let responses = null;
 	let chatGPTerror = null;
 
 	const openai = new OpenAI({
@@ -55,32 +55,35 @@
 			.join(', ')
 	);
 
+	$: prompts = selEndpoints
+		.map((n) => endpoints.find((d) => d.name === n).cols)
+		.map((cols) => genQuery2(cols));
+
 	$: setChatGPTContext = (array) => {
 		const messages = array.map((p) => ({
 			role: 'user',
 			content: p
 		}));
-		response = null;
 
 		// loadingResponse = true;
-		openai.chat.completions
-			.create({
-				model: 'gpt-4o',
-				messages: [...messages],
-				temperature: 0
-				// max_tokens: 256,
-				// top_p: 1,
-				// frequency_penalty: -0.1
-				// presence_penalty: 0
-			})
-			.then((d) => {
-				// loadingResponse = false;
-				response = d;
-				chatGPTerror = null;
-			})
-			.catch((err) => {
-				chatGPTerror = err;
-			});
+		return (
+			openai.chat.completions
+				.create({
+					model: 'gpt-4o',
+					messages: [...messages],
+					...chatGPTApiOptions
+
+					// presence_penalty: 0
+				})
+				// .then((d) => {
+				// 	// loadingResponse = false;
+				// 	response = d;
+				// 	chatGPTerror = null;
+				// })
+				.catch((err) => {
+					chatGPTerror = err;
+				})
+		);
 	};
 
 	// console.log('text', text, question);
@@ -145,23 +148,28 @@
 		</div>
 	{/if}
 
-	{#key response?.choices?.[0].message?.content}
+	{#key responses?.join(',')}
 		<ChatGptResult
 			{type}
 			{pid}
 			paragraph={text}
-			{question}
+			{prompts}
 			title="ChatGPT Result - {selEndpoints.join(', ')}"
 			onClose={() => pushState('', { showModal: false })}
 			open={$page.state.showModal}
 			onSubmit={() => {
 				console.log('page', $page.state.showModal);
+				responses = null;
+
 				// pushState('', { showModal: true });
 
-				setChatGPTContext([text, question]);
+				Promise.all(prompts.map((p) => setChatGPTContext([text, p]))).then((d) => {
+					console.log('done', d);
+					responses = d.map((d) => d?.choices[0].message.content);
+				});
 			}}
-			response={response?.choices?.[0].message?.content}
-		></ChatGptResult>
+			{responses}
+		/>
 	{/key}
 </div>
 
@@ -169,7 +177,14 @@
 	class="w-full p-2 border-2 mt-2 flex items-center justify-center"
 	on:click={() => {
 		pushState('', { showModal: true });
-		setChatGPTContext([text, question]);
+		responses = null;
+		Promise.all(prompts.map((p) => setChatGPTContext([text, p]))).then((d) => {
+			// loadingResponse = false;
+			console.log('done', d);
+			responses = d.map((d) => d?.choices[0].message.content);
+			// response = d;
+			// chatGPTerror = null;
+		});
 	}}
 	type="button"
 >

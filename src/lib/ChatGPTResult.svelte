@@ -4,8 +4,8 @@
 	import Spinner from './Spinner.svelte';
 	import isEqual from 'lodash.isequal';
 
-	export let loadingResponse;
-	export let response;
+	export let prompts;
+	export let responses;
 	export let title;
 	export let onSubmit;
 	export let onClose;
@@ -13,20 +13,28 @@
 	export let type;
 	export let pid;
 	export let paragraph;
-	export let question;
 
-	import { csvParse } from 'd3-dsv';
+	import { csvParse, csvFormat } from 'd3-dsv';
 	import { ACUTETOX, RDT } from './reportIds';
 	import Table from './ChatGPTTable.svelte';
 	import OpenAI from 'openai';
 
-	$: console.log('response', response);
-	let data = response
-		? csvParse(response).map((d, i) => ({ ...d, id: `${pid}-${i}`, paragraph }))
-		: [];
+	// $: console.log('response', response);
 
-	$: console.log('csv', data);
-	$: console.log('response', response, 'loadingResponse', loadingResponse);
+	const joinData = (responses) => {
+		let newData = responses.map((r, j) =>
+			csvParse(r).map((d, i) => ({ ...d, id: `${pid}-${i}`, paragraph }))
+		);
+		let groupedObj = Object.groupBy(newData.flat(), (d) => d.id);
+		return Object.values(groupedObj).map((d) => d.reduce((acc, d) => ({ ...acc, ...d }), {}));
+	};
+
+	let data = responses ? joinData(responses) : [];
+
+	$: currentContext = () => [
+		...prompts.flatMap((d, i) => [d, responses[i]]).slice(0, -1),
+		csvFormat(data)
+	];
 	let csvMode = false;
 
 	// $: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];
@@ -114,14 +122,14 @@
 
 <LightBox {title} isOpen={open} close={onClose}>
 	<div class="w-full flex flex-col overflow-auto min-h-64">
-		{#if !response}
+		{#if data.length === 0}
 			<div class="m-auto">
 				<Spinner></Spinner>
 			</div>
-		{:else if response}
+		{:else if data.length > 0}
 			{#if csvMode}
 				<p class="bg mt-2 p-1 overflow-auto" style:background="#cae6ea">
-					{response}
+					{data}
 				</p>
 			{:else}
 				<Table
@@ -129,7 +137,7 @@
 					refreshable={true}
 					onChange={(nd) => (data = nd)}
 					{paragraph}
-					context={[question, response]}
+					context={currentContext()}
 				></Table>
 			{/if}
 
@@ -143,7 +151,7 @@
 		{/if}
 	</div>
 
-	{#if response}
+	{#if data?.length > 0}
 		<div class="flex mt-3">
 			<button class="flex-1 p-2 border-2" on:click={() => onSubmit()}> Re-Submit </button>
 			<button class="flex-1 p-2 border-2 ml-1 bg-gray-100" on:click={() => (csvMode = !csvMode)}

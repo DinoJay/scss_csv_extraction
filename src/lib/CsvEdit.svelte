@@ -13,6 +13,8 @@
 	$: emptyData = acuteTox.length === 0 && rdt.length === 0;
 
 	let csvMode = false;
+	$: console.log('store', $store);
+	$: console.log('rdt', rdt);
 </script>
 
 <div class="" transition:slide class:min-h-fit={!visible} class:min-h-60={visible}>
