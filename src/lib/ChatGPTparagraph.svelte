@@ -34,7 +34,7 @@
 
 	// console.log('text', text);
 	// const genQuery = (cols) =>
-	// 	`create a html table (using only the table element) with following columns finding the information for the rows in the text given.
+	// 	`create a hhtml table (using only the table element) with following columns finding the information for the rows in the text given.
 	// 	don't include any commentary text: ${cols}. Please `;
 
 	// create a csv table with following columns: [cols].
