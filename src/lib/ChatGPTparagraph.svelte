@@ -27,7 +27,7 @@
 	let chatGPTerror = null;
 
 	const openai = new OpenAI({
-		apiKey: 'sk-proj-AGRwfTcTX18tCzqBIAtbT3BlbkFJ7iw9zXwe2UzKzTSdp60O', ///import.meta.env.VITE_OPEN_AI,
+		apiKey: import.meta.env.VITE_OPEN_AI,
 
 		dangerouslyAllowBrowser: true
 	});
