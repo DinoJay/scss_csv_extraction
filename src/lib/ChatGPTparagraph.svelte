@@ -27,7 +27,7 @@
 	let chatGPTerror = null;
 
 	const openai = new OpenAI({
-		apiKey: import.meta.env.VITE_OPEN_AI,
+		apiKey: 'sk-proj-AGRwfTcTX18tCzqBIAtbT3BlbkFJ7iw9zXwe2UzKzTSdp60O', ///import.meta.env.VITE_OPEN_AI,
 
 		dangerouslyAllowBrowser: true
 	});
@@ -68,7 +68,6 @@
 		return (
 			openai.chat.completions
 				.create({
-					model: 'gpt-4o',
 					messages: [...messages],
 					...chatGPTApiOptions
 

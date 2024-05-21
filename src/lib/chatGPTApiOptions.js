@@ -1,5 +1,6 @@
 export default {
-    model: 'gpt-4-turbo',
+
+    model: 'gpt-4o',
     temperature: 0.1,
     // max_tokens: 256,
     // top_p: 1,
