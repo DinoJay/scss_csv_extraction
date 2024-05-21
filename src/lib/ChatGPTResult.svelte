@@ -29,12 +29,16 @@
 		return Object.values(groupedObj).map((d) => d.reduce((acc, d) => ({ ...acc, ...d }), {}));
 	};
 
+	$: console.log('responses', responses);
+
 	let data = responses ? joinData(responses) : [];
 
-	$: currentContext = () => [
-		...prompts.flatMap((d, i) => [d, responses[i]]).slice(0, -1),
-		csvFormat(data)
-	];
+	$: currentContext = () => {
+		console.log('prompts	', prompts);
+		console.log('responses	', responses);
+		return [...prompts.flatMap((d, i) => [d, responses[i]]), csvFormat(data)];
+	};
+
 	let csvMode = false;
 
 	// $: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];

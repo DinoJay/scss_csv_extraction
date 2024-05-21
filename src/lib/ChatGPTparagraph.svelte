@@ -41,11 +41,10 @@
 	// You find the information to fill in the csv in the text given. Don't include data for which you can't find any answer.
 	// All rows in the csv should be meaningful. Use "," as delimiter. Don't include any commentary text and duplicate data.
 	const genQuery2 = (cols) =>
-		`Create a csv table with following columns: "${cols}". The information to fill in the csv has to be extracted from the text given namely "${text}". 
-		Don't include data for which you can't find any answers. Use "," as delimiter. 
-		If the answer is not present in the text, respond with an "-".  
+		`Create a csv table with following column names: "${cols}". The information to fill in the csv has to be extracted from the text given namely "${text}". Use "," as delimiter. 
+		If the answer is not present in the text, respond with an "-". Make sure that each answer you provide for a cell adheres to the semantics of the coressponding the column name.  
 		Don't include any commentary text or command strings such as "\`\`\`csv"! Your response must be a text string in valid csv format including the column header row correctly formatted. 
-		Most importantly respond with only one row.`;
+		Most importantly respond with few number of rows as possible.`;
 
 	let selEndpoints = [endpoints[0].name];
 	$: question = genQuery2(

@@ -26,7 +26,7 @@
 </script>
 
 <div
-	class="bg-white flex flex-col p-3 m-auto w-auto max-h-full w-full max-w-prose"
+	class="bg-white flex flex-col p-6 m-auto w-auto max-h-full w-full max-w-prose"
 	class:h-full={fixedHeight}
 	on:keydown={() => null}
 	on:click={(e) => e.stopPropagation()}

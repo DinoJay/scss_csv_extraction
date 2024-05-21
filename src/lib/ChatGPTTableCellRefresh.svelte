@@ -25,7 +25,9 @@
 		dangerouslyAllowBrowser: true
 	});
 
-	$: question0 = `Find information for "${key}" in the given text. Don't include commentary text. Be concise and to the point! if you can't find an answer, respond with an "-"`;
+	$: question0 = `Find information for "${key}" in the given text! 
+	Be exact, concise and to the point.
+	Don't include commentary text. Don't contradict your answer with your current context given. if you can't find an answer, respond with an "-"`;
 
 	$: setChatGPTContext = (array) => {
 		const messages = array.map((p) => ({
