@@ -33,7 +33,7 @@
 		`Create a csv table with following column headers: "${cols}". The information to fill in the csv has to be extracted from the text given before "${paragraphText.slice(0, 50)}...". Use "," as delimiter. 
 		If the answer is not present in the text, respond with an "-". Respond with an csv row only. Make sure that each answer that you provide for a cell adheres to the semantics of the coressponding the column name.  
 		Don't include any commentary text or command strings such as "\`\`\`csv"! Your response must be a text string in valid csv format including the column header row correctly formatted. 
-		Most importantly respond with few number of rows as possible. `;
+		`;
 
 	let selEndpoints = [endpoints[0].name];
 
