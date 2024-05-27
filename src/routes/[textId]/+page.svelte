@@ -18,21 +18,6 @@
 	// $: console.log('selectedParagraph', selectedParagraph);
 
 	$: scraped = $page.url.searchParams.get('scraped') === 'true';
-	// console.log('scr', scr, typeof scr);
-	// $: console.log('props', data);
-	// fetch(`/scss_o_044.txt`)
-	// 	.then((response) => response.text())
-	// 	.then((text) => {
-	// 		console.log('textsss', text.slice(0, 50));
-	// 		// console.log('textId', textId, 'text', text.slice(0, 20))
-	// 		// const acuteTox = scrapeAcuteTox(text, textId);
-	// 		// const rdt = scrapeRDT(text, textId);
-	// 		// console.log('rdt', rdt)
-	// 		// updateStore({ rdt, acuteTox, text, oriinalTextIds: textIds })
-	// 		// return { rdt, acuteTox, text, originalTextIds: textIds }
-	// 		return { rdt: [], acuteTox: [], txt: text, originalTextIds: textIds };
-	// 	});
-	// $: console.log('originalTxtsMap', originalTxtsMap);
 	$: console.log('scraped', scraped);
 </script>
 
@@ -43,7 +28,7 @@
 			type={selectedParagraph?.type}
 			pid={paragraphId}
 			reportId={report.id}
-			text={selectedParagraph?.txt}
+			paragraphText={selectedParagraph?.txt}
 		></Paragraph>
 	{:else}
 		<div class="text-xl m-auto">Paragraph not found</div>

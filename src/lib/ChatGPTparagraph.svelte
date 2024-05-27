@@ -2,9 +2,7 @@
 	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
-	import LightBox from './LightBox.svelte';
 
-	import Spinner from './Spinner.svelte';
 	import chatGPTApiOptions from './chatGPTApiOptions';
 	import Extendable from './Extendable.svelte';
 	import EndpointList from './EndpointList.svelte';
@@ -14,17 +12,16 @@
 	import { page } from '$app/stores';
 
 	import MdArrowBack from 'svelte-icons/md/MdArrowBack.svelte';
-	export let selected;
-	export let text;
+	import ChatGptCustomTextField from './ChatGPTCustomTextField.svelte';
+	export let paragraphText;
 	export let reportId;
 	export let pid;
 	export let scraped;
 	export let type;
 
-	let loadingResponse = false;
-
-	let responses = null;
-	let chatGPTerror = null;
+	let responses: any[] | null = null;
+	let customResponse: string | null = null;
+	let chatGPTerror: null = null;
 
 	const openai = new OpenAI({
 		apiKey: import.meta.env.VITE_OPEN_AI,
@@ -32,33 +29,25 @@
 		dangerouslyAllowBrowser: true
 	});
 
-	// console.log('text', text);
-	// const genQuery = (cols) =>
-	// 	`create a hhtml table (using only the table element) with following columns finding the information for the rows in the text given.
-	// 	don't include any commentary text: ${cols}. Please `;
-
-	// create a csv table with following columns: [cols].
-	// You find the information to fill in the csv in the text given. Don't include data for which you can't find any answer.
-	// All rows in the csv should be meaningful. Use "," as delimiter. Don't include any commentary text and duplicate data.
-	const genQuery2 = (cols) =>
-		`Create a csv table with following column headers: "${cols}". The information to fill in the csv has to be extracted from the text given namely "${text}". Use "," as delimiter. 
-		If the answer is not present in the text, respond with an "-". Make sure that each answer you provide for a cell adheres to the semantics of the coressponding the column name.  
+	const genQueryDetailed = (cols: string | string[] | undefined) =>
+		`Create a csv table with following column headers: "${cols}". The information to fill in the csv has to be extracted from the text given before "${paragraphText.slice(0, 50)}...". Use "," as delimiter. 
+		If the answer is not present in the text, respond with an "-". Respond with an csv row only. Make sure that each answer that you provide for a cell adheres to the semantics of the coressponding the column name.  
 		Don't include any commentary text or command strings such as "\`\`\`csv"! Your response must be a text string in valid csv format including the column header row correctly formatted. 
-		Most importantly respond with few number of rows as possible.`;
+		Most importantly respond with few number of rows as possible. `;
 
 	let selEndpoints = [endpoints[0].name];
-	$: question = genQuery2(
+
+	$: question = genQueryDetailed(
 		selEndpoints
 			.map((n) => endpoints.find((d) => d.name === n))
-			.flatMap((e) => e.cols)
+			.flatMap((e) => e?.cols)
 			.join(', ')
 	);
-
 	$: prompts = selEndpoints
-		.map((n) => endpoints.find((d) => d.name === n).cols)
-		.map((cols) => genQuery2(cols));
+		.map((n) => endpoints.find((d) => d.name === n)?.cols)
+		.map((cols) => genQueryDetailed(cols));
 
-	$: setChatGPTContext = (array) => {
+	$: setChatGPTContext = (array: any[]) => {
 		const messages = array.map((p) => ({
 			role: 'user',
 			content: p
@@ -86,7 +75,7 @@
 
 	// console.log('text', text, question);
 	console.log('page', $page.state);
-	$: console.log('text', text);
+	$: console.log('paragraphText', paragraphText);
 </script>
 
 <div class="flex-1 overflow-auto flex flex-col">
@@ -96,12 +85,8 @@
 		</a>
 		<h1 class="text-xl ml-2">{reportId}/{pid}</h1>
 	</div>
-	<p
-		class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-72 overflow-auto text-gray-700"
-		class:border-fuchsia-200={selected}
-		class:border-fuchsia-100={!selected}
-	>
-		{text}
+	<p class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-72 overflow-auto text-gray-700">
+		{paragraphText}
 	</p>
 	<div class="gap-2 mb-auto">
 		<Extendable title="Select Endpoints" preClosed={true}>
@@ -127,16 +112,19 @@
 	</div>
 
 	<div class="  mt-2 text-gray-700">
-		<Extendable title="ChatGPT Prompt">
-			<textarea
-				on:change={(e) => {
-					question = e.target.value;
+		{#key question}
+			<ChatGptCustomTextField
+				defaultQuestion={question}
+				onClick={(q) => {
+					pushState('', { showModalCustom: true });
+					customResponse = null;
+					setChatGPTContext([paragraphText, q]).then((d) => {
+						customResponse = d?.choices[0].message.content;
+						console.log('customResponse', customResponse);
+					});
 				}}
-				value={question}
-				placeholder="ChatGPT question"
-				class="h-32 w-full border-2 border-gray p-2 flex-grow"
 			/>
-		</Extendable>
+		{/key}
 	</div>
 </div>
 <div class="w-full flex">
@@ -145,38 +133,53 @@
 			<p class="text-red-500">{chatGPTerror}</p>
 		</div>
 	{/if}
-
-	{#key responses?.join(',')}
-		<ChatGptResult
-			{type}
-			{pid}
-			paragraph={text}
-			{prompts}
-			title="ChatGPT Result - {selEndpoints.join(', ')}"
-			onClose={() => pushState('', { showModal: false })}
-			open={$page.state.showModal}
-			onSubmit={() => {
-				console.log('page', $page.state.showModal);
-				responses = null;
-
-				// pushState('', { showModal: true });
-
-				Promise.all(prompts.map((p) => setChatGPTContext([text, p]))).then((d) => {
-					console.log('done', d);
-					responses = d.map((d) => d?.choices[0].message.content);
-				});
-			}}
-			{responses}
-		/>
-	{/key}
 </div>
+{#key customResponse}
+	<ChatGptResult
+		edit={false}
+		{type}
+		{pid}
+		paragraph={paragraphText}
+		{prompts}
+		title="ChatGPT Custom Result"
+		onClose={() => {
+			pushState('', { showModalCustom: false });
+			customResponse = null;
+		}}
+		open={$page.state.showModalCustom}
+		responses={customResponse ? [customResponse] : null}
+	/>
+{/key}
+{#key responses?.join(',')}
+	<ChatGptResult
+		{type}
+		{pid}
+		paragraph={paragraphText}
+		{prompts}
+		title="ChatGPT Result - {selEndpoints.join(', ')}"
+		onClose={() => pushState('', { showModal: false })}
+		open={$page.state.showModal}
+		onSubmit={() => {
+			console.log('page', $page.state.showModal);
+			responses = null;
+
+			// pushState('', { showModal: true });
+
+			Promise.all(prompts.map((p) => setChatGPTContext([paragraphText, p]))).then((d) => {
+				console.log('done', d);
+				responses = d.map((d) => d?.choices[0].message.content);
+			});
+		}}
+		{responses}
+	/>
+{/key}
 
 <button
 	class="w-full p-2 border-2 mt-2 flex items-center justify-center"
 	on:click={() => {
 		pushState('', { showModal: true });
 		responses = null;
-		Promise.all(prompts.map((p) => setChatGPTContext([text, p]))).then((d) => {
+		Promise.all(prompts.map((p) => setChatGPTContext([paragraphText, p]))).then((d) => {
 			// loadingResponse = false;
 			console.log('done', d);
 			responses = d.map((d) => d?.choices[0].message.content);

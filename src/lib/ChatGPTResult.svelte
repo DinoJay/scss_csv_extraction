@@ -7,17 +7,17 @@
 	export let prompts;
 	export let responses;
 	export let title;
-	export let onSubmit;
+	export let onSubmit = null;
 	export let onClose;
 	export let open;
 	export let type;
 	export let pid;
 	export let paragraph;
+	export let edit = true;
 
 	import { csvParse, csvFormat } from 'd3-dsv';
 	import { ACUTETOX, RDT } from './reportIds';
 	import Table from './ChatGPTTable.svelte';
-	import OpenAI from 'openai';
 
 	// $: console.log('response', response);
 
@@ -32,6 +32,8 @@
 	$: console.log('responses', responses);
 
 	let data = responses ? joinData(responses) : [];
+
+	console.log('data', data);
 
 	$: currentContext = () => {
 		console.log('prompts	', prompts);
@@ -144,18 +146,10 @@
 					context={currentContext()}
 				></Table>
 			{/if}
-
-			<!-- <table>
-				<tr>
-					{#each Object.keys(row) as key}
-						<td>{row[key]}</td>
-					{/each}
-				</tr>
-			</table> -->
 		{/if}
 	</div>
 
-	{#if data?.length > 0}
+	{#if data?.length > 0 && edit}
 		<div class="flex mt-3">
 			<button class="flex-1 p-2 border-2" on:click={() => onSubmit()}> Re-Submit </button>
 			<button class="flex-1 p-2 border-2 ml-1 bg-gray-100" on:click={() => (csvMode = !csvMode)}
