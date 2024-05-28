@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { paragraphQuery } from './chatGPTparagraphQueries';
 	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
@@ -37,15 +38,16 @@
 
 	let selEndpoints = [endpoints[0].name];
 
-	$: question = genQueryDetailed(
+	$: question = paragraphQuery(
 		selEndpoints
 			.map((n) => endpoints.find((d) => d.name === n))
 			.flatMap((e) => e?.cols)
-			.join(', ')
+			.join(', '),
+		paragraphText
 	);
 	$: prompts = selEndpoints
 		.map((n) => endpoints.find((d) => d.name === n)?.cols)
-		.map((cols) => genQueryDetailed(cols));
+		.map((cols) => paragraphQuery(cols, paragraphText));
 
 	$: setChatGPTContext = (array: any[]) => {
 		const messages = array.map((p) => ({
@@ -74,8 +76,8 @@
 	};
 
 	// console.log('text', text, question);
-	console.log('page', $page.state);
-	$: console.log('paragraphText', paragraphText);
+	// console.log('page', $page.state);
+	// $: console.log('paragraphText', paragraphText);
 </script>
 
 <div class="flex-1 overflow-auto flex flex-col">

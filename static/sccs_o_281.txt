@@ -1,0 +1,2739 @@
+SCCS/1658/23
+Final version
+
+Scientific Committee on Consumer Safety
+SCCS
+
+SCIENTIFIC OPINION
+on Hexyl Salicylate
+(CAS/EC No. 6259-76-3/228-408-6)
+
+The SCCS adopted this document
+by written procedure on 28 February 2024
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+ACKNOWLEDGMENTS
+Members of the Working Group are acknowledged for their valuable contribution to this
+Opinion. The members of the Working Group are:
+For the Preliminary Opinion
+SCCS members
+Dr U. Bernauer
+Dr L. Bodin
+Prof. Q. Chaudhry
+Prof. P.J. Coenraads
+Prof. M. Dusinska
+Dr J. Ezendam
+Dr E. Gaffet
+Prof. C. L. Galli
+Prof. E. Panteri
+Prof. V. Rogiers
+Dr Ch. Rousselle
+Dr M. Stepnik
+Prof. T. Vanhaecke
+Dr S. Wijnhoven
+
+(SCCS Chair)
+(SCCS Vice-Chair, Chairperson of the WG)
+
+(SCCS Vice-Chair)
+(Rapporteur)
+
+SCCS external experts
+Dr E. Benfenati
+Dr N. Cabaton
+Prof. E. Corsini
+Dr A. Koutsodimou
+Dr H. Louro
+Prof. W. Uter
+Dr N. von Goetz
+
+For the Final Opinion
+SCCS members
+Dr U. Bernauer
+Dr L. Bodin
+Prof. Q. Chaudhry
+Prof. P.J. Coenraads
+Dr J. Ezendam
+Dr E. Gaffet
+Prof. C. L. Galli
+Prof. E. Panteri
+Prof. V. Rogiers
+Dr Ch. Rousselle
+Dr M. Stepnik
+Prof. T. Vanhaecke
+Dr S. Wijnhoven
+
+(SCCS Chair)
+(SCCS Vice-Chair, Chairperson of the WG)
+
+(SCCS Vice-Chair)
+(Rapporteur)
+
+________________________________________________________________________________________
+2
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+SCCS external experts
+Dr E. Benfenati
+Dr N. Cabaton
+Prof. E. Corsini
+Dr A. Koutsodimou
+Dr H. Louro
+Prof. W. Uter
+Dr N. von Goetz
+
+This Opinion has been subject to a commenting period of min eight weeks after its initial
+publication (from 9 November 2023 to 12 January 2024). Comments received during this
+period were considered by the SCCS. For this Opinion, main changes occurred in the following
+sections: 3.2.3.3 SCCS comment, 3.2.4.2 text before and SCCS comment below Table 8 as
+well as SCCS comment on the overall exposure assessment conclusion from the applicant,
+3.2.4.3 footnote under Table 10, 3.3.4.3 SCCS comment, 3.3.5.2, 3.3.6 ED, 3.3.7.2, 3.4 MoS
+for adults and for children, discussion under systemic exposure, and SCCS conclusion number
+2. Tables were renumbered.
+
+All Declarations of Working Group members are available on the following webpage:
+Register of Commission expert groups and other similar entities (europa.eu)
+
+________________________________________________________________________________________
+3
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+1. ABSTRACT
+The SCCS concludes the following:
+
+(1)
+
+In light of the data provided and taking under consideration the CMR Cat.2
+classification (to be introduced in Annex VI to Reg. 1272/2008), does the SCCS
+consider Hexyl Salicylate safe when used up to the maximum concentrations provided
+in the dossier?
+Based on the assessment of data provided and taking into consideration the concerns
+related to potential endocrine disrupting properties, the SCCS considers Hexyl
+Salicylate safe when used up to the maximum concentrations as provided in Table 1
+of this Opinion.
+Product type, Body parts
+
+Maximum concentration
+(% w/w)
+
+Hydroalcoholic-based fragrances
+
+2
+
+All Rinse-off products
+
+0.5
+
+All Leave on products
+
+0.3
+
+Oral care (toothpaste and mouthwash)
+
+(2)
+
+0.001
+
+Does the SCCS have any further scientific concerns with regard to the use of Hexyl
+Salicylate in cosmetic products?
+The Applicant did not provide any specific scenarios for children applying cosmetic
+products on their skin (dermal exposure), nor were the differences between age
+categories in some exposure parameters (body weight, amount of the products
+applied, body surface, etc) taken into consideration. However, the SCCS notices that
+in view of the high MoS for adults, far above 100, the MoS will also be above 100 for
+children between 3 to 10, considering also the products categories used by children of
+these ages.
+The SCCS mandates do not address environmental aspects. Therefore, this
+assessment did not cover the safety of Hexyl Salicylate for the environment.
+
+________________________________________________________________________________________
+4
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Keywords: SCCS, scientific advice, Hexyl Salicylate, CAS/EC No. 6259-76-3/228-408-6,
+Regulation 1223/2009
+Opinion to be cited as: SCCS (Scientific Committee on Consumer Safety), Scientific Opinion
+on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6), preliminary version of 26 October
+2023, final version of 28 February 2024, SCCS/1658/23
+
+________________________________________________________________________________________
+5
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+About the Scientific Committees
+Two independent non-food Scientific Committees provide the Commission with the scientific
+advice it needs when preparing policy and proposals relating to consumer safety, public health
+and the environment. The Committees also draw the Commission's attention to the new or
+emerging problems which may pose an actual or potential threat.
+These Committees are the Scientific Committee on Consumer Safety (SCCS) and the Scientific
+Committee on Health, Environmental and Emerging Risks (SCHEER) and they are made up of
+scientists appointed in their personal capacity.
+In addition, the Commission relies upon the work of the European Food Safety Authority
+(EFSA), the European Medicines Agency (EMA), the European Centre for Disease prevention
+and Control (ECDC) and the European Chemicals Agency (ECHA).
+SCCS
+The Committee shall provide Opinions on questions concerning health and safety risks
+(notably chemical, biological, mechanical and other physical risks) of non-food consumer
+products (for example cosmetic products and their ingredients, toys, textiles, clothing,
+personal care and household products such as detergents, etc.) and services (for example:
+tattooing, artificial sun tanning, etc.).
+Scientific Committee members
+Ulrike Bernauer, Laurent Bodin, Qasim Chaudhry, Pieter Jan Coenraads, Janine Ezendam, Eric
+Gaffet, Corrado Lodovico Galli, Eirini Panteri, Vera Rogiers, Christophe Rousselle, Maciej
+Stepnik, Tamara Vanhaecke, Susan Wijnhoven
+Contact
+European Commission
+Health and Food Safety
+Directorate B: Public Health, Cancer and Health security
+Unit B3: Health monitoring and cooperation, Health networks
+L-2920 Luxembourg
+SANTE-SCCS@ec.europa.eu
+©
+
+European Union, 2024
+
+ISSN
+
+ISBN
+
+Doi
+
+ND
+
+The Opinions of the Scientific Committees present the views of the independent scientists
+who are members of the committees. They do not necessarily reflect the views of the
+European Commission. The Opinions are published by the European Commission in their
+original language only.
+http://ec.europa.eu/health/scientific_committees/consumer_safety/index_en.htm
+
+________________________________________________________________________________________
+6
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+TABLE OF CONTENTS
+ACKNOWLEDGMENTS ............................................................................................. 2
+1.
+
+ABSTRACT .................................................................................................... 4
+
+2.
+
+MANDATE FROM THE EUROPEAN COMMISSION ................................................. 8
+
+3.
+
+OPINION .....................................................................................................10
+3.1
+
+CHEMICAL AND PHYSICAL SPECIFICATIONS ...........................................10
+
+3.1.1 Chemical identity ............................................................................... 10
+3.1.2 Physical form ..................................................................................... 11
+3.1.3 Molecular weight ................................................................................ 11
+3.1.4 Purity, composition and substance codes ............................................... 11
+3.1.5 Impurities / accompanying contaminants .............................................. 11
+3.1.6 Solubility ........................................................................................... 11
+3.1.7 Partition coefficient (Log Pow) ............................................................... 11
+3.1.8 Additional physical and chemical specifications....................................... 11
+3.1.9 Homogeneity and Stability................................................................... 11
+3.2
+EXPOSURE ASSESSMENT & TOXICOKINETICS .........................................12
+3.2.1
+Function and uses ................................................................... 12
+3.2.2 Dermal / percutaneous absorption ........................................................ 12
+3.2.3 Other studies on toxicokinetics ............................................................ 15
+3.2.4 Calculation of SED/LED ....................................................................... 17
+3.3
+TOXICOLOGICAL EVALUATION ..............................................................28
+3.3.1. Irritation and corrosivity .................................................................... 28
+3.3.2 Skin sensitisation ............................................................................... 31
+3.3.3 Acute toxicity ..................................................................................... 36
+3.3.4 Repeated dose toxicity ........................................................................ 37
+3.3.5 Reproductive toxicity .......................................................................... 39
+3.3.6 Endocrine disrupting effects ................................................................. 41
+3.3.7 Mutagenicity / genotoxicity .................................................................. 44
+3.3.8 Carcinogenicity .................................................................................. 47
+3.3.9 Photo-induced toxicity ........................................................................ 47
+3.3.10 Human data ..................................................................................... 48
+3.3.11 Special investigations ........................................................................ 49
+3.4
+SAFETY EVALUATION (including calculation of the MoS) ............................49
+3.5
+
+DISCUSSION .......................................................................................51
+
+4.
+
+CONCLUSION ..............................................................................................54
+
+5.
+
+MINORITY OPINION ......................................................................................54
+
+6.
+
+REFERENCES ...............................................................................................55
+
+________________________________________________________________________________________
+7
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+2. MANDATE FROM THE EUROPEAN COMMISSION
+Background
+Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6) is the INCI name of ‘hexyl 2hydroxybenzoate’, an ingredient with sweet, floral, and fruity odour used in formulations of
+fragrances in multiple consumer goods including cosmetic, household cleaning products,
+detergents, and air care products.
+Hexyl Salicylate is not listed in the Annexes to the Cosmetic Regulation (EC) No. 1223/2009
+and its use is not otherwise restricted in cosmetic products.
+The European Risk Assessment Committee (RAC) of ECHA issued in March 2022 an opinion 1
+recommending a ‘Toxic for Reproduction Category 2’ (i.e., suspected of damaging the unborn
+child) and ‘Skin sensitizer Category 1’ classification for Hexyl Salicylate. These classifications
+were based on the results of an LLNA assay and on ‘read across’ from the structural analogue
+Methyl Salicylate and the metabolite Salicylic Acid, respectively.
+Hexyl Salicylate is the ester of 1-hexanol and Salicylic Acid, with the latter being the main
+metabolite. Salicylic Acid has been subject to a safety evaluation by SCCNFP in 2002 2 and
+SCCS in 20183 and the SCCS is currently re-evaluating its safety in view of endocrine
+disrupting concerns. The scientific committee has concluded on the safety of Methyl Salicylate
+in 20214.
+Following the RAC opinion, it is expected that the European Commission will propose a
+classification for Hexyl Salicylate as a ‘Toxic for Reproduction Category 2’ and ‘Skin sensitizer
+Category 1’ (CLP Regulation Annex VI).
+In December 2022, stakeholders submitted a dossier to support the safe use of Hexyl
+Salicylate according to Art. 15(1) Reg. 1223/2009 with specific concentration limits for various
+product types (see Table 1). The Commission requests the SCCS to carry out a safety
+assessment on Hexyl Salicylate in view of the information provided.
+Table 1: Maximum concentrations of Hexyl Salicylate in cosmetic products as reported in the
+dossier submission.
+
+Product type, Body parts
+
+Hydroalcoholic-based fragrances
+
+Maximum concentration
+(% w/w)
+2
+
+All Rinse-off products
+
+0.5
+
+All Leave on products
+
+0.3
+
+Oral care (toothpaste and mouthwash)
+
+0.001
+
+https://echa.europa.eu/documents/10162/88845f59-c1f3-1302-2701-e684a9193ef7
+https://ec.europa.eu/health/ph_risk/committees/sccp/documents/out170_en.pdf
+3
+https://ec.europa.eu/health/sites/default/files/scientific_committees/consumer_safety/docs/sccs_o_223.pdf
+4
+https://health.ec.europa.eu/publications/methyl-salicylate-methyl-2-hydroxybenzoate_en
+________________________________________________________________________________________
+8
+1
+2
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Terms of reference
+1.
+
+In light of the data provided and taking under consideration the CMR Cat.2
+classification (to be introduced in Annex VI to Reg. 1272/2008), does the SCCS
+consider Hexyl Salicylate safe when used up to the maximum concentrations provided
+in the dossier?
+
+2.
+
+Does the SCCS have any further scientific concerns with regard to the use of Hexyl
+Salicylate in cosmetic products?
+
+________________________________________________________________________________________
+9
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3. OPINION
+
+3.1
+
+CHEMICAL AND PHYSICAL SPECIFICATIONS
+3.1.1 Chemical identity
+
+3.1.1.1 Primary name and/or INCI name
+Hexyl Salicylate
+3.1.1.2 Chemical names
+IUPAC, EC name: Hexyl Salicylate
+Synonyms: hexyl 2-hydroxybenzoate; salicylic acid hexyl ester; benzoic acid, 2-hydroxy-,nhexyl ester
+3.1.1.3 Trade names and abbreviations
+Benzoic acid, 2-hydroxy-, hexyl ester Hexyl Salicylate, Hexyl ο-hydroxybenzoate, n-Hexyl
+Salicylate
+3.1.1.4 CAS / EC number
+CAS No:
+EC No:
+
+6259-76-3
+228-408-6
+
+3.1.1.5 Structural formula
+The chemical structure of Hexyl Salicylate is shown in Figure 1a. Hexyl Salicylate is an ester
+of salicylic acid (Figure 1b) and 1-hexanol (Figure 1c).
+
+3.1.1.6 Empirical formula
+C₁₃H₁₈O₃
+________________________________________________________________________________________
+10
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3.1.2 Physical form
+At 20°C colourless liquid.
+
+3.1.3 Molecular weight
+222.28 g/mol
+
+3.1.4 Purity, composition and substance codes
+> 99%
+
+3.1.5 Impurities / accompanying contaminants
+/
+3.1.6 Solubility
+2 mg/L in water at 23°C and pH 7
+Registration Dossier - ECHA (europa.eu) consulted 6 September 2023
+
+3.1.7 Partition coefficient (Log Pow)
+5.5 at 30°C and pH 7 (OECD Test Guideline 117)
+3.1.8 Additional physical and chemical specifications
+Density: 1.038 at 20°C g/cm3
+Melting point: -4.15°C (equivalent to 269 ± 0.5 Kelvin at 101.325 kPa (OECD Test Guideline
+102)
+Boiling point: 297.84°C (equivalent to 571 ± 0.5 Kelvin at 100.62 kPa (OECD Test Guideline
+103)
+Vapour Pressure: 7.7 x 10-5 kPa at 23°C
+Flash point: 151°C (EU Method A.9) at 101.1 kPa
+pKa: 8.17±0.30 (Predicted)
+https://www.chemicalbook.com/ProductChemicalPropertiesCB4430407_EN.htm
+Consulted 6 September 2023
+
+3.1.9 Homogeneity and Stability
+According to the Applicant, compound is stable under recommended storage conditions.
+SCCS comment
+According to the Applicant, the information was taken from ECHA website
+(https://echa.europa.eu/fr/registration-dossier/-/registered-dossier/14766/3/1/6) and the
+SCCS has corrected some points accordingly.
+________________________________________________________________________________________
+11
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Information on the analytical methods used for the determination of purity and impurities of
+the test substance should be provided in accordance with the SCCS Notes of Guidance.
+Relevant data should be provided.
+
+3.2
+
+EXPOSURE ASSESSMENT & TOXICOKINETICS
+
+3.2.1
+
+Function and uses
+
+Hexyl Salicylate (CAS 6259-76-3; EC No. 228-408-6) can be synthesised for use in a range
+of manufactured goods including cosmetic products, household cleaning products, detergents
+and air care products (Lapczynski et al. 2007).
+3.2.1.1 Cosmetic uses
+Hexyl Salicylate is used in the formulation of fragrances in cosmetics as it has a sweet, floral
+and fruity odour. Hexyl Salicylate is used globally in a wide range of cosmetics (Lapczynski et
+al., 2007; CIR 2019).
+The EU Cosmetics Regulation (Annex III) does not list Hexyl Salicylate as a restricted
+substance in cosmetics and personal care products.
+EU companies in the Hexyl Salicylate Consortium surveyed the typical use concentrations of
+Hexyl Salicylate in cosmetic products: the maximum use in fine fragrance products was up to
+2%, with up to 0.5% in rinse off products and 0.3% in leave on products. A value of 0.001%
+is nominally applied for prospective use in oral care products, though no current use was
+reported by Consortium members. These % w/w use levels will be applied in the aggregate
+exposure assessment in this cosmetics safety evaluation.
+3.2.1.2 Other uses
+Hexyl Salicylate is also used as a fragrance ingredient in household cleaning products,
+detergents and air care products. A range of non-cosmetic consumer uses are included in the
+EU
+REACH
+dossier
+(https://echa.europa.eu/fr/registration-dossier/-/registereddossier/14766/3/1/6).
+
+3.2.2 Dermal / percutaneous absorption
+3.2.2.1 In vitro animal skin absorption studies
+No data available
+3.2.2.2 In vivo animal skin absorption studies
+No data available
+3.2.2.3 In vitro human skin absorption studies
+An OECD Test Guideline 428 study performed to GLP has been used to investigate absorption
+of Hexyl Salicylate in vitro using human skin as summarised in Table 2.
+
+________________________________________________________________________________________
+12
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 2: Summary of method details from an OECD Guideline 428 in vitro human skin
+absorption study for Hexyl Salicylate
+
+An in vitro human skin absorption study for Hexyl Salicylate (CAS 6259-76-3) was conducted
+following OECD TG 428 guidelines for 24 hours and according to the guidelines expected by
+the SCCS (2021), except that the dose was in contact with the skin surface for 8 hours (as
+might mimic worker exposures) and not 24 hours as requested for the general population.
+Skin membrane integrity was assured by performing a tritiated water test. The results from
+the OECD TG 428 study by Maas (2016) are summarised below in Table 3.
+Table 3: Skin absorption results for Hexyl Salicylate as applied to human skin in vitro: Group
+A = 100% neat liquid; Group B = 20% and Group C = 0.1% in solvent dipropylene glycol.
+RF = receptor fluid.
+
+________________________________________________________________________________________
+13
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Illustrative data from the tape strips from Group B in this experiment are shown in Figure 2.
+
+Figure 2: Distribution of [14C]-Hexyl Salicylate in tape strips at 24 hours (Group B – 20%
+dose).
+As can be seen in Table 3, the majority of the test material is rinsed from the skin surface
+and removed in the first few tape strips at 24 hours. Very low amounts penetrated into
+receptor fluid with the majority of the low-level absorbed dose remaining in the skin. The
+degree of total skin absorption is low for Hexyl Salicylate which is supported by its lipophilic
+nature.
+The mean absorbed dose at 24 hours, as per SCCS Notes of Guidance (2021), which is
+measured as the compound-related radioactivity present in the receptor fluid + receptor
+compartment + epidermis + dermis, was 0.53 ± 0.14% (100% solution), 3.04 ± 1.43% (20
+% solution) and 2.34 ± 0.69% (0.1% solution) of the applied dose, respectively.
+To be conservative, taking the highest of these mean values for Group B, 3.04% plus 1
+standard deviation of 1.43%, this leads to a total measured skin absorption value in this study
+of 4.47%.
+Given that the dose was only on the skin for an 8-hour duration (to mimic worker exposure
+conditions), a correction factor of 3 has been applied to yield a value of 13.4% skin absorption
+to mimic the 24-hour use in a consumer safety assessment. This amount is based on
+measured radioactivity and it was hypothesised that this goes on to be absorbed mainly as
+salicylic acid following first pass skin metabolism by esterases; this was tested in the same
+study as described below.
+3.2.2.4 In vivo human skin absorption
+No data available.
+
+________________________________________________________________________________________
+14
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3.2.3 Other studies on toxicokinetics
+3.2.3.1 Dermal Metabolism data
+From previous reviews on salicylates (CIR, 2019), it is known that n-alkyl salicylates are
+converted by skin esterases and systemically (liver) to salicylic acid as the main metabolite
+with the corresponding alcohol, in this case 1-hexanol. Various salicylates may be converted
+to salicylic acid at different kinetic rates and overall extent by the skin and systemically. The
+amount of systemic salicylic acid produced in the body is a function of both the dermal
+absorption of the salicylate across the stratum corneum and the extent of metabolic
+conversion of the absorbed substance by esterases. Not all salicylates may be substrates for
+the active site of the esterase enzymes. However, this can be tested in vitro.
+In the same study by Maas (2016), dermal metabolism of Hexyl Salicylate was assessed using
+fresh human skin in vitro. Human breast skin was provided by female Donor 1 (n=3) and
+human abdomen skin by female Donor 2 (n=3). Upon arrival at the laboratory, subcutaneous
+fat was removed from the skin. Skin membranes were cut to a target thickness of 0.3-0.4
+mm using a Dermatome (25 mm, Nouvag GmbH, Germany). The thickness of all skin
+membranes was measured with a digimatic micrometer (Mitutoyo Corporation, Japan). For
+logistic reasons, the skin discs were stored overnight, epidermal side up, on a gauze tissue
+slightly wetted with phosphate buffered saline (PBS) at 2-10°C until washing and start of
+exposure the following day. A two-compartment static diffusion cell system was used. 14CHexyl Salicylate was applied for 8 hours at 0.1% in dipropylene glycol. Approximately 15 μL
+of dose solution was applied to each 1.5 cm2 skin sample, approximately 10 μl/cm2. 24 hours
+later receptor fluid was collected as a single sample and skin samples were also stored at 18°C until processing and analysis. Radio high performance liquid chromatography (HPLC)
+was used to characterise and quantify Hexyl Salicylate and salicylic acid.
+Analysis of the low level of radioactive substance that had penetrated into receptor fluid
+showed almost no parent compound (<1%). Salicylic acid was present at >94% in donor 1
+and at >92% in donor 2. Analysis of the skin extracts showed some parent compound present,
+ranging from 5.73% to 10.70% in three replicates obtained from donor 1 and from 19.95%
+to 37.36% in three replicates isolated from donor 2. Salicylic acid was present at >86% in
+donor 1 and at >59.5% in donor 2. Hydrolysis of Hexyl Salicylate to salicylic acid was almost
+complete when applying a dose of 0.1% at 10 μl/cm 2 skin, therefore it will be assumed that
+at the low doses applied to the skin, 100% of the Hexyl Salicylate applied to human skin could
+be converted to salicylic acid via skin esterases within a period of 24 hours.
+Dermal Systemic Availability - Conclusions from the Applicant:
+The following generic statements regarding dermal absorption and metabolism are supported
+by the current body of data:
+• There is good evidence that absorption of parent Hexyl Salicylate is low across human skin.
+• A conservative skin absorption value of 13.4%, using a mean of (3.04% +1SD) x a
+correction factor of 3 to convert 8-hour worker exposure to 24-hour consumer exposure, will
+be taken forward from the OECD guideline 428 study (Maas 2016) for this safety evaluation.
+The plausibility of this skin absorption rate is supported by the good comparability with the
+skin absorption value for benzyl salicylate of 10.5% derived from an OECD Test Guideline 428
+study, both compounds sharing similar LogP and MW.
+• It is expected, also based on the evidence from methyl- and benzyl salicylate, that the
+majority of the substance measured by total radioactivity is in the form of salicylic acid.
+
+________________________________________________________________________________________
+15
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+• It is expected that subsequent phase 2 conjugation leads to effective clearance of salicylic
+acid (SCCS Opinion 2018).
+SCCS comment
+A value of 13.4% (3.04% + 1SD corrected for 24 hours, as described in 3.2.2.3) was
+calculated following a recent in vitro study using human skin that meets the basic criteria for
+skin absorption in SCCS Notes of Guidance (2021). This value will be used for the calculation
+of the MoS.
+3.2.3.2 Oral ADME/kinetic data in animals or humans for salicylates
+Salicylates are known to be well absorbed across the gut (Goodman & Gilman, 2006). There
+are no specific quantitative in vivo studies available on the ADME properties and kinetics of
+Hexyl Salicylate via the oral route in animals and humans, but oral absorption studies
+conducted on a similar analogue methyl salicylate indicate a rapid and nearly complete
+absorption following ingestion. As a result, for the assessment of potential effects of oral
+exposures to the salicylates from their use as cosmetic ingredients, an oral bioavailability of
+100% is assumed (Belsito et al., 2007). This is supported by the 2018 SCCS opinion on
+salicylic acid, where a 100% oral absorption was previously used (SCCS, 2018).
+-
+
+Oral bioavailability
+
+Davison et al. (1961) performed two studies in both rats and dogs for a similar substance,
+methyl salicylate.
+Rat – 300 mg/kg bw (body weight) methyl salicylate in 2 % methylcellulose was administered
+by oral gavage as a single dose, to groups of 10 male Wistar rats (200-350g). Blood samples
+were taken at 20 and 60 min after administration. Plasma and brain tissues were analysed
+for the presence of methyl salicylate and free salicylate. Methyl salicylate was completely
+hydrolysed within 20 min of a single oral dose. After 20 min, 217 and 8 mg/L free salicylate
+were found in the plasma and brain, respectively. After 60 min, these values were 278 and
+42 mg/L, respectively. Methyl salicylate values were negligible.
+Dogs – 300 mg/kg bw methyl salicylate was administered as a capsule in fasting male dogs
+weighing 12-15 kg. Blood was taken from the cephalic vein at 1 h and 4 h intervals, and the
+plasma was analysed. Hydrolysis was ~95% complete at both time points.
+-
+
+Distribution
+
+After absorption, salicylates and salicylic acid are distributed throughout most body tissues
+and most transcellular fluids, primarily by pH dependent passive processes. Salicylates are
+actively transported by a low-capacity, saturable system out of the cerebrospinal fluid (CSF)
+across the choroid plexus. Salicylates readily crosses the placental barrier. The plasma halflife for methyl salicylate is 2 to 3 h in low doses but may be as long as 15 to 30 h at high
+therapeutic doses or when there is intoxication (Gilman et al., 1990) e.g. at high doses in
+animal toxicity studies. The in vitro protein binding of methyl salicylate is assumed to be
+around 86% based on a study in rats where the unbound fraction was found to be 14%
+(Dancik et al., 2011). The plasma protein binding may be a major and important factor
+determining the extent of placental transfer and possibly also the teratogenicity of highly
+protein-bound drugs (Nau, 1986). The protein binding of acetyl salicylic acid is species
+dependent. In rats the protein binding is lower (30%) as compared to monkeys (~70%) and
+hence the placental transfer of free unbound salicylic acid is more from mother to fetus in
+rats as compared to monkeys.
+
+________________________________________________________________________________________
+16
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+-
+
+Excretion
+
+Salicylates are excreted in the urine as free salicylic acid (10%), salicyluric acid (75%),
+salicylic phenolic (10%) and acyl (5%) glucuronides, and gentisic acid (less than 1%).
+However, excretion of free salicylate is extremely variable and depends upon both the dose
+and the urinary pH (Gilman, 1990).
+3.2.3.3 Oral bioavailability of 1-hexanol metabolite
+Upon hydrolysis of Hexyl Salicylate, salicylic acid and 1-hexanol are formed in situ. It is
+expected that the 1-hexanol will be absorbed rapidly across the gut and further metabolised
+in the liver by aldehyde and alcohol dehydrogenase enzymes to the corresponding hexanal
+and hexanoic acid metabolites. Endogenous Phase 2 metabolism in the body via the fatty acid
+pathway and tricarboxylic acid cycle will rapidly degrade 1-hexanol to carbon dioxide and its
+metabolites; excretion will be complete within 24 hours.
+Conclusion on Oral ADME data from the Applicant:
+Hexyl Salicylate, like methyl salicylate and benzyl salicylate, is expected to be rapidly and
+completely absorbed and metabolised, in both gut and liver tissue by first pass metabolism,
+to salicylic acid and 1-hexanol following oral exposure in both rat and humans. With rapid
+hydrolysis in the gut and liver, systemic exposure is primarily to salicylic acid and 1-hexanol,
+which do not accumulate in the body, and are rapidly excreted. This means that any point of
+departure from an oral toxicology study on either Hexyl Salicylate, salicylic acid or 1-hexanol
+can be regarded as a systemic point of departure (PODsys).
+SCCS comment
+Based on the available data indicating rapid and complete absorption, the SCCS considers
+that an absorption value by oral route of 100% can be used in the risk assessment.
+This value is also supported by another study performed with Methyl Salicylate (Yamagata et
+al., 1976). This study is summarised in the Harmonised Classification and Labelling Report on
+Methyl Salicylate. See CLH report template (europa.eu)
+3.2.3.4 Inhalation and absorption through the lung
+There are no data on the extent of Hexyl Salicylate absorption in the lung. Based on the high
+log Po/w and low water solubility it is expected that Hexyl Salicylate will be poorly absorbed
+by the inhalation route. An assumption of 100% absorption is therefore very conservative.
+
+3.2.4 Calculation of SED/LED
+Exposure assessment is, by necessity, an iterative process that begins as simple as possible
+and moves to more complexity, bringing in more data as and when available to refine the
+assessment (Meek et al., 2011). Deterministic additive methods for calculating aggregate
+exposure assume that everybody in the population uses all the products each day, and that
+all of the products contain the chemical of interest at a fixed maximum concentration, which
+is not a realistic scenario but is a simple place to start. This technique is the basis of the
+current SCCS Notes of Guidance (2021) approach to aggregate exposure assessment.
+However, as this approach grossly exaggerates realistic aggregate exposure, a more realistic
+and refined risk assessment should be used for aggregate exposures where data allow and
+there is a need for further refinement. With good data on habits and practices of cosmetic
+product use and distributions of concentration use data in products, a probabilistic approach
+to estimating exposure can be performed and so where data exist, further refinements of the
+________________________________________________________________________________________
+17
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+risk assessment can be performed. A consistent approach to describing a tiered exposure
+assessment for cosmetics safety evaluation was proposed in Alexander-White et al. 2022
+(Figure 3).
+
+Figure 3: A tiered approach to exposure evaluation (Tier 1 deterministic; Tier 2 probabilistic)
+for scenarios as indicated relating to the safety assessment of cosmetic ingredients
+(reproduced from Alexander-White et al. 2022). The values generated as output from the
+different tiers can be used in the safety evaluation. Values can also be taken into PBK
+modelling approaches for further exposure refinement if useful.
+For Hexyl Salicylate, separate exposure assessments are performed in this section for the
+dermal and oral, and inhalation routes. As can be seen, a Tier 1 deterministic approach with
+maximum % use levels yields a favourable outcome and in this case of assessing the
+aggregate exposure to Hexyl Salicylate (and the resulting systemic exposure to salicylic acid)
+further Tier 2 modelling was not necessary to refine exposure. Refinement may be undertaken
+if considering the use of Hexyl Salicylate in the context of combined exposure to salicylic acid
+from multiple sources, but such evaluations are the subject of a separate exercise.
+3.2.4.1 Calculation of Systemic Exposure Dose (SED) - dermal route
+•
+
+In adults
+
+In the SCCS Notes of Guidance 11th revision (Table 5 in the SCCS document of October 2021),
+values are provided for the amount of product exposure an individual consumer could
+________________________________________________________________________________________
+18
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+experience in g product per day, for 17 different cosmetic products, and as calculated in
+mg/kg bw/day (see Table 4).
+To estimate a systemic exposure dose (SED) following dermal exposure, the standard worst
+case deterministic aggregate Tier 1 exposure assessment approach, as per the SCCS 11 th
+revision of the Notes of Guidance, has been performed and is presented in Table 5, with the
+addition of an 18th product type – hydroalcoholic fragrances. In this approach the exposures
+for individual product types are calculated, but also aggregated in a worst-case assumption.
+This exposure scenario assumes 100% occurrence of Hexyl Salicylate at the maximum use
+concentrations in cosmetic products used simultaneously by an individual in a day, which is
+highly unrealistic.
+A conservative value of 13.4% (see section 3.2.2) is used for skin absorption of the dermally
+applied substance from all products, which is likely to be an overestimate.
+Table 4: Calculation of 90th percentile individual and aggregate product exposure for 17
+different types of cosmetic product (reproduced from Table 5 of the SCCS Notes of Guidance
+11th revision, October 2021).
+
+1. The specific body weight of the persons involved in the study is used and not the default value of 60kg
+2. Oral care product categories are not corrected and are presumed here to only represent dermal exposure (mucosa)
+
+−
+
+Deterministic worst-case aggregated exposure assessment for the dermal and oral
+route
+
+________________________________________________________________________________________
+19
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Values for the maximum % level of Hexyl Salicylate that are used in Europe, in each of the
+standard 17 product types plus hydroalcoholic fragrances (non-spray), have been provided in
+a recent analysis of use by the members of the ‘Hexyl Salicylate Consortium’, and are used
+to calculate the total systemic exposure to Hexyl Salicylate (in mg/kg/day) from each product
+(see Table 5).
+Hexyl Salicylate is also used as a fragrance ingredient in hydroalcoholic fragrances and
+therefore, this is added into the calculation as an 18th product type in Table 5. The exposure
+to product (Eproduct) value normalised by weight is calculated by including the respective
+retention factor for each product type (SCCS, 2021).
+A generic maximal (and conservative) value for skin penetration of Hexyl Salicylate of 13.4%
+(see section 3.2.2) has been used for all products in these calculations where dermal
+absorption needs to be factored in to calculate a SED. For lipstick and oral care products, a
+worst-case value of 100% absorption is used for passage across the oral mucosa/incidental
+ingestion. A SED via the dermal route was calculated for each product in mg/kg/day and also
+an aggregate systemic exposure dose for the 18 products (see Table 5).
+As the metabolism data suggests rapid and extensive metabolism to salicylic acid, 100%
+metabolic conversion has been assumed, and after correction for molecular weight, an
+aggregate SED as a salicylic acid equivalent has also been derived (Table 5).
+
+________________________________________________________________________________________
+20
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 5: Deterministic worst case systemic exposure dose (SED) calculation for the dermal
+and oral route using maximum % levels of Hexyl Salicylate and the derivation of salicylic acid
+equivalent SED. (NB. dermal exposure to spray/aerosol products are taken into account in
+section on inhalation below)
+
+1.According to values in Table 5 of the SCCS 2021 Notes of Guidance;
+2. Total external dermal exposure x 13.4% skin absorption to calculate an SED for Hexyl Salicylate parent substance;
+3. 100% oral/mucosal absorption is applied here as a worst case assumption; retention factors have already been
+factored into the Eproduct calculation in Table 5 of the SCCS 2021 Notes of Guidance, and it is assumed all of the
+retained Hexyl Salicylate can enter the systemic circulation via dermal and oral routes.
+4. 1 mole of Hexyl Salicylate (MW = 222 g/mole) is assumed to be 100% metabolised to 1 mole of salicylic acid (MW
+= 138 g/mole), therefore a conversion factor can be applied to account for this, using % metabolised and using
+relative molecular weight conversion this leads to the calculation of salicylic acid equivalents in mg/kg/day.
+(SEDParent x 100% x 138(MW metabolite)/222(MW parent) = SED Metabolite equivalent).
+* Data from Ficheux & Roudot, 2017.
+
+3.2.4.2. Calculation of Systemic Exposure Dose (SED) – inhalation route
+Based on the vapour pressure of Hexyl Salicylate, inhalation exposure through excessive
+volatilisation is not expected. Therefore, the systemic exposure through inhalation will be
+performed for the sprayed fraction of finished products as below.
+SEDinh = (IA1 + IA2) x G x RF x DA/BW
+Where:
+________________________________________________________________________________________
+21
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+SEDinh = Systemic Exposure Dose from the inhalation route (mg/kg/day)
+IA1 = the potential amount inhaled during the first 2 min (in mg)
+IA1 (EA/V1*BR*t1)
+IA2 = the potential amount inhaled during the subsequent 10-20 min (in mg)
+IA2 (EA/V2*BR*t2)
+EA = potential amount to be inhaled
+EA = (A*C*P*AF)/100
+A = Amount of product by application (mg/application) (user defined or default SCCS, 2021)*
+C = Percentage concentration of ingredient in product (%) (user defined)*
+P = Proportion of non-propellant in formulation (no units) (user defined)* or default 60%
+(propellant, 100% pump spray) (Bremmer/RIVM, 2006)
+AF = airborne fraction (no units); 1 (propellant spray); 0.2 (pump spray) (Bremmer/RIVM
+2006)
+V1 = First step: near-field, 1m3 (SCCS, 2021)
+V2 = Second step: far-field, 10m3 (SCCS, 2021)
+BR = breathing rate, 13 L/min (SCCS, 2021; US EPA, 2011)**
+t1 = 2 minutes in near field (SCCS, 2021; Rothe et al., 2011)
+t2 = 10-20 minutes in far field (SCCS, 2021; Rothe et al., 2011)
+G = default factor substance lung retention 0.75 (25% is exhaled) (Rothe et al., 2011; SCCS,
+2021)
+RF = respirable fraction: propellant & pump spray specific (user defined experimental value*)
+DA = Daily frequency of application (user defined* or SCCS, 2021)
+BW = body weight = adult 60 kg (SCCS, 2021)
+*Product-dependent parameter value
+** highest median among several adult age categories
+A systemic exposure dose from the potential for inhalation (SED inh) from spray products can
+be calculated by assuming instant release of the ingredient in a defined box (1-Box model) or
+by applying a 2-Box model based on principles in Rothe et al. (2011). In Section 3-3.5.4.1
+and Appendix 11 of the 11th Notes of Guidance (2021), a deterministic approach for 2-box
+modelling was presented for propellant and pump spray products according to the generic
+equations and associated parameters in the box above.
+Calculation of SEDinh for Hexyl Salicylate in four main spray products (hydroalcoholic fragrance
+spray, deodorant/antiperspirant spray, hair spray and body lotion spray) are presented in
+Table 6, 7, 8 and 9, respectively.
+
+________________________________________________________________________________________
+22
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 6: Deterministic systemic exposure dose after inhalation exposure (SED inh) to 2% Hexyl
+Salicylate in a hydroalcoholic fragrance spray formulation
+
+*Based on the daily amount used reported by Ficheux & Roudot (2017) and corrected by the frequency of use.
+#Bremmer/RIVM 2006. $Table 4 of the 11th SCCS NoG (2021).
+** Delmaar and Bremmer, 2009 (1% for hydroalcoholic fragrances)
+
+SCCS comment
+The amount of 280 mg/application refers to the arithmetic mean for the use amounts.
+Therefore, the SCCS has recalculated the presented exposure with the P95 of 618
+mg/application This results in an exposure of 0.015 µg/kg/d to hydroalcoholic fragrance
+spray.
+
+________________________________________________________________________________________
+23
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 7: Deterministic systemic exposure dose after inhalation exposure (SEDinh) to 0.3%
+Hexyl Salicylate in a deodorant/antiperspirant spray formulation
+
+*Based on daily amount used reported by Hall et al. (2007) and corrected by the frequency of use. #Bremmer/RIVM
+2006.
+**From Table 2 in Steiling et al. 2012 based on 11.4% deposited. Table 4 of the 11th SCCS NoG (2021). 20% for
+aerosolised deodorants (Delmaar & Bremmer, 2009).
+
+SCCS comment
+To be consistent with the other Tables, it would be better to express the SEDinh in µg/kg/day.
+The value of 0.886 for the airborne fraction is based on an experiment (Steiling et al., 2014)
+that derives a worst case of 11.4% product available for dermal exposure. This is therefore
+not a worst case for inhalation exposure, and in the absence of other data, 100% of the
+applied amount should be assumed to be available for inhalation. In addition, the amount of
+application taken by the Applicant was derived by Hall et al. (2007) for product under arms
+use. For its calculations, the SCCS has used instead the P95 value for underarms and torso
+use (7839/day, fig 4 from Hall et al., 2007). With this consideration, the resulting exposure
+is 8.25 (5.12 eq SA) instead of 1.13 µg/kg/d.
+
+________________________________________________________________________________________
+24
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 8: Deterministic systemic exposure dose after inhalation exposure (SED inh) to 0.3%
+Hexyl Salicylate in hair spray formulations
+
+* Based on daily amount used reported by Steiling et al. (2014) and corrected by the frequency of use;
+**Loretz et al. 2006. #Bremmer/RIVM 2006. $Table 4 of the 11th SCCS NoG (2021). 1% for pump hairspray and
+10% for aerosol hairspray (Delmaar & Bremmer, 2009).
+
+SCCS comment
+The use amount derived from Steiling et al., 2014 goes back to Bremmer et al., 2006, and is
+a P75. Therefore, for propellant spray SCCS has used the P95 (9890 mg/day) of Loretz et al.,
+2006 for daily use combined with a frequency of 1, which is more conservative than the P90
+derived for French citizens (4900 mg/application). Both values do not represent the European
+population but are the best proxies available. This results in an exposure value of 2.30 (1.43
+eq SA) µg/kg/d for propellant spray. The amount for pump spray used by the Applicant
+is close to a P50 derived from Loretz et al., 2006 (3740 mg/day). The SCCS has therefore
+used the P95 from Loretz et al., 2006 for daily use (15620 mg/day) in combination with a
+frequency of 1. This results in an exposure value of 0.061 µg/kg/d for pump spray.
+________________________________________________________________________________________
+25
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 9: Systemic exposure dose (SED) after inhalation exposure to 0.3% Hexyl Salicylate
+in a body lotion spray formulation
+
+*Based on daily amount of SCCS (Notes of Guidance 11th, 2021) and corrected by the frequency of use. Propellant
+spray adjusted to yield the same ‘on body’ amount of 3430 mg/application.
+#Bremmer/RIVM 2006. αAssumed similar to sunscreen lotion products (SCCS 2021). Table 4 of the 11 th SCCS NoG
+(SCCS/1628/2021).
+
+SCCS comment
+The SCCS agrees with the Applicant’s calculation of systemic exposure dose from the use of
+Hexyl Salicylate in sprayable body lotion.
+
+________________________________________________________________________________________
+26
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Overall Exposure Assessment Conclusion from the Applicant:
+A deterministic worst-case systemic exposure dose (SED) estimate from aggregated dermal
+exposure modelling of Hexyl Salicylate in cosmetic products is 0.112 mg/kg/day (see table
+5). Assuming this is converted 100% to salicylic acid (SA), 1 mole of Hexyl Salicylate (MW =
+222 g/mole) is assumed to be metabolised to 1 mole of salicylic acid (MW = 138 g/mole),
+therefore a conversion factor can be applied to account for this using relative molecular weight
+conversion, leading to the calculation of salicylic acid equivalents in mg/kg/day: SED Hexyl
+Salicylate x 100% metabolism x 138 (MW salicylic acid)/222(MW Hexyl Salicylate) = SED
+salicylic acid equivalent). The SA equivalent systemic exposure dose is 0.069 mg SA/kg/day.
+This value will be taken forward into the safety evaluation and compared with the POD for
+salicylic acid.
+It is not necessary to add the dermal aggregate outcome for Total SED to the SED values
+from inhaled spray products, as on any one day, only one (spray or non-spray versions) of
+the type of products in Table 5 will be used, not both simultaneously. Typically, the non-spray
+version of a product leads to the higher dermal SED and secondary incidental inhalation
+exposure is often much lower than dermal exposure.
+SCCS comment
+SCCS agrees that, for most of the products, except deodorant and hair styling products, the
+non-spray products lead to an equivalent or much higher systemic exposure when compared
+to the spray products. Therefore, for these dermally applied products, the non-spray products
+will be considered in the MoS calculation.
+For deodorant, dermal exposure (using the same application amount and frequency as for the
+inhalation exposure calculation) is 12.3 µg/kg bw/d and aggregate (inhalation + dermal) is
+20.59 µg/kg bw/d, which is equivalent to 12.80 µg/kg bw/d SA.
+For hairspray (propellant formulation), Dermal exposure to hair spray (using the same
+application amount and frequency as for the inhalation exposure calculation) is then 6.6 µg/kg
+bw/d and aggregate (inhalation + dermal) is 8.94 µg/kg bw/d, which is equivalent to 5.56
+µg/kg bw/d SA.
+
+3.2.4.3
+
+Exposure of children <3 years to Hexyl Salicylate in cosmetics products
+
+Taken from the Applicant:
+Due to the restriction of salicylic acid-containing cosmetic products for children below the age
+of 3 years a specific risk assessment is presented here for the use of 0.1% use of Hexyl
+Salicylate in cosmetic products for infants and children at the age of 0-3 years.
+The exposure assessment is derived from data in 0-3 years old European infants and children
+from the recent Cosmetics Europe study in European Infants & Children (0–3 years old),
+Creme Report, 14t October 2022. Based on this, the following SED for the aggregate exposure
+to all products (including toothpaste) for the age group 0-3 years is calculated:
+
+________________________________________________________________________________________
+27
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 10: Calculated SED for the aggregate exposure to all products (including
+toothpaste) for the age group 0-3 years:
+
+* Baby oil, baby ointment/nappy cream/liniment, baby wind and weather cream/cold cream, baby wipes, bath
+product (added to bath water), body cream, conditioner, eau de toilette/parfum, face cream/lotion, facial cleansing
+wipes, hand cream, hand sanitiser, liquid hand wash product/liquid soap, shampoo, shower gel/body wash,
+sunscreen, toothpaste. **Despite the listed maximum use concentration of 0.1% in this table, for toothpaste the
+defended max use concentration is 0.001%.
+
+SCCS comment
+The Applicant did not provide any specific scenarios for children applying cosmetic products
+on their skin (dermal exposure) and did not took the differences between age categories in
+some exposure parameters (body weight, amount of the products applied, body surface, etc)
+into consideration. As the concern for this Opinion is on ED, which may lead to some specific
+effects in vulnerable populations, such as children, specific exposure calculations for children
+(between 3 to 10 years old) would have been needed. Table A.7.2 in the SCCS Notes of
+Guidance (SCCS/1644/22) provides examples of the different cosmetic product categories
+that are generally used for children of different ages.
+
+3.3
+
+TOXICOLOGICAL EVALUATION
+
+3.3.1. Irritation and corrosivity
+
+3.3.1.1 Skin irritation
+•
+
+Animal data
+
+A summary of the available skin irritation data in animal models is provided in Table 11 below.
+
+________________________________________________________________________________________
+28
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 11: Skin irritation studies in animals for Hexyl Salicylate
+
+Moderate skin irritation was reported in an OECD Guideline 404 study available in the ECHA
+registration dossier (RIFM, 1986). In this study, female rabbits were exposed to 50% and
+100% Hexyl Salicylate in DEP for 4 hours under semi-occlusive conditions. At 50% Hexyl
+Salicylate, the mean erythema and oedema scores were respectively 2.0 and 1.4. The
+observed effects were fully reversible within 7 days. For the undiluted substance, the mean
+scores for erythema and oedema over the 24-72 hour period were respectively 2.0 and 2.16.
+In this case, it was reported that one rabbit showed remaining erythema and oedema after 7
+days. Nevertheless, these effects concerned only one animal and no information was available
+for 14 days, which is the normal observation period recommended by OECD Guideline 404.
+Overall, the results of the study could not trigger a classification for skin irritation according
+to the CLP criteria.
+Pivotal animal irritation study: Mild to moderate irritation can occur, but Hexyl Salicylate is
+not a classifiable irritant.
+•
+
+Human data
+
+A range of skin irritation tests in humans are presented in Table 12.
+
+________________________________________________________________________________________
+29
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 12: Skin irritation studies with Hexyl Salicylate in humans
+
+In a 24-h patch test involving 56 subjects, Hexyl Salicylate was evaluated for skin irritation
+potential at concentrations of 0.3%, 3%, or 30% in 3:1 diethyl phthalate: ethanol. Results
+indicated Hexyl Salicylate was not an irritant of concern.
+Skin Irritation & Corrosivity Conclusion from the Applicant:
+Overall, Hexyl Salicylate shows some irritant reactions in animal models at concentrations of
+25% and above and very low skin reactions in one human study at 30%, but it is not
+considered to be an irritant of concern at the concentrations used in cosmetic products.
+
+3.3.1.2 Mucous membrane irritation / eye irritation
+•
+
+In vitro data
+No data
+
+•
+
+In vivo data
+
+An in vivo rabbit eye irritation study is reported in the ECHA REACH dossier (Schreiter U,
+2000; https://echa.europa.eu/fr/registration-dossier/-/registered-dossier/14766/7/4/3 ),
+which is an OECD Guideline 405/EU Method B.5 GLP compliant study. Hexyl Salicylate was
+applied undiluted to the eyes of 4 female SPF albino rabbits in a volume of 0.1ml. Slight to
+well-defined signs of irritation were observed in the treated eyes at the 1, 24 and 48 hour
+examination time-points. However, all effects were fully reversible and no signs of irritation
+were observed after 72 hours. Under the conditions of this study, Hexyl Salicylate does not
+induce irritation of the eyes following its application. Based on these results, it does not need
+to be classified according to Regulation EC No. 1272/2008.
+Eye Irritation Conclusion from the Applicant:
+Undiluted Hexyl Salicylate is not an eye irritant in vivo and there is no risk of eye damage at
+the maximum concentrations of Hexyl Salicylate used in cosmetic products.
+
+________________________________________________________________________________________
+30
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3.3.2 Skin sensitisation
+From the Applicant:
+Data for assessing the skin sensitisation endpoint are available for Hexyl Salicylate from new
+approach method (NAM) assays, animal models (LLNA and GPMT assays) and human studies.
+For the purposes of cosmetics safety evaluation, in this dossier we present the body of
+evidence for evaluation in the context of risk assessment (see Table 13).
+Table 13: A summary of skin sensitisation data available for Hexyl Salicylate: negative =
+non-sensitising.
+
+________________________________________________________________________________________
+31
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+________________________________________________________________________________________
+32
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+In silico, mechanistic and in vitro skin sensitisation (new approach method, NAM)
+data
+From the chemical structure of Hexyl Salicylate (see Figure 1a), it does not contain any
+electrophilic protein reactive groups and mechanistically, from its parent structure, as
+predicted in the OECD Toolbox v4.2, it is not expected to be a skin sensitiser.
+As per the skin sensitisation adverse outcome pathway (OECD, 2014), the in vitro direct
+peptide reactivity assay (DPRA), Keratinosens and the h-CLAT/U-Sens tests represent key
+events 1, 2 and 3, respectively. The results were evaluated following the OECD Guideline No.
+497: Defined Approaches on Skin Sensitisation (OECD, 2021). Based on the two out of three
+‘Defined Approach’, Hexyl Salicylate is predicted in vitro to be a non-sensitiser (see Table 13).
+Animal skin sensitisation study data
+Local Lymph Node Assay: An OECD Guideline 429 murine (n=4 female CBA mice) LLNA
+was performed on Hexyl Salicylate (using the vehicle 1:3 ethanol: diethylphthalate) to GLP
+(Betts, 2006). A very low EC3 (0.18%; EC3 = effective concentration that induces a 3-fold
+increase in local lymph node proliferative activity) was reported, indicating Hexyl Salicylate
+to be a classifiable sensitiser in this assay. This is a surprising result for Hexyl Salicylate that
+requires mechanistic interrogation. It is unlikely that an impurity has caused this strong
+reaction, as Hexyl Salicylate had an analytical purity of 98.5%. The detailed results of this
+________________________________________________________________________________________
+33
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+LLNA show that the increase in stimulation index is not always dose-dependent which may
+indicate that an additional mechanism may be involved. It is known (Maas 2016) that a
+metabolite (1-hexanol) can be formed in situ in the skin via the action of esterases, and the
+alcohol could go on to be oxidised further to 1-hexanal quite rapidly by skin alcohol
+dehydrogenase enzymes. If the test substance was applied to the mouse ear and 1-hexanal
+was formed but not effectively cleared, 1-hexanal could be the sensitising metabolite in this
+assay. Another explanation proposed was that irritation, being a confounding factor in the
+LLNA, may have led to false positive responses (Kolle et al., 2019). However, overall, there
+is no apparent chemical or biological reason for the positive response.
+Guinea-pig Maximisation Test: A Magnusson-Kligman Guinea-Pig Maximisation Test
+(GPMT) according to OECD Guideline 406 was performed using a group of 10 albino Dunkin
+Hartley guinea pigs weighing 440-554g. Induction consisted of intradermal injection followed
+one week later by a 48h occluded patch. The six intradermal injections were made to a 2.4
+cm clipped, shaved area in the dorsal shoulder region. There were two 0.1 ml injections of
+1% Hexyl Salicylate in 0.01% DOBS/saline, two 0.1 ml injections of 1% Hexyl Salicylate in
+50% Complete Freund’s Adjuvant, and two 0.1 ml injections of 50% Complete Freund’s
+Adjuvant. Seven days later, the site was clipped and shaved, and induction was supplemented
+topically with a 48h occluded patch with 40% Hexyl Salicylate in acetone over the shoulder
+injection sites. Thirteen to fourteen days after application of the shoulder patch, the guinea
+pigs were challenged on the clipped and shaved flank using an 8 mm diameter filter paper
+patch saturated with 10% Hexyl Salicylate in acetone which was applied for 24 h under
+occlusion. Reactions were assessed at 24 and 48 h after patch removal. Three additional
+challenge applications with 10% Hexyl Salicylate in acetone were made at weekly intervals
+on the contralateral flanks. No sensitisation reactions were observed under the conditions of
+this study (RIFM, 1981).
+Guinea-pig modified Draize test: Hexyl Salicylate was tested in guinea pigs using a
+modified Draize sensitisation study procedure in n=10 inbred Hartley albino guinea pigs
+initially weighing approximately 350 g each. Four intradermal injections were administered
+with 0.1 ml of Hexyl Salicylate at 2.5 times the ICC (Injection Challenge Concentration =
+0.1%) at four sites overlying the two axillary and the two inguinal lymph nodes. Fourteen
+days later the animals were challenged with an intradermal injection in one flank and a topical
+application in the other flank using 0.1 ml Hexyl Salicylate at 0.1% (ICC) and 5% (ACC),
+respectively. A second challenge was conducted 7 days later. Sensitisation reactions were
+observed after the second challenge (Sharp, 1978).
+Sensitisation was also assessed during a photoallergy test using groups of five
+Crl:IAF(HA)-hrBR outbred albino hairless guinea pigs. Topical induction was performed using
+a 0.3 ml dose of 100% Hexyl Salicylate. Doses were applied on days 3, 5, 8, 10 and 12 of the
+induction phase. On day 22, topical challenge was performed with 50% Hexyl Salicylate in
+3:1 diethyl phthalate (DEP): ethanol and 100% Hexyl Salicylate. Test sites were observed at
+1 and 4 hours, and days 1, 2 and 3. No sensitisation was observed (RIFM, 2003).
+Human data
+Diagnostic patch test studies: In a multicenter study, 218 fragrance sensitive patients with
+proven contact dermatitis were patch tested with various fragrance materials according to
+internationally accepted criteria. No reactions were observed with 5% Hexyl Salicylate in
+petrolatum (Larsen et al., 2002).
+Human Maximisation Test (HMT): A human maximisation test according to the method of
+Magnusson and Kligman (1969) was carried out with 3% Hexyl Salicylate in petrolatum on
+22 adult volunteers. Application was under occlusion to the same site on the volar forearms
+or backs for five alternate-day 48-h periods. Patch test sites were pre-treated for 24 h with
+5% aqueous sodium lauryl sulphate under occlusion. Following a 10-day rest period, a
+________________________________________________________________________________________
+34
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+challenge patch was applied to a fresh site for 48 h under occlusion. The challenge sites were
+pre-treated for 30 min with 2% aqueous SLS under occlusion on the left side of the back
+whereas Hexyl Salicylate was applied without SLS on the right side. Reactions to challenge
+were read at patch removal and 24 h after patch removal. No reactions were produced (RIFM
+(Epstein), 1975).
+Human Repeat Insult Patch Test (HRIPT): A repeated insult patch test was conducted in 103
+subjects (29 males and 74 females) to provide confirmatory evidence that Hexyl Salicylate is
+not a skin sensitiser in humans. During the induction phase a 0.3 ml aliquot of 30% Hexyl
+Salicylate in 3:1 DEP:EtOH was applied to Webril/adhesive patches (25 mm Hilltop_ Chamber
+System) on the left side of the back of each subject. This represented a dose of 35,433
+μg/cm2. Patches remained in place and were kept dry for approximately 24 h and then
+removed. A series of nine induction applications were completed over a period of three weeks.
+A rest period of approximately 2 weeks followed the last induction. At the challenge phase,
+patches were applied as in the induction phase and kept in place for 24 h, after which time
+they were removed and the challenge sites were scored. The test sites were also scored at
+48, 72 and 96 h post-patching. No sensitisation reactions were observed (RIFM (Harrison),
+2004). The HRIPT NOEL was therefore 35,433 μg/cm 2.
+Hexyl Salicylate has been classified as a Category 4 substance (infrequent cause of contact
+allergy in relation to level of exposure) with regard to its human skin sensitisation potential
+(Basketter et al., 2014). This classification by authors of the study is based on an analysis of
+human data adapted from a number of published references. Substances in Category 4 are
+rarely important clinical allergens, because they require considerable/prolonged exposure to
+higher dose levels to produce sensitisation, which even then is unlikely to exceed 0.01% of
+the exposed population.
+Conclusion from the Applicant:
+The skin sensitisation potential of Hexyl Salicylate has been investigated extensively. All
+studies in humans, which carry the greatest weight, have been consistently negative
+indicating that Hexyl Salicylate is a rare sensitiser in humans, if any. NAM in silico and in vitro
+data also support this conclusion. Two rodent assays show anomalous results for Hexyl
+Salicylate, indicating that rodent ADME or mechanisms of action may be different to humans.
+Taken from the RAC opinion
+Conclusion:
+With EC3 values =< 2% in the LLNA, Hexyl Salicylate fulfils criteria for classification Skin
+Sens. 1A according to the CLP guidance. Regarding human data, the HRIPT cannot be used
+for the purpose of classification due to its low reliability. Nevertheless, the maximisation assay
+and both diagnostic studies were negative and were considered reliable.
+There are several possible reasons for the absence of sensitising reactions in these studies:
+−
+
+The patch test for Hexyl Salicylate is not marketed. In fact, 46 fragrances are marketed
+by Chemotechnique for patch testing, but Hexyl Salicylate is not part of the list. Hexyl
+Salicylate was therefore only tested for prospecting purposes. This could explain why only
+2 diagnostic studies with different concentrations of this substance have been published.
+− Hexyl Salicylate is not included in the list of 26 sensitising fragrances for humans that
+require labelling. Therefore, it would be difficult to determine whether Hexyl Salicylate is
+responsible for contact dermatitis following exposure to a fragrance.
+− Although this substance is widely used in perfumes, the concentrations used are low. In
+leave-on products for face and body, the concentrations are between 0.02 and 0.03 %
+and between 0.08 and 0.12 %, respectively. The highest concentrations are used in rinse________________________________________________________________________________________
+35
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+off products, reaching 0.52 % in soaps and cleansers (Cosmetic Ingredient Review on
+salicylic acid and salicylates (2018)). These concentrations are below the concentration
+limits recommended by the International Fragrance Association (IFRA).
+Therefore, the absence of sensitising reactions observed in humans could be due to primary
+prevention related to these concentration limits, more than the absence of sensitising
+properties.
+Due to the significant discrepancies between positive animal data and negative human
+studies, sub-categorisation does not seem appropriate according to the CLP-guidance.
+With the positive results of the LLNA of good quality, Category 1A would be justified. However,
+since data are not sufficient for sub-categorisation, RAC agrees with the DS that Hexyl
+Salicylate should be classified Skin Sens. 1 – H317.
+SCCS comment
+The SCCS agrees with the Applicant and the RAC opinion that the available human, animal
+and NAM data are contradictory. In a well-conducted LLNA, Hexyl Salicylate was positive at a
+relatively low concentration, whereas the GPMT was negative. In silico data showed no protein
+binding alerts, which was confirmed in the DPRA. In addition, the Keratinosens was negative,
+whereas the h-CLAT and U-SENS were positive. If for example the 2o3 DA (two out of three
+defined approach) was performed, according to OECD Guideline 497, Hexyl Salicylate would
+have been considered as a non-sensitiser. Human evidence is limited, but the data available
+is all negative. This was observed already in an earlier SCCS Opinion on fragrance allergens
+(SCCS/1459/11) and no new evidence indicating that Hexyl Salicylate is a relevant skin
+sensitiser in humans has emerged in literature.
+Taking all the evidence together, the SCCS concludes that although Hexyl Salicylate is
+classified as a skin sensitiser, based on clinical evidence, the risk of skin sensitisation in
+humans from the use in cosmetic products can be considered negligible.
+
+3.3.3 Acute toxicity
+3.3.3.1 Acute oral toxicity
+There is one study in animals (RIFM 1975; Lapczynski et al., 2007) covering the acute oral
+toxicity of Hexyl Salicylate as summarised in Table 14.
+Table 14: Acute oral toxicity studies for Hexyl Salicylate
+
+The animals in this study were observed daily for a period of 14 days for any signs of systemic
+toxicity.
+3.3.3.2 Acute dermal toxicity
+There is one study in animals (RIFM 1975; Lapczynski et al., 2007) covering the acute dermal
+toxicity of Hexyl Salicylate as summarised in Table 15.
+
+________________________________________________________________________________________
+36
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Table 15: Acute dermal toxicity study for Hexyl Salicylate
+
+The animals in this study were observed daily for a period of 14 days for any signs of systemic
+toxicity.
+3.3.3.3 Acute inhalation toxicity
+There are no acute inhalation toxicity data available in animals for Hexyl Salicylate. The use
+of Hexyl Salicylate in consumer products for decades has revealed no adverse effects in the
+lung. Hexyl Salicylate is not irritating to the skin and eye at the concentrations used in
+cosmetic products and therefore, is not expected to be irritating or toxic to respiratory tract
+and lung at the concentrations used in cosmetic products.
+
+3.3.3.4 Acute subcutaneous toxicity
+/
+
+3.3.3.5 Acute intraperitoneal toxicity
+/
+Acute Toxicity Conclusion from the Applicant:
+Hexyl Salicylate is not acutely toxic via any route of exposure.
+
+3.3.4 Repeated dose toxicity
+No repeat dose toxicity data are available on Hexyl Salicylate. Given that Hexyl Salicylate
+itself is not regarded as the main toxicant, but rather salicylic acid as the chief hydrolysis
+product, for the purposes of performing a cosmetics safety assessment, this section discusses
+the available repeat dose toxicity data and conclusions for the primary Hexyl Salicylate
+metabolites salicylic acid and 1-hexanol (Belsito et al., 2007). All data for salicylic acid were
+recently reviewed by the SCCS in its recent opinion (SCCS, 2018).
+SCCS comment
+As the SCCS recently published a new Opinion on salicylic acid, data on this metabolite are
+not reported in this Opinion. Only data provided by the Applicant on 1-Hexanol are reported
+in this Opinion.
+
+________________________________________________________________________________________
+37
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3.3.4.1 Repeated dose sub-acute and sub-chronic oral / dermal / inhalation toxicity
+1-Hexanol
+•
+
+Oral route
+
+As summarised in the ECHA REACH dossier for 1-hexanol, a 13-week dietary study in rats
+using hexan-1-ol reported a No Observed Adverse Effect Level (NOAEL) of 1127 mg/kg (study
+reported as by Scientific Associates Inc., 1966). No adverse effects were noted at any of the
+dose levels administered during the study. The results of this key study are supported by the
+reliable (Klimisch score 2) 3-week feeding study in rats which reported a NOAEL of
+approximately 1000 mg/kg bw/day (Moody and Reddy, 1978, 1982). In addition, a 13-week
+study in dogs reported a NOAEL for 370 mg/kg bw/day for male dogs and 435 mg/kg bw/day
+for female dogs (study reported as by Scientific Associates, 1966). Although this study had
+some methodology discrepancies, it is still considered to be reliable (Klimisch score 2).
+•
+
+Dermal route
+
+No data reported on 1-hexanol
+•
+
+Inhalation
+
+There are no data for Hexyl Salicylate that were generated before March 2013. Reference to
+the similar ingredient methyl salicylate is provided below.
+Methyl salicylate
+Gage (1970) reported a study on methyl salicylate in rats (n=4; average weight 200g) where
+20 x 7 h exposures were administered at 120ppm in a saturated atmosphere of 700 mg/m 3.
+The atmospheres were dynamic and passed through the exposure chamber. Haematological
+parameters were measured and the following organs were taken for microscopical
+examination after fixation in formol-corrosive: lungs, liver, kidneys, spleen, and adrenals;
+and occasionally heart, jejunum, ileum, and thymus. No toxicity was reported and all organs
+appeared normal at necropsy. This provides evidence for a NOEC for methyl salicylate of 700
+mg/m3.
+3.3.4.3 Chronic (> 12 months) toxicity
+/
+Conclusions from the Applicant on repeat dose toxicity studies:
+As there are no pre-2013 repeat dose data on Hexyl Salicylate, evidence that can be used to
+perform a cosmetics safety assessment has long been provided from data on its main
+metabolites, salicylic acid and 1-hexanol, to which the body may be systemically exposed.
+No significant concerns are presented for salicylic acid in terms of repeat dose endpoints as
+summarised by the SCCS conclusion below. Similarly, there are no safety concerns regarding
+the generation of a 1-hexanol metabolite.
+SCCS comment
+SCCS noticed there are no repeated dose toxicity studies available on Hexyl Salicylate and
+will therefore rely on its main metabolite salicylic acid for the safety assessment.
+________________________________________________________________________________________
+38
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+During the consultation, SCCS has been informed that, in the context of REACH Regulation,
+a decision on testing proposals (TPE) is ongoing for hexyl salicylate. The deadline for
+submission is 23 February 2026.
+A. Information required from the registrants subject to Annex IX of Reach:
+- Subchronic toxicity study (90-day)(Annex IX, Section 8.6.2.; test method: EU
+B.26./OECD TG 408) by oral route, in rats with an additional reproductive toxicity
+cohort of females included to cover the endpoints of a reproduction/developmental
+screening test (according to OECD TG 421)
+An update of this opinion may be needed when this study will be available, depending on the
+results.
+Ref. https://echa.europa.eu/documents/10162/7dd23fc0-a3e3-910b-55f3-4c17bc72030c
+3.3.5 Reproductive toxicity
+No reproductive/developmental toxicity data are available on Hexyl Salicylate. The proposal
+for classification is based upon read across to salicylic acid and methyl salicylate data, and
+the assumption that Hexyl Salicylate is metabolised to the same common metabolite, salicylic
+acid.
+Given that Hexyl Salicylate itself is not regarded as the main toxicant, but rather salicylic acid
+as the chief hydrolysis product, for the purposes of performing a cosmetics safety assessment,
+this section also discusses the available reproductive/developmental toxicity data and
+conclusions for the primary metabolite salicylic acid and 1-hexanol to which the body may be
+principally exposed.
+SCCS comment
+As the SCCS recently published a new Opinion on salicylic acid, data on this metabolite are
+not reported in this Opinion. Only data provided by the Applicant on other analogues are
+reported in this Opinion.
+
+3.3.5.1 Reproductive and Developmental – oral
+As the main premise for the safety evaluation (given there are no repeat dose toxicology data
+for Hexyl Salicylate) is a confident analogue read across using data on the metabolite salicylic
+acid, it is not necessary to rely on safety data for other structural analogues in this dossier.
+However, for awareness and completeness, there is evidence on other simple alkyl salicylates
+that can add to the confidence of the outcome from the safety evaluation performed in this
+dossier.
+Cyclohexyl Salicylate
+An OECD Guideline 415 one-generation reproduction toxicity study was performed to GLP in
+Wistar rats treated orally with Hexyl Salicylate (Schmidt, 1995). Dose levels were 60, 180
+and 540 mg/kg bw/day in corn oil. Some general toxicity effects were seen in the F0
+generation at the top dose, and a NOAEL could be determined at 180 mg/kg bw/day; this
+dose had no effects on reproduction. In males a NOAEL was defined as 540 mg/kg bw/day.
+With the F1-generation, a NOAEL of 180 mg/kg bw/day as effects on litter responses, survival,
+growth and behaviour were seen at the top dose.
+An embryotoxicity study (including teratogenicity) was performed to GLP (Pitterman, 1996).
+Dose levels were 0, 40, 120 and 360 mg/kg bw/day, dosed daily in arachidis oil from day 6
+________________________________________________________________________________________
+39
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+to 15 of gestation. A standard dose volume of 5ml/kg bw was used. Each group was n=24
+female rats. There were no effects of treatment seen in dams and there were no embryotoxic
+or teratogenic effects seen up to 360 mg/kg/day.
+SCCS comments
+Full reports of these 2 studies on cyclohexyl salicylate have not been provided to the SCCS
+and only limited information is available on the ECHA website.
+Methyl salicylate
+An SCCS Opinion was published for methyl salicylate in 2021 (SCCS, 2021). The pivotal study
+that can be used to derive a point of departure (POD) for reproductive and development
+toxicity is that from a 3-generation study by Collins et al. (1971), where the derived POD is
+75 mg/kg bw/day. This provides further assurance that the POD derived from salicylic acid
+data is relevant to use in this safety evaluation, also for Hexyl Salicylate.
+3.3.5.2 Reproductive and Developmental – dermal
+/
+Conclusions from the Applicant on reproduction and developmental toxicology
+studies:
+Salicylates do not affect fertility or reproduction. As there are no specific reproductive and
+developmental data on Hexyl Salicylate from before March 2013, evidence is provided for
+cosmetics safety assessment from data on its main metabolites, salicylic acid and 1-hexanol,
+to which the body may be principally exposed. Since 1-hexanol is not classified for
+reproductive toxicity, the focus is on the more relevant metabolite salicylic acid data.
+SCCS comments
+The SCCS agrees that salicylic acid is a developmental toxicant. Harmonised classification of
+salicylic acid was recently published in Regulation 2018/1480 and is classified as Repr. 2
+(H361d Suspected of damaging the unborn child). For MoS calculation, SCCS uses the
+developmental NOAEL of 0.1% (75 mg/kg bw/day) derived from Tanaka et al. (1973a). The
+developmental effects observed in this study are the most sensitive effects after repeated
+exposure to salicylic acid. This is also in agreement with the previous SCCNFP Opinion (2002)
+and is also supported by Tanaka et al. (1973b).’
+In addition, due to the evidence for high (100%) oral bioavailability in humans, the oral NOAEL
+of 75 mg/kg bw/day is defined as systemic NOAEL (NOAELsys) by SCCS for salicylic acid.
+This POD for salicylic acid can act as a conservative surrogate POD for Hexyl Salicylate. On a
+molar basis, 1 mole of Hexyl Salicylate is converted to 1 mole of salicylic acid. An assumption
+is made that 100% of Hexyl Salicylate is metabolised to salicylic acid and 1-hexanol, and
+salicylic acid is the driver of any observed Hexyl Salicylate toxicity. The salicylic acid NOAELsys
+= 75 mg/kg bw/day. A salicylic acid equivalent SED can be calculated and compared with this
+POD as per Table 16.
+During the consultation, the SCCS was informed that in the context of REACH Regulation, a
+decision on testing proposals (TPE) is ongoing for hexyl salicylate. The deadline for submission
+is 23 February 2026.
+
+________________________________________________________________________________________
+40
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+A.
+Information required from the registrants subject to Annex IX of Reach:
+- Prenatal developmental toxicity study (Annex IX, Section 8.7.2.; test method: EU
+B.31./OECD TG 414) by oral route, in one species (rat or rabbit)
+B.
+Information required from the registrants subject to Annex X of Reach:
+•
+Prenatal developmental toxicity study (Annex X, Section 8.7.2.; test method: EU
+B.31./OECD TG 414) by oral route, in a second species (rat/rabbit)
+An update of this Opinion may be needed when these studies will be available, depending on
+the results obtained.
+Ref.
+https://echa.europa.eu/fr/registration-dossier/-/registered-dossier/14203/7/9/3
+https://echa.europa.eu/documents/10162/7dd23fc0-a3e3-910b-55f3-4c17bc72030c
+
+3.3.6 Endocrine disrupting effects
+Hexyl Salicylate has not been identified by the European Commission as a suspected
+endocrine disruptor. However, its major metabolite is salicylic acid, which is on the
+Commission List of suspected endocrine disruptors. There is no convincing evidence that
+reproductive and developmental effects are caused by an endocrine mechanism of action: the
+rationale for reaching this conclusion is provided below. SCCS has recently adopted an Opinion
+on Salicylic acid (SCCS/1646/22, June 2023).
+In December 2017, the Danish Centre on Endocrine Disrupters published a report (Hass et
+al., 2018) in which it was evaluated that salicylic acid meets the WHO definition of an
+endocrine disruptor (ED) from 2002. It was concluded that there was moderate evidence of
+with an anti-androgenic mode of action which seemed plausibly linked to adverse effects as
+inhibition of androgen response to hCG (Human chorionic gonadotrophin) stimulation in
+humans and decreased testicular weight, decreased activity of testicular enzymes and
+impairment of spermatogenesis in rats. It is the view of the SCCS that although the toxicology
+evidence suggests salicylic acid is a developmental toxicant (observations are on skeletal
+abnormalities), there is no definitive evidence that salicylic acid causes adverse health effects
+in an intact organism directly as a result of an endocrine mechanism. Nor is an anti-androgenic
+mode of action hypothetically linked to skeletal abnormalities. This connection between
+mode/mechanism of action and observed adverse effect is a basic requirement for substances
+falling within the Commission’s ED criteria and the ECHA/EFSA Guidance for the identification
+of endocrine disruptors in the context of Regulations (EU) No 528/2012 and (EC) No
+1107/2009 and based upon the WHO IPCS 2002 Definition.
+Level 1 and 2 evidence is available for evaluating salicylic acid within the OECD Endocrine
+Disruption Framework. Salicylic acid has been tested in the US EPA Endocrine Screening
+Program in a range of in vitro assays (Level 2) and there was no evidence of an endocrine
+activity in the assays tested.
+There are no in vivo assays with salicylic acid that explicitly investigated a potential endocrine
+mode of action. However, as mentioned above, there is no evidence from the available data
+of an adverse effect of salicylic acid as a result of an endocrine mechanism, e.g., there is no
+adverse effect on fertility.
+The evidence given the greatest weight in the Danish review for salicylic acid in drawing their
+conclusions is from Level 4 data on read-across analogue aspirin (acetylsalicylic acid, ASA)
+________________________________________________________________________________________
+41
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+and are of questionable quality with limitations in the data as discussed below. There are no
+level 5 studies.
+Level 1 data: Existing Data and Non-Test Information
+Chemical structure and physicochemical properties e.g. as per Table 1.
+Level 2 data: In vitro assays providing data about selected endocrine
+Mechanism(s)/pathways(s) (Mammalian and non-mammalian methods)
+Salicylic acid has been tested (purity >90%) in the Endocrine Disruptor Screening Program
+(EDSP) within the US EPA Tox21 programme.
+https://comptox.epa.gov/dashboard/dsstoxdb/results?search=DTXSID7026368#invitrodbbioassays-toxcast-data
+There was no activity seen in 18 oestrogen receptor assays, there was no activity in 9 thyroid
+receptor assays, and it was not steroidogenic in 2 assays. Of the 15 androgen receptor assays,
+only one was registered as positive above a cut-off value but this was a marginal and
+inconclusive observation. There was no evidence that salicylic acid was endocrine active in
+these systems.
+Similarly, no in vitro assays were positive in the EDSP for the structurally related substance
+acetylsalicylic acid (aspirin).
+Level 3 data: In vivo assays providing data about selected endocrine
+mechanism(s)/pathway(s)
+No data
+Level 4 studies (on a read-across analogue aspirin):
+Study 1
+In a developmental toxicity study (Gupta et al., 2003), 7 pregnant rats were given ASA by
+oral (gavage) administration between days 6 to 17 after mating. At the highest dose (250
+mg/kg bw/day) 2 fetuses from 2 litters were observed to have hypoplastic testes. There were
+no hypoplastic testes in the control group. There were no other findings in that study
+suggestive of an anti-androgenic mode of action (e.g. cryptorchidism or hypospadias). The
+testes findings were accompanied by severe maternal and fetal toxicity at the same dose,
+which strongly suggests an absence of a specific endocrine mode of action but rather an
+adverse secondary impact by general toxicity.
+Study 2
+In another in vivo rat study (Kristensen et al., 2011) females were treated with ASA at doses
+of 150, 200 or 250 mg/kg bw/day between gestation days 13-21. In Hass et al. (2018), it
+was noted that reduced anogenital distance in male rats (a marker of impaired androgen
+signalling) was seen. The SCCS notes that when corrected for bodyweight, no effect on
+anogenital distance was apparent. This is significant because proper evaluation of changes in
+this parameter requires correction for bodyweight. That study also showed reduced in vivo
+production of testicular testosterone in all dose groups, with significance in the mid dose
+group. There was however no dose-response for this effect and in view of the SCCS, it is
+unlikely to be related to treatment. It is interesting to note that these data are not presented
+in the main article but embedded in the supplementary materials. In that same study,
+questionnaires were given to Danish and Finnish women to report on their analgesic use
+during pregnancy. The authors discovered that in the Danish cohort, an association was found
+between cryptorchidism and use of analgesics. The association was not found in the Finnish
+cohort. The numbers of pregnancies evaluated were small, and several factors were not taken
+into account, such as the familial occurrence of undescended testes and the association of
+________________________________________________________________________________________
+42
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+this finding with multiple gestation. In general, human data from observational
+epidemiological studies based on questionnaires are susceptible to recall bias since selfreporting information may be incomplete or inaccurate (as the authors mentioned
+themselves). The critical factor is the lack of robust exposure data which is needed to
+strengthen the assumed association between cryptorchidism and use of analgesics. Another
+confounding factor with respect to this study may be that humans are generally exposed to
+measurable levels of salicylic acid via dietary sources such as fruits and vegetables; one study
+even found that vegetarians not taking aspirin had urinary levels of salicylic acid higher than
+the non-vegetarians (Lawrence et al., 2003).
+Study 3
+The suggested link between ASA and effects on spermatogenesis comes from a study
+published in 1980, in which groups of 6 young (21-24 days of age) or adult (age not specified)
+rats received 50 mg ASA/kg bw/day for 30 days (Didolkar et al., 1980). After treatment,
+testes were weighed and subjected to analysis of the activity of certain enzymes and
+histopathology. These assessments suggested a significant decrease in testicular weight in
+the younger (but not in the older) animals, and reduced activity of testicular sorbitol
+dehydrogenase and hyaluronidase. Fewer spermatids were also observed in the treated
+groups. The results of this study need to be viewed with caution, since it was a low-powered
+study (6 animals/group) and not thoroughly documented. If these effects were real, they do
+not necessarily indicate an endocrine mode of action. Given the many other in vivo studies
+available on ASA and methyl salicylate as summarised in the draft SCCS opinion on SA, none
+shows any clear adverse effects relevant to an anti-androgenic mode of action (neither in
+terms of development nor fertility), so it seems unlikely that SA is anti-androgenic in vivo.
+The overall conclusion is therefore that there is insufficient data to show that SA causes
+adverse effects arising from an ED mode of action. .
+The appendices of Hass et al. (2018) also discuss the ability of SA to displace thyroid
+hormones from plasma proteins. The report concludes that ‘no studies investigated endpoints
+relevant for evaluation of adverse effects related to thyroid disruption were found’. It should
+however be noted that the SCCS Opinion quotes historical carcinogenicity studies on ASA
+performed in rats and mice, both of which were negative.
+Conclusion from the Applicant:
+On the basis of evidence available to date, there is no definitive data to show that salicylic
+acid (and hence Hexyl Salicylate) causes adverse effects in an intact organism arising from
+an endocrine mode of action.
+SCCS comment
+For the identification of endocrine disruptors in the context of Regulations (EU) No 528/2012
+and (EC) No 1107/2009, and based upon the WHO IPCS 2002 Definition, a connection
+between mode/mechanism of action and observed adverse effect is a basic requirement for
+substances falling within the Commission’s ED criteria and the ECHA/EFSA Guidance. There
+is no evidence from the available in vivo data of an adverse effect of Hexyl Salicylate and
+salicylic acid resulting from an endocrine mechanism, e.g., there is no adverse effect on
+fertility. The available evidence is therefore not strong enough to conclude on an endocrine
+effect linking a mode of action with an adverse outcome. In vitro data did not show any
+estrogenic, nor any androgenic, thyroid or steroidogenic properties of Hexyl Salicylate and
+salicylic acid.
+
+________________________________________________________________________________________
+43
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3.3.7 Mutagenicity / genotoxicity
+The in vitro mutagenicity and genotoxicity studies that have been performed for Hexyl
+Salicylate are summarised below.
+
+3.3.7.1 Mutagenicity / genotoxicity in vitro
+
+Bacterial gene mutation assay (Ames test)
+Guideline:
+OECD 471, EU B.13/14
+Species/strain:
+S. typhimurium, TA98, TA100, TA102, TA1535, TA1537;
+Replicates:
+Triplicates in two independent tests
+Test substance:
+Hexyl Salicylate
+Batch:
+50554361
+Purity:
+data not provided
+Solvent:
+dimethyl sulfoxide (DMSO; 50 µl/plate)
+Positive controls:
+Sodium azide, 2-nitrofluorene, 9-aminoacridine, mytomycin C, and 2aminoanthracene
+Metabolic activation: S9 liver fraction from Aroclor 1254 pretreated male rats
+Concentrations:
+experiment I: 50, 150, 500, 1500, 5000 µg/plate without S9-mix
+50, 150, 500, 1500, 5000 µg/plate with S9-mix
+experiment II: 15 (for TA102 and TA 1537), 50, 150, 500, 1500, 5000
+µg/plate without S9-mix
+5 and 15 (for TA102 and TA 1537), 50, 150, 500,
+1500, 5000 µg/plate with S9-mix
+Treatment:
+experiment I: direct plate incorporation method with 48-72 h
+incubation without and with S9-mix
+experiment II: direct plate incorporation method with 48 – 72 h
+incubation without S9-mix
+GLP:
+in compliance
+Study period:
+30.5.2000
+
+The mutagenicity of the substance Hexyl Salicylate was studied with five mutant strains of
+Salmonella typhimurium (TA1535, TA1537, TA98, TA100, and TA102). The investigations
+were carried using the standard plate incorporation assay with and without liver homogenate
+(S9) from Aroclor 1254 pre-treated male rats as metabolic activation system.
+Hexyl Salicylate was dissolved in DMSO and tested in concentrations of 5 to 5000 µg per plate
+in the presence and 15 to 5000 µg per plate in the absence of S9. In the presence of S9-mix
+Hexyl Salicylate was bacteriotoxic towards the strain TA1537 at 500µg/plate, towards the
+strains TA100 and TA102 at 1504 µg/plate and towards the strains TA98 and TA1535 at 5000
+μg/plate. In the absence of S9-mix Hexyl Salicylate was bacteriotoxic towards the strain
+TA1537 at 500 µg/plate and towards the strains TA98, TA100, and TA102 at 500 µg/plate.
+Precipitation of the test compound at the plates was observed at 1500 and 5000 µg/plate.
+Sodium azide, 2-nitrofluorene, 9-aminoacridine, mytomycin C, and 2-aminoanthracene
+served as positive controls to confirm the reversion properties and the specificity of the
+bacterial strains as well as the efficacy of the metabolising system.
+In the concentration range investigated, Hexyl Salicylate did not induce a significant increase
+in the mutation frequency of the tester strains in the presence or absence of a metabolic
+activation system.
+In conclusion, these results indicate that Hexyl Salicylate under the experimental conditions
+described, was not mutagenic to Salmonella typhimurium strains TA1535, TA1537, TA98,
+TA100, and TA102 in the presence and absence of a metabolizing system.
+________________________________________________________________________________________
+44
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+King MT, 28 February 2000 Study (AM02000N)
+SCCS comment
+Data on the purity of test item have not been provided. Hexyl Salicylate was dissolved in
+DMSO, but no description of the test solution preparation was given. Precipitation of the test
+substance on the plates was observed at 1500 and 5000 μg/plate. The SCCS noted that Hexyl
+Salicylate was bacteriotoxic in the presence and absence of S9-mix towards several strains
+at concentrations 500 or 1500 µg/plate and above.
+In vitro micronucleus assay:
+Guideline:
+Test system:
+Replicates:
+Test substance:
+Batch (Purity):
+Solvent:
+Metabolic activation:
+Concentrations and treatment:
+
+After treatment exposure:
+Positive controls:
+Negative control:
+Statistics:
+GLP:
+Study period:
+
+OECD 487 (2016)
+Isolated human lymphocytes
+duplicates
+Hexyl Salicylate
+80854 (99.6%)
+dimethyl sulphoxide (DMSO)
+Phenobarbital-5,6 Benzoflavone-induced rat liver (S9 mix),
+3h without S9: 43.90, 65.84, 98.77 μg/mL
+3h + S9-mix:
+98.77, 148.1, 222.2 μg/mL
+24h without S9-mix: 29.26, 43.90, 65.84 μg/mL
+Cytochalasin B (cytoB) 6 μM (after 3h exposure cyoB 21h,
+in 24h exposure added simultaneously with test item)
+-S9: Mitomycin C (MMC): 50 ng/mL (3 h), 30 ng/mL (24 h)
+Colchicine: 7.5 ng/mL (24 h)
++S9: Cyclophosphamide (CP) 4 /mL (3h)
+Vehicle
+Pair-wise statistical analysis employing a one-sided Fisher’s
+Exact test, Cochran-Armitage trend
+in compliance
+November 3, 2022
+
+Hexyl Salicylate was tested for its potential to induce micronucleus formation in the in vitro
+micronucleus test. Lymphocytes isolated from fresh whole human blood were used in the
+study. In all treatments, the solvent used for the test item was dimethyl sulphoxide (DMSO).
+Based on findings in the preliminary assessment of solubility, the test item was prepared in
+DMSO at 50.00 mg/mL. The test item was then prepared in a dilution series, typically with a
+1.5-fold dilution factor. Cells were cytokinesis blocked using cytochalasin B (cytoB). To enable
+calculation of the Cytokinesis Block Proliferation Index (CBPI), in order to determine
+cytotoxicity, at least 500 cells from appropriate cultures were scored. For the selected
+concentrations, the micronucleus frequency was determined in 2000 binucleated cells per
+concentration. The final concentration ranges analysed for micronuclei were: 3h +S9
+treatment schedule 98.77 to 222.2 μg/mL 3h -S9 treatment schedule 43.90 to 98.77 μg/mL
+continuous treatment schedule (24h -S9) 29.26 to 65.84 μg/mL
+The recommended maximum level of cytotoxicity (55 ± 5%) was achieved in all treatment
+schedules. At the highest concentration selected for analysis, the following levels of
+cytotoxicity were observed: 3h +S9 treatment schedule 57.65% at 222.2 μg/mL 3h -S9
+treatment schedule 51.43% at 98.77 μg/mL continuous treatment schedule (24h -S9)
+54.08% at 65.84 μg/mL. Upon addition of test item to the culture medium, a precipitate of
+the test item was observed at a concentration of 222.2 μg/mL and above in all treatment
+schedules. At the end of the treatment period, precipitate was observed at a concentration of
+333.3 μg/mL and above in the 3h -S9 and continuous treatment schedules, and at a
+concentration of 500.0 μg/mL in the 3h +S9 treatment schedule. The observations of
+precipitate did not affect the selection of dose levels for evaluation of micronucleus frequency.
+________________________________________________________________________________________
+45
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+For all treatment schedules, data for background micronucleus induction in the solvent
+controls were consistent with the test facility’s historical control databases (based on 95%
+Poisson confidence limits) for human lymphocyte cells.
+The number of micronuclei analysed from 2000 binucleated cells for each selected test item
+dose was compared with that from the concurrent solvent control.
+The concurrent positive controls produced statistically significant increases in micronuclei
+compared with the concurrent negative controls. No statistically significant increases in
+micronucleus formation in the test item-treated cultures were observed as a result of any of
+the treatment schedules.
+There were no concentration-related increases when evaluated with Cochran-Armitage trend
+tests. All criteria for a negative result were met after expert evaluation of the data.
+It was concluded that Hexyl Salicylate did not induce the formation of micronuclei (MN) in
+human lymphocytes in the presence or absence of S9, under the test conditions used. The
+criteria for a negative response, as defined in OECD 487 and in the Study Plan, were met.
+SCCS comment
+A precipitate was noted at final concentrations of 250.0, 500.0, 1000 and 2000 μg/mL. The
+SCCS agrees with conclusion of the study that Hexyl Salicylate did not induce the formation
+of micronuclei in human lymphocytes in the presence or absence of S9, under the test
+conditions used.
+3.3.7.2 Mutagenicity / genotoxicity in vivo
+/
+Mutagenicity and Genotoxicity overall conclusion from the Applicant:
+Hexyl Salicylate is not genotoxic or mutagenic in the OECD guideline in vitro assays
+performed. The mutagenicity and genotoxicity data for salicylic acid were recently reviewed
+by the SCCS (SCCS, 2018) and 1-hexanol is also not genotoxic or mutagenic (CIR, 2017).
+There are no concerns in relation to these endpoints for Hexyl Salicylate.
+Overall SCCS comment
+SCCS agrees that Hexyl Salicylate was not genotoxic or mutagenic in the in vitro assays
+performed.
+During the consultation, SCCS has been informed that in the context of REACH Regulation, a
+decision on compliance check (CCH) is ongoing for hexyl salicylate. The deadline for
+submission is 22 April 2025.
+A. Information required from all the registrants subject to Annex VIII of Reach
+- In vitro gene mutation study in mammalian cells (Annex VIII, Section 8.4.3.; test method:
+OECD TG 476 or TG 490).
+An update of evaluation of the mutagenicity may be needed when this study will be available.
+
+________________________________________________________________________________________
+46
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3.3.8 Carcinogenicity
+There are no carcinogenicity studies for Hexyl Salicylate. However, given that there are no
+genotoxicity/ mutagenicity concerns from in vitro assays with or without S9, and it is also
+highly unlikely that the main metabolites salicylic acid and 1-hexanol may act as carcinogens,
+then there are no known concerns to address for Hexyl Salicylate.
+Conclusion from the Applicant:
+Hexyl Salicylate is not expected to be a carcinogen in animals.
+SCCS comment
+After analysis of the available data, the SCCS considers that Hexyl Salicylate is not likely to
+be a carcinogen.
+
+3.3.9 Photo-induced toxicity
+The photoirritation/photoallergenicity endpoints were evaluated based on data and
+ultraviolet/visible (UV/Vis) spectra, in vitro data and in vivo data as described below.
+UV Spectra Analysis (RIFM (Sears), 2014):
+The available UV/Vis spectra (OECD TG 101) for Hexyl Salicylate indicate significant
+absorbance between 290–700 nm, with peak absorbance at 305 nm and returning to baseline
+by 330 nm. The molar absorption coefficient for wavelengths between 290–700 nm is above
+the benchmark of concern (1000 L ∙ mol-1 ∙ cm-1) for photoirritating effects.
+In vitro 3T3 cells (RIFM (Harbell), 2002):
+Hexyl Salicylate was tested in the 3T3 Neutral Red Uptake (NRU) Photoirritation Assay.
+Duplicate 96-well monolayers of 3T3 fibroblast were exposed to dilutions of test material (up
+to 100 μg/mL); 1 plate was exposed to 5 J/cm2 UVA irradiation (photoirritation), and the
+other was not exposed to UV irradiation (cytotoxicity). The treatment medium was then
+replaced by a culture medium, and, at approximately 24 hours after treatment, the number
+of viable cells was determined by NRU. The number of viable cells present for each
+concentration of test material was compared to that of untreated controls, and the percent
+inhibition of growth was calculated. The IC50 concentration (i.e., the concentration producing
+50% inhibition of growth) was calculated and expressed as μg/mL for both the photoirritation
+and cytotoxicity plates. A photoirritancy factor was then calculated by comparing the IC50
+value obtained with and without UVA exposure. The results indicate that Hexyl Salicylate does
+not have a photoirritating potential. No photoirritating responses were observed.
+Mouse study (RIFM (Urbach), 1975):
+Undiluted Hexyl Salicylate (20 μl) was applied to a 2cm2 area of the back in n=6 Skh:hairless1 mutant mice exposed to light from a long arc xenon lamp and fluorescent blacklight lamps.
+Six mice were used as a positive control group using 8-methoxypsoralen (8-MOP) in methanol
+(0.01% w/v). Treated animals were exposed to a 6-kW long arc xenon lamp (distances = 1
+meter, intensity = 0.1667 W/m2) for 40 minutes and 4 fluorescent F40BL-type blacklight
+lamps with exposure for 1 hour with an intensity of 3 W/m2. The irradiation area was defined
+by a 1 cm diameter hole punched in an aluminium foil adhesive tape, and the tape masked
+the skin surrounding the exposure area. Reactions were assessed at 4, 24, 48, 72, and 96
+hours. Phototoxic reactions were observed at the irradiated positive control sites. No reactions
+________________________________________________________________________________________
+47
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+were observed at either the irradiated or non-irradiated test material treated sites. Hexyl
+Salicylate was not phototoxic.
+Miniature pig study (RIFM (Urbach), 1975):
+Phototoxicity was also not observed in two miniature swine tested with undiluted Hexyl
+Salicylate (20 μl), according to the same procedure as for mouse test described above.
+Guinea-pig (RIFM (Learn), 2003):
+Photoirritation of Hexyl Salicylate was evaluated in two groups of n=5 Crl:IAF (HA)-hrBR
+outbred albino hairless guinea pigs. A 0.3-mL aliquot of Hexyl Salicylate at 0%, 5%, 10%,
+50%, and 100% in 3:1 diethylphtalate (DEP):EtOH was topically administered using Hilltop
+chamber patches (25-mm diameter) to the dorsal skin along the midline of each guinea pig
+and occluded with a dental dam. Two hours later, the patches were removed, and the
+application sites were gently wiped with disposable paper towels moistened with deionized
+water. The animals were exposed to UV radiation using a 6.5-kW long arc xenon water-cooled
+lamp with a filter used to attenuate mid-range ultraviolet radiation (UVB). A dose of about
+2.25 instrumental MED was delivered for each exposure session (approximately 2.25 hours).
+MED refers to a UVR dose adequate to elicit a barely perceptible response in human skin.
+Clinical observations were made immediately, 1 and 4 hours, and 1, 2, and 3 days after test
+material administration and UV exposure. Hexyl Salicylate did not cause skin changes
+indicative of photoirritation.
+Guinea-pig (RIFM (Learn) 2003):
+Photoallergy was not observed in two groups of n=5 Crl:IAF (HA)-hrBR outbred albino hairless
+guinea pigs exposed to Hexyl Salicylate (50% and 100%). A nuchal area of skin,
+approximately 2.5 cm2, was defined by intradermal injections (0.1 mL/corner) with a
+formulation of sterile water and Freund’s complete adjuvant (1:1 v/v) in each animal. This
+skin area was then tape stripped 5 times. A 0.3-mL aliquot of Hexyl Salicylate in 3:1 DEP:EtOH
+was applied to Hilltop® chamber patches (25-mm diameter) and then applied to the nuchal
+area and occluded with a dental dam. After 2 hours, the patches were removed, and the
+application sites were gently wiped with disposable paper towels moistened with reverse
+osmosis membrane processed deionized water. The nuchal area of animals was exposed to
+UVR for approximately 2.25 hours. The UVR source was a 6.5kw long arc xenon water-cooled
+lamp with a filter used to attenuate mid-range ultraviolet radiation (UVB). Exposures were
+monitored by a customised detector that records both intensity and UVR dose. A dose of about
+2.25 instrumental MED was delivered for each exposure session. Procedures were repeated
+once daily on days 3, 5, 8, 10, and 12 of the induction phase. On day 22, using the induction
+procedure, Hexyl Salicylate at 50% and 100% was topically applied to each animal. Animals
+were exposed to UVR for 2.25 hours, 2 hours after patch application. The sites were scored 1
+and 4 hours after dosage administration and/or UVR exposure. Minimal flaking was observed.
+Based on the results from the study, Hexyl Salicylate was not considered a photoallergen.
+
+3.3.10 Human data
+Human studies (RIFM (Potrebka), 2004):
+Photoirritation potential was studied in 56 subjects (41 females and 15 males) who were patch
+tested with Hexyl Salicylate (0.3%, 3%, and 30% in 3:1 DEP:ethanol), followed by irradiation
+of sites with UVA and UVB. The test materials or controls were applied to 25-mm Hilltop®
+Chambers, which were applied to the back of each subject. Each subject received duplicate
+patches of the 3 concentrations of test material, and of 3 controls (vehicle alone, saline, and
+a blank (no test material patch)) which were placed on both sides of the spine. Patches
+________________________________________________________________________________________
+48
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+remained in place for 24 hours. After 24 hours, the patches on the left paraspinal region were
+removed, and the skin sites were irradiated with 16 Joules/cm2 of UVA irradiation for 10
+minutes. Then the sites were irradiated with 0.75 Minimal Erythema Doses (MED) UVB. A
+150-Watt Berger Solar Ultraviolet Simulator was used as the ultraviolet radiation source in
+the study. Patches were removed from the non-irradiated test sites on the right paraspinal
+region after the UVA/UVB dosing was complete. The non-irradiated sites were used as controls
+to assess the irritation potential of the test material. Reactions were assessed at 1, 24, 48,
+and 72 hours following UVA and UVB irradiation. No reactions were observed.
+Conclusion from the Applicant on Photo-induced toxicity:
+Based on the available in vitro, in vivo and human data, Hexyl Salicylate is not phototoxic or
+photoallergenic.
+
+3.3.11 Special investigations
+/
+
+3.4
+
+SAFETY EVALUATION (including calculation of the MoS)
+
+There are no repeat dose toxicity data for Hexyl Salicylate to use in a cosmetic safety
+assessment. However, given that Hexyl Salicylate itself is not regarded as the main toxicant,
+but rather salicylic acid as the chief hydrolysis product via all routes of exposure, it is possible
+to perform a cosmetic safety evaluation for Hexyl Salicylate using the study by Tanaka et al.
+1973 (from the reproductive/developmental data shown in section 3.4.5) for its principal
+primary metabolite, salicylic acid.
+Salicylic acid was reviewed recently by the SCCS in its Opinion from December 2023. The
+POD for salicylic acid was selected as a no observed adverse effect level (NOAEL) of 75
+mg/kg/day based upon the most sensitive observations in orally dosed rats, of teratogenic
+effects, in the Tanaka et al. 1973 study.
+A value for skin penetration of 13.4% (mean (3.04 +1SD) x a correction factor of 3) has been
+used in all calculations of systemic exposure dose for dermally applied products (see section
+3.2.2).
+•
+MoS for adults
+Based on the exposure information in section 3.2, the Margins of Safety for consumer
+exposures to Hexyl Salicylate in 18 cosmetic products are shown in Table 16 below.
+Table 16: Deterministic worst-case margin of safety calculations for the dermal and oral route
+using maximum % use levels as defined by the European Cosmetics Industry. Values of SED
+are calculated according to the SCCS 11th Notes of Guidance approach for calculating a worstcase aggregate exposure on the basis of deterministic additive methods. Hexyl Salicylate is
+assumed to undergo 13.4% skin penetration for all product types (except oral care and lipstick
+where 100% is assumed) in this assessment. 100% metabolic conversion to salicylic acid
+equivalent has been assumed, as per Table 5. For deodorant and hair styling products,
+systemic exposure dose via spray formulations are used for the MoS calculation.
+
+________________________________________________________________________________________
+49
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Categories
+
+Max [C] in the
+fisnished
+product (%)
+
+Products
+
+Hydroalcoholic-based Fragrances
+
+Rinse-off skin and Hair
+Products
+
+Leave-on skin and Hair
+Products
+
+Face-Make-up Products
+
+Oral Care products
+
+2
+
+Calculated SED MOS using a POD of
+75 mg/kg bw/day
+SA eq (mg/kg
+bw/day)
+9615
+0.0078
+
+Shower gel
+
+0.5
+
+0.0012
+
+Hair Conditioner
+Shampoo
+Hand and Wash soap
+Body Lotion
+Face Cream
+Hand Cream
+Deodorant
+Hair Styling*
+Liquid Foundation
+Lipsticks, Lip salve
+Make-up remover for face
+Eye make-up
+Mascara
+Eyeliner
+Tootpaste
+Mouthwash
+
+0.5
+0.5
+0.5
+0.3
+0.3
+0.3
+0.3
+0.3
+0.3
+0.3
+0.3
+0.3
+0.3
+0.3
+0.001
+0.001
+
+0.0003
+0.0006
+0.0014
+0.0308
+0.006
+0.0082
+0.0128
+0.0056
+0.002
+0.0017
+0.0021
+0.0001
+0.0001
+0.0002
+0.00001
+0.0002
+0.08111
+
+Aggregate
+
+62500
+250000
+125000
+53571
+2435
+12500
+9146
+5859
+13393
+37500
+44118
+35714
+750000
+750000
+375000
+7500000
+375000
+925
+
+* systemic exposure dose via spray formulations are used to calculate the MoS
+For systemic effects, considering all applied cosmetic products either directly on the skin or
+by spray, at the maximum concentrations of Hexyl Salicylate reported in Table 1 above, taken
+individually and also the aggregated exposure, the margin of safety is above 100.
+
+•
+
+MoS for children
+
+The Applicant did not provide any specific scenarios for children applying cosmetic products
+on their skin (dermal exposure), nor were the differences between age categories in some
+exposure parameters (body weight, amount of the products applied, body surface, etc) taken
+into consideration. As the concern for this Opinion is on ED, which may lead to some specific
+effects in vulnerable populations, such as children, specific exposure calculations for children
+(between 3 to 10 years old) would have been needed. Table A.7.2 in the SCCS Notes of
+Guidance (SCCS/1644/22) provides examples of the different cosmetic product categories
+that are generally used for children of different ages. However, the SCCS notices that in view
+of the high MoS for adults, far above 100, the MoS will also be above 100 for children between
+3 to 10, considering also the product categories used by children of these ages.
+
+________________________________________________________________________________________
+50
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+3.5
+
+DISCUSSION
+
+Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6) is the INCI name of ‘hexyl 2hydroxybenzoate’, an ingredient with sweet, floral, and fruity odour used in formulations of
+fragrances in multiple consumer goods including cosmetic, household cleaning products,
+detergents, and air care products.
+Hexyl Salicylate is not listed in the Annexes to the Cosmetic Regulation (EC) No. 1223/2009
+and its use is not otherwise restricted in cosmetic products.
+Physicochemical properties
+Information on the analytical methods used for the determination of purity and impurities of
+the test substance and their results should be provided in accordance with the SCCS Notes of
+Guidance.
+
+Exposure
+Dermal/percutaneous absorption
+A value of 13.4 % (3.04% + 1SD corrected for 24 hours) was calculated following a recent in
+vitro study using human skin that meets the basic criteria for skin absorption in SCCS Notes
+of Guidance (2021). This value will be used for the calculation of the MoS.
+Toxicokinetics
+Hexyl Salicylate, like methyl salicylate and benzyl salicylate, is expected to be rapidly and
+completely absorbed and metabolised, in both gut and liver tissue by first-pass metabolism,
+to salicylic acid and 1-hexanol following oral exposure in both rat and humans. With rapid
+hydrolysis in the gut and liver, systemic exposure is primarily to salicylic acid and 1-hexanol,
+which do not accumulate in the body, and are rapidly excreted.
+Exposure by oral route
+Based on the available data, the SCCS considers that an absorption value by oral route of
+100% can be used in the risk assessment.
+Exposure by inhalation
+There are no data on the extent of Hexyl Salicylate absorption in the lung. Based on the high
+log Po/w and low water solubility, it is expected that Hexyl Salicylate will be poorly absorbed
+by the inhalation route. An assumption of 100% absorption can be used in the risk
+assessment, which is therefore conservative.
+Systemic Exposure
+Separate exposure assessments were performed for the dermal, oral and inhalation routes.
+As the deterministic approach - based on maximal concentrations used - yields a favourable
+outcome, further exposure modelling was not necessary to refine exposure. This Tier 1
+scenario is based on maximum concentrations of Hexyl Salicylate that are used in products
+in Europe, in each of the standard 17 product types as included in an aggregate exposure
+assessment (according to the SCCS Notes of Guidance 2021). These levels have been
+provided in a recent use survey by the members of the ‘Hexyl Salicylate consortium’, and are
+used to calculate the total systemic exposure to benzyl salicylate (in mg/kg/day) from each
+________________________________________________________________________________________
+51
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+product for adults. In addition to the 17 cosmetic products usually considered, an 18th product
+type – hydroalcoholic fragrances - was included in the scenario.
+For most of the products, except deodorant and hair styling products, the non-spray products
+lead to an equivalent or much higher systemic exposure when compared to the spray
+products. Therefore, for the MoS calculation the most conservative SED have been used (ie.
+spray formulations for deodorant and hair styling products).
+For deodorant, dermal exposure (using the same application amount and frequency as for the
+inhalation exposure calculation) is 12.3 µg/kg bw/d and aggregate (inhalation + dermal) is
+20.59 µg/kg bw/d, which is equivalent to 12.80 µg/kg bw/d SA.
+For hairspray (propellant formulation), Dermal exposure to hair spray (using the same
+application amount and frequency as for the inhalation exposure calculation) is then 6.6 µg/kg
+bw/d and aggregate (inhalation + dermal) is 8.94 µg/kg bw/d, which is equivalent to 5.56
+µg/kg bw/d SA.
+
+Toxicological Evaluation
+Irritation and corrosivity
+Hexyl Salicylate shows some irritant reactions in animal models at concentrations of 25% and
+above and very low skin reactions in one human study at 30%, but it is not considered to be
+an irritant of concern at the concentrations used in cosmetic products.
+Undiluted Hexyl Salicylate is not an eye irritant in vivo and there is no risk of eye irritation
+at the maximum concentrations of Hexyl Salicylate used in cosmetic products.
+Skin sensitisation
+Available human, animal and NAM data on Hexyl Salicylate are contradictory. In a wellconducted LLNA, Hexyl Salicylate was positive at a relatively low concentration, whereas the
+GPMT was negative. In silico data showed no protein binding alerts, which was confirmed in
+the DPRA. In addition, the Keratinosens was negative, whereas the h-CLAT and U-SENS were
+positive. If, for example, the 2o3 DA (two out of three defined approach) was performed
+according to OECD Guideline 497, Hexyl Salicylate would have been considered as a nonsensitiser. Human evidence is limited, but the data available is all negative. This was already
+observed in an earlier SCCS Opinion on fragrance allergens (SCCS/1459/11) and no new
+evidence indicating that Hexyl Salicylate is a relevant skin sensitiser in humans has emerged
+in literature.
+Taking all the evidence together, the SCCS concludes that although Hexyl Salicylate is
+classified as a skin sensitiser, based on clinical evidence, the risk of skin sensitisation in
+humans from the use in cosmetic products can be considered negligible.
+Acute toxicity
+Hexyl Salicylate is not acutely toxic via any route of exposure.
+Repeated dose toxicity
+No repeat dose toxicity data are available on Hexyl Salicylate. Given that Hexyl Salicylate
+itself is not regarded as the main toxicant, but rather its chief hydrolysis product, salicylic
+acid, the available repeat dose toxicity data and conclusions for the primary Hexyl Salicylate
+________________________________________________________________________________________
+52
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+metabolites salicylic acid and 1-hexanol were reviewed for the purposes of performing a
+cosmetics safety assessment. All data for salicylic acid were also recently reviewed by the
+SCCS in its recent Opinion (SCCS, 2018).
+Reproductive toxicity
+No reproductive/developmental toxicity data are available on Hexyl Salicylate. The proposal
+for classification is based upon read across to salicylic acid and methyl salicylate data, and
+the assumption that Hexyl Salicylate is metabolised to the same common metabolite, salicylic
+acid.
+Given that Hexyl Salicylate itself is not regarded as the main toxicant, but rather salicylic acid
+as the chief hydrolysis product, available reproductive/developmental toxicity data and
+conclusions for the primary metabolite salicylic acid and 1-hexanol to which the body may be
+principally exposed were reviewed for the purposes of performing a cosmetics safety
+assessment.
+SCCS considers that salicylic acid is a developmental toxicant. Harmonised classification of
+salicylic acid was recently published in Regulation 2018/1480 and is classified as Repr. 2
+(H361d Suspected of damaging the unborn child). For MoS calculation, SCCS uses the
+developmental NOAEL of 0.1% (75 mg/kg bw/day) derived from Tanaka et al. (1973a).
+In addition, due to the evidence for high (100%) oral bioavailability in humans, the oral NOAEL
+of 75 mg/kg bw/day is defined as systemic NOAEL (NOAELsys) by SCCS for salicylic acid.
+This POD for salicylic acid can act as a conservative surrogate POD for Hexyl Salicylate. On a
+molar basis, 1 mole of Hexyl Salicylate is converted to 1 mole of salicylic acid. An assumption
+is made that 100% of Hexyl Salicylate is metabolised to salicylic acid and 1-hexanol, and
+salicylic acid is the driver of any observed Hexyl Salicylate toxicity. The salicylic acid NOAELsys
+= 75 mg/kg bw/day. A salicylic acid equivalent SED can be calculated and compared with this
+POD.
+Mutagenicity / genotoxicity
+SCCS concludes that Hexyl Salicylate was not genotoxic or mutagenic in the vitro assays
+performed.
+Carcinogenicity
+After analysis of the available data, the SCCS considers that Hexyl Salicylate is not likely to
+be a carcinogen.
+Photo-induced toxicity
+Based on the available in vitro, in vivo and human data, Hexyl Salicylate is not phototoxic or
+photoallergenic.
+Special investigation: endocrine disrupting effects
+For the identification of endocrine disruptors in the context of Regulations (EU) No 528/2012
+and (EC) No 1107/2009 and based upon the WHO IPCS 2002 Definition, a connection between
+mode/mechanism of action and observed adverse effect must be demonstrated for substances
+falling within the Commission’s ED criteria and the ECHA/EFSA Guidance. There is no evidence
+from the available in vivo data of an adverse effect of Hexyl Salicylate and salicylic acid as a
+result of an endocrine mechanism, e.g., there is no adverse effect on fertility. The available
+evidence is not strong enough to conclude on an endocrine effect linking a mode of action
+________________________________________________________________________________________
+53
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+with an adverse outcome. In vitro data did not show any estrogenic effects, nor any
+androgenic, thyroid or steroidogenic properties of Hexyl Salicylate and salicylic acid.
+
+4. CONCLUSION
+1.
+In light of the data provided and taking under consideration the CMR Cat.2 classification
+(to be introduced in Annex VI to Reg. 1272/2008), does the SCCS consider Hexyl Salicylate
+safe when used up to the maximum concentrations provided in the dossier?
+Based on the assessment of data provided and taking into consideration the concerns related
+to potential endocrine disrupting properties, the SCCS considers Hexyl Salicylate safe when
+used up to the maximum concentrations as provided in Table 1 of this Opinion.
+Product type, Body parts
+
+Maximum concentration
+(% w/w)
+
+Hydroalcoholic-based fragrances
+
+2
+
+All Rinse-off products
+
+0.5
+
+All Leave on products
+
+0.3
+
+Oral care (toothpaste and mouthwash)
+
+0.001
+
+2.
+Does the SCCS have any further scientific concerns with regard to the use of Hexyl
+Salicylate in cosmetic products?
+The Applicant did not provide any specific scenarios for children applying cosmetic products
+on their skin (dermal exposure), nor were the differences between age categories in some
+exposure parameters (body weight, amount of the products applied, body surface, etc) taken
+into consideration. However, the SCCS notices that in view of the high MoS for adults, far
+above 100, the MoS will also be above 100 for children between 3 to 10, considering also the
+products categories used by children of these ages.
+The SCCS mandates do not address environmental aspects. Therefore, this assessment did
+not cover the safety of Hexyl Salicylate for the environment.
+
+5. MINORITY OPINION
+/
+
+________________________________________________________________________________________
+54
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+6. REFERENCES
+Alexander-White C, Bury D, Cronin M, Dent M, Hack E, Hewitt NJ, Kenna G, Naciff J,
+Ouedraogo G, Schepky A, Mahony C (2022) A 10-step framework for use of read-across (RAX)
+in next generation risk assessment (NGRA) for cosmetics safety assessment. Regul Toxicol
+Pharmacol. Jan 3:105094. doi: 10.1016/j.yrtph.2021.105094. PMID: 34990780.
+Api A. M., Basketter D, Bridges J, Cadby P, Ellis G, Gilmour N ..., White IR (2020) Updating
+exposure assessment for skin sensitization quantitative risk assessment for fragrance
+materials. Reg. Tox. Pharmacol., 118, p. 104805.
+Basketter DA, Alepee N, Ashikaga T, Barroso J, Gilmour N, Goebel C, Hibatallah J, Hoffmann
+S, Kern P, Martinozzi- Teissier S, Maxwell G, Reisinger K, Sakaguchi H, Schepky A, Tailhardat
+M, Templier M (2014) Categorization of chemicals according to their relative human skin
+sensitizing potency. Dermatitis. 2014; 25:11-21.
+Basketter DA, York M, McFadden JP, Robinson MK (2004) Determination of skin irritation
+potential in the human 4-h patch test. Contact Dermatitis 51, 1–4.
+Belsito D, Bickers D, Bruze M, Calow P, Greim H, Hanifin JH, Rogers AE, Saurat JH, Sipes IG,
+Tagami H (2007) A toxicologic and dermatologic assessment of salicylates when used as
+fragrance ingredients. Food and Chemical Toxicology 45 (1S1), S318– S361.
+Betts (2006) Hexyl Salicylate: OECD 429 local lymph node assay GM7910/Regulatory/report.
+Study number GM7910. Syngenta Central Toxicology Laboratory. 29 March (2006)
+Biesebeek JD te, Nijkamp MM, Bokkers BGH, Wijnhoven SWP (2014) General Fact Sheet
+General default parameters for estimating consumer exposure - Updated version 2014. RIVM
+Report 090013003/2014.
+Bremmer HJ, Prud’homme de Lodder LCH, van Engelen JGM (2006) Cosmetics Fact Sheet to
+assess the risks for the consumer. Updated version for ConsExpo 4. RIVM report
+320104001/2006.
+Bury D, Alexander-White C, Clewell HJ 3rd, Cronin M, Desprez B, Detroyer A, Efremenko A,
+Firman J, Hack E, Hewitt NJ, Kenna G, Klaric M, Lester C, Mahony C, Ouedraogo G, Paini A,
+Schepky A (2021) New framework for a non-animal approach adequately assures the safety
+of cosmetic ingredients - A case study on caffeine. Regul Toxicol Pharmacol. 123:104931.
+doi: 10.1016/j.yrtph.2021.104931. PMID: 33905778.
+Cheung C, Smith CK, Hoog JO, Hotchkiss SA (1999) Expression and localization of human
+alcohol and aldehyde dehydrogenase enzymes in skin. Biochem Biophys Res Commun. 1999
+Jul 22;261(1):100-7.doi: 10.1006/bbrc.1999.0943. PMID: 10405330.
+Cheung C, Davies NG, Hoog JO, Hotchkiss SA, Smith Pease CK (2003) Species variations in
+cutaneous alcohol dehydrogenases and aldehyde dehydrogenases may impact on toxicological
+assessments of alcohols and aldehydes. Toxicology. 2003 Mar 3;184(2-3):97-112. doi:
+10.1016/s0300-483x(02)00552-8. PMID: 12499113.
+Collins TF, Hansen WH, Keeler HV (1971) Effect of methyl salicylate on rat reproduction.
+Toxicology and Applied Pharmacology 18(4): 755-765.
+Comiskey D, Api AM, Barratt C, Daly EJ, Ellis G, McNamara C, O'Mahony C, Robison SH,
+Safford B, Smith B, Tozer S. (2015) Novel database for exposure to fragrance ingredients in
+cosmetics and personal care products. Regul Toxicol Pharmacol. 72(3):660-72. doi:
+10.1016/j.yrtph.2015.05.012. Epub 2015 May 19. PMID: 26003515.
+Cosmetics Ingredient Review (2019) Amended Safety Assessment of Salicylic Acid and
+Salicylates as Used in Cosmetics. Published June 2019. Available at: Salicylic Acid and
+Salicylates.pdf (cir-safety.org) [As accessed October 2022]
+Dancik Y, Anissimov YG, Jepps OG, Roberts MS (2011) Convective transport of highly plasma
+protein bound drugs facilitates direct penetration into deep tissues after topical application.
+________________________________________________________________________________________
+55
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+British Journal of
+2125.2011.04128.x
+
+Clinical
+
+Pharmacology.
+
+73:4
+
+564–578.
+
+DOI:10.1111/j.1365-
+
+Davison C, Zimmerman EF, Smith PK (1961) On the metabolism and toxicity of methyl
+salicylate. J Pharmacol Exp Ther 132:207-211.
+Delmaar JE, Bremmer HJ (2009) The ConsExpo Spray Model - Modeling and experimental
+validation of the inhalation exposure of consumers to aerosols from spray cans and trigger
+sprays. RIVM Report 320104005/2009
+Didolkar AK, Patel PB, Roychowdhury D (1980) Effect of aspirin on spermatogenesis in mature
+and immature rats. Int J Androl. 1980 Oct;3(5):585-93. doi: 10.1111/j.13652605.1980.tb00146.x. PMID: 7440017.
+Dimitrov SD, Low LK, Patlewicz GY, Kern PS, Dimitrova GD, Comber MHI, Phillips RD, Niemela
+J, Bailey PT, Mekenyan OG (2005) Skin sensitization: Modeling based on skin metabolism
+simulation and formation of protein conjugates. International Journal of Toxicology.
+2005;24:189-204.
+Draize JH (1959) Appraisal of the Safety of Chemicals in Foods, Drugs and Cosmetics. Dermal
+Toxicity. The Association of Food and Drug Officials of the United States, Texas State
+Department of Health, Austin. pp. 46– 59.
+Ficheux AS, Roudot AC (2017) Produits Parfumants. In: Exposition de la population Francaise
+aux produits cosmétiques, Université Bretagne, Loire and université de Bretagne Occidentale,
+p447-p455 - COSMED.
+Forbes PD, Urbach F, Davies RE (1977) Phototoxicity testing of fragrance raw materials. Food
+and Cosmetics Toxicology 15, 55–60.
+Forreryd A, Norinder U, Lindberg T, Lindstedt M (2018) Predicting skin sensitizers with
+confidence - Using conformal prediction to determine applicability domain of GARD.
+Toxicology In Vitro. 2018;48:179-187.
+Gage JC (1970) The subacute inhalation toxicity of 109 industrial chemicals. Occupational and
+Environmental Medicine, 27(1), 1-18.
+Goodman and Gilman (2006) The Pharmacological Basis of Therapeutics. Salicylates. 11th ed.
+New York, NY. Pergamon Press.
+Gupta U, Cook JC, Tassinari MS, Hurtt ME (2003) Comparison of developmental toxicology of
+aspirin (acetylsalicylic acid) in rats using selected dosing paradigms. Birth Defects Research
+Part B) 68: 27-37.
+Hall B, Tozer S, Safford B, Coroama M, Steiling W, Leneveu-Duchemin MC, McNamara C,
+Gibney M (2007) European consumer exposure to cosmetic products, a framework for
+conducting population exposure assessments. Food Chem. Toxicol., 45, 2097-2108.
+JECFA (1962). Evaluation of the toxicity of a number of antimicrobials and antioxidants. 6th
+report on food additives, WHO-TRS No. 228
+King MT (2000) Mutagenicity study of Hexyl Salicylate in the salmonella
+typhimurium/mammalian microsome reverse mutation assay (Ames tes). 28 February 2000
+Study number AM02000N, Symrise.
+Koshakji RP, Schulert AR (1973) Biochemical mechanisms of salicylate teratology in the rat.
+Biochem. Pharmacol. 22: 407-416.
+Kristensen DM, Hass U, Lesné L, Lottrup G, Jacobsen PR, Desdoits-Lethimonier C, Boberg J,
+Petersen JH, Toppari J, Jensen TK, Brunak S, Skakkebaek NE, Nellemann C, Main KM, Jégou
+B, Leffers H (2010) Intrauterine exposure to mild analgesics is a risk factor for development
+of male reproductive disorders in human and rat. Hum Reprod. 2011 Jan;26(1):235-44. doi:
+10.1093/humrep/deq323. Epub 2010 Nov 8. PMID: 21059752.
+
+________________________________________________________________________________________
+56
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Lapczynski A, Jones L, McGinty D, Bhatia S, Letizia CS, Api AM (2007) Fragrance material
+review on Hexyl Salicylate. Food Chem Toxicol. 2007;45 Suppl 1:S410-7. doi:
+10.1016/j.fct.2007.09.045. Epub 2007 Sep 14. PMID: 18022307.
+Larsen W, Nakayama H, Fischer T, Elsner P, Frosch P, Burrows D, Jordan W, Shaw S, Wilkinson
+J, Marks J, Sugawara M, Nethercott M, Nethercott J (2002) Fragrance contact dermatitis – a
+worldwide multicenter investigation (Part III). Contact Dermatitis 46, 141–144.
+Lawrence JR, Peter R, Baxter GJ, Robson J, Graham AB, Paterson JR (2003) Urinary excretion
+of salicyluric and salicylic acids by non-vegetarians, vegetarians, and patients taking low dose
+aspirin. J Clin Pathol. 2003 Sep;56(9):651-3. doi: 10.1136/jcp.56.9.651. PMID: 12944546;
+PMCID: PMC1770047.
+Lee I, Na M, Lavelle M, Api AM (2022) Derivation of the no expected sensitization induction
+level for dermal quantitative risk assessment of fragrance ingredients using a weight of
+evidence
+approach.
+Food
+Chem
+Toxicol.
+2022
+Jan;159:112705.
+doi:
+10.1016/j.fct.2021.112705. Epub 2021 Nov 25. PMID: 34838676.
+Loretz L, Api AM, Barraj L, Burdick J, Davis de A, Dressler W, Gilberti E, Jarrett G, Mann S,
+Laurie Pan YH, Re T, Renskers K, Scrafford C, Vater S (2006) Exposure data for personal care
+products: hairspray, spray perfume, liquid foundation, shampoo, body wash, and solid
+antiperspirant. Food Chem. Toxicol. 44,2008–2018.
+Maas (2016) OECD In vitro percutaneous absorption and dermal metabolism of Hexyl
+Salicylate in human skin (Triskelion). Study report V20800/16
+Madders (2022) Hexyl Salicylate: Genetic Toxicity Evaluation using a Micronucleus Test in
+Human Lymphocyte Cells. Gentronix study MNT02101.
+Magnusson B, Kligman AM (1969) The identification of contact allergens by animal assay. The
+guinea pig maximization test. Journal of Investigative Dermatology 52, 268–276.
+Meek ME, Boobis AR, Crofton KM, Heinemeyer G, Van Raaij M, Vickers C (2011) Risk
+assessment of combined exposure to multiple chemicals: A WHO/IPCS framework. Regulatory
+Toxicology and Pharmacology 60 (2011) S1–S14.
+OECD (2014) The Adverse Outcome Pathway for Skin Sensitisation initiated by covalent
+binding to proteins Part1: scientific evidence. ENV/JM/MONO(2012)10/PART1. Series on
+Testing and Assessment No. 168.
+OECD (2021) Guideline No 497: Defined approaches on Skin Sensitisation. 14 June 2021.
+Ouedraogo G, Alexander-White C, Bury D, Clewell III HJ, Cronin M, Cull T, Dent M, Desprez
+B, Detroyer A, Ellison C, Giammanco S, Hack E, Hewitt NJ, Kenna G, Klaric M, Kreiling R,
+Lester C, Mahony C, Mombelli E, Naciff J, O'Brien J, Schepky A, Tozer S, van der Burg B, van
+Vugt B, Stuard S (2022) Read-Across and New Approach Methodologies applied in a 10-Step
+Framework to Assure the Safety of Cosmetic Ingredients – A Case Study with Parabens. Regul
+Toxicol Pharmacol. 2022 Jul; 132:105161. doi: 10.1016/j.yrtph.2022.105161. Epub 2022
+May 1. PMID: 35508214.
+Piroird C.; J.-M. Ovigne; F. Rousset; S. Martinozzi-Teissier; C. Gomes; J. Cotovio; N. Alepee.
+The Myeloid U937 Skin Sensitization Test (U-SENS) addresses the activation of dendritic cell
+event in the adverse outcome pathway for skin sensitization. Toxicology in Vitro; 29(5), 901916.
+RIFM (Research Institute for Fragrance Materials Inc.), 1975a. Acute Toxicity Studies on Rats,
+Rabbits and Guinea Pigs. RIFM Report Number 2020, January 31 (RIFM, Woodcliff Lake, NJ,
+USA).
+RIFM (Research Institute for Fragrance Materials Inc.), 1975b. Report on human maximization
+studies. RIFM report number 1798, January 31 (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.), (Urbach) 1975 Photo- toxicity and
+Irritation Studies of Fragrance Materials in the Mouse and Miniature Swine. RIFM Report
+Number 2038, February 28 (RIFM, Woodcliff Lake, NJ, USA).
+________________________________________________________________________________________
+57
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+RIFM (Research Institute for Fragrance Materials Inc.), 1981. Guinea Pig Skin Sensitization
+Test with Hexyl Salicylate. Unpublished Report from Quest International, 11 December.
+Report Number 46933 (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.), 1984. Primary Irritation Test in
+Rabbits. RIFM Report Number 1795, June 1 (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.), 1985. Primary Irritation Test in
+Rabbits. RIFM Report Number 3099, June 1 (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.), 1986a. Primary Irritation Test in
+Rabbits. RIFM Report Number 5665, August 1 (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.), 1986b. Primary Irritation Test in
+Rabbits. RIFM Report Number 5664, June 1 (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.) (Harbell) 2002 – Hexyl Salicylate:
+Neutral red uptake phototoxicity assay in Balb/C 3T3 mouse fibroblasts. RIFM Report Number
+40280, (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.) (Learn) 2003. Topical Photoallergy
+Screening Test of Hexyl Salicylate in Male Albino Hairless Guinea. RIFM Report Number 44882,
+June 9 (RIFM, Woodcliff Lake, NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.) (Harrison) 2004. Repeated Insult Patch
+Test with Fragrance Materials. RIFM Report Number 45130, May, 3 (RIFM, Woodcliff Lake, NJ,
+USA).
+RIFM (Research Institute for Fragrance Materials Inc.), 2004b. Evaluation of the Phototoxicity
+of Hexyl Salicylate in Humans. RIFM Report Number 45136, March 16 (RIFM, Woodcliff Lake,
+NJ, USA).
+RIFM (Research Institute for Fragrance Materials Inc.) (Sears) 2014– UV/Vis absorption
+analysis for Hexyl Salicylate. Pyxant Labs Inc. Study No. 2430.
+RIFM (Research Institute for Fragrance Materials Inc.) 2015 Induction of antioxidant-response
+element dependent gene activity cytotoxicity (using MTT) in the Keratinocyte ARE- reporter
+cell line keratinosens. Report Number 69647, August 10 (RIFM, Woodcliff Lake, NJ, USA)
+RIFM (Research Institute for Fragrance Materials Inc) 2014 In vitro sensitization: Direct
+peptide reactivity assay (DPRA). RIFM Report Number 68623, October 6 (RIFM, Woodcliff
+Lake, NJ, USA)
+Rothe H, Fautz R, Gerber E, Neumann L, Rettinger K, Schuh W, Gronewold C (2011) Special
+aspects of cosmetic spray safety evaluations: principles on inhalation risk assessment.
+Toxicology Letters, 2011. 204(2): p. 97-104.
+Sharp DW (1978) The sensitization potential of some perfume ingredients tested using a
+modified Draize procedure. Toxicology 9, 261– 271.
+SCCS
+(2011)
+report
+Fragrance
+allergens
+opinion
+SCCS/1459/11.
+https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_073.pdf
+SCCS (2018) Opinion on salicylic acid (CAS 69-72-7) - Submission I, SCCS/1601/18,
+preliminary version of 10 September 2018, final version of 21 December 2018,
+CORRIGENDUM on 20-21 June 2019).
+Scientific Committee on Consumer Safety (2021a) SCCS/1628/21 The SCCS Notes of
+Guidance for the Testing of Cosmetic Ingredients and their Safety Evaluation 11 th Revision.
+March 2021.
+Scientific Committee on Consumer Safety (2021b) SCCS/1623/20 Opinion on methyl
+salicylate. As adopted at the SCCS meeting 26-27 October 2021. SCCS/1633/21
+Steiling W, Bascompta M, Carthew P, Catalano G, Corea N, D'Haese A, Jackson P, Kromidas
+L, Meurice P, Rothe H, Singal M (2014) Principle considerations for the risk assessment of
+________________________________________________________________________________________
+58
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+sprayed
+consumer
+products.
+Toxicol
+Lett.
+10.1016/j.toxlet.2014.03.005. Epub 2014 Mar 20.
+
+2014
+
+May
+
+16;227(1):41-9.
+
+doi:
+
+Tanaka S, Kawashima K, Nakaura S, Nagao S, Kuwamura T, Takanaka A, Omori Y (1973a)
+Teratogenic effect of dietary salicylic acid in rats. J. Food. Hyg. Soc., 1973, 14: 549-557.
+Tanaka S_ Kawashima K, Nakaura S., Nagao S., Kuwamura T., Takanaka A. and Omori Y.
+Studies on teratogenic effects of salicylic acid and aspirin in rats as related to fetal distribution.
+Congenital Abnormalities. 1973b, 13: 73-84.
+Urbisch D.; A. Mehling; K. Guth; T. Ramirez; N. Honarvar; et al. Assessing skin sensitization
+hazard in mice and men using non-animal test methods. Regulatory Toxicology and
+Pharmacology; 71(2), 337-351.
+Yamagata T, Inoue H, Kodama R et al. 1976. Metabolic fate of methyl salicylate. I. Absorption,
+distribution and excretion in hairless mice.
+Waltman R, Tricomi V, Shabanah EH, Arenas R (1973) The effect of anti-inflammatory drugs
+on parturition parameters in the rat. Prostaglandins 4:93-106.
+
+________________________________________________________________________________________
+59
+
+SCCS/1658/23
+Final version
+Opinion on Hexyl Salicylate (CAS/EC No. 6259-76-3/228-408-6)
+_________________________________________________________________________________
+
+Appendix 1 Literature & Data Search for toxicology evidence on Hexyl Salicylate
+It is assumed in the preparation of this dossier that, in addition to available industry studies,
+the following authoritative public reviews on Hexyl Salicylate can be drawn upon for necessary
+safety information for the dossier.
+
+•
+•
+•
+•
+•
+
+Cosmetics Ingredient Review (CIR) 2018-2019 (Final June 2019 report)
+https://www.cir-safety.org/sites/default/files/salicy042019FAR.pdf
+EU REACH substance dossier for Hexyl Salicylate
+https://echa.europa.eu/fr/registration-dossier/-/registered-dossier/14766/7/1
+European
+Chemicals
+Agency
+RAC
+CLH
+Opinion
+(CLP)(ECHA)
+https://echa.europa.eu/fr/registry-of-clh-intentions-until-outcome//dislist/details/0b0236e18471782f
+
+2022
+
+RIFM Fragrance Material Review (Lapczynski et al. 2007; Belsito et al. 2007)
+SCCNFP/0017/98 Final report 1999 Fragrance Allergy
+https://ec.europa.eu/health/ph_risk/committees/sccp/documents/out98_en.pdf
+
+•
+
+SCCS 2011 report Fragrance allergens opinion SCCS/1459/11
+https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_073.pdf
+
+7. GLOSSARY OF TERMS
+See SCCS/1647/22, 12th Revision of the SCCS Notes of Guidance for the Testing of Cosmetic
+Ingredients and their Safety Evaluation – Appendix 15 - from page 158
+
+8. LIST OF ABBREVIATIONS
+See SCCS/1647/22, 12th Revision of the SCCS Notes of Guidance for the Testing of Cosmetic
+Ingredients and their Safety Evaluation – Appendix 15 - from page 158
+
+________________________________________________________________________________________
+60
+
+

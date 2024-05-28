@@ -1,5 +1,6 @@
 
 export const textIds = [
+    // 'sccs_o_277',
     'sccs_o_044',
     'sccs_o_040',
     'sccs_o_059',
@@ -7,7 +8,7 @@ export const textIds = [
     'sccs_o_087',
     'sccs_o_180',
     'sccs_o_195',
-    'sccs_o_222'
+    // 'sccs_o_222'
 ];
 
 export const RDT = 'RDT';

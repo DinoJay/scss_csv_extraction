@@ -3,16 +3,25 @@ import { ACUTETOX, RDT, textIds } from '$lib/reportIds.js';
 const scrapeRDT = (txt, textId) => {
 
     const regexRepeatedDoseToxicity =
-        /3\.3\.5[\.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6[\.]*\s+Mutagenicity \/ Genotoxicity)/g;
+        /3\.3\.5[.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6[.]*\s+Mutagenicity \/ Genotoxicity)/g;
 
-    const rdtMatches = [...txt.matchAll(regexRepeatedDoseToxicity)];
+    const alt_regexRepeatedDoseToxicity =
+        /3\.4\.4[.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.4\.6[.]*\s+Mutagenicity \/ genotoxicity)/g;
+
+    const rdtMatchesIter = txt.matchAll(regexRepeatedDoseToxicity)
+    console.log('rdtMatchesIter', rdtMatchesIter)
+    const rdtMatches = [...rdtMatchesIter];
     const rdtText = rdtMatches[rdtMatches.length - 1]?.[0];
+    console.log('rdtText', rdtText)
+
+    if (rdtText === undefined) throw new Error('No RDT text found')
+
 
     let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
+    const guidelineMatchesRDTIter = rdtText?.matchAll(pattern);
+    console.log('guidelineMatchesRDTIter', guidelineMatchesRDTIter)
 
-    // console.log('rdtText MATCHES', [...rdtText.matchAll(pattern)])
-
-    let matchesRDT = [...rdtText?.matchAll(pattern)].map((d, i) => ({
+    let matchesRDT = [...guidelineMatchesRDTIter].map((d, i) => ({
         id: `${textId}-rdt-${i}`,
         txt: d[0], type: RDT
     }))
@@ -23,9 +32,15 @@ const scrapeRDT = (txt, textId) => {
 
 const scrapeAcuteTox = (txt, textId) => {
     const regexAcuteToxicity =
-        /3\.3\.1[\.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[\.]*\s*Irritation and corrosivity)/g;
+        /3\.3\.1[.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[.]*\s*Irritation and corrosivity)/g;
+
+    const alt_regexAcuteToxicity =
+        /3\.3\.1[.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[.]*\s*Irritation and corrosivity)/g;
 
     const acuteToxMatches = [...txt.matchAll(regexAcuteToxicity)];
+    console.log('acuteToxMatches', acuteToxMatches)
+    if (acuteToxMatches.length === 0) throw new Error('No Acute Toxicity text found')
+
     const acuteToxicityTxt = [...acuteToxMatches][acuteToxMatches.length - 1]?.[0];
 
     let pattern = /Guideline:[\s\S]*?Ref\.*:*\s\d+\s/gm;
@@ -44,6 +59,7 @@ const scrapeAcuteTox = (txt, textId) => {
 const fetchData = ((fetch, textId) => {
     console.log('fetching data...', textId)
     const prs = [
+        // fetch('/sccs_o_277.txt').then((response) => response.text()),
         fetch('/sccs_o_044.txt').then((response) => response.text()),
         fetch('/sccs_o_040.txt').then((response) => response.text()),
         fetch('/sccs_o_059.txt').then((response) => response.text()),

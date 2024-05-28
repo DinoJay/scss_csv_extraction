@@ -4,6 +4,7 @@ export default [
         cols: ['homogeneity and stability', 'pH', 'material form', 'achieved concentration (%)', 'composition', 'purity (%)', 'chemical batch nr',
             'description (all other information not captured in given columns)'],
         path: '/Test-Method'
+
     },
     {
         name: "Vehicle", cols: ['name', 'concentration (%)'], path: '/Test-method/Test-Substance'
@@ -92,7 +93,7 @@ export default [
         ], path: '/Endpoints/Observations'
     }, {
         name: 'Observations', cols: [
-            'body weight ',
+            'body weight',
             'food/water consumption',
             'ophtalmological examination',
             'organ/body weight',
