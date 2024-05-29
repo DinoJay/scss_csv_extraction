@@ -7,7 +7,7 @@ export const paragraphQuery = (cols: string | string[] | undefined, paragraphTex
 	// 		Use "," as delimiter. If the answer is not present in the text, respond with an "-". Respond with one csv row only. Don't include any commentary text or command strings such as "\`\`\`csv"! Your response must be a text string in valid csv format including the column header row correctly formatted.
 	// 	`.trim();
 	return `
-	Find the values for "${cols}" in the text given before ("${paragraphText.slice(0, 20)}"). Respond with a JSON array. Use underscore to separate words of the json variable names. Don't include any commentary text or command strings such as "\`\`\`"!  
+	Find the value for the following variable "${cols}" in the text given before ("${paragraphText.slice(0, 60)}"). Respond with a JSON object! Use underscore to separate words of the json variable names. Don't include any commentary text or command strings such as "\`\`\`"!  
 	`;
 }
 

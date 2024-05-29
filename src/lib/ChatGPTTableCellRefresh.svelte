@@ -89,7 +89,7 @@
 </button>
 
 <ChatGptExplanationModal
-	title="Source - {key}={value}"
+	title="Source - {key.replace(/_/g, ' ')}"
 	{paragraph}
 	{quote}
 	onClose={() => (quote = null)}

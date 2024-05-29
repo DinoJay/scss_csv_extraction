@@ -26,8 +26,15 @@
 
 <div class="sticky mb-2 overflow-visible bg-blue-100 drop-shadow-md z-50">
 	<div class=" w-full flex-1 p-2 flex items-center">
-		<button style="width:32px; height:32px" on:click={() => (open = !open)}>
-			<MdDehaze></MdDehaze>
+		<button
+			class="text-lg flex gap-2 items-center"
+			style="height:32px"
+			on:click={() => (open = !open)}
+		>
+			<div style="width:32px;height:32px">
+				<MdDehaze></MdDehaze>
+			</div>
+			<div>Select Report</div>
 		</button>
 		<div class="ml-auto mr-3">
 			{#if selectedId !== null}

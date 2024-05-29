@@ -10,8 +10,8 @@
 	$: start = quote ? cleanedP.indexOf(quote) : 0;
 	$: end = typeof quote === 'string' ? cleanedP.indexOf(quote) + quote.length : 0;
 
-	$: console.log('quote', quote);
-	$: console.log('start end', start, end);
+	// $: console.log('quote', quote);
+	// $: console.log('start end', start, end);
 
 	// $: console.log('textPassages', textPassages);
 	// $: console.log(

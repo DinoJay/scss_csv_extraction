@@ -22,12 +22,12 @@
 	// $: console.log('response', response);
 
 	const joinData = (responses) => {
-		// console.log('responses JOIN', responses);
+		console.log('responses JOIN', responses);
 		const datum = responses.reduce((acc, r) => {
 			const js = JSON.parse(r);
 			return { ...acc, ...js, id: pid, paragraph };
 		}, {});
-		// console.log('data join responses', datum);
+		console.log('DATUM', datum);
 		return [datum];
 	};
 
@@ -38,8 +38,8 @@
 	console.log('data', data);
 
 	$: currentContext = () => {
-		console.log('prompts	', prompts);
-		console.log('responses	', responses);
+		// console.log('prompts	', prompts);
+		// console.log('responses	', responses);
 		return [...prompts.flatMap((d, i) => [d, responses[i]]), csvFormat(data)];
 	};
 

@@ -6,59 +6,61 @@
 	export let paragraph;
 	import MdClose from 'svelte-icons/md/MdClose.svelte';
 	import ChatGPTTableCellRefresh from './ChatGPTTableCellRefresh.svelte';
-	$: console.log('data TABLE', data);
+	// $: console.log('data TABLE', data);
 	export let exclude = ['id', 'paragraph'];
 
 	//TODO: I don't know if this is right
 	const flat = data.flatMap((d) => Object.keys(d));
-	console.log('flat', flat);
+	// console.log('flat', flat);
 	$: columns = [...new Set(flat)].filter((d) => !exclude.includes(d));
-	console.log('data Table', data);
+	// console.log('data Table', data);
 
-	// function prettyPrintJson(obj, indent = 4) {
-	// 	let result = '';
-	// 	const padding = ' '.repeat(indent);
+	function prettyPrintJson(obj, indent = 4) {
+		let result = '';
+		const padding = ' '.repeat(indent);
 
-	// 	if (obj === null) {
-	// 		return '-';
-	// 	}
+		if (obj === null) {
+			return '-';
+		}
 
-	// 	if (typeof obj !== 'object') {
-	// 		return `${obj}`;
-	// 	}
+		if (typeof obj !== 'object') {
+			return `${obj}`;
+		}
 
-	// 	for (let key in obj) {
-	// 		if (obj.hasOwnProperty(key)) {
-	// 			if (Array.isArray(obj[key])) {
-	// 				result += `${padding}${key}:\n`;
-	// 				obj[key].forEach((item) => {
-	// 					if (typeof item === 'object' && item !== null) {
-	// 						const itemString = prettyPrintJson(item, indent + 2).trim();
-	// 						const itemLines = itemString
-	// 							.split('\n')
-	// 							.map((line) => `${padding}  - ${line}`)
-	// 							.join('\n');
-	// 						result += `${itemLines}\n`;
-	// 					} else {
-	// 						result += `${padding}  - ${item}\n`;
-	// 					}
-	// 				});
-	// 			} else if (typeof obj[key] === 'object' && obj[key] !== null) {
-	// 				result += `${padding}${key}:\n${prettyPrintJson(obj[key], indent + 2)}`;
-	// 			} else {
-	// 				const value = obj[key] === null ? '-' : obj[key];
-	// 				result += `${padding}${key}: ${value}\n`;
-	// 			}
-	// 		}
-	// 	}
+		for (let key in obj) {
+			if (obj.hasOwnProperty(key)) {
+				if (Array.isArray(obj[key])) {
+					result += `${padding}${key}:\n`;
+					obj[key].forEach((item) => {
+						if (typeof item === 'object' && item !== null) {
+							const itemString = prettyPrintJson(item, indent + 2).trim();
+							const itemLines = itemString
+								.split('\n')
+								.map((line) => `${padding}  - ${line}`)
+								.join('\n');
+							result += `${itemLines}\n`;
+						} else {
+							result += `${padding}  - ${item}\n`;
+						}
+					});
+				} else if (typeof obj[key] === 'object' && obj[key] !== null) {
+					result += `${padding}${key}:\n${prettyPrintJson(obj[key], indent + 2)}`;
+				} else {
+					const value = obj[key] === null ? '-' : obj[key];
+					result += `${padding}${key}: ${value}\n`;
+				}
+			}
+		}
 
-	// 	return result;
-	// }
+		return result;
+	}
 
-	console.log('data', data);
+	// console.log('data', data);
 	const myPrettyPrint = (obj) => {
-		if (Array.isArray(obj)) return obj.join(', ');
-		return obj;
+		// if (Array.isArray(obj)) return obj.join(', ');
+		// if (typeof obj === 'object') return JSON.stringify(obj, null, 2);
+		// return obj;
+		return prettyPrintJson(obj);
 	};
 </script>
 

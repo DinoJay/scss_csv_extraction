@@ -46,8 +46,10 @@
 		paragraphText
 	);
 	$: prompts = selEndpoints
-		.map((n) => endpoints.find((d) => d.name === n)?.cols)
-		.map((c) => paragraphQuery(c, paragraphText));
+		.flatMap((n) => endpoints.find((d) => d.name === n)?.cols)
+		.map((c) => paragraphQuery([c], paragraphText));
+
+	$: console.log('prompts', prompts);
 
 	$: setChatGPTContext = (array: any[]) => {
 		const messages = array.map((p) => ({
@@ -169,7 +171,6 @@
 
 			//TODO:
 			Promise.all(prompts.map((p) => setChatGPTContext([paragraphText, p]))).then((d) => {
-				console.log('done', d);
 				responses = d.map((d) => d?.choices[0].message.content);
 			});
 		}}
@@ -189,7 +190,6 @@
 				})
 			)
 		).then((res) => {
-			console.log('done', res);
 			responses = res;
 		});
 	}}
