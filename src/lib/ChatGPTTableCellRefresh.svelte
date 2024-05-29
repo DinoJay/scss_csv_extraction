@@ -8,6 +8,7 @@
 	import ChatGptExplanationModal from './ChatGPTExplanationModal.svelte';
 	import chatGPTApiOptions from './chatGPTApiOptions';
 	import { paragraphQuery } from './chatGPTparagraphQueries';
+	import { onMount } from 'svelte';
 
 	export let onChange;
 	export let context;
@@ -44,6 +45,19 @@
 			messages
 		});
 	};
+
+	let confidence = '';
+	// onMount(() => {
+	// 	// console.log('key', key);
+	// 	// console.log('value', value);
+	// 	const pr = `What is the level of confidence in percentage (0%-100%) at answering "${question0}. Respond only with a numeric percentage value!"`;
+	// 	setChatGPTContext([pr]).then((resp) => {
+	// 		const answer = resp?.choices?.[0].message?.content;
+	// 		confidence = answer;
+	// 		console.log('confidence', answer);
+	// 	});
+	// 	// console.log('paragraph', paragraph);
+	// });
 </script>
 
 <button
@@ -51,7 +65,7 @@
 	on:click={() => {
 		loadingResponse0 = true;
 		setChatGPTContext([question0]).then((resp) => {
-			console.log('context', context);
+			// console.log('context', context);
 			const answer = resp?.choices?.[0].message?.content;
 			loadingResponse0 = false;
 			onChange(answer);
@@ -76,7 +90,7 @@
 			const answer = resp?.choices?.[0].message?.content;
 			// const js = answer ? Object.values(JSON.parse(answer)) : null;
 
-			console.log('answer', answer);
+			// console.log('answer', answer);
 			loadingResponse1 = false;
 			quote = answer;
 		});
@@ -88,6 +102,7 @@
 		<MdErrorOutline></MdErrorOutline>
 	{/if}
 </button>
+<!-- <div>{confidence}</div> -->
 
 <ChatGptExplanationModal
 	title="Source - {key.replace(/_/g, ' ')}"

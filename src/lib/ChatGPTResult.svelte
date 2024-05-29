@@ -15,6 +15,7 @@
 	export let paragraph;
 	export let edit = true;
 	export let cols;
+	export let completionPerc;
 
 	import { csvParse, csvFormat } from 'd3-dsv';
 	import { ACUTETOX, RDT } from './reportIds';
@@ -140,7 +141,12 @@
 <LightBox {title} isOpen={open} close={onClose}>
 	<div class="w-full flex flex-col overflow-auto min-h-64">
 		{#if data.length === 0}
-			<div class="m-auto">
+			<div class="m-auto relative">
+				<div class="absolute flex" style:left="8px" style:top="21px" style:width="50px">
+					<div class="m-auto font-bold">
+						{completionPerc}%
+					</div>
+				</div>
 				<Spinner></Spinner>
 			</div>
 		{:else if data.length > 0}

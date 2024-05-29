@@ -76,6 +76,24 @@
 	// console.log('text', text, question);
 	// console.log('page', $page.state);
 	// $: console.log('paragraphText', paragraphText);
+
+	let completionCount = 0;
+	const submitChatGPTQuery = (prompts) => {
+		responses = null;
+		Promise.all(
+			prompts.map((p) =>
+				setChatGPTContext([p]).then((d) => {
+					completionCount = completionCount + 1;
+					return d?.choices[0].message.content;
+				})
+			)
+		).then((res) => {
+			completionCount = 0;
+			responses = res;
+		});
+	};
+
+	$: console.log('completion Count', completionCount);
 </script>
 
 <div class="flex items-center mb-3">
@@ -155,6 +173,7 @@
 		{type}
 		{pid}
 		paragraph={paragraphText}
+		completionPerc={Math.round((completionCount / prompts.length) * 100)}
 		{prompts}
 		{cols}
 		title="ChatGPT Result - {selEndpoints.join(', ')}"
@@ -162,19 +181,7 @@
 		open={$page.state.showModal}
 		onSubmit={() => {
 			console.log('page', $page.state.showModal);
-			responses = null;
-
-			// pushState('', { showModal: true });
-
-			Promise.all(
-				prompts.map((p) =>
-					setChatGPTContext([p]).then((d) => {
-						return d?.choices[0].message.content;
-					})
-				)
-			).then((res) => {
-				responses = res;
-			});
+			submitChatGPTQuery(prompts);
 		}}
 		{responses}
 	/>
@@ -184,16 +191,7 @@
 	class="w-full p-2 border-2 mt-2 flex items-center justify-center"
 	on:click={() => {
 		pushState('', { showModal: true });
-		responses = null;
-		Promise.all(
-			prompts.map((p) =>
-				setChatGPTContext([p]).then((d) => {
-					return d?.choices[0].message.content;
-				})
-			)
-		).then((res) => {
-			responses = res;
-		});
+		submitChatGPTQuery(prompts);
 	}}
 	type="button"
 >

@@ -1,10 +1,10 @@
 <script>
 	export let cls = '';
-	export let height = '50px';
-	export let width = '50px';
+	export let height = '66px';
+	export let width = '66px';
 </script>
 
-<div class="loading border-gray-700 border-4 {cls}" style:height style:width />
+<div class="loading border-gray-700 border-4 {cls}" style:height style:width></div>
 
 <style>
 	.loading {
