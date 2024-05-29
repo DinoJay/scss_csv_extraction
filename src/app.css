@@ -26,3 +26,16 @@
         max-width: 800px
     }
 }
+
+
+@responsive {
+    .max-modal-width {
+        max-width: 1200px
+    }
+}
+
+@responsive {
+    .max-modal-large-width {
+        max-width: 1600px
+    }
+}
