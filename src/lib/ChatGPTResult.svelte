@@ -22,12 +22,13 @@
 	// $: console.log('response', response);
 
 	const joinData = (responses) => {
-		let newData = responses.map((r, j) =>
-			csvParse(r).map((d, i) => ({ ...d, id: `${pid}-${i}`, paragraph }))
-		);
-		console.log('data join responses', newData);
-		let groupedObj = Object.groupBy(newData.flat(), (d) => d.id);
-		return Object.values(groupedObj).map((d) => d.reduce((acc, d) => ({ ...acc, ...d }), {}));
+		// console.log('responses JOIN', responses);
+		const datum = responses.reduce((acc, r) => {
+			const js = JSON.parse(r);
+			return { ...acc, ...js, id: pid, paragraph };
+		}, {});
+		// console.log('data join responses', datum);
+		return [datum];
 	};
 
 	$: console.log('responses', responses);

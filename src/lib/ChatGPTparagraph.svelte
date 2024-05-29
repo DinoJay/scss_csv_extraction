@@ -47,7 +47,7 @@
 	);
 	$: prompts = selEndpoints
 		.map((n) => endpoints.find((d) => d.name === n)?.cols)
-		.map((cols) => paragraphQuery(cols, paragraphText));
+		.map((c) => paragraphQuery(c, paragraphText));
 
 	$: setChatGPTContext = (array: any[]) => {
 		const messages = array.map((p) => ({
@@ -182,12 +182,15 @@
 	on:click={() => {
 		pushState('', { showModal: true });
 		responses = null;
-		Promise.all(prompts.map((p) => setChatGPTContext([paragraphText, p]))).then((d) => {
-			// loadingResponse = false;
-			console.log('done', d);
-			responses = d.map((d) => d?.choices[0].message.content);
-			// response = d;
-			// chatGPTerror = null;
+		Promise.all(
+			prompts.map((p) =>
+				setChatGPTContext([paragraphText, p]).then((d) => {
+					return d?.choices[0].message.content;
+				})
+			)
+		).then((res) => {
+			console.log('done', res);
+			responses = res;
 		});
 	}}
 	type="button"

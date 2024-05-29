@@ -1,15 +1,16 @@
 <script>
 	import { text } from '@sveltejs/kit';
 	import LightBox from './LightBox.svelte';
-	export let textPassages = null;
+	export let quote = null;
 	export let onClose;
 	export let paragraph;
 	export let title;
 
 	const cleanedP = paragraph.replace(/(\r)/gm, '');
-	$: paragraphIndices = textPassages
-		? textPassages.split('||').map((p) => [cleanedP.indexOf(p), cleanedP.indexOf(p) + p.length])
-		: [];
+	$: start = quote ? cleanedP.indexOf(quote) : 0;
+	$: end = quote !== null ? cleanedP.indexOf(quote) + quote.length : 0;
+
+	$: console.log('quote', quote);
 
 	// $: console.log('textPassages', textPassages);
 	// $: console.log(
@@ -18,21 +19,20 @@
 	// );
 	// $: console.log('paragraph', paragraph);
 
-	$: htmlText = textPassages
+	$: htmlText = quote
 		? [...cleanedP]
 				.map((p, i) => {
-					if (paragraphIndices.some(([start, end]) => i >= start && i < end)) {
+					if (i >= start && i < end) {
 						return `<span class="bg-yellow-200">${p}</span>`;
 					}
 					return p;
 				})
-
 				.join('')
 		: '';
 
 	// $: console.log('paragraph', paragraph);
 </script>
 
-<LightBox {title} isOpen={textPassages !== null} close={onClose}
+<LightBox {title} isOpen={quote !== null} close={onClose}
 	><div class="overflow-auto">{@html htmlText}</div></LightBox
 >

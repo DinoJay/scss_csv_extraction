@@ -17,7 +17,10 @@
 	let loadingResponse0 = false;
 	let loadingResponse1 = false;
 
-	let textPassages = null;
+	/**
+	 * @type {string | null}
+	 */
+	let quote = null;
 
 	const openai = new OpenAI({
 		apiKey: import.meta.env.VITE_OPEN_AI,
@@ -25,20 +28,19 @@
 		dangerouslyAllowBrowser: true
 	});
 
-	$: question0 = `Find information for "${key}" in the given text! 
-	Be exact, concise and to the point.
-	Don't include commentary text. Don't contradict your answer with your current context given. if you can't find an answer, respond with an "-"`;
+	$: question0 = `Find the value for "${key}" in the given text!`;
 
-	$: setChatGPTContext = (array) => {
+	$: setChatGPTContext = (array, opts) => {
 		const messages = array.map((p) => ({
 			role: 'user',
 			content: p
 		}));
 
 		return openai.chat.completions.create({
+			...chatGPTApiOptions,
+			...opts,
 			model: 'gpt-4o',
-			messages: [...messages],
-			...chatGPTApiOptions
+			messages
 		});
 	};
 </script>
@@ -65,14 +67,17 @@
 <button
 	style="width:18px;height:18px"
 	on:click={() => {
-		const question1 = `Provide a text passage found in "${paragraph}" which were used as input to inform the response for the previous user command namely "${question0}". Run several iterations to find th Don't respond with an empty text passage such as \'\'. If you can't find an answer, respond with an "-". don't include any command string such as \`\`\`javascript`;
+		const question1 = `Provide a text quote from "${paragraph}" that was used to answer the previous user command namely "${question0}". Don't respond with any commentary or introduction text! Only respond with the exact quote as string.`;
 
 		// console.log('question', question1);
 		loadingResponse1 = true;
-		setChatGPTContext([...context, question0, question1]).then((resp) => {
+		setChatGPTContext([question0, question1], { response_format: null }).then((resp) => {
 			const answer = resp?.choices?.[0].message?.content;
+			// const js = answer ? Object.values(JSON.parse(answer)) : null;
+
+			console.log('answer', answer);
 			loadingResponse1 = false;
-			textPassages = answer;
+			quote = answer;
 		});
 	}}
 >
@@ -86,6 +91,6 @@
 <ChatGptExplanationModal
 	title="Source - {key}={value}"
 	{paragraph}
-	{textPassages}
-	onClose={() => (textPassages = null)}
+	{quote}
+	onClose={() => (quote = null)}
 />
