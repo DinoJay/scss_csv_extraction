@@ -1,4 +1,4 @@
-export const paragraphQuery = (cols: string | string[] | undefined, paragraphText) => {
+export const paragraphQuery = (variable: string | string[] | undefined, paragraphText) => {
 
 	// console.log("paragraphText", paragraphText);
 	// return `
@@ -7,7 +7,7 @@ export const paragraphQuery = (cols: string | string[] | undefined, paragraphTex
 	// 		Use "," as delimiter. If the answer is not present in the text, respond with an "-". Respond with one csv row only. Don't include any commentary text or command strings such as "\`\`\`csv"! Your response must be a text string in valid csv format including the column header row correctly formatted.
 	// 	`.trim();
 	return `
-	Find the value for the following variable "${cols}" in the text given before ("${paragraphText.slice(0, 60)}"). Don't include any commentary text or command strings such as "\`\`\`"! 
+	Find the value for the following variable "${variable}" in the following text namely "${paragraphText}". If you don't know the answer, respond with "-". Don't include any commentary text or command strings such as "\`\`\`"! 
 	`.trim();
 }
 

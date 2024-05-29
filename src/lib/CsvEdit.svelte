@@ -51,8 +51,8 @@
 				<textarea class="w-full">{csvFormat(rdt)}</textarea>
 			{/if}
 
-			<div class="flex">
-				<h2 class="text-lg my-2">Acute Dose Toxicity</h2>
+			<div class="flex my-2">
+				<h2 class="text-lg">Acute Dose Toxicity</h2>
 				{#if acuteTox.length > 0}
 					<ExportCsvBtn
 						fileName="acuteToxicity.csv"

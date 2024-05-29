@@ -168,7 +168,7 @@
 
 			Promise.all(
 				prompts.map((p) =>
-					setChatGPTContext([paragraphText, p]).then((d) => {
+					setChatGPTContext([p]).then((d) => {
 						return d?.choices[0].message.content;
 					})
 				)
@@ -187,7 +187,7 @@
 		responses = null;
 		Promise.all(
 			prompts.map((p) =>
-				setChatGPTContext([paragraphText, p]).then((d) => {
+				setChatGPTContext([p]).then((d) => {
 					return d?.choices[0].message.content;
 				})
 			)
