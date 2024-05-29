@@ -71,7 +71,7 @@
 
 		// console.log('question', question1);
 		loadingResponse1 = true;
-		setChatGPTContext([question0, question1], { response_format: null }).then((resp) => {
+		setChatGPTContext([question0, question1]).then((resp) => {
 			const answer = resp?.choices?.[0].message?.content;
 			// const js = answer ? Object.values(JSON.parse(answer)) : null;
 

@@ -14,6 +14,7 @@
 	export let pid;
 	export let paragraph;
 	export let edit = true;
+	export let cols;
 
 	import { csvParse, csvFormat } from 'd3-dsv';
 	import { ACUTETOX, RDT } from './reportIds';
@@ -21,11 +22,19 @@
 
 	// $: console.log('response', response);
 
-	const joinData = (responses) => {
+	// const joinData = (responses) => {
+	// 	console.log('responses JOIN', responses);
+	// 	const datum = responses.reduce((acc, r) => {
+	// 		const js = JSON.parse(r);
+	// 		return { ...acc, ...js, id: pid, paragraph };
+	// 	}, {});
+	// 	console.log('DATUM', datum);
+	// 	return [datum];
+	// };
+	const joinData = (responses, cs) => {
 		console.log('responses JOIN', responses);
-		const datum = responses.reduce((acc, r) => {
-			const js = JSON.parse(r);
-			return { ...acc, ...js, id: pid, paragraph };
+		const datum = responses.reduce((acc, r, i) => {
+			return { ...acc, [cs[i]]: r, id: pid, paragraph };
 		}, {});
 		console.log('DATUM', datum);
 		return [datum];
@@ -33,7 +42,7 @@
 
 	$: console.log('responses', responses);
 
-	let data = responses ? joinData(responses) : [];
+	let data = responses ? joinData(responses, cols) : [];
 
 	console.log('data', data);
 

@@ -99,9 +99,7 @@
 											{context}
 											{paragraph}
 											onChange={(answer) => {
-												onChange(
-													data.map((d, j) => (j === i ? { ...d, ...JSON.parse(answer) } : d))
-												);
+												onChange(data.map((d, j) => (j === i ? { ...d, [key]: answer } : d)));
 											}}
 										/>
 									{/if}

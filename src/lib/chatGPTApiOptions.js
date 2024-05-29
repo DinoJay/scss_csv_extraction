@@ -2,7 +2,7 @@ export default {
 
     model: 'gpt-4o',
     // temperature: 0.01,
-    response_format: { "type": "json_object" },
+    // response_format: { "type": "json_object" },
     presence_penalty: -2,
     // max_tokens: 256,
     // top_p: 1,
