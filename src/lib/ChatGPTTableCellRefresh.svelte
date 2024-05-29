@@ -7,6 +7,7 @@
 	import LightBox from './LightBox.svelte';
 	import ChatGptExplanationModal from './ChatGPTExplanationModal.svelte';
 	import chatGPTApiOptions from './chatGPTApiOptions';
+	import { paragraphQuery } from './chatGPTparagraphQueries';
 
 	export let onChange;
 	export let context;
@@ -28,7 +29,7 @@
 		dangerouslyAllowBrowser: true
 	});
 
-	$: question0 = `Find the value for "${key}" in the given text!`;
+	$: question0 = paragraphQuery(key, paragraph);
 
 	$: setChatGPTContext = (array, opts) => {
 		const messages = array.map((p) => ({
@@ -49,7 +50,7 @@
 	style="width:18px;height:18px"
 	on:click={() => {
 		loadingResponse0 = true;
-		setChatGPTContext([...context, question0]).then((resp) => {
+		setChatGPTContext([question0]).then((resp) => {
 			console.log('context', context);
 			const answer = resp?.choices?.[0].message?.content;
 			loadingResponse0 = false;
@@ -71,7 +72,7 @@
 
 		// console.log('question', question1);
 		loadingResponse1 = true;
-		setChatGPTContext([question0, question1]).then((resp) => {
+		setChatGPTContext([question1]).then((resp) => {
 			const answer = resp?.choices?.[0].message?.content;
 			// const js = answer ? Object.values(JSON.parse(answer)) : null;
 
