@@ -21,7 +21,7 @@
 {#if data.length === 0}
 	<div class="m-auto text-sm text-gray-500">No Data</div>
 {:else}
-	<div class="overflow-auto">
+	<div class="container overflow-scroll">
 		<table class="table-fixed">
 			<thead>
 				<tr>
@@ -66,3 +66,19 @@
 		</table>
 	</div>
 {/if}
+
+<style>
+	.container::-webkit-scrollbar {
+		height: 12px;
+	}
+
+	.container::-webkit-scrollbar-track {
+		background-color: white;
+		border-radius: 12px;
+	}
+
+	.container::-webkit-scrollbar-thumb {
+		background-color: #7d7d7d;
+		border-radius: 12px;
+	}
+</style>
