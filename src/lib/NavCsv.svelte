@@ -43,13 +43,15 @@
 				Select a CSV
 			{/if}
 		</div>
-		<div>
-			<a
-				href="/{selectedId}?scraped={!scraped}"
-				class="ml-auto p-1 border-2 flex mr-1 bg-gray-100"
-				style:width="72px"><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
-			>
-		</div>
+		{#if selectedId}
+			<div>
+				<a
+					href="/{selectedId}?scraped={!scraped}"
+					class="ml-auto p-1 border-2 flex mr-1 bg-gray-100"
+					style:width="72px"><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
+				>
+			</div>
+		{/if}
 	</div>
 
 	{#if open}
