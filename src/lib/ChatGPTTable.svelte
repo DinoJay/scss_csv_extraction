@@ -4,6 +4,7 @@
 	export let context = [];
 	export let refreshable = false;
 	export let paragraph;
+	export let edit = false;
 	import MdClose from 'svelte-icons/md/MdClose.svelte';
 	import ChatGPTTableCellRefresh from './ChatGPTTableCellRefresh.svelte';
 	// $: console.log('data TABLE', data);
@@ -68,7 +69,7 @@
 		<table class="table-fixed">
 			<thead>
 				<tr>
-					{#each columns.map((d) => d.replace(/_/g, ' ')) as key}
+					{#each (edit ? ['Edit', ...columns] : columns).map((d) => d.replace(/_/g, ' ')) as key}
 						<th class="border-2 p-2">{key}</th>
 					{/each}
 				</tr>
@@ -76,6 +77,15 @@
 			<tbody>
 				{#each data as d, i (i)}
 					<tr>
+						{#if edit}
+							<td class="border-2 p-2"
+								><div class="m-auto" style="width:18px;height:18px">
+									<button on:click={() => onChange(data.filter((d, j) => j !== i))}>
+										<MdClose />
+									</button>
+								</div></td
+							>
+						{/if}
 						{#each columns.filter((d) => !exclude.includes(d)) as key (key)}
 							<td class="border-2 p-2">
 								<div class="flex flex-wrap items-center gap-1">

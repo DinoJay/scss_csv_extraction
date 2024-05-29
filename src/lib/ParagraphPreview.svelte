@@ -1,5 +1,5 @@
 <script lang="ts">
-	import MdExpandMore from 'svelte-icons/md/MdExpandMore.svelte';
+	import MdLink from 'svelte-icons/md/MdLink.svelte';
 	export let title;
 	export let text;
 	export let pid;
@@ -52,11 +52,14 @@
 				class="text-gray-600"
 				style="width:24px;height:24px"
 			>
-				<MdExpandMore></MdExpandMore>
+				<MdLink />
 			</a>
 		</div>
-		<p class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden">
-			{text}
-		</p>
+
+		<a href={`${reportId}?pid=${pid}&scraped=${scraped}`}>
+			<p class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden">
+				{text}
+			</p>
+		</a>
 	</div>
 </div>

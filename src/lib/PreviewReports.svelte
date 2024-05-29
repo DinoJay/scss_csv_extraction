@@ -24,10 +24,8 @@
 			{#each rdt as p, i (p.id)}
 				<ParagraphPreview
 					{scraped}
-					selected={selectedPid === p.id}
 					title={`Study ${i + 1}`}
 					text={p.txt}
-					type={p.type}
 					pid={p.id}
 					reportId={selectedTextId}
 				/>

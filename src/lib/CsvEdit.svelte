@@ -37,6 +37,7 @@
 			</div>
 			{#if !csvMode}
 				<Table
+					edit={true}
 					data={rdt}
 					onChange={(nd) =>
 						store.update((st) => {
@@ -47,7 +48,7 @@
 			{:else if rdt.length === 0}
 				<div class="text-sm text-gray-500">No Data</div>
 			{:else}
-				<textarea class="w-full lg:h-96">{csvFormat(rdt)}</textarea>
+				<textarea class="w-full">{csvFormat(rdt)}</textarea>
 			{/if}
 
 			<div class="flex">
