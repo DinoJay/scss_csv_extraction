@@ -69,7 +69,7 @@
 		<table class="table-fixed">
 			<thead>
 				<tr>
-					{#each ['Edit', ...columns] as key}
+					{#each ['Edit', ...columns.map((d) => d.replace(/_/g, ' '))] as key}
 						<th class="border-2 p-2">{key}</th>
 					{/each}
 				</tr>

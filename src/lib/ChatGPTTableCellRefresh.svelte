@@ -67,7 +67,7 @@
 <button
 	style="width:18px;height:18px"
 	on:click={() => {
-		const question1 = `Provide a text quote from "${paragraph}" that was used to answer the previous user command namely "${question0}". Don't respond with any commentary or introduction text! Only respond with the exact quote as string.`;
+		const question1 = `Provide a text quote from "${paragraph}" that was used to answer the previous user command namely "${question0}". Don't respond with any commentary or introduction text! Only respond with the exact quote as string. Don't use "" to wrap the quote!`;
 
 		// console.log('question', question1);
 		loadingResponse1 = true;
