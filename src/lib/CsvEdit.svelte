@@ -47,7 +47,7 @@
 			{:else if rdt.length === 0}
 				<div class="text-sm text-gray-500">No Data</div>
 			{:else}
-				<textarea class="w-full h-48">{csvFormat(rdt)}</textarea>
+				<textarea class="w-full lg:h-96">{csvFormat(rdt)}</textarea>
 			{/if}
 
 			<div class="flex">

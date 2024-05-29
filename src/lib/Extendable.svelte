@@ -54,10 +54,10 @@
 		</span>
 	</div>
 
-	<div class="flex-grow flex flex-col">
+	<div class="flex flex-col">
 		{#if expanded}
 			{#key expanded}
-				<div class="flex flex-col flex-grow" transition:slide>
+				<div class="flex flex-col" transition:slide>
 					<slot />
 				</div>
 			{/key}

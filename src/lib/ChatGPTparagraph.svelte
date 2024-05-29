@@ -78,54 +78,54 @@
 	// $: console.log('paragraphText', paragraphText);
 </script>
 
-<div class="flex-1 overflow-auto flex flex-col">
-	<div class="flex items-center mb-3">
-		<a href={`/${reportId}?scraped=${scraped}`} style="width:20px;height:20px">
-			<MdArrowBack></MdArrowBack>
-		</a>
-		<h1 class="text-xl ml-2">{reportId}/{pid}</h1>
-	</div>
-	<p class="p-2 mb-3 whitespace-pre-wrap border-2 max-h-72 overflow-auto text-gray-700">
-		{paragraphText}
-	</p>
-	<div class="gap-2 mb-auto">
-		<Extendable title="Select Endpoints" preClosed={true}>
-			<EndpointNav
-				endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
-				{selEndpoints}
-				onClick={(e) => {
-					if (selEndpoints.includes(e.name)) {
-						if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e.name);
-					} else {
-						selEndpoints = [...selEndpoints, e.name];
-					}
-				}}
-			></EndpointNav>
-		</Extendable>
-		<EndpointList
-			endpoints={selEndpoints}
-			cls="mt-3"
+<div class="flex items-center mb-3">
+	<a href={`/${reportId}?scraped=${scraped}`} style="width:20px;height:20px">
+		<MdArrowBack></MdArrowBack>
+	</a>
+	<h1 class="text-xl ml-2">{reportId}/{pid}</h1>
+</div>
+<p
+	class="p-2 mb-3 whitespace-pre-wrap border-2 overflow-auto text-gray-700 h-48 flex-auto 2xl:max-h-96"
+>
+	{paragraphText}
+</p>
+<div class="mb-auto">
+	<Extendable title="Select Endpoints" preClosed={true}>
+		<EndpointNav
+			endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
+			{selEndpoints}
 			onClick={(e) => {
-				if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e);
+				if (selEndpoints.includes(e.name)) {
+					if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e.name);
+				} else {
+					selEndpoints = [...selEndpoints, e.name];
+				}
 			}}
-		></EndpointList>
-	</div>
+		></EndpointNav>
+	</Extendable>
+</div>
+<EndpointList
+	endpoints={selEndpoints}
+	cls="mt-3"
+	onClick={(e) => {
+		if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e);
+	}}
+></EndpointList>
 
-	<div class="  mt-2 text-gray-700">
-		{#key question}
-			<ChatGptCustomTextField
-				defaultQuestion={question}
-				onClick={(q) => {
-					pushState('', { showModalCustom: true });
-					customResponse = null;
-					setChatGPTContext([paragraphText, q]).then((d) => {
-						customResponse = d?.choices[0].message.content;
-						console.log('customResponse', customResponse);
-					});
-				}}
-			/>
-		{/key}
-	</div>
+<div class="  mt-2 text-gray-700">
+	{#key question}
+		<ChatGptCustomTextField
+			defaultQuestion={question}
+			onClick={(q) => {
+				pushState('', { showModalCustom: true });
+				customResponse = null;
+				setChatGPTContext([paragraphText, q]).then((d) => {
+					customResponse = d?.choices[0].message.content;
+					console.log('customResponse', customResponse);
+				});
+			}}
+		/>
+	{/key}
 </div>
 <div class="w-full flex">
 	{#if chatGPTerror !== null}
@@ -166,9 +166,14 @@
 
 			// pushState('', { showModal: true });
 
-			//TODO:
-			Promise.all(prompts.map((p) => setChatGPTContext([paragraphText, p]))).then((d) => {
-				responses = d.map((d) => d?.choices[0].message.content);
+			Promise.all(
+				prompts.map((p) =>
+					setChatGPTContext([paragraphText, p]).then((d) => {
+						return d?.choices[0].message.content;
+					})
+				)
+			).then((res) => {
+				responses = res;
 			});
 		}}
 		{responses}

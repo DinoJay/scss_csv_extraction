@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@responsive {
+    .max-large-height {
+        max-height: 1400px
+    }
+}
+
+@responsive {
+    .max-height {
+        max-height: 1000px
+    }
+}
+
+
+@responsive {
+    .max-large-width {
+        max-width: 1200px
+    }
+}
+
+@responsive {
+    .max-width {
+        max-width: 800px
+    }
+}

@@ -20,8 +20,10 @@
 	$: console.log('url', $$props);
 </script>
 
-<div class="flex h-svh">
-	<div class="max-w-3xl mx-auto flex flex-1 flex-col transition-all">
+<div class="flex h-lvh m-auto">
+	<div
+		class="max-w-3xl mx-auto my-3 2xl:mt-20 flex flex-auto flex-col transition-all sm:max-height 2xl:max-large-height sm:max-width 2xl:max-large-width"
+	>
 		<div class="mb-1">
 			<NavCsv data={data.textIds} selectedId={$page.params.textId} {scraped}></NavCsv>
 		</div>
