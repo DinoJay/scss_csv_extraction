@@ -22,7 +22,7 @@
 
 <div class="flex h-lvh m-auto">
 	<div
-		class="max-w-3xl mx-auto my-3 2xl:my-6 flex flex-auto flex-col transition-all sm:max-height 2xl:max-large-height sm:max-width 2xl:max-large-width"
+		class="max-w-3xl mx-auto my-3 2xl:my-6 flex flex-auto flex-col transition-all w-full sm:max-height 2xl:max-large-height sm:max-width 2xl:max-large-width"
 	>
 		<div class="mb-1">
 			<NavCsv data={data.textIds} selectedId={$page.params.textId} {scraped}></NavCsv>

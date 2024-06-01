@@ -17,9 +17,10 @@
 	// console.log('data Table', data);
 
 	$: console.log('endpoints', endpoints);
-	$: prompts = edit
-		? endpoints.flatMap((e) => e.cols.map((c) => paragraphQuery([c], paragraph, e.name)))
-		: null;
+	$: prompts =
+		paragraph && endpoints
+			? endpoints.flatMap((e) => e.cols.map((c) => paragraphQuery([c], paragraph, e.name)))
+			: null;
 </script>
 
 {#if data.length === 0}
