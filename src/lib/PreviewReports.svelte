@@ -17,32 +17,36 @@
 
 <div class="flex-1 main flex flex-col overflow-auto bg-gray-50 p-2 relative">
 	{#if scraped}
-		<div class="flex-1 overflow-auto p-3">
+		<div class="flex-1 overflow-auto">
 			{#if rdt?.length > 0}
 				<h1 class="text-xl mb-3">Repeated Dose Toxicity</h1>
 			{/if}
-			{#each rdt as p, i (p.id)}
-				<ParagraphPreview
-					{scraped}
-					title={`Study ${i + 1}`}
-					text={p.txt}
-					pid={p.id}
-					reportId={selectedTextId}
-				/>
-			{/each}
+			<div class="mb-12 flex flex-col gap-6">
+				{#each rdt as p, i (p.id)}
+					<ParagraphPreview
+						{scraped}
+						title={`Study ${i + 1}`}
+						text={p.txt}
+						pid={p.id}
+						reportId={selectedTextId}
+					/>
+				{/each}
+			</div>
 
 			{#if acuteTox?.length > 0}
 				<h1 class="text-xl mb-3">Acute Dose Toxicity</h1>
 			{/if}
-			{#each acuteTox as p, i (p.id)}
-				<ParagraphPreview
-					{scraped}
-					title={`Study ${i + 1}`}
-					pid={p.id}
-					reportId={selectedTextId}
-					text={p.txt}
-				></ParagraphPreview>
-			{/each}
+			<div class="flex flex-col gap-6">
+				{#each acuteTox as p, i (p.id)}
+					<ParagraphPreview
+						{scraped}
+						title={`Study ${i + 1}`}
+						pid={p.id}
+						reportId={selectedTextId}
+						text={p.txt}
+					></ParagraphPreview>
+				{/each}
+			</div>
 		</div>
 	{/if}
 

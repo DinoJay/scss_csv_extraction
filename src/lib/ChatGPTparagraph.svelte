@@ -14,6 +14,7 @@
 
 	import MdArrowBack from 'svelte-icons/md/MdArrowBack.svelte';
 	import ChatGptCustomTextField from './ChatGPTCustomTextField.svelte';
+	import { onMount } from 'svelte';
 	export let paragraphText;
 	export let reportId;
 	export let pid;
@@ -53,26 +54,32 @@
 			content: p
 		}));
 
-		// loadingResponse = true;
-		return (
-			openai.chat.completions
-				.create({
-					messages: [...messages],
-					...chatGPTApiOptions
+		return openai.chat.completions
+			.create({
+				messages: [...messages],
+				...chatGPTApiOptions
 
-					// presence_penalty: 0
-				})
-				// .then((d) => {
-				// 	// loadingResponse = false;
-				// 	response = d;
-				// 	chatGPTerror = null;
-				// })
-				.catch((err) => {
-					chatGPTerror = err;
-				})
-		);
+				// presence_penalty: 0
+			})
+			.catch((err) => {
+				chatGPTerror = err;
+			});
 	};
 
+	$: fetchChatGPT = (array: any[]) => {
+		return fetch('/.netlify/functions/chatGPT', {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json'
+			},
+			body: JSON.stringify({ inputArray: array })
+		});
+	};
+	onMount(() => {
+		fetchChatGPT(prompts).then((d) => {
+			console.log('chatGPT', d);
+		});
+	});
 	// console.log('text', text, question);
 	// console.log('page', $page.state);
 	// $: console.log('paragraphText', paragraphText);

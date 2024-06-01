@@ -49,7 +49,7 @@ export default [
         path: '/Endpoints/Clinical-Biochemistry'
     }, {
         name: 'Plasma Biomarkers', cols: [
-            'sodium', 'potassium', 'glucose', 'total cholesterol', 'high-density lipoprotein', 'low-density lipoprotein',
+            'sodium', 'potassium', 'glucose', 'changes in total cholesterol', 'high-density lipoprotein', 'low-density lipoprotein',
             'urea', 'creatinine', 'blood urea nitrogen', 'total protein', 'albumin'
         ],
         path: '/Endpoints/Clinical-Biochemistry'
@@ -59,14 +59,14 @@ export default [
             'alkaline phosphatase',
             'gamma glutamyl transpeptidase',
             'sorbitol dehydrogenase',
-            'other enzymes and biomarker',
+            'other hepatocellular enzymes and biomarker',
             'bile acids',
             'total bilirubin'
         ], path: '/Endpoints/Clinical-Biochemistry'
     }, {
         name: 'Serum Biomarkers', cols: [
             'phosphate',
-            'fasting triglycerides',
+            'triglycerides',
             'hormones',
             'methaemoglobin',
             'cholinesterase',
@@ -169,7 +169,7 @@ export default [
             'signs of toxicity',
             'critical effects',
             'point of departure',
-            'description of pod',
+            'type of point of departure',
             'target organ',
             'moribund or dead animals prior to study termination',
             'mortality rate',

@@ -27,7 +27,6 @@
 	}}
 	tabindex="0"
 	role="button"
-	class=" mb-3"
 >
 	<div
 		role="button"

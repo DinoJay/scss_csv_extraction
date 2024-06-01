@@ -46,9 +46,9 @@
 <div class="whitespace-pre-line min-w-32" class:w-72={key === 'description'}>
 	{prettyPrintJson(value.length > limit && !expanded ? value.slice(0, limit) : value)}
 	{#if value.length > limit && !expanded}
-		<button class="text-blue-800 text-xl font-bold" on:click={() => (expanded = true)}>...</button>
+		<button class=" text-xl font-bold" on:click={() => (expanded = true)}>...</button>
 	{/if}
 	{#if value.length > limit && expanded}
-		<button class="text-blue-800 text-xl font-bold" on:click={() => (expanded = false)}>_</button>
+		<button class=" text-xl font-bold" on:click={() => (expanded = false)}>_</button>
 	{/if}
 </div>
