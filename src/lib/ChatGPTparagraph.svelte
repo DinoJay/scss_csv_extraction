@@ -26,34 +26,20 @@
 	let customResponse: string | null = null;
 	let chatGPTerror: null = null;
 
-	const openai = new OpenAI({
-		apiKey: import.meta.env.VITE_OPEN_AI,
+	let selEndpointNames = [endpoints[0].name];
 
-		dangerouslyAllowBrowser: true
-	});
+	$: selEndpoints = selEndpointNames.map((n) => endpoints.find((d) => d.name === n));
 
-	let selEndpoints = [endpoints[0].name];
+	$: question = paragraphQuery(selEndpoints.flatMap((e) => e?.cols).join(', '), paragraphText);
 
-	$: question = paragraphQuery(
-		selEndpoints
-			.map((n) => endpoints.find((d) => d.name === n))
-			.flatMap((e) => e?.cols)
-			.join(', '),
-		paragraphText
+	$: prompts = selEndpoints.flatMap((e) =>
+		e.cols.map((c) => paragraphQuery([c], paragraphText, e.name))
 	);
-	$: prompts = selEndpoints
-		.flatMap((n) => endpoints.find((d) => d.name === n)?.cols)
-		.map((c) => paragraphQuery([c], paragraphText));
 
-	$: cols = selEndpoints.flatMap((n) => endpoints.find((d) => d.name === n)?.cols);
+	$: cols = selEndpoints.flatMap((e) => e?.cols);
 
 	$: console.log('prompts', prompts);
 
-	onMount(() => {
-		fetchChatGPT(prompts).then((d) => {
-			console.log('chatGPT', d);
-		});
-	});
 	// console.log('text', text, question);
 	// console.log('page', $page.state);
 	// $: console.log('paragraphText', paragraphText);
@@ -73,8 +59,6 @@
 			responses = res;
 		});
 	};
-
-	$: console.log('completion Count', completionCount);
 </script>
 
 <div class="flex items-center mb-3">
@@ -92,22 +76,23 @@
 	<Extendable title="Select Endpoints" preClosed={true}>
 		<EndpointNav
 			endpoints={endpoints.sort((a, b) => (a.path.length > b.path.length ? 1 : -1))}
-			{selEndpoints}
+			selEndpoints={selEndpointNames}
 			onClick={(e) => {
-				if (selEndpoints.includes(e.name)) {
-					if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e.name);
+				if (selEndpointNames.includes(e.name)) {
+					if (selEndpoints.length > 1)
+						selEndpointNames = selEndpointNames.filter((s) => s !== e.name);
 				} else {
-					selEndpoints = [...selEndpoints, e.name];
+					selEndpointNames = [...selEndpointNames, e.name];
 				}
 			}}
 		></EndpointNav>
 	</Extendable>
 </div>
 <EndpointList
-	endpoints={selEndpoints}
+	endpoints={selEndpointNames}
 	cls="mt-3"
 	onClick={(e) => {
-		if (selEndpoints.length > 1) selEndpoints = selEndpoints.filter((s) => s !== e);
+		if (selEndpointNames.length > 1) selEndpointNames = selEndpointNames.filter((s) => s !== e);
 	}}
 ></EndpointList>
 
@@ -120,7 +105,6 @@
 				customResponse = null;
 				fetchChatGPT([paragraphText, q]).then((d) => {
 					customResponse = d?.choices[0].message.content;
-					console.log('customResponse', customResponse);
 				});
 			}}
 		/>
@@ -157,11 +141,10 @@
 		completionPerc={Math.round((completionCount / prompts.length) * 100)}
 		{prompts}
 		{cols}
-		title="ChatGPT Result - {selEndpoints.join(', ')}"
+		title="ChatGPT Result - {selEndpointNames.join(', ')}"
 		onClose={() => pushState('', { showModal: false })}
 		open={$page.state.showModal}
 		onSubmit={() => {
-			console.log('page', $page.state.showModal);
 			submitChatGPTQuery(prompts);
 		}}
 		{responses}

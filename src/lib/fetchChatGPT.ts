@@ -7,9 +7,7 @@ const fetchChatGPT = async (inputArray: any[]) => {
         },
         body: JSON.stringify({ inputArray })
     });
-    console.log('resp', resp);
     const data = await resp.json();
-    console.log('data', data);
     return data;
 };
 export default fetchChatGPT;

@@ -1,20 +1,13 @@
 <script>
-	import { csvFormat } from 'd3-dsv';
 	import fetchChatGPT from './fetchChatGPT';
 	import MdRefresh from 'svelte-icons/md/MdRefresh.svelte';
-	import OpenAI from 'openai';
 	import Spinner from './Spinner.svelte';
 	import MdErrorOutline from 'svelte-icons/md/MdErrorOutline.svelte';
-	import LightBox from './LightBox.svelte';
 	import ChatGptExplanationModal from './ChatGPTExplanationModal.svelte';
-	import chatGPTApiOptions from './chatGPTApiOptions';
 	import { paragraphQuery } from './chatGPTparagraphQueries';
-	import { onMount } from 'svelte';
 
 	export let onChange;
-	export let context;
 	export let key;
-	export let value;
 	export let paragraph;
 
 	let loadingResponse0 = false;
@@ -24,12 +17,6 @@
 	 * @type {string | null}
 	 */
 	let quote = null;
-
-	const openai = new OpenAI({
-		apiKey: import.meta.env.VITE_OPEN_AI,
-
-		dangerouslyAllowBrowser: true
-	});
 
 	$: question0 = paragraphQuery(key, paragraph);
 
