@@ -67,7 +67,7 @@
 	};
 
 	$: fetchChatGPT = (array: any[]) => {
-		return fetch('/.netlify/functions/chatGPT', {
+		return fetch('https://www.sccs-csv.netlify.app/.netlify/functions/chatGPT', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'

@@ -56,10 +56,10 @@ export default async (request, context) => {
     catch (e) {
         return new Response(`[ERROR] Invalid JSON - ${e.message}`, { status: 400 })
     }
-    const messages = body.inputArray.map((p) => ({
-        role: 'user',
-        content: p
-    }));
+    // const messages = body.inputArray.map((p) => ({
+    //     role: 'user',
+    //     content: p
+    // }));
     // loadingResponse = true;
     try {
         // const resp = await openai.chat.completions
