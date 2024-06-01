@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { paragraphQuery } from './chatGPTparagraphQueries';
+	import fetchChatGPT from './fetchChatGPT';
 	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
@@ -48,33 +49,6 @@
 
 	$: console.log('prompts', prompts);
 
-	$: setChatGPTContext = (array: any[]) => {
-		const messages = array.map((p) => ({
-			role: 'user',
-			content: p
-		}));
-
-		return openai.chat.completions
-			.create({
-				messages: [...messages],
-				...chatGPTApiOptions
-
-				// presence_penalty: 0
-			})
-			.catch((err) => {
-				chatGPTerror = err;
-			});
-	};
-
-	$: fetchChatGPT = (array: any[]) => {
-		return fetch('https://www.sccs-csv.netlify.app/.netlify/functions/chatGPT', {
-			method: 'POST',
-			headers: {
-				'Content-Type': 'application/json'
-			},
-			body: JSON.stringify({ inputArray: array })
-		});
-	};
 	onMount(() => {
 		fetchChatGPT(prompts).then((d) => {
 			console.log('chatGPT', d);
@@ -89,7 +63,7 @@
 		responses = null;
 		Promise.all(
 			prompts.map((p) =>
-				setChatGPTContext([p]).then((d) => {
+				fetchChatGPT([p]).then((d) => {
 					completionCount = completionCount + 1;
 					return d?.choices[0].message.content;
 				})
@@ -144,7 +118,7 @@
 			onClick={(q) => {
 				pushState('', { showModalCustom: true });
 				customResponse = null;
-				setChatGPTContext([paragraphText, q]).then((d) => {
+				fetchChatGPT([paragraphText, q]).then((d) => {
 					customResponse = d?.choices[0].message.content;
 					console.log('customResponse', customResponse);
 				});

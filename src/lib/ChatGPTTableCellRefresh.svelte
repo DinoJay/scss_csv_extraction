@@ -1,5 +1,6 @@
 <script>
 	import { csvFormat } from 'd3-dsv';
+	import fetchChatGPT from './fetchChatGPT';
 	import MdRefresh from 'svelte-icons/md/MdRefresh.svelte';
 	import OpenAI from 'openai';
 	import Spinner from './Spinner.svelte';
@@ -32,20 +33,6 @@
 
 	$: question0 = paragraphQuery(key, paragraph);
 
-	$: setChatGPTContext = (array, opts) => {
-		const messages = array.map((p) => ({
-			role: 'user',
-			content: p
-		}));
-
-		return openai.chat.completions.create({
-			...chatGPTApiOptions,
-			...opts,
-			model: 'gpt-4o',
-			messages
-		});
-	};
-
 	let confidence = '';
 	// onMount(() => {
 	// 	// console.log('key', key);
@@ -64,7 +51,7 @@
 	style="width:18px;height:18px"
 	on:click={() => {
 		loadingResponse0 = true;
-		setChatGPTContext([question0]).then((resp) => {
+		fetchChatGPT([question0]).then((resp) => {
 			// console.log('context', context);
 			const answer = resp?.choices?.[0].message?.content;
 			loadingResponse0 = false;
@@ -86,7 +73,7 @@
 
 		// console.log('question', question1);
 		loadingResponse1 = true;
-		setChatGPTContext([question1]).then((resp) => {
+		fetchChatGPT([question1]).then((resp) => {
 			const answer = resp?.choices?.[0].message?.content;
 			// const js = answer ? Object.values(JSON.parse(answer)) : null;
 
