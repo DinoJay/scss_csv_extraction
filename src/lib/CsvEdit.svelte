@@ -2,6 +2,7 @@
 	export let visible;
 	import { store } from '$lib/store';
 	import Table from './ChatGPTTable.svelte';
+	import endpoints from './endpoints';
 
 	import { csvFormat } from 'd3-dsv';
 	import FileSaver from 'file-saver';
@@ -15,6 +16,16 @@
 	let csvMode = false;
 	$: console.log('store', $store);
 	$: console.log('rdt', rdt);
+	$: colsRDT = [...new Set(rdt.flatMap((d) => Object.keys(d)))];
+	$: colsAcuteTox = [...new Set(acuteTox.flatMap((d) => Object.keys(d)))];
+	$: console.log('colsRDT', colsRDT);
+	$: console.log('colsAcuteTox', colsAcuteTox);
+	$: selEndpointsRDT = colsRDT.flatMap((n) => endpoints.filter((d) => d.cols.includes(n)));
+	$: selEndpointsAcuteTox = colsAcuteTox.flatMap((n) =>
+		endpoints.filter((d) => d.cols.includes(n))
+	);
+	$: console.log('endpoints', endpoints);
+	$: console.log('selEndpointsRDT', selEndpointsRDT);
 </script>
 
 <div class="" transition:slide class:min-h-fit={!visible} class:min-h-60={visible}>
@@ -39,6 +50,8 @@
 				<Table
 					edit={true}
 					data={rdt}
+					endpoints={selEndpointsRDT}
+					columns={colsRDT}
 					onChange={(nd) =>
 						store.update((st) => {
 							const newMap = new Map(nd.map((d) => [d.id, d]));
@@ -65,6 +78,9 @@
 			{#if !csvMode}
 				<Table
 					data={acuteTox}
+					endpoints={selEndpointsAcuteTox}
+					paragraph
+					columns={colsRDT}
 					onChange={(nd) =>
 						store.update((st) => {
 							const newMap = new Map(nd.map((d) => [d.id, d]));

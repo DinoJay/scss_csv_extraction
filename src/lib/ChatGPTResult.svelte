@@ -16,8 +16,9 @@
 	export let edit = true;
 	export let cols;
 	export let completionPerc;
+	export let endpoints;
 
-	import { csvParse, csvFormat } from 'd3-dsv';
+	import { csvFormat } from 'd3-dsv';
 	import { ACUTETOX, RDT } from './reportIds';
 	import Table from './ChatGPTTable.svelte';
 
@@ -148,8 +149,8 @@
 			{:else}
 				<Table
 					{data}
-					{prompts}
 					columns={cols}
+					{endpoints}
 					refreshable={true}
 					onChange={(nd) => (data = nd)}
 					{paragraph}

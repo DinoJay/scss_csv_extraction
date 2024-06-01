@@ -1,11 +1,9 @@
 <script lang="ts">
 	import { paragraphQuery } from './chatGPTparagraphQueries';
 	import fetchChatGPT from './fetchChatGPT';
-	import OpenAI from 'openai';
 	import endpoints from '$lib/endpoints';
 	import EndpointNav from './EndpointNav.svelte';
 
-	import chatGPTApiOptions from './chatGPTApiOptions';
 	import Extendable from './Extendable.svelte';
 	import EndpointList from './EndpointList.svelte';
 	import ChatGptResult from './ChatGPTResult.svelte';
@@ -40,7 +38,7 @@
 
 	$: console.log('prompts', prompts);
 
-	// console.log('text', text, question);
+	$: console.log('selEndpoints', selEndpoints);
 	// console.log('page', $page.state);
 	// $: console.log('paragraphText', paragraphText);
 
@@ -123,7 +121,9 @@
 		{type}
 		{pid}
 		paragraph={paragraphText}
+		endpoints={selEndpoints}
 		{prompts}
+		{cols}
 		title="ChatGPT Custom Result"
 		onClose={() => {
 			pushState('', { showModalCustom: false });
@@ -138,6 +138,7 @@
 		{type}
 		{pid}
 		paragraph={paragraphText}
+		endpoints={selEndpoints}
 		completionPerc={Math.round((completionCount / prompts.length) * 100)}
 		{prompts}
 		{cols}

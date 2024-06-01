@@ -1,20 +1,25 @@
 <script>
 	export let data;
 	export let onChange;
-	export let context = [];
 	export let refreshable = false;
 	export let paragraph;
 	export let edit = false;
 	import MdClose from 'svelte-icons/md/MdClose.svelte';
 	import ChatGPTTableCellRefresh from './ChatGPTTableCellRefresh.svelte';
 	import ChatGptTableCell from './ChatGPTTableCell.svelte';
+	import { paragraphQuery } from './chatGPTparagraphQueries';
 	// $: console.log('data TABLE', data);
 	export let columns;
-	export let prompts;
+	export let endpoints;
 
 	//TODO: I don't know if this is right
 	// console.log('flat', flat);
 	// console.log('data Table', data);
+
+	$: console.log('endpoints', endpoints);
+	$: prompts = edit
+		? endpoints.flatMap((e) => e.cols.map((c) => paragraphQuery([c], paragraph, e.name)))
+		: null;
 </script>
 
 {#if data.length === 0}
@@ -49,9 +54,8 @@
 									{#if refreshable}
 										<ChatGPTTableCellRefresh
 											{key}
-											prompt={prompts[i]}
+											prompt={prompts ? prompts[i] : null}
 											value={d[key]}
-											{context}
 											{paragraph}
 											onChange={(answer) => {
 												onChange(data.map((d, j) => (j === i ? { ...d, [key]: answer } : d)));
