@@ -18,9 +18,8 @@
 		class="w-full p-1 mb-2 border-2"
 		placeholder="Search endpoints"
 		on:input={(e) => {
-			console.log('cehck');
 			const val = e.target.value;
-			curEndpoints = endpoints.filter((e) => label(e).includes(val));
+			curEndpoints = endpoints.filter((e) => label(e).toLowerCase().includes(val.toLowerCase()));
 		}}
 	/>
 	{#if curEndpoints.length === 0}
