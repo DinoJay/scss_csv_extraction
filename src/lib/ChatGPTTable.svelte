@@ -9,12 +9,11 @@
 	import ChatGPTTableCellRefresh from './ChatGPTTableCellRefresh.svelte';
 	import ChatGptTableCell from './ChatGPTTableCell.svelte';
 	// $: console.log('data TABLE', data);
-	export let exclude = ['id', 'paragraph'];
+	export let columns;
+	export let prompts;
 
 	//TODO: I don't know if this is right
-	const flat = data.flatMap((d) => Object.keys(d));
 	// console.log('flat', flat);
-	$: columns = [...new Set(flat)].filter((d) => !exclude.includes(d));
 	// console.log('data Table', data);
 </script>
 
@@ -42,13 +41,15 @@
 								</div></td
 							>
 						{/if}
-						{#each columns.filter((d) => !exclude.includes(d)) as key (key)}
+						{#each columns as key, i (key)}
 							<td class="border-2 p-2">
 								<div class="flex flex-wrap items-center gap-1">
 									<ChatGptTableCell {key} value={d[key]} />
+
 									{#if refreshable}
 										<ChatGPTTableCellRefresh
 											{key}
+											prompt={prompts[i]}
 											value={d[key]}
 											{context}
 											{paragraph}

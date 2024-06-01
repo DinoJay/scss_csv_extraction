@@ -23,15 +23,6 @@
 
 	// $: console.log('response', response);
 
-	// const joinData = (responses) => {
-	// 	console.log('responses JOIN', responses);
-	// 	const datum = responses.reduce((acc, r) => {
-	// 		const js = JSON.parse(r);
-	// 		return { ...acc, ...js, id: pid, paragraph };
-	// 	}, {});
-	// 	console.log('DATUM', datum);
-	// 	return [datum];
-	// };
 	const joinData = (responses, cs) => {
 		console.log('responses JOIN', responses);
 		const datum = responses.reduce((acc, r, i) => {
@@ -157,6 +148,8 @@
 			{:else}
 				<Table
 					{data}
+					{prompts}
+					columns={cols}
 					refreshable={true}
 					onChange={(nd) => (data = nd)}
 					{paragraph}

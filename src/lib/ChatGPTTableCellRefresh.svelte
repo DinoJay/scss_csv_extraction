@@ -9,6 +9,7 @@
 	export let onChange;
 	export let key;
 	export let paragraph;
+	export let prompt;
 
 	let loadingResponse0 = false;
 	let loadingResponse1 = false;
@@ -18,7 +19,7 @@
 	 */
 	let quote = null;
 
-	$: question0 = paragraphQuery(key, paragraph);
+	$: question0 = prompt; //paragraphQuery(key, paragraph);
 
 	let confidence = '';
 	// onMount(() => {
