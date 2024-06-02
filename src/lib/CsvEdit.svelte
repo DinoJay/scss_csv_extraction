@@ -37,14 +37,14 @@
 
 <LightBox isOpen={visible} close={() => (visible = false)}>
 	<div class="p-3">
-		<Tabs single={true}>
+		<Tabs single={true} selectedStartIndex={selEndpointsAcuteTox.length > 0 ? 1 : 0}>
 			<TabItem title="Repeated Dose Toxicity">
-				<div class="flex items-center mb-2">
-					{#if rdt.length > 0}
+				{#if rdt.length > 0}
+					<div class="flex items-center my-2">
 						<ExportCsvBtn fileName="rdt.csv" data={csvFormat(rdt)} disabled={rdt.length === 0}
 						></ExportCsvBtn>
-					{/if}
-				</div>
+					</div>
+				{/if}
 				{#if !csvMode}
 					<Table
 						edit={true}
@@ -58,26 +58,27 @@
 								return { ...st, csvRdt: newMap };
 							})}
 					></Table>
-				{:else if rdt.length === 0}
-					<div class="text-sm text-gray-500">No Data</div>
+					<!-- {:else if rdt.length === 0}
+					<div class="text-sm text-gray-500 p-24">No Data</div> -->
 				{:else}
 					<textarea class="w-full">{csvFormat(rdt)}</textarea>
 				{/if}
 			</TabItem>
 
 			<TabItem title="Acute Dose Toxicity">
-				<div class="flex my-2">
-					{#if acuteTox.length > 0}
+				{#if acuteTox.length > 0}
+					<div class="flex my-2">
 						<ExportCsvBtn
 							fileName="acuteToxicity.csv"
 							data={csvFormat(acuteTox)}
 							disabled={acuteTox.length === 0}
 						></ExportCsvBtn>
-					{/if}
-				</div>
+					</div>
+				{/if}
 
 				{#if !csvMode}
 					<Table
+						edit={true}
 						data={acuteTox}
 						endpoints={selEndpointsAcuteTox}
 						columns={colsAcuteTox}
@@ -88,8 +89,8 @@
 								return { ...st, csvAcuteTox: newMap };
 							})}
 					></Table>
-				{:else if acuteTox.length === 0}
-					<div class="text-sm text-gray-500">No Data</div>
+					<!-- {:else if acuteTox.length === 0}
+					<div class="text-sm text-gray-500 p-24">No Data</div> -->
 				{:else}
 					<textarea class="w-full h-60" readonly>{csvFormat(acuteTox)}</textarea>
 				{/if}

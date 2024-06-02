@@ -24,7 +24,7 @@
 </script>
 
 {#if data.length === 0}
-	<div class="m-auto text-sm text-gray-500">No Data</div>
+	<div class="m-auto text-sm text-gray-500 p-24">No Data</div>
 {:else}
 	<div class="container overflow-scroll">
 		<table class="table-fixed">
