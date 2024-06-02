@@ -8,6 +8,7 @@
 	import FileSaver from 'file-saver';
 	import ExportCsvBtn from './ExportCsvBtn.svelte';
 	import { slide } from 'svelte/transition';
+	import LightBox from './LightBox.svelte';
 
 	$: rdt = $store.csvRdt ? [...$store.csvRdt.entries()].map(([_, d]) => d) : [];
 	$: acuteTox = $store.csvAcuteTox ? [...$store.csvAcuteTox.entries()].map(([_, d]) => d) : [];
@@ -28,81 +29,79 @@
 	$: console.log('selEndpointsRDT', selEndpointsRDT);
 </script>
 
-<div class="" transition:slide class:min-h-fit={!visible} class:min-h-60={visible}>
-	<button
-		class="bg-blue-100 w-full p-2 mt-2 drop-shadow-md"
-		class:mb-2={!visible}
-		on:click={() => (visible = !visible)}
-	>
-		CSV</button
-	>
-	{#if visible}
-		<div class="p-3 bg-gray-100">
-			<div class="flex items-center mb-2">
-				<h2 class="text-lg">Repeated Dose Toxicity</h2>
+<button
+	class="bg-blue-100 w-full p-2 mt-2 drop-shadow-md"
+	class:mb-2={!visible}
+	on:click={() => (visible = !visible)}
+>
+	CSV</button
+>
 
-				{#if rdt.length > 0}
-					<ExportCsvBtn fileName="rdt.csv" data={csvFormat(rdt)} disabled={rdt.length === 0}
-					></ExportCsvBtn>
-				{/if}
-			</div>
-			{#if !csvMode}
-				<Table
-					edit={true}
-					data={rdt}
-					endpoints={selEndpointsRDT}
-					columns={colsRDT}
-					onChange={(nd) =>
-						store.update((st) => {
-							const newMap = new Map(nd.map((d) => [d.id, d]));
-							return { ...st, csvRdt: newMap };
-						})}
-				></Table>
-			{:else if rdt.length === 0}
-				<div class="text-sm text-gray-500">No Data</div>
-			{:else}
-				<textarea class="w-full">{csvFormat(rdt)}</textarea>
+<LightBox isOpen={visible} close={() => (visible = false)}>
+	<div class="p-3">
+		<div class="flex items-center mb-2">
+			<h2 class="text-lg">Repeated Dose Toxicity</h2>
+
+			{#if rdt.length > 0}
+				<ExportCsvBtn fileName="rdt.csv" data={csvFormat(rdt)} disabled={rdt.length === 0}
+				></ExportCsvBtn>
 			{/if}
-
-			<div class="flex my-2">
-				<h2 class="text-lg">Acute Dose Toxicity</h2>
-				{#if acuteTox.length > 0}
-					<ExportCsvBtn
-						fileName="acuteToxicity.csv"
-						data={csvFormat(acuteTox)}
-						disabled={acuteTox.length === 0}
-					></ExportCsvBtn>
-				{/if}
-			</div>
-
-			{#if !csvMode}
-				<Table
-					data={acuteTox}
-					endpoints={selEndpointsAcuteTox}
-					paragraph
-					columns={colsRDT}
-					onChange={(nd) =>
-						store.update((st) => {
-							const newMap = new Map(nd.map((d) => [d.id, d]));
-							return { ...st, csvAcuteTox: newMap };
-						})}
-				></Table>
-			{:else if acuteTox.length === 0}
-				<div class="text-sm text-gray-500">No Data</div>
-			{:else}
-				<textarea class="w-full h-60" readonly>{csvFormat(acuteTox)}</textarea>
-			{/if}
-			<div class="flex gap-2 mb-1 mt-2">
-				<button
-					class="p-2 flex-1 border-2"
-					disabled={emptyData}
-					class:opacity-50={emptyData}
-					on:click={() => (csvMode = !csvMode)}
-					class:bg-gray-300={csvMode}
-				>
-					View CSV
-				</button>
-			</div>
 		</div>
-	{/if}
-</div>
+		{#if !csvMode}
+			<Table
+				edit={true}
+				data={rdt}
+				endpoints={selEndpointsRDT}
+				columns={colsRDT}
+				onChange={(nd) =>
+					store.update((st) => {
+						const newMap = new Map(nd.map((d) => [d.id, d]));
+						return { ...st, csvRdt: newMap };
+					})}
+			></Table>
+		{:else if rdt.length === 0}
+			<div class="text-sm text-gray-500">No Data</div>
+		{:else}
+			<textarea class="w-full">{csvFormat(rdt)}</textarea>
+		{/if}
+
+		<div class="flex my-2">
+			<h2 class="text-lg">Acute Dose Toxicity</h2>
+			{#if acuteTox.length > 0}
+				<ExportCsvBtn
+					fileName="acuteToxicity.csv"
+					data={csvFormat(acuteTox)}
+					disabled={acuteTox.length === 0}
+				></ExportCsvBtn>
+			{/if}
+		</div>
+
+		{#if !csvMode}
+			<Table
+				data={acuteTox}
+				endpoints={selEndpointsAcuteTox}
+				columns={colsAcuteTox}
+				onChange={(nd) =>
+					store.update((st) => {
+						const newMap = new Map(nd.map((d) => [d.id, d]));
+						return { ...st, csvAcuteTox: newMap };
+					})}
+			></Table>
+		{:else if acuteTox.length === 0}
+			<div class="text-sm text-gray-500">No Data</div>
+		{:else}
+			<textarea class="w-full h-60" readonly>{csvFormat(acuteTox)}</textarea>
+		{/if}
+		<div class="flex gap-2 mb-1 mt-2">
+			<button
+				class="p-2 flex-1 border-2"
+				disabled={emptyData}
+				class:opacity-50={emptyData}
+				on:click={() => (csvMode = !csvMode)}
+				class:bg-gray-300={csvMode}
+			>
+				View CSV
+			</button>
+		</div>
+	</div>
+</LightBox>
