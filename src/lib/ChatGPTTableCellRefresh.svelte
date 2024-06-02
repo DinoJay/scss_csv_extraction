@@ -56,7 +56,7 @@
 <button
 	style="width:18px;height:18px"
 	on:click={() => {
-		const question1 = `Provide a text quote from "${paragraph}" that was used to answer the previous user command namely "${question0}". Don't respond with any commentary or introduction text! Only respond with the exact quote as string. Don't use "" to wrap the quote!`;
+		const question1 = `Provide a text quote from "${paragraph}" that is used to answer the following command namely "${question0}". Don't respond with any commentary or introduction text! Only respond with the exact quote as string. Don't use "" to wrap the quote!`;
 
 		// console.log('question', question1);
 		loadingResponse1 = true;
@@ -64,7 +64,7 @@
 			const answer = resp?.choices?.[0].message?.content;
 			// const js = answer ? Object.values(JSON.parse(answer)) : null;
 
-			// console.log('answer', answer);
+			console.log('answer', answer);
 			loadingResponse1 = false;
 			quote = answer;
 		});
