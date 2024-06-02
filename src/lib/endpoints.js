@@ -1,7 +1,7 @@
 export default [
     {
         name: 'Test-Substance',
-        cols: ['homogeneity and stability', 'pH', 'physical shape', 'achieved concentration (%)', 'composition', 'purity (%)', 'chemical batch nr',
+        cols: ['homogeneity and stability', 'pH test substance', 'physical shape', 'achieved concentration (%)', 'composition', 'purity (%)', 'chemical batch nr',
             'description Test-Substance'],
         path: '/Test-Method'
 
@@ -43,13 +43,13 @@ export default [
         name: 'Urinanalysis', cols: [
             'appearance',
             'volume',
-            'osmolarity or specific gravity', 'pH', 'protein', 'glucose', 'blood/blood cells',
+            'osmolarity or specific gravity', 'pH Urin', 'protein', 'glucose urin', 'blood/blood cells',
             'description Urinanalysis'
         ],
         path: '/Endpoints/Clinical-Biochemistry'
     }, {
         name: 'Plasma Biomarkers', cols: [
-            'sodium', 'potassium', 'glucose', 'changes in total cholesterol', 'high-density lipoprotein', 'low-density lipoprotein',
+            'sodium', 'potassium', 'glucose plasma biomarkers', 'changes in total cholesterol', 'high-density lipoprotein', 'low-density lipoprotein',
             'urea', 'creatinine', 'blood urea nitrogen', 'total protein', 'albumin'
         ],
         path: '/Endpoints/Clinical-Biochemistry'

@@ -13,7 +13,6 @@
 
 	import MdArrowBack from 'svelte-icons/md/MdArrowBack.svelte';
 	import ChatGptCustomTextField from './ChatGPTCustomTextField.svelte';
-	import { onMount } from 'svelte';
 	export let paragraphText;
 	export let reportId;
 	export let pid;

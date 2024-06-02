@@ -1,14 +1,17 @@
 <script>
+	import { onMount } from 'svelte';
 	import fetchChatGPT from './fetchChatGPT';
 	import MdRefresh from 'svelte-icons/md/MdRefresh.svelte';
 	import Spinner from './Spinner.svelte';
 	import MdErrorOutline from 'svelte-icons/md/MdErrorOutline.svelte';
 	import ChatGptExplanationModal from './ChatGPTExplanationModal.svelte';
+	import ConfidenceLevel from './ConfidenceLevel.svelte';
 
 	export let onChange;
 	export let key;
 	export let paragraph;
 	export let prompt;
+	export let value;
 
 	let loadingResponse0 = false;
 	let loadingResponse1 = false;
@@ -19,19 +22,6 @@
 	let quote = null;
 
 	$: question0 = prompt; //paragraphQuery(key, paragraph);
-
-	let confidence = '';
-	// onMount(() => {
-	// 	// console.log('key', key);
-	// 	// console.log('value', value);
-	// 	const pr = `What is the level of confidence in percentage (0%-100%) at answering "${question0}. Respond only with a numeric percentage value!"`;
-	// 	setChatGPTContext([pr]).then((resp) => {
-	// 		const answer = resp?.choices?.[0].message?.content;
-	// 		confidence = answer;
-	// 		console.log('confidence', answer);
-	// 	});
-	// 	// console.log('paragraph', paragraph);
-	// });
 </script>
 
 <button
@@ -76,7 +66,7 @@
 		<MdErrorOutline></MdErrorOutline>
 	{/if}
 </button>
-<!-- <div>{confidence}</div> -->
+<ConfidenceLevel {paragraph} baseQuestion={question0} />
 
 <ChatGptExplanationModal
 	title="Source - {key.replace(/_/g, ' ')}"
