@@ -1,8 +1,10 @@
 <script>
+	import TabItem from './TabItem.svelte';
 	export let visible;
 	import { store } from '$lib/store';
 	import Table from './ChatGPTTable.svelte';
 	import endpoints from './endpoints';
+	import Tabs from './Tabs.svelte';
 
 	import { csvFormat } from 'd3-dsv';
 	import FileSaver from 'file-saver';
@@ -29,69 +31,70 @@
 	$: console.log('selEndpointsRDT', selEndpointsRDT);
 </script>
 
-<button
-	class="bg-blue-100 w-full p-2 mt-2 drop-shadow-md"
-	class:mb-2={!visible}
-	on:click={() => (visible = !visible)}
->
+<button class="bg-blue-100 w-full p-2 mt-2 drop-shadow-md" on:click={() => (visible = !visible)}>
 	CSV</button
 >
 
 <LightBox isOpen={visible} close={() => (visible = false)}>
 	<div class="p-3">
-		<div class="flex items-center mb-2">
-			<h2 class="text-lg">Repeated Dose Toxicity</h2>
+		<Tabs single={true}>
+			<TabItem title="Repeated Dose Toxicity">
+				<div class="flex items-center mb-2">
+					{#if rdt.length > 0}
+						<ExportCsvBtn fileName="rdt.csv" data={csvFormat(rdt)} disabled={rdt.length === 0}
+						></ExportCsvBtn>
+					{/if}
+				</div>
+				{#if !csvMode}
+					<Table
+						edit={true}
+						data={rdt}
+						paragraph={null}
+						endpoints={selEndpointsRDT}
+						columns={colsRDT}
+						onChange={(nd) =>
+							store.update((st) => {
+								const newMap = new Map(nd.map((d) => [d.id, d]));
+								return { ...st, csvRdt: newMap };
+							})}
+					></Table>
+				{:else if rdt.length === 0}
+					<div class="text-sm text-gray-500">No Data</div>
+				{:else}
+					<textarea class="w-full">{csvFormat(rdt)}</textarea>
+				{/if}
+			</TabItem>
 
-			{#if rdt.length > 0}
-				<ExportCsvBtn fileName="rdt.csv" data={csvFormat(rdt)} disabled={rdt.length === 0}
-				></ExportCsvBtn>
-			{/if}
-		</div>
-		{#if !csvMode}
-			<Table
-				edit={true}
-				data={rdt}
-				endpoints={selEndpointsRDT}
-				columns={colsRDT}
-				onChange={(nd) =>
-					store.update((st) => {
-						const newMap = new Map(nd.map((d) => [d.id, d]));
-						return { ...st, csvRdt: newMap };
-					})}
-			></Table>
-		{:else if rdt.length === 0}
-			<div class="text-sm text-gray-500">No Data</div>
-		{:else}
-			<textarea class="w-full">{csvFormat(rdt)}</textarea>
-		{/if}
+			<TabItem title="Acute Dose Toxicity">
+				<div class="flex my-2">
+					{#if acuteTox.length > 0}
+						<ExportCsvBtn
+							fileName="acuteToxicity.csv"
+							data={csvFormat(acuteTox)}
+							disabled={acuteTox.length === 0}
+						></ExportCsvBtn>
+					{/if}
+				</div>
 
-		<div class="flex my-2">
-			<h2 class="text-lg">Acute Dose Toxicity</h2>
-			{#if acuteTox.length > 0}
-				<ExportCsvBtn
-					fileName="acuteToxicity.csv"
-					data={csvFormat(acuteTox)}
-					disabled={acuteTox.length === 0}
-				></ExportCsvBtn>
-			{/if}
-		</div>
-
-		{#if !csvMode}
-			<Table
-				data={acuteTox}
-				endpoints={selEndpointsAcuteTox}
-				columns={colsAcuteTox}
-				onChange={(nd) =>
-					store.update((st) => {
-						const newMap = new Map(nd.map((d) => [d.id, d]));
-						return { ...st, csvAcuteTox: newMap };
-					})}
-			></Table>
-		{:else if acuteTox.length === 0}
-			<div class="text-sm text-gray-500">No Data</div>
-		{:else}
-			<textarea class="w-full h-60" readonly>{csvFormat(acuteTox)}</textarea>
-		{/if}
+				{#if !csvMode}
+					<Table
+						data={acuteTox}
+						endpoints={selEndpointsAcuteTox}
+						columns={colsAcuteTox}
+						paragraph={null}
+						onChange={(nd) =>
+							store.update((st) => {
+								const newMap = new Map(nd.map((d) => [d.id, d]));
+								return { ...st, csvAcuteTox: newMap };
+							})}
+					></Table>
+				{:else if acuteTox.length === 0}
+					<div class="text-sm text-gray-500">No Data</div>
+				{:else}
+					<textarea class="w-full h-60" readonly>{csvFormat(acuteTox)}</textarea>
+				{/if}
+			</TabItem>
+		</Tabs>
 		<div class="flex gap-2 mb-1 mt-2">
 			<button
 				class="p-2 flex-1 border-2"
