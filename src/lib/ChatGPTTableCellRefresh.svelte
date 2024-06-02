@@ -4,7 +4,6 @@
 	import Spinner from './Spinner.svelte';
 	import MdErrorOutline from 'svelte-icons/md/MdErrorOutline.svelte';
 	import ChatGptExplanationModal from './ChatGPTExplanationModal.svelte';
-	import { paragraphQuery } from './chatGPTparagraphQueries';
 
 	export let onChange;
 	export let key;
