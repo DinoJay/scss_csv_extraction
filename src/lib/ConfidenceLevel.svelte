@@ -9,7 +9,7 @@
 	onMount(() => {
 		// console.log('key', key);
 		// console.log('value', value);
-		const pr = `How sure are you at answering "${baseQuestion}" by using and refering to thefollowing paragraph "${paragraph}"?. Provide the level of confidence in percentage (0%-100%) for the response. Respond always with an integer value from 0 to 100!"`;
+		const pr = `How sure are you at answering "${baseQuestion}" by basing your response on the following paragraph "${paragraph}"?. Provide the level of confidence in percentage (0%-100%) for the response. Respond always with an integer value from 0 to 100!"`;
 		fetchChatGPT([paragraph, baseQuestion, pr]).then((resp) => {
 			const answer = resp?.choices?.[0].message?.content;
 			confidence = answer;

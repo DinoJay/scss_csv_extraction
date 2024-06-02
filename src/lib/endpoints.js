@@ -116,18 +116,18 @@ export default [
         ], path: '/Endpoints/Haematology'
     }, {
         name: 'Gross Necropsy', cols: [
-            'liver',
-            'kidneys',
-            'adrenals',
-            'testes',
-            'epididymides',
-            'uterus',
-            'ovaries',
-            'thymus',
-            'spleen',
-            'brain',
-            'heart',
-            'description Gross Necropsy'
+            'gross necropsy: liver',
+            'gross necropsy: kidneys',
+            'gross necropsy: adrenals',
+            'gross necropsy: testes',
+            'gross necropsy: epididymides',
+            'gross necropsy: uterus',
+            'gross necropsy: ovaries',
+            'gross necropsy: thymus',
+            'gross necropsy: spleen',
+            'gross necropsy: brain',
+            'gross necropsy: heart',
+            'gross necropsy: description '
         ], path: '/Endpoints/Pathology'
     }, {
         name: 'Histopathology', cols: [
@@ -141,10 +141,10 @@ export default [
             'salivary glands',
             'stomach',
             'small and large intestines',
-            'liver',
+            'histopathology: liver',
             'pancreas',
-            'kidneys',
-            'adrenals',
+            'histopathology: kidneys',
+            'histopathology:adrenals',
             'spleen',
             'heart',
             'trachea',
