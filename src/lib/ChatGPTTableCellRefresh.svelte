@@ -66,7 +66,7 @@
 		<MdErrorOutline></MdErrorOutline>
 	{/if}
 </button>
-<ConfidenceLevel {value} {paragraph} baseQuestion={question0} />
+<!-- <ConfidenceLevel {value} {paragraph} baseQuestion={question0} /> -->
 
 <ChatGptExplanationModal
 	title="Source - {key.replace(/_/g, ' ')}"
