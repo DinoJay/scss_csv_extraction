@@ -1,4 +1,5 @@
 <script>
+	import PageTrans from './../lib/PageTrans.svelte';
 	import { blur, slide } from 'svelte/transition';
 	import NavCsv from '$lib/NavCsv.svelte';
 	import { page } from '$app/stores';
@@ -30,7 +31,9 @@
 		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
 			{#key paragraphId}{/key}
 			<!-- <div transition:slide> -->
-			<slot></slot>
+			<PageTrans refresh={data.url.pathname + data.url.search}>
+				<slot></slot>
+			</PageTrans>
 			<!-- </div> -->
 		</div>
 		{#if data.url?.pathname !== '/'}

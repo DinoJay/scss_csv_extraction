@@ -1,4 +1,5 @@
 import { ACUTETOX, RDT, textIds } from '$lib/reportIds.js';
+export const prerender = false
 
 // const guideLineRegex = /Guideline:[\s\S]*?Ref\.*:*\s\d+\s/gm;
 const guideLineRegex = /Guideline:[\s\S]*?Ref[\S]*/gm;
@@ -72,7 +73,7 @@ const fetchData = ((fetch, textId) => {
         fetch('/sccs_o_180.txt').then((response) => response.text()),
         fetch('/sccs_o_195.txt').then((response) => response.text()),
         fetch('/sccs_o_230.txt').then((response) => response.text()),
-        // fetch('/sccs_o_222.txt').then((response) => response.text())
+        fetch('/sccs_o_222.txt').then((response) => response.text())
         // const promise230 = fetch('/sccs_o_230.txt').then((response) => response.text());
     ];
 

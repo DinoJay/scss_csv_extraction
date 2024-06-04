@@ -70,7 +70,7 @@
 	<h1 class="text-xl ml-2">{reportId}/{pid.replace(`${reportId}-`, '')}</h1>
 </div>
 <p
-	class="p-2 mb-3 whitespace-pre-wrap border-2 overflow-auto text-gray-700 h-48 flex-auto 2xl:max-h-96"
+	class="p-2 mb-3 whitespace-pre-wrap border-2 overflow-auto text-gray-700 h-40 flex-auto 2xl:max-h-96"
 >
 	{paragraphText}
 </p>
