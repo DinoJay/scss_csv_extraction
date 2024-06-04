@@ -51,10 +51,15 @@
 					return d?.choices[0].message.content;
 				})
 			)
-		).then((res) => {
-			completionCount = 0;
-			responses = res;
-		});
+		)
+			.then((res) => {
+				completionCount = 0;
+				responses = res;
+			})
+			.catch((e) => {
+				completionCount = 0;
+				chatGPTerror = e;
+			});
 	};
 </script>
 
@@ -62,7 +67,7 @@
 	<a href={`/${reportId}?scraped=${scraped}`} style="width:20px;height:20px">
 		<MdArrowBack></MdArrowBack>
 	</a>
-	<h1 class="text-xl ml-2">{reportId}/{pid}</h1>
+	<h1 class="text-xl ml-2">{reportId}/{pid.replace(`${reportId}-`, '')}</h1>
 </div>
 <p
 	class="p-2 mb-3 whitespace-pre-wrap border-2 overflow-auto text-gray-700 h-48 flex-auto 2xl:max-h-96"
@@ -125,6 +130,7 @@
 		{cols}
 		title="ChatGPT Custom Result"
 		onClose={() => {
+			completionCount = 0;
 			pushState('', { showModalCustom: false });
 			customResponse = null;
 		}}
