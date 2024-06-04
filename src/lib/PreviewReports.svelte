@@ -1,11 +1,6 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
-	import NavCsv from '$lib/NavCsv.svelte';
-	import { page } from '$app/stores';
 	// import { store, updateStore } from '$lib/store';
 	import ParagraphPreview from './ParagraphPreview.svelte';
-	import { goto } from '$app/navigation';
-	import { pushState } from '$app/navigation';
 
 	export let rdt;
 	export let acuteTox;

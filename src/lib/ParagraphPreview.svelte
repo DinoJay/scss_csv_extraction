@@ -28,37 +28,20 @@
 	tabindex="0"
 	role="button"
 >
-	<div
-		role="button"
-		tabindex="0"
-		on:keydown={(e) => {
-			// if (e.key === 'Enter') {
-			// 	onClick();
-			// 	// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
-			// }
-		}}
-		on:click={(e) => {
-			e.stopPropagation();
-
-			// onClick();
-			// e.target.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
-		}}
-	>
-		<div class="flex items-center mb-2">
-			<h2 class="text-lg flex-1">{title}</h2>
-			<a
-				href={`/${reportId}/${pid}?&scraped=${scraped}`}
-				class="text-gray-600"
-				style="width:24px;height:24px"
-			>
-				<MdLink />
-			</a>
-		</div>
-
-		<a href={`/${reportId}/${pid}?&scraped=${scraped}`}>
-			<p class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden">
-				{text}
-			</p>
+	<div class="flex items-center mb-2">
+		<h2 class="text-lg flex-1">{title}</h2>
+		<a
+			href={`/${reportId}/${pid}?&scraped=${scraped}`}
+			class="text-gray-600"
+			style="width:24px;height:24px"
+		>
+			<MdLink />
 		</a>
 	</div>
+
+	<a href={`/${reportId}/${pid}?&scraped=${scraped}`}>
+		<p class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden">
+			{text}
+		</p>
+	</a>
 </div>
