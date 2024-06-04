@@ -8,6 +8,7 @@ export const textIds = [
     'sccs_o_087',
     'sccs_o_180',
     'sccs_o_195',
+    'sccs_o_230',
     // 'sccs_o_222'
 ];
 

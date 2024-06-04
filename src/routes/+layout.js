@@ -1,5 +1,7 @@
 import { ACUTETOX, RDT, textIds } from '$lib/reportIds.js';
 
+// const guideLineRegex = /Guideline:[\s\S]*?Ref\.*:*\s\d+\s/gm;
+const guideLineRegex = /Guideline:[\s\S]*?Ref[\S]*/gm;
 const scrapeRDT = (txt, textId) => {
 
     const regexRepeatedDoseToxicity =
@@ -14,17 +16,14 @@ const scrapeRDT = (txt, textId) => {
     // console.log('rdtMatchesIter', rdtMatchesIter)
     const rdtMatches = [...rdtMatchesIter];
     const rdtText = rdtMatches[rdtMatches.length - 1]?.[0];
-    if (textId === 'sccs_o_222') console.log('rdtText', rdtText)
+    // if (textId === 'sccs_o_230') console.log('rdtText', rdtText)
 
     if (rdtText === undefined) throw new Error('No RDT text found')
 
 
-    let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
-    const guidelineMatchesRDTIter = rdtText?.matchAll(pattern);
-    const guidelineMatches = [...guidelineMatchesRDTIter].length > 0 ? [...guidelineMatchesRDTIter] : [[rdtText]]
-    // console.log('guidelineMatchesRDTIter', guidelineMatchesRDTIter)
+    // console.log('guidelineMatchesRDTIter', [...guidelineMatchesRDTIter])
 
-    let matchesRDT = [...rdtText?.matchAll(pattern)].map((d, i) => ({
+    let matchesRDT = [...rdtText?.matchAll(guideLineRegex)].map((d, i) => ({
         id: `${textId}-rdt-${i}`,
         txt: d[0], type: RDT
     }))
@@ -41,17 +40,17 @@ const scrapeAcuteTox = (txt, textId) => {
         /3\.3\.1[.]*\s+Acute toxicity[\s\S]*?(?=3\.3\.2[.]*\s*Irritation and corrosivity)/g;
 
     const acuteToxMatches = [...txt.matchAll(regexAcuteToxicity)];
-    console.log('acuteToxMatches', acuteToxMatches)
     if (acuteToxMatches.length === 0) throw new Error('No Acute Toxicity text found')
 
     const acuteToxicityTxt = [...acuteToxMatches][acuteToxMatches.length - 1]?.[0];
+    if (textId === 'sccs_o_230') console.log('acuteToxicityTxt', acuteToxicityTxt)
+    console.log('acuteToxMatch', [...acuteToxicityTxt?.matchAll(guideLineRegex)])
 
-    let pattern = /Guideline:[\s\S]*?Ref\.*:*\s\d+\s/gm;
-    const guidRes = acuteToxicityTxt?.matchAll(pattern)
+    // const guidRes = acuteToxicityTxt?.matchAll(pattern)
 
     // const guidelineMatches = [...guidRes].length > 0 ? [...guidRes] : [[rdtText]]
     // console.log('txt', txt.slice(0, 20))
-    let matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(pattern)].map((d, i) => ({
+    let matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(guideLineRegex)].map((d, i) => ({
         id: `${textId}-acute-${i}`,
         txt: d[0],
         type: ACUTETOX
@@ -72,6 +71,7 @@ const fetchData = ((fetch, textId) => {
         fetch('/sccs_o_087.txt').then((response) => response.text()),
         fetch('/sccs_o_180.txt').then((response) => response.text()),
         fetch('/sccs_o_195.txt').then((response) => response.text()),
+        fetch('/sccs_o_230.txt').then((response) => response.text()),
         // fetch('/sccs_o_222.txt').then((response) => response.text())
         // const promise230 = fetch('/sccs_o_230.txt').then((response) => response.text());
     ];

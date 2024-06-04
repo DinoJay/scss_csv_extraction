@@ -1,5 +1,5 @@
 <script>
-	import { blur } from 'svelte/transition';
+	import { blur, slide } from 'svelte/transition';
 	import NavCsv from '$lib/NavCsv.svelte';
 	import { page } from '$app/stores';
 	import { store } from '$lib/store';
@@ -17,7 +17,7 @@
 	$: scraped = $page.url.searchParams.get('scraped') === 'true';
 
 	$: console.log('store', $store);
-	$: console.log('url', $$props);
+	$: console.log('url', $page.url);
 </script>
 
 <div class="flex h-lvh m-auto">
@@ -28,7 +28,10 @@
 			<NavCsv data={data.textIds} selectedId={$page.params.textId} {scraped}></NavCsv>
 		</div>
 		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
+			{#key paragraphId}{/key}
+			<!-- <div transition:slide> -->
 			<slot></slot>
+			<!-- </div> -->
 		</div>
 		{#if data.url?.pathname !== '/'}
 			<CsvEdit {visible}></CsvEdit>
