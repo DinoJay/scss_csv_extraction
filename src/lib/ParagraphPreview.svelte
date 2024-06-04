@@ -47,7 +47,7 @@
 		<div class="flex items-center mb-2">
 			<h2 class="text-lg flex-1">{title}</h2>
 			<a
-				href={`/${reportId}?&scraped=${scraped}&pid=${pid}`}
+				href={`/${reportId}/${pid}?&scraped=${scraped}`}
 				class="text-gray-600"
 				style="width:24px;height:24px"
 			>
@@ -55,7 +55,7 @@
 			</a>
 		</div>
 
-		<a href={`${reportId}?pid=${pid}&scraped=${scraped}`}>
+		<a href={`/${reportId}/${pid}?&scraped=${scraped}`}>
 			<p class="p-2 whitespace-pre-wrap border-2 h-56 overflow-hidden">
 				{text}
 			</p>

@@ -1,7 +1,6 @@
 <script>
 	export let data;
 	export let onClick;
-	export let selectedId;
 	import { fade } from 'svelte/transition';
 	import MdDehaze from 'svelte-icons/md/MdDehaze.svelte';
 	import { onDestroy, onMount } from 'svelte';
@@ -10,6 +9,8 @@
 	let handler;
 	// export let pid;
 	export let scraped;
+	export let reportId;
+	export let pid;
 
 	// onMount(() => {
 	// 	if (window && document?.querySelector)
@@ -37,16 +38,16 @@
 			<div>Select Report</div>
 		</button>
 		<div class="ml-auto mr-3">
-			{#if selectedId !== null}
-				{selectedId}
+			{#if reportId !== null}
+				{reportId}
 			{:else}
 				Select a CSV
 			{/if}
 		</div>
-		{#if selectedId}
+		{#if reportId}
 			<div>
 				<a
-					href="/{selectedId}?scraped={!scraped}"
+					href="/{reportId}/?scraped={!scraped}"
 					class="ml-auto p-1 border-2 flex mr-1 bg-gray-100"
 					style:width="72px"><span class="m-auto">{scraped ? 'Scraped' : 'Scrape'}</span></a
 				>
@@ -60,7 +61,7 @@
 				<a
 					href={`/${key}`}
 					tabindex="-1"
-					class:underline={selectedId === key}
+					class:underline={reportId === key}
 					class="border-b-2 p-2 flex-1 z-20"
 					on:click={() => {
 						// onClick(key);

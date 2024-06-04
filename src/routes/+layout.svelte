@@ -38,7 +38,8 @@
 		class="max-w-3xl mx-auto my-3 2xl:my-6 flex flex-auto flex-col transition-all w-full sm:max-height 2xl:max-large-height sm:max-width 2xl:max-large-width"
 	>
 		<div class="mb-1">
-			<NavCsv data={data.textIds} selectedId={$page.params.textId} {scraped}></NavCsv>
+			<NavCsv data={data.textIds} reportId={$page.params.textId} pid={$page.params.pid} {scraped}
+			></NavCsv>
 		</div>
 		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
 			<slot></slot>
