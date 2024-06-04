@@ -56,10 +56,11 @@
 
 	{#if open}
 		<div transition:fade class="flex flex-col gap-1 z-50 absolute w-48 bg-blue-100 drop-shadow-md">
-			{#each data.filter((d) => d !== selectedId) as key}
+			{#each data as key}
 				<a
 					href={`/${key}`}
 					tabindex="-1"
+					class:underline={selectedId === key}
 					class="border-b-2 p-2 flex-1 z-20"
 					on:click={() => {
 						// onClick(key);
@@ -70,7 +71,6 @@
 							// onClick(key);
 						}
 					}}
-					class:bg-blue-300={selectedId === key}
 				>
 					{key}
 				</a>

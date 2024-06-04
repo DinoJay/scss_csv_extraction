@@ -1,6 +1,6 @@
 
 export const textIds = [
-    // 'sccs_o_277',
+    'sccs_o_067',
     'sccs_o_044',
     'sccs_o_040',
     'sccs_o_059',

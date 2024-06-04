@@ -5,21 +5,23 @@ const scrapeRDT = (txt, textId) => {
     const regexRepeatedDoseToxicity =
         /3\.3\.5[.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.6[.]*\s+Mutagenicity \/ Genotoxicity)/g;
 
-    const alt_regexRepeatedDoseToxicity =
-        /3\.4\.4[.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.4\.6[.]*\s+Mutagenicity \/ genotoxicity)/g;
+    // console.log('txt', txt)
+    const alt_regexRepeatedDoseToxicity = /[\s\S]*/g;
+    // /.\..?\..?[.]*\s+Repeated dose toxicity[\s\S]*/g;
+    // *?(?=3\.*\.*[.]*\s+Mutagenicity \/ (G|g)enotoxicity)
 
     const rdtMatchesIter = txt.matchAll(regexRepeatedDoseToxicity)
-    console.log('rdtMatchesIter', rdtMatchesIter)
+    // console.log('rdtMatchesIter', rdtMatchesIter)
     const rdtMatches = [...rdtMatchesIter];
     const rdtText = rdtMatches[rdtMatches.length - 1]?.[0];
-    console.log('rdtText', rdtText)
+    // console.log('rdtText', rdtMatches)
 
     if (rdtText === undefined) throw new Error('No RDT text found')
 
 
     let pattern = /Guideline:[\s\S]*?Ref\.*:* \d+\s/gm;
     const guidelineMatchesRDTIter = rdtText?.matchAll(pattern);
-    console.log('guidelineMatchesRDTIter', guidelineMatchesRDTIter)
+    // console.log('guidelineMatchesRDTIter', guidelineMatchesRDTIter)
 
     let matchesRDT = [...guidelineMatchesRDTIter].map((d, i) => ({
         id: `${textId}-rdt-${i}`,
@@ -59,7 +61,7 @@ const scrapeAcuteTox = (txt, textId) => {
 const fetchData = ((fetch, textId) => {
     console.log('fetching data...', textId)
     const prs = [
-        // fetch('/sccs_o_277.txt').then((response) => response.text()),
+        fetch('/scss_o_067.txt').then((response) => response.text()),
         fetch('/sccs_o_044.txt').then((response) => response.text()),
         fetch('/sccs_o_040.txt').then((response) => response.text()),
         fetch('/sccs_o_059.txt').then((response) => response.text()),
@@ -72,11 +74,13 @@ const fetchData = ((fetch, textId) => {
     ];
 
     return Promise.all([...prs]).then((values) => {
+        console.log("Values", values)
         const tmpMap0 = new Map();
         values.forEach((v, i) => {
             tmpMap0.set(textIds[i], v);
         });
         const originalTxtsMap = tmpMap0;
+        // console.log('originalTxtsMap', originalTxtsMap.keys())
 
         const tmpMap1 = new Map();
         values.forEach((v, i) => {
