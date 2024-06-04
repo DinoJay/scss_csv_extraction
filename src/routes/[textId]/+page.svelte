@@ -19,10 +19,13 @@
 
 	$: scraped = $page.url.searchParams.get('scraped') === 'true';
 	$: console.log('scraped', scraped);
+	$: console.log('reportId', report);
+	$: console.log('paragraphId', paragraphId);
+	$: console.log('selectedParagraph', selectedParagraph);
 </script>
 
-{#if paragraphId}
-	{#if selectedParagraph}
+<div class="flex-1 flex flex-col">
+	{#if paragraphId !== null}
 		<Paragraph
 			{scraped}
 			type={selectedParagraph?.type}
@@ -30,18 +33,17 @@
 			reportId={report.id}
 			paragraphText={selectedParagraph?.txt}
 		></Paragraph>
-	{:else}
-		<div class="text-xl m-auto">Paragraph not found</div>
 	{/if}
-{:else if report}
-	<PreviewReports
-		{scraped}
-		rdt={report?.rdt}
-		acuteTox={report?.acuteTox}
-		pid={paragraphId}
-		text={report?.text}
-		{selectedTextId}
-	></PreviewReports>
-{:else}
-	<div class="text-xl m-auto">Report not found</div>
-{/if}
+	{#if paragraphId === null && report !== undefined}
+		<PreviewReports
+			{scraped}
+			rdt={report?.rdt}
+			acuteTox={report?.acuteTox}
+			pid={paragraphId}
+			text={report?.text}
+			{selectedTextId}
+		></PreviewReports>
+	{:else if report === undefined}
+		<div class="text-xl m-auto">Report not found</div>
+	{/if}
+</div>

@@ -9,6 +9,7 @@
 
 	import '../app.css';
 	import CsvEdit from '$lib/CsvEdit.svelte';
+	import { onNavigate } from '$app/navigation';
 	$: console.log('page', data);
 	// $: console.log('page DATA', data);
 	let visible = false;
@@ -19,6 +20,17 @@
 
 	$: console.log('store', $store);
 	$: console.log('url', $page.url);
+
+	onNavigate((navigation) => {
+		if (!document.startViewTransition) return;
+
+		return new Promise((resolve) => {
+			document.startViewTransition(async () => {
+				resolve();
+				await navigation.complete;
+			});
+		});
+	});
 </script>
 
 <div class="flex h-lvh m-auto">
@@ -29,12 +41,7 @@
 			<NavCsv data={data.textIds} selectedId={$page.params.textId} {scraped}></NavCsv>
 		</div>
 		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
-			{#key paragraphId}{/key}
-			<!-- <div transition:slide> -->
-			<PageTrans refresh={data.url.pathname + data.url.search}>
-				<slot></slot>
-			</PageTrans>
-			<!-- </div> -->
+			<slot></slot>
 		</div>
 		{#if data.url?.pathname !== '/'}
 			<CsvEdit {visible}></CsvEdit>

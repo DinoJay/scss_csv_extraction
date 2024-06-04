@@ -47,7 +47,7 @@
 		<div class="flex items-center mb-2">
 			<h2 class="text-lg flex-1">{title}</h2>
 			<a
-				href={`${reportId}?pid=${pid}&scraped=${scraped}`}
+				href={`/${reportId}?&scraped=${scraped}&pid=${pid}`}
 				class="text-gray-600"
 				style="width:24px;height:24px"
 			>
