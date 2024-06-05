@@ -2,16 +2,19 @@ import { ACUTETOX, RDT, textIds } from '$lib/reportIds.js';
 export const prerender = false
 
 // const guideLineRegex = /Guideline:[\s\S]*?Ref\.*:*\s\d+\s/gm;
-const guideLineRegex = /Guideline:[\s\S]*?Ref[\S]*/gm;
+// const scssCommentRegex = guideLineRegex
+const scssCommentRegex = /^Comment[\s\S]*^(?=(\d.))/gm
+// const guideLineRegex = /Guideline:[\s\S]*?Ref[\S\s]*(Comment[\s\S]*\d.)?/gm;
+const guideLineRegex = /^Guideline:[\s\S]*?Comment[\s\S]*?^(?=\d.)|^Guideline:[\s\S]*?Ref[\s\S]*\r/gm;
+
 const scrapeRDT = (txt, textId) => {
 
     const regexRepeatedDoseToxicity =
-        /3\.3\.5[.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.3\.\d[.]*\s+Mutagenicity \/ [g|G]enotoxicity)/g;
+        /3\.\d\.\d[.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.\d\.\d[.]*\s+Mutagenicity \/ [g|G]enotoxicity)/g;
 
-    // console.log('txt', txt)
-    // const alt_regexRepeatedDoseToxicity = /3.\d.\d[.]?[\s\S]*Repeated dose toxicity[\s\S]*/g;
-    // /.\..?\..?[.]*\s+Repeated dose toxicity[\s\S]*/g;
-    // *?(?=3\.*\.*[.]*\s+Mutagenicity \/ (G|g)enotoxicity)
+    const alt_regexRepeatedDoseToxicity =
+        /3\.\d\.\d[.]*\s+Repeated dose toxicity[\s\S]*?(?=3\.\d\.\d[.]*\s+Mutagenicity \/ [g|G]enotoxicity)/g;
+
 
     const rdtMatchesIter = txt.matchAll(regexRepeatedDoseToxicity)
     // console.log('rdtMatchesIter', rdtMatchesIter)
@@ -23,10 +26,20 @@ const scrapeRDT = (txt, textId) => {
 
 
     // console.log('guidelineMatchesRDTIter', [...guidelineMatchesRDTIter])
+    // const sccs = scssComments[scssComments.length - 1]?.[0];
+    console.log('guideline match', [...rdtText?.matchAll(guideLineRegex)])
 
     let matchesRDT = [...rdtText?.matchAll(guideLineRegex)].map((d, i) => ({
         id: `${textId}-rdt-${i}`,
-        txt: d[0], type: RDT
+        txt: d[0]
+        // txt: scssComments.find(e => {
+        //     if (e[0].includes(d[0])) {
+        //         console.log('hit')
+        //         return true
+
+        //     }
+        //     return false
+        // })?.[0] || d[0]
     }))
     // console.log('matchesRDT\n', matchesRDT);
     return matchesRDT;
@@ -44,16 +57,20 @@ const scrapeAcuteTox = (txt, textId) => {
     if (acuteToxMatches.length === 0) throw new Error('No Acute Toxicity text found')
 
     const acuteToxicityTxt = [...acuteToxMatches][acuteToxMatches.length - 1]?.[0];
-    if (textId === 'sccs_o_230') console.log('acuteToxicityTxt', acuteToxicityTxt)
-    console.log('acuteToxMatch', [...acuteToxicityTxt?.matchAll(guideLineRegex)])
+    // if (textId === 'sccs_o_230') console.log('acuteToxicityTxt', acuteToxicityTxt)
+    // console.log('acuteToxMatch', [...acuteToxicityTxt?.matchAll(guideLineRegex)])
 
     // const guidRes = acuteToxicityTxt?.matchAll(pattern)
 
     // const guidelineMatches = [...guidRes].length > 0 ? [...guidRes] : [[rdtText]]
     // console.log('txt', txt.slice(0, 20))
-    let matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(guideLineRegex)].map((d, i) => ({
+
+    const scssComments = [...acuteToxicityTxt?.matchAll(scssCommentRegex)]
+    // if (scssComments.length > 0)
+    //     console.log('scssComments', scssComments)
+    const matchesAcuteToxicity = [...acuteToxicityTxt?.matchAll(guideLineRegex)].map((d, i) => ({
         id: `${textId}-acute-${i}`,
-        txt: d[0],
+        txt: d[0],//addScssComment(d, scssComments[i]),
         type: ACUTETOX
     }));
 

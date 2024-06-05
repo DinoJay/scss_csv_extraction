@@ -17,18 +17,18 @@
 	$: emptyData = acuteTox.length === 0 && rdt.length === 0;
 
 	let csvMode = false;
-	$: console.log('store', $store);
-	$: console.log('rdt', rdt);
+	// $: console.log('store', $store);
+	// $: console.log('rdt', rdt);
 	$: colsRDT = [...new Set(rdt.flatMap((d) => Object.keys(d)))];
 	$: colsAcuteTox = [...new Set(acuteTox.flatMap((d) => Object.keys(d)))];
-	$: console.log('colsRDT', colsRDT);
-	$: console.log('colsAcuteTox', colsAcuteTox);
+	// $: console.log('colsRDT', colsRDT);
+	// $: console.log('colsAcuteTox', colsAcuteTox);
 	$: selEndpointsRDT = colsRDT.flatMap((n) => endpoints.filter((d) => d.cols.includes(n)));
 	$: selEndpointsAcuteTox = colsAcuteTox.flatMap((n) =>
 		endpoints.filter((d) => d.cols.includes(n))
 	);
-	$: console.log('endpoints', endpoints);
-	$: console.log('selEndpointsRDT', selEndpointsRDT);
+	// $: console.log('endpoints', endpoints);
+	// $: console.log('selEndpointsRDT', selEndpointsRDT);
 </script>
 
 <button class="bg-blue-100 w-full p-2 mt-2 drop-shadow-md" on:click={() => (visible = !visible)}>

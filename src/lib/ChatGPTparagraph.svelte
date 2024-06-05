@@ -69,8 +69,8 @@
 	</a>
 	<h1 class="text-xl ml-2">{reportId}/{pid.replace(`${reportId}-`, '')}</h1>
 </div>
-<p class="p-2 mb-3 whitespace-pre-wrap border-2 overflow-auto text-gray-700 h-40 2xl:max-h-96">
-	{paragraphText}
+<p class="p-2 mb-3 whitespace-pre-line border-2 overflow-auto text-gray-700 h-40 2xl:max-h-96">
+	{paragraphText.replace(/\r/g, '\n')}
 </p>
 <div class="mb-auto">
 	<Extendable title="Select Endpoints" preClosed={true}>
