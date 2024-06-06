@@ -4,8 +4,9 @@ export const prerender = false
 // const guideLineRegex = /Guideline:[\s\S]*?Ref\.*:*\s\d+\s/gm;
 // const scssCommentRegex = guideLineRegex
 const scssCommentRegex = /^Comment[\s\S]*^(?=(\d.))/gm
-// const guideLineRegex = /Guideline:[\s\S]*?Ref[\S\s]*(Comment[\s\S]*\d.)?/gm;
-const guideLineRegex = /^Guideline:[\s\S]*?Comment[\s\S]*?^(?=\d.)|^Guideline:[\s\S]*?Ref[\s\S]*\r/gm;
+// const guideLineRegex = /Guideline:[\s\S]*?Comment[\s\S]*?^(?=\d.)|Guideline:[\s\S]*?Ref[\s\S]*?/gm;
+const guideLineRegex = /Guideline:[\s\S]*?([C|c]omment[s]?\s[\s\S]*?\d.)|Guideline[\s\S]*?Ref/gm;
+
 
 const scrapeRDT = (txt, textId) => {
 
