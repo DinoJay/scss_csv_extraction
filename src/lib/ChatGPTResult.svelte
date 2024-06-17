@@ -115,17 +115,21 @@
 	};
 
 	$: equals = () => {
+		console.log('equals', type);
 		const keys = type === ACUTETOX ? [...$store.csvAcuteTox.keys()] : [...$store.csvRdt.keys()];
+		console.log('keys', keys, 'data store', $store);
 
 		if (keys.length !== data.length) return false;
 		if (keys.length === 0) return false;
 
 		return keys.every((k) =>
-			data.find(
-				(d) =>
+			data.find((d) => {
+				console.log('d', d, 'store', $store.csvAcuteTox.get(k));
+				return (
 					d.id === k &&
 					isEqual(d, type === ACUTETOX ? $store.csvAcuteTox.get(k) : $store.csvRdt.get(k))
-			)
+				);
+			})
 		);
 	};
 </script>
@@ -144,7 +148,7 @@
 		{:else if data.length > 0}
 			{#if csvMode}
 				<p class="bg mt-2 p-1 overflow-auto" style:background="#cae6ea">
-					{data}
+					{csvFormat(data)}
 				</p>
 			{:else}
 				<Table

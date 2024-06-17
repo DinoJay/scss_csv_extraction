@@ -66,7 +66,7 @@
 <div class="flex items-center mb-3">
 	<a href={`/${reportId}?scraped=${scraped}`} style="width:20px;height:20px">
 		<MdArrowBack></MdArrowBack>
-	</a>
+	</a>n
 	<h1 class="text-xl ml-2">{reportId}/{pid.replace(`${reportId}-`, '')}</h1>
 </div>
 <p class="p-2 mb-3 whitespace-pre-line border-2 overflow-auto text-gray-700 h-40 2xl:max-h-96">

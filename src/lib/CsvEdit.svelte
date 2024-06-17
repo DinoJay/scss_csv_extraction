@@ -58,10 +58,10 @@
 								return { ...st, csvRdt: newMap };
 							})}
 					></Table>
-					<!-- {:else if rdt.length === 0}
-					<div class="text-sm text-gray-500 p-24">No Data</div> -->
+				{:else if rdt.length === 0}
+					<div class="text-sm text-gray-500 p-24">No Data</div>
 				{:else}
-					<textarea class="w-full">{csvFormat(rdt)}</textarea>
+					<textarea class="w-full h-56">{csvFormat(rdt)}</textarea>
 				{/if}
 			</TabItem>
 
@@ -89,8 +89,8 @@
 								return { ...st, csvAcuteTox: newMap };
 							})}
 					></Table>
-					<!-- {:else if acuteTox.length === 0}
-					<div class="text-sm text-gray-500 p-24">No Data</div> -->
+				{:else if acuteTox.length === 0}
+					<div class="text-sm text-gray-500 p-24">No Data</div>
 				{:else}
 					<textarea class="w-full h-60" readonly>{csvFormat(acuteTox)}</textarea>
 				{/if}

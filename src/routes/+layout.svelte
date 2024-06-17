@@ -18,9 +18,6 @@
 
 	$: scraped = $page.url.searchParams.get('scraped') === 'true';
 
-	$: console.log('store', $store);
-	$: console.log('url', $page.url);
-
 	onNavigate((navigation) => {
 		if (!document.startViewTransition) return;
 
@@ -44,8 +41,8 @@
 		<div class="flex flex-col flex-1 overflow-auto p-3 bg-gray-50">
 			<slot></slot>
 		</div>
-		{#if data.url?.pathname !== '/'}
+		<!-- {#if data.url?.pathname !== '/'}
 			<CsvEdit {visible}></CsvEdit>
-		{/if}
+		{/if} -->
 	</div>
 </div>

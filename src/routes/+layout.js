@@ -47,14 +47,14 @@ const scrapeRDT = (txt, textId) => {
 
     // console.log('guidelineMatchesRDTIter', [...guidelineMatchesRDTIter])
     // const matchesRDTComments = [...rdtText.matchAll(commentGuideLineRegex)]
-    console.log('guideline match', [...rdtText?.matchAll(guideLineRegex)])
     // console.log('with comments', matchesRDTComments)
     // console.log('matchesRDTComments', matchesRDTComments.map(d => d[0]))
 
 
     const matchesRDT = [...rdtText?.matchAll(guideLineRegex)].map((d, i) => ({
         id: `${textId}-rdt-${i}`,
-        txt: fixSccsComment(d[0])
+        txt: fixSccsComment(d[0]),
+        type: RDT
     }))
     // console.log('matchesRDT\n', matchesRDT);
     return matchesRDT;
